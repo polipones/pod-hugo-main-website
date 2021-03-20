@@ -1,0 +1,35 @@
+image: "gitlab/dind"
+
+stages:
+  - build
+  - dockerize
+  - deploy
+
+build:
+  stage: build
+  image: "node:alpine"
+  before_script:
+    - 'which curl || ( apk update && apk add curl )'
+    - curl -L https://github.com/gohugoio/hugo/releases/download/v0.81.0/hugo_0.81.0_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
+    - npm install
+  script: 
+    - npx gulp build
+  artifacts:
+    paths:
+      - public
+
+deploy:
+  image: "debian:buster"
+  stage: deploy
+  before_script:
+    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+    - 'which rsync || ( apt-get update -y && apt-get install rsync -y )'
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_PRIVATE_KEY")
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
+  script:
+    - rsync -az public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
+  only:
+    - schedules

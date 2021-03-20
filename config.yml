@@ -1,4 +1,4 @@
-baseURL: "https://pod.cvut.cz"
+baseURL: "https://new.pod.cvut.cz"
 title: Pod-O-Lee
 paginate: 5
 theme: POD
@@ -15,7 +15,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Pod-O-Lee
   description: "Official website of dormitory club Pod-O-Lee"
 
