@@ -18,6 +18,10 @@ Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba po
 
 ### Formy úhrady:
 
+**DOPORUČENO**: Můžete použít QR kód pro platbu, který se vám vygeneruje v Hydře: https://hydra.pod.cvut.cz/membership/payments.
+
+Tradičnější způsoby:
+
 - bezhotovostním převodem na účet (doporučujeme)
 - složením hotovosti na pobočce Fio Banky (poplatek 90 Kč)
 - složením hotovosti na pokladně jakékoliv jiné banky (tomuto způsobu se vyhýbej – zbytečné poplatky za převod)
