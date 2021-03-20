@@ -34,4 +34,5 @@ deploy:
   script:
     - rsync -az public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
   only:
-    - master
+    - main
+  when: on_success
