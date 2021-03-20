@@ -34,5 +34,6 @@ deploy:
     - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
   script:
     - rsync -az public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
+  when: on_success
   only:
-    - schedules
+    - master
