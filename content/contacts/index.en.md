@@ -1,5 +1,6 @@
 ---
 title: "Contacts"
+url: contacts
 ---
 If you have problems with payment, email us at <platby@pod.cvut.cz>.
 
