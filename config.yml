@@ -71,29 +71,60 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-# menu:
-#   main:
-#     - name: Home
-#       url: /
-#       weight: 1
-#     - name: Covid info
-#       url: /covid
-#       weight: 2
-#     - name: Services
-#       url: /services
-#       weight: 3
-#     - name: Freetime activities
-#       url: /freetime-activities
-#       weight: 4
-#     - name: Useful rooms
-#       url: /useful-rooms
-#       weight: 5
-#     - name: Events
-#       url: /events
-#       weight: 6
-#     - name: Contacts
-#       url: /contacts
-#       weight: 7
+defaultContentLanguage: cs
+languages:
+  cs:
+    languageName: ":cs:"
+    weight: 1
+    menu:
+      main:
+        - name: Domů
+          url: /
+          weight: 1
+        - name: Koronavirus
+          url: /koronavirus
+          weight: 2
+        - name: Služby
+          url: /sluzby
+          weight: 3
+        - name: Volnočasové aktivity
+          url: /volnocasove-aktivity
+          weight: 4
+        - name: Užitečné místnosti
+          url: /uzitecne-mistnosti
+          weight: 5
+        - name: Akce
+          url: /akce
+          weight: 6
+        - name: Kontakty
+          url: /kontakty
+          weight: 7
+  en:
+    languageName: ":en:"
+    weight: 2
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Covid info
+          url: /covid
+          weight: 2
+        - name: Services
+          url: /services
+          weight: 3
+        - name: Freetime activities
+          url: /freetime-activities
+          weight: 4
+        - name: Useful rooms
+          url: /useful-rooms
+          weight: 5
+        - name: Events
+          url: /events
+          weight: 6
+        - name: Contacts
+          url: /contacts
+          weight: 7
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

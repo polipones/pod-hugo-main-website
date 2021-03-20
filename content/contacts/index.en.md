@@ -1,8 +1,7 @@
 ---
-title: "Kontakty"
-slug: kontakty
+title: "Contacts"
 ---
-Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
+If you have problems with payment, email us at <platby@pod.cvut.cz>.
 
 {{<contact index="chairman" role="Předseda">}}
 {{<contact index="vice_chairman" role="Místopředsedkyně">}}
