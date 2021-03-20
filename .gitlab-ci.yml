@@ -32,7 +32,7 @@ deploy:
     - chmod 700 ~/.ssh
     - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
   script:
-    - rsync -az --omit-dir-times public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
+    - rsync -az --omit-dir-times --no-o --no-g --no-perms public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
   only:
     - main
   when: on_success
