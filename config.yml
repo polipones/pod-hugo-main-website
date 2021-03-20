@@ -1,0 +1,106 @@
+baseURL: "https://pod.cvut.cz"
+title: Pod-O-Lee
+paginate: 5
+theme: POD
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Pod-O-Lee
+  description: "Official website of dormitory club Pod-O-Lee"
+
+
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  disableSpecial1stPost: true
+  comments: false
+  hidemeta: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/pod_logo_square_name_trans.png"
+    favicon16x16: "/pod_logo_square_name_trans_smaller.png"
+    favicon32x32: "/pod_logo_square_name_trans_smaller.png"
+    apple_touch_icon: "/pod_logo_square_name_trans_smaller.png"
+    safari_pinned_tab: "/pod_logo_square_name_trans_smaller.png"
+
+  label:
+    text: Pod-O-Lee
+    icon: /pod_logo_square_name_trans.png
+    iconHeight: 35
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/pod_o_lee/"
+    - name: facebook
+      url: "https://www.facebook.com/groups/klub.Podolee"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# menu:
+#   main:
+#     - name: Home
+#       url: /
+#       weight: 1
+#     - name: Covid info
+#       url: /covid
+#       weight: 2
+#     - name: Services
+#       url: /services
+#       weight: 3
+#     - name: Freetime activities
+#       url: /freetime-activities
+#       weight: 4
+#     - name: Useful rooms
+#       url: /useful-rooms
+#       weight: 5
+#     - name: Events
+#       url: /events
+#       weight: 6
+#     - name: Contacts
+#       url: /contacts
+#       weight: 7
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

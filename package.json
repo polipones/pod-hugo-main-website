@@ -1,0 +1,16 @@
+{
+  "name": "hugo-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-shell": "^0.8.0"
+  }
+}

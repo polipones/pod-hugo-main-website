@@ -1,0 +1,107 @@
+{
+    "chairman": {
+        "name": "Lukáš Novotný",
+        "room": "E219",
+        "email_alias": "lu.novotny"
+    },
+    "vice_chairman": {
+        "name": "Michaela Javanská",
+        "room": "C510",
+        "email_alias": "m.javanska"
+    },
+    "system_admin": {
+        "name": "Jan Picka",
+        "room": "B310b",
+        "email_alias": "j.picka"
+    },
+    "network_admin": {
+        "name": "Karel Čtvrtečka",
+        "room": "F506",
+        "email_alias": "k.ctvrtecka"
+    },
+    "project_admin": {
+        "name": "Ondřej Cakl",
+        "room": "C210",
+        "email_alias": "o.cakl"
+    },
+    "project_admin_deputy": {
+        "name": "Kateřina Štouračová",
+        "room": "F507",
+        "email_alias": "k.stouracova"
+    },
+    "gym_admin": {
+        "name": "Matěj Bohůněk",
+        "room": "C305",
+        "email_alias": "m.bohunek"
+    },
+    "music_room_admin": {
+        "name": "Jiří Novotný",
+        "room": "A104b",
+        "email_alias": "jiri.novotny"
+    },
+    "music_room_admin_deputy": {
+        "name": "Lukáš Pavljuk",
+        "room": "A104b",
+        "email_alias": "l.pavljuk"
+    },
+    "blok_a_admin": {
+        "name": "Matúš Priščák",
+        "room": "A204a",
+        "email_alias": "m.priscak"
+    },
+    "blok_a_admin_deputy": {
+        "name": "Yunus Turk",
+        "room": "A510a",
+        "email_alias": "y.turk"
+    },
+    "blok_b_admin": {
+        "name": "Kryštof Šimána",
+        "room": "B010a",
+        "email_alias": "k.simana"
+    },
+    "blok_b_admin_deputy": {
+        "name": "Dominik Fryč",
+        "room": "B310b",
+        "email_alias": "d.fryc"
+    },
+    "blok_c_admin": {
+        "name": "Vítek Zapletal",
+        "room": "C504",
+        "email_alias": "v.zapletal"
+    },
+    "blok_c_admin_deputy": {
+        "name": "Michaela Javasnká",
+        "room": "C510",
+        "email_alias": "m.javanska"
+    },
+    "blok_d_admin": {
+        "name": "Mário Alexy",
+        "room": "D203",
+        "email_alias": "m.alexy"
+    },
+    "blok_d_admin_deputy": {
+        "name": "David Puchoň",
+        "room": "D302",
+        "email_alias": "d.puchon"
+    },
+    "blok_e_admin": {
+        "name": "Jan Čeřovský",
+        "room": "E206",
+        "email_alias": "j.cerovsky"
+    },
+    "blok_e_admin_deputy": {
+        "name": "Jan Vlk",
+        "room": "E301",
+        "email_alias": "j.vlk"
+    },
+    "blok_f_admin": {
+        "name": "Michal Chamra",
+        "room": "F301",
+        "email_alias": "m.chamra"
+    },
+    "blok_f_admin_deputy": {
+        "name": "Štěpán Tichý",
+        "room": "F320",
+        "email_alias": "s.tichy"
+    }
+}

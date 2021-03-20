@@ -1,0 +1,14 @@
+<p>
+    {{ $person := (index .Site.Data.contacts .Params.index) }}
+    {{ if $person }}
+    <div><strong>{{ $person.name }}</strong></div>
+    <div>{{ .Params.role }}</div>
+    <div>{{ if eq .Site.Language.Lang "cs" }}Pokoj{{ else }}Room{{ end }}: {{ $person.room }}</div>
+    <div><a href="mailto:{{ $person.email_alias}}@pod.cvut.cz">{{ $person.email_alias }}@pod.cvut.cz</a></div>
+    {{ if $person.phone }}
+    <div>{{ if eq .Site.Language.Lang "cs" }}Telefon{{ else }}Phone{{ end }}: {{ $person.phone }}</div>
+    {{ end }}
+    {{ else }}
+    <p>---</p>
+    {{ end }}
+</p>

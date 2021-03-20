@@ -1,0 +1,19 @@
+- id: prev_page
+  translation: "Předchozí"
+
+- id: next_page
+  translation: "Další"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: toc
+  translation: "Obsah"
+
+- id: translations
+  translation: "Překlady"
+
+- id: home
+  translation: "Domů"
