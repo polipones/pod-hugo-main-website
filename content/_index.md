@@ -25,5 +25,5 @@ Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důleži
 Fotky a videa z akcí i ze života můžeš najít na klubovém Instagramu: pod_o_lee.
 
 {{<rawhtml>}}
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764">See full screen</a></p>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}
