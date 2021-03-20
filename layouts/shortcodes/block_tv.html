@@ -1,0 +1,10 @@
+<p>
+    {{ $tvs := (index .Site.Data.contacts .Params.index) }}
+    {{ range $tvs }}
+    <div>
+        <strong>{{ .name }}</strong>, {{ .room }}, <a href="mailto:{{ .email_alias}}@pod.cvut.cz">{{ .email_alias }}@pod.cvut.cz</a>
+    </div>
+    {{ else }}
+    <p>---</p>
+    {{ end }}
+</p>

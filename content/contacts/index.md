@@ -34,12 +34,20 @@ Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
 
 <admins-a@pod.cvut.cz>
 
+### Televizoři
+
+{{<block_tv index="tv_a">}}
+
 ## Blok B
 
 {{<contact index="blok_b_admin" role="Správce bloku B">}}
 {{<contact index="blok_b_admin_deputy" role="Zástupce správce bloku B">}}
 
 <admins-b@pod.cvut.cz>
+
+### Televizoři
+
+{{<block_tv index="tv_b">}}
 
 ## Blok C
 
@@ -48,12 +56,20 @@ Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
 
 <admins-c@pod.cvut.cz>
 
+### Televizoři
+
+{{<block_tv index="tv_c">}}
+
 ## Blok D
 
 {{<contact index="blok_d_admin" role="Správce bloku D">}}
 {{<contact index="blok_d_admin_deputy" role="Zástupce správce bloku D">}}
 
 <admins-d@pod.cvut.cz>
+
+### Televizoři
+
+{{<block_tv index="tv_d">}}
 
 ## Blok E
 
@@ -62,6 +78,10 @@ Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
 
 <admins-e@pod.cvut.cz>
 
+### Televizoři
+
+{{<block_tv index="tv_e">}}
+
 ## Blok F
 
 {{<contact index="blok_f_admin" role="Správce bloku F">}}
@@ -69,4 +89,23 @@ Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
 
 <admins-f@pod.cvut.cz>
 
+### Televizoři
+
+{{<block_tv index="tv_f">}}
+
 ## Předsednická centrála
+
+{{<contact index="printer_manager" role="Správkyně tiskárny">}}
+{{<contact index="printer_manager_deputy" role="Zástupce správkyně tiskárny">}}
+
+{{<contact index="lab_manager" role="Správce Pod-O-Lab">}}
+{{<contact index="lab_manager_deputy" role="Zástupce správce Pod-O-Lab">}}
+
+{{<contact index="bike_room_manager" role="Správce kolárny">}}
+
+{{<contact index="pc_room_manager" role="Správce PC učebny">}}
+{{<contact index="hr_manager" role="HR manager">}}
+
+### Kolejní skupinka
+
+{{<contact index="dormitory_group_manager" role="Vedoucí kolejní skupinky">}}
