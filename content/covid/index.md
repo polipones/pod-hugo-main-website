@@ -23,7 +23,7 @@ Pokyn ředitele č. 3/2020 umožňuje studentům (všech národností) technick�
 
 {{<figure src="/covid/covid-step1.png" alt="ISKAM step 1">}}
 \
-{{<figure src="/covid/covid-step2.png" alt="ISKAM step ">}}
+{{<figure src="/covid/covid-step2.png" alt="ISKAM step 2">}}
 
 ## Co se mění vzhledem k ubytování na kolejích:
 
