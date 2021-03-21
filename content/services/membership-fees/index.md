@@ -1,5 +1,7 @@
 ---
+# Will be displayed at top of the page as main heading
 title: Poplatky za členství
+# Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: sluzby/poplatky-za-clenstvi
 slug: poplatky-za-clenstvi
 weight: 1

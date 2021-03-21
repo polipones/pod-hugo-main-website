@@ -33,5 +33,36 @@ Pro provedení úprav na produkční serveru (na adrese https://pod.cvut.cz) je 
 
 Je dobré testovat změny s puštěným lokálním serverem, aby se zamezilo zbytečným chybám při nasazení.
 
+### Vytváření nové stránky
+
+Hugo umí vytvořit novou stránku na základě šablony [archetypes/default.md](archetypes/default.md).
+
+Pro českou verzi stránky:
+
+```bash
+hugo new --kind single <slozka>/<slug-stranky>/index.md
+```
+
+Konkrétní příklad:
+
+```bash
+hugo new --kind single services/music-room/index.md
+```
+
+Jazykové mutace:
+
+```bash
+hugo new --kind single <slozka>/<slug-stranky>/index.<zkratka-jazyka>.md
+```
+
+Konkrétní příklad:
+
+```bash
+hugo new --kind single services/music-room/index.en.md
+```
+
+Pak stačí nově vytvoření soubor upravit na místech vyznačených pomocí *#TODO*.
+
 ## Kontakt na autora
+
 **Jan Picka** - j.picka@pod.cvut.cz (j.picka97@gmail.com)

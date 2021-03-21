@@ -1,4 +1,5 @@
 ---
+# Will be displayed at top of the page as main heading
 title: Vítejte na stránkách kolejního klubu Pod-O-Lee
 slug: kolejni-klub-pod-o-lee
 ---
