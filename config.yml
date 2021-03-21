@@ -82,22 +82,22 @@ languages:
           url: /
           weight: 1
         - name: Koronavirus
-          url: /koronavirus
+          url: koronavirus
           weight: 2
         - name: Služby
-          url: /sluzby
+          url: sluzby
           weight: 3
         - name: Volnočasové aktivity
-          url: /volnocasove-aktivity
+          url: volnocasove-aktivity
           weight: 4
         - name: Užitečné místnosti
-          url: /uzitecne-mistnosti
+          url: uzitecne-mistnosti
           weight: 5
         - name: Akce
-          url: /akce
+          url: akce
           weight: 6
         - name: Kontakty
-          url: /kontakty
+          url: kontakty
           weight: 7
   en:
     languageName: ":en:"
@@ -108,22 +108,22 @@ languages:
           url: /
           weight: 1
         - name: Covid info
-          url: /covid
+          url: covid
           weight: 2
         - name: Services
-          url: /services
+          url: services
           weight: 3
         - name: Freetime activities
-          url: /freetime-activities
+          url: freetime-activities
           weight: 4
         - name: Useful rooms
-          url: /useful-rooms
+          url: useful-rooms
           weight: 5
         - name: Events
-          url: /events
+          url: events
           weight: 6
         - name: Contacts
-          url: /contacts
+          url: contacts
           weight: 7
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

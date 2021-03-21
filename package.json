@@ -1,14 +1,14 @@
 {
-  "name": "hugo-web",
+  "name": "pod-o-lee-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Website of dormitory club Pod-O-Lee: https://pod.cvut.cz",
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build",
-    "dev": "hugo server --disableFastRender --ignoreCache --verbose --bind='0.0.0.0'"
+    "dev": "hugo server --disableFastRender --ignoreCache --verbose --bind='0.0.0.0' --path-warnings --i18n-warnings"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jan Picka (j.picka@pod.cvut.cz)",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-htmlmin": "^5.0.1",
