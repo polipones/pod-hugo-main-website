@@ -1,6 +1,7 @@
 ---
-title: "Contacts"
+title: Contacts
 url: contacts
+slug: contacts
 ---
 If you have problems with payment, email us at <platby@pod.cvut.cz>.
 

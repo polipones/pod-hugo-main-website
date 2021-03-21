@@ -1,6 +1,7 @@
 ---
-title: "Network"
+title: Network
 url: services/network
+slug: network
 ---
 
 ## How to connect to the Internet

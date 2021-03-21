@@ -1,6 +1,7 @@
 ---
-title: "Síť"
+title: Síť
 url: sluzby/sit
+slug: sit
 ---
 
 ## Jak se připojit k Internetu?

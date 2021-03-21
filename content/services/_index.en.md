@@ -1,4 +1,6 @@
 ---
-title: "Services"
+title: Services
 url: services
+slug: services
 ---
+

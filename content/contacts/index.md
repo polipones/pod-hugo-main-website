@@ -1,5 +1,6 @@
 ---
-title: "Kontakty"
+title: Kontakty
+url: kontakty
 slug: kontakty
 ---
 Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.

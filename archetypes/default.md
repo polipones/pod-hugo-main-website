@@ -1,5 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-url: {{ .Name }}
+title: {{ replace .Name "-" " " | title }}
+url: {{ .Name | urlize }}
+slug: {{ .Name | urlize }}
 ---
 

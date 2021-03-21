@@ -1,6 +1,7 @@
 ---
-title: "Poplatky za členství"
+title: Poplatky za členství
 url: sluzby/poplatky-za-clenstvi
+slug: poplatky-za-clenstvi
 ---
 
 Členem se může stát jakýkoliv student bydlící na koleji Podolí. Členem může být i osoba, která aktivně klubu pomáhá a na koleji nebydlí, ale až po rozhodnutí předsedy klubu Pod-O-Lee. Členem se staneš, pokud se zaregistruješ u televizora a zaplatíš členský příspěvek. Ověřit, jestli jsi členem a jaké máš ID, můžeš v [Hydře](https://hydra.pod.cvut.cz).

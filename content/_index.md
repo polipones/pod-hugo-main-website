@@ -1,5 +1,6 @@
 ---
-title: "Vítejte na stránkách kolejního klubu Podolí"
+title: Vítejte na stránkách kolejního klubu Pod-O-Lee
+slug: kolejni-klub-pod-o-lee
 ---
 
 Studentský klub Pod-O-Lee funguje na koleji již od roku 1998 a je druhým největším klubem Studentské unie ČVUT. Správu klubu dobrovolně zajišťují sami studenti.
