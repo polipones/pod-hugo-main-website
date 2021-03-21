@@ -2,6 +2,7 @@
 title: Network
 url: services/network
 slug: network
+weight: 2
 ---
 
 ## How to connect to the Internet

@@ -1,5 +1,5 @@
 ---
-title: Covid
+title: Coronavirus
 url: covid
 slug: covid
 ---

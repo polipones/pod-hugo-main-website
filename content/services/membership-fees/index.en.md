@@ -2,6 +2,7 @@
 title: Membership fees
 url: services/membership-fees
 slug: membership-fees
+weight: 1
 ---
 
 If you have any problems with paying club’s membership, write email to <platby@pod.cvut.cz>.

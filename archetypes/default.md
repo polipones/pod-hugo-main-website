@@ -1,6 +1,7 @@
 ---
-title: {{ replace .Name "-" " " | title }}
-url: {{ .Name | urlize }}
-slug: {{ .Name | urlize }}
+title: {{ replace .Name "-" " " | title }} # TODO
+url: {{ .Name | urlize }} # TODO
+slug: {{ .Name | urlize }} # TODO
+draft: true
 ---
-
+{{<linktraslations>}}

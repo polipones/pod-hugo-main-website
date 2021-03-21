@@ -2,6 +2,7 @@
 title: Síť
 url: sluzby/sit
 slug: sit
+weight: 2
 ---
 
 ## Jak se připojit k Internetu?
