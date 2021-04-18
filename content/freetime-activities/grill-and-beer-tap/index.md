@@ -59,7 +59,7 @@ Rovněž máme k dispozici i více naražečů (pokud si nevíš rady, správce 
 
 Pípu si musíš rezervovat v [rezervačním systému](https://docs.google.com/spreadsheets/d/1hPCFDFbPxdn3RhRlOrVNSJ3h69W_v7PSt7fB9bMl78Q/edit#gid=0). Po zarezervování v rezervačním systému a schválení rezervace je možné si pípu vypůjčit oproti kolejence a záloze u správce sudovny nebo jím pověřené osoby.
 
-#### Zálohy jsou stanoveny takto:
+#### Zálohy jsou stanoveny takto
 
 - párty pípa – 500 Kč
 - elektrická pípa – 2000 Kč

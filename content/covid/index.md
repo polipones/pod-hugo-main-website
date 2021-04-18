@@ -25,7 +25,7 @@ Pokyn ředitele č. 3/2020 umožňuje studentům (všech národností) technick�
 \
 {{<figure src="/covid/covid-step2.png" alt="ISKAM step 2">}}
 
-## Co se mění vzhledem k ubytování na kolejích:
+## Co se mění vzhledem k ubytování na kolejích
 
 Všechny informace se týkají pouze studentů české národnosti. Samoplátci a studenti jiné než české národnosti tuto problematiku neřeší!
 
@@ -47,7 +47,7 @@ Všechny informace se týkají pouze studentů české národnosti. Samoplátci 
 
 Sleva na kolejném bude 70 % pro technicky odhlášené. Co přesně znamená technické odhlášení se dozvíme do 2.11. a bude možné se technicky odhlásit do 6.11.
 
-## Další situace, které mohou nastat:
+## Další situace, které mohou nastat
 
 - podepsal/a jsem čestné prohlášení, ale situace se změní a budu chtít odjet z kolejí po dobu trvání nařízení - napiš na adresu ubytovani@suz.cvut.cz a vyber si typ opuštění koleje dle bodu 2.,
 - podepsal/a jsem čestné prohlášení, ale chci odjet mimo koleje (víkend u rodičů a podobné) – koleje samozřejmě opustit můžeš, dbej ale na pravdivost čestného prohlášení a možné šíření nákazy,
@@ -57,7 +57,7 @@ Sleva na kolejném bude 70 % pro technicky odhlášené. Co přesně znamená te
 - plánuji se standardně odstěhovat z pokoje, musím napsat e-mail předem, případně bude se měnit nějakým způsobem otevírací doba kanceláře a skladu za účelem jednoduššího odstěhování – úřední doba se měnit nebude, ale bude možné vrátit klíče a kolejenku na vrátnici dle bodu 2.1
 - odhlásil/a jsem se z pokoje, je možné se po ukončení nařízení vrátit na stejný pokoj – v průběhu platnosti nařízení není možné nabírat nově ubytované, z tohoto důvodu tvůj původní pokoj bude určitě neobsazený a snažíme se domluvit zajištění rezervace na začátek opětovných nástupů, aby byl pokoj tvůj a nemusel/a si jinam.
 
-## Co se mění vzhledem ke kolejnímu klubu:
+## Co se mění vzhledem ke kolejnímu klubu
 
 1. Vracení příspěvků
    Ačkoliv nové období placení služeb začíná až 15.10.2020, je možné, že jsi zaplatil/a příspěvky, a následně jsi byl/a donucen/a k odstěhování. Díky Nařízení prezidenta č. 2020-NP7 [2] máme možnost vytvořit interní nařízení, podle kterého se budou příspěvky vracet. Než ho ale vytvoříme, počkáme na statistiky odstěhovaných, podle kterých budeme řešit vracení individuálně nebo hromadně.

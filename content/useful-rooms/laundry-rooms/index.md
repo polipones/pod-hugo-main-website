@@ -11,7 +11,7 @@ weight: 1
 
 Pokud si potřebuješ na koleji vyprat slouží k tomu prádelny. Najdeš je v suterénu bloků A, B, C, F a v 1. patře bloků D a E. Klíč od prádelny dostaneš na vrátnici oproti kolejence.
 
-## Provozní řád:
+## Provozní řád
 
 1. Dodržování nočního klidu je bezpodmínečně nutné, proto je na blocích D, E od 22h do 6h ZÁKAZ PRANÍ! Využívat sušárnu ovšem lze až do 24h.
 2. Poplatek za jeden cyklus praní v pračce je ve výši 30,- Kč/hodinu, za sušení v sušičce se platí 20 Kč/hod. Za každou započatou hodinu se částka zvyšuje o stejnou výši.

@@ -21,7 +21,7 @@ Ceny za tisk byly stanoveny na 0,90 Kč za černobílou stránku a 4 Kč za str�
 Abyste tedy mohli tiskárnu využívat, je nutné si zaplatit kredit. Dobít kredit je možné pouze domluvou přes email. Stav vašeho kreditu si můžete zjistit na webu, po přihlášení do MyQ.
 Tisk je prozatím možný pouze z flashdisku (pouze formát FAT32), návod je vyvěšen u tiskárny. Podporované formáty k tisku: PDF, DOCX, JPEG. !!!Doporučení!!! Tiskněte vše v PDF, předejdete nepříjemné změně vzhledu dokumentu.
 
-### Důležité upozornění:
+### Důležité upozornění
 
 Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit. Zároveň platí **zákaz tisku fotografií**.
 

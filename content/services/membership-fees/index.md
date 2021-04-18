@@ -20,7 +20,7 @@ Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 
 Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny služby poskytované klubem.
 
-### Formy úhrady:
+### Formy úhrady
 
 **DOPORUČENO**: Můžete použít QR kód pro platbu, který se vám vygeneruje v Hydře: https://hydra.pod.cvut.cz/membership/payments.
 
@@ -33,7 +33,7 @@ Tradičnější způsoby:
 
 Při platbě z účtů z ciziny berte v potaz poplatky na vaší straně, nevolte poplatky SHA. Členství Vám platí pouze v případě, že na účet dorazí správná částka.
 
-### Náležitosti platby:
+### Náležitosti platby
 
 Číslo účtu je **99919040 /2010**.
 

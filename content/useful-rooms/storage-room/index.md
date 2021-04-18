@@ -17,7 +17,7 @@ Otevírání kufrárny řeší správci bloků (<admins@pod.cvut.cz>) Termíny o
 
 **Ani SÚZ ani klub Pod-O-Lee není zodpovědný za hmotné škody vzniklé na majetku, který si tam člověk uloží.**
 
-## Pravidla uložení:
+## Pravidla uložení
 
 1. Předmět uložený do kufrárny musí být označen jménem a číslem pokoje (bude kontrolováno při vydání).
 2. Předmět uložený v kufrárně musí být čistý a nepodléhající zkáze (nejsou přijímány potraviny).
