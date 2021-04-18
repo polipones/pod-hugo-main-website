@@ -1,6 +1,6 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Welcome to webpages of dormitory club Pod-O-Lee
+title: Dormitory club Pod-O-Lee
 slug: dormitory-club-pod-o-lee
 showtoc: false
 ---

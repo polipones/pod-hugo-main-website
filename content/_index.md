@@ -1,6 +1,6 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Vítejte na stránkách kolejního klubu Pod-O-Lee
+title: Kolejní klub Pod-O-Lee
 slug: kolejni-klub-pod-o-lee
 showtoc: false
 ---
