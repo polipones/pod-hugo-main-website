@@ -84,9 +84,6 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Koronavirus
-          url: koronavirus
-          weight: 2
         - name: Služby
           url: sluzby
           weight: 3
@@ -105,14 +102,18 @@ languages:
         - name: Hledat
           url: hledat
           weight: 8
+      footer:
+        - name: Dokumenty
+          url: dokumenty
+          weight: 1
+        - name: Koronavirus
+          url: koronavirus
+          weight: 2
   en:
     languageName: ":en:"
     weight: 2
     menu:
       main:
-        - name: Covid info
-          url: covid
-          weight: 2
         - name: Services
           url: services
           weight: 3
@@ -128,6 +129,13 @@ languages:
         - name: Search
           url: search
           weight: 8
+      footer:
+        - name: Documents
+          url: documents
+          weight: 1
+        - name: Covid info
+          url: covid
+          weight: 2
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

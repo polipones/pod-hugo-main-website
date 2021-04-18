@@ -1,0 +1,41 @@
+.main {
+    min-height: calc(100vh - var(--header-height) - var(--footer-height) - 22px - var(--content-gap));
+}
+
+.menu {
+    display: flex;
+    margin: auto var(--gap);
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+    white-space: nowrap
+}
+
+.menu li+li {
+    margin-inline-start: var(--gap)
+}
+
+.menu a {
+    font-size: 16px
+}
+
+.menu .active {
+    font-weight: 500;
+    border-bottom: 2px solid currentColor
+}
+
+.footer .footer-menu a {
+    border-bottom: none;
+}
+
+.footer > nav {
+    margin-bottom: var(--content-gap);
+}
+
+.footer-menu {
+    margin: auto 0;
+}
+
+.nav > .footer-menu {
+    line-height: 22px;
+}
