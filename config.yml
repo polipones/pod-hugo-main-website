@@ -120,9 +120,6 @@ languages:
         - name: Useful rooms
           url: useful-rooms
           weight: 5
-        - name: Events
-          url: events
-          weight: 6
         - name: Contacts
           url: contacts
           weight: 7

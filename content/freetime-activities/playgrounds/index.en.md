@@ -7,6 +7,7 @@ url: freetime-activities/playgrounds
 slug: playgrounds
 # Defines sorting of pages in parent list
 weight: 5
+showtoc: false
 ---
 
 Do you want to play some sport?

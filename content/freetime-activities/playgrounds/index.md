@@ -7,6 +7,7 @@ url: volnocasove-aktivity/hriste
 slug: hriste
 # Defines sorting of pages in parent list
 weight: 5
+showtoc: false
 ---
 
 Chceš si zasportovat?

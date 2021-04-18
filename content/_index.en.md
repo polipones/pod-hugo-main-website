@@ -3,6 +3,9 @@
 title: Dormitory club Pod-O-Lee
 slug: dormitory-club-pod-o-lee
 showtoc: false
+cover:
+    image: "/homepage/panorama.jpg"
+    alt: "Cover image"
 ---
 
 Student’s club Pod-O-Lee was established in 1998 and currently is the second largest club of the [CTU Student Union](https://su.cvut.cz/). The club is completely run by student volunteers, who decided to grab this wonderful opportunity to enhance their work experience.
