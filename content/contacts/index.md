@@ -5,7 +5,17 @@ title: Kontakty
 url: kontakty
 slug: kontakty
 ---
+
 Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
+
+## Oficiální kontakt
+
+**Kolejní klub Pod-O-Lee**  
+Na Lysině 772/12  
+147 00 Praha 4 – Podolí  
+IČO: 67981224  
+DIČ: CZ67981224  
+<predstavenstvo@pod.cvut.cz>
 
 {{<contact index="chairman" role="Předseda">}}
 {{<contact index="vice_chairman" role="Místopředsedkyně">}}
