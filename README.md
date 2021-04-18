@@ -17,6 +17,7 @@ git clone git@gitlab.pod.cvut.cz:weby/main-website.git
 2. Naklonovat styl
 
 ```bash
+git submodule add https://github.com/polipones/pod_hugo_theme.git themes/POD --depth=1
 git submodule update --init --recursive
 ```
 
