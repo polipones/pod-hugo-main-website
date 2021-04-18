@@ -2,6 +2,7 @@
 # Will be displayed at top of the page as main heading
 title: Vítejte na stránkách kolejního klubu Pod-O-Lee
 slug: kolejni-klub-pod-o-lee
+showtoc: false
 ---
 
 Studentský klub Pod-O-Lee funguje na koleji již od roku 1998 a je druhým největším klubem [Studentské unie ČVUT](https://su.cvut.cz/). Správu klubu dobrovolně zajišťují sami studenti.

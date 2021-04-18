@@ -27,7 +27,7 @@ params:
   disableSpecial1stPost: true
   comments: false
   hidemeta: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
