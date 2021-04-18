@@ -19,7 +19,6 @@ params:
   title: Pod-O-Lee
   description: "Official website of dormitory club Pod-O-Lee"
 
-
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -70,6 +69,11 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - JSON # Needed for search
 
 defaultContentLanguage: cs
 languages:
@@ -125,7 +129,6 @@ languages:
         - name: Contacts
           url: contacts
           weight: 7
-
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
