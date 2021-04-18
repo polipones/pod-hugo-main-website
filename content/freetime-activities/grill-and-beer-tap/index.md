@@ -22,7 +22,7 @@ Na grilování je určen krb, který se nachází v jiho-západním rohu areálu
 
 Součástí krbu **není** uhlí ani podpalovač. Každý si tedy uhlí musí zakoupit vlastní.
 
-{{<figure src="/grill-and-beer-tap/grill.jpg" alt="Grill">}}
+{{<figure src="grill.jpg" alt="Grill">}}
 
 ### Rezervace
 

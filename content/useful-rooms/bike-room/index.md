@@ -19,4 +19,4 @@ Je to místnost pro uložení jízdních kol, najdete ji na Bloku F v přízení
 
 Členům kolárny je k dispozici klubové nářadí pro základní údržbu jízdních kol. Klíč od skříňky získáte od správce kolárny nebo vedoucího kolejní skupiny po dohodě e-mailem.
 
-{{<figure src="/bike-room/bike-room.jpg" alt="Bike room">}}
+{{<figure src="bike-room.jpg" alt="Bike room">}}

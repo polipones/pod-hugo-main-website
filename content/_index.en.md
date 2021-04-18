@@ -4,7 +4,7 @@ title: Dormitory club Pod-O-Lee
 slug: dormitory-club-pod-o-lee
 showtoc: false
 cover:
-    image: "/homepage/panorama.jpg"
+    image: "panorama.jpg"
     alt: "Cover image"
 ---
 
@@ -25,7 +25,7 @@ If you have any kind of problem with paying for club membership, please write em
 
 [Wiki](https://wiki.pod.cvut.cz/en/start) could be good for you as well
 
-[Orientation guide](/homepage/AP_EN.pdf) could be good for you as well.
+[Orientation guide](AP_EN.pdf) could be good for you as well.
 
 Whether you are a student or a self-payer and you need help with anything, or you want to be at every event held at our dorm, or just meet and have fun with other great people, join our facebook group: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 

@@ -33,6 +33,6 @@ To set the second password used for WiFi connection, follow these steps:
 1. Open [https://hydra.pod.cvut.cz/services/network](https://hydra.pod.cvut.cz/services/network). Use your username and generated password to log in (you can find it in the email you received after registration with televizor).
 2. Find red button with “Set new password” label and username above (This is your WiFi password, different from the one from email)
 
-{{<figure src="/hydra-set-password-wifi.png" alt="WiFi password setup Hydra">}}
+{{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
 
 Try to log in with the username (case-sensitive!) and the newly set password. If it doesn’t work, wait for cca 10 minutes and try again.

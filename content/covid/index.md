@@ -21,9 +21,8 @@ Pokyn ředitele č. 3/2020 umožňuje studentům (všech národností) technick�
 - sleva je 70 %,
 - celé znění najdete v Pokynu ředitele.
 
-{{<figure src="/covid/covid-step1.png" alt="ISKAM step 1">}}
-\
-{{<figure src="/covid/covid-step2.png" alt="ISKAM step 2">}}
+{{<figure src="covid-step1.png" alt="ISKAM step 1">}}  
+{{<figure src="covid-step2.png" alt="ISKAM step 2">}}
 
 ## Co se mění vzhledem k ubytování na kolejích
 

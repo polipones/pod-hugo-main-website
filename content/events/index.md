@@ -19,15 +19,15 @@ Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapel
 Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
 Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
 
-{{<figure src="/events/mb_01.jpg" alt="Mezibloky 1">}}  
-{{<figure src="/events/mb_02.jpg" alt="Mezibloky 2">}}
+{{<figure src="mb_01.jpg" alt="Mezibloky 1">}}  
+{{<figure src="mb_02.jpg" alt="Mezibloky 2">}}
 
 ## Akce prvák
 Hlavním cílem této akce je seznámení studentů se životem na koleji Podolí. Součástí programu je diskuse se zástupci jednotlivých organizací, a tedy i možnost navázat kontakt s ostatními studenty bydlícími na koleji a „společensky“ se začlenit do nové sociální skupiny, spolu se svými kolegy. Na akci se promítají prezentace, po které následuje diskuze mezi pozvanými hosty a studenty. Hosté z ostatních klubů prezentují ESC, ISC a IAESTE. Vždy jsou zde nachystány prezentační stánky s hlavními službami klubu, zájmové kolejní kroužky a informační stánek klubu Pod-O-Lee. Jsou pořádány exkurze pro ty, kteří mají zájem podívat se, kde jaké služby najdou. 
 
 Večer je obohacen o občerstvení, čepuje se pivo i limonáda a na zahnání hladu se grilují klobásy.
 
-[Příručka prváka](/events/AP_CZ.pdf)
+[Příručka prváka](AP_CZ.pdf)
 
 ## Pod-O-Day (Sportovní den)
 Je to ZÁBAVA.  
@@ -48,15 +48,15 @@ Muži souteží ve 4 kategoriích:
 - Podolské ženy a ženy celkově podle wilkse.
 - Výsledek dle zvednuté váhy.
 
-{{<figure src="/events/benchpress.jpg" alt="Benchpress">}}
+{{<figure src="benchpress.jpg" alt="Benchpress">}}
 
 ## Podolské Vánoce
 Podolské Vánoce je každoroční akce, která má účastníky naladit na nadcházející Vánoce. Návštěvníci se zde mohou občerstvit grilovanými klobásami, horkou griotkou, čajem, čajem s rumem a samozřejmě svařákem. Také zde nechybí něco sladkého na zub, v podobě domácích vánočních perníčků. 
 
 Na zúčastněné zde dýchá vánoční atmosféra díky, koledám a přátelskému, až rodinnému prostředí. Nechybí zde ani zábava. Tradičně probíhá běh s jablkem pro páry, ale také vkládáme nové soutěže, jako například soutěž o nejhezčí vánoční básničku. Je to akce, kde se mohou obyvatelé kolejí v klidu sejít a pobavit se.
 
-{{<figure src="/events/christmas_01.jpg" alt="POD Vánoce 1">}}  
-{{<figure src="/events/christmas_02.jpg" alt="POD Vánoce 2">}}
+{{<figure src="christmas_01.jpg" alt="POD Vánoce 1">}}  
+{{<figure src="christmas_02.jpg" alt="POD Vánoce 2">}}
 
 ## Poznej svého správce
 Jsi nový na koleji? Neznáš tu skoro nikoho? Chtěl bys poznat své sousedy a v neposlední řadě člověka, který ti doslova otevře téměř každé dveře na koleji – svého správce bloku? Pro tento účel se na každém bloku pravidelně v nepravidelných intervalech organizuje akce Poznej svého správce. Pro více informací z tvého bloku sleduj FB skupinu bloku:

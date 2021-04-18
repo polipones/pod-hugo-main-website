@@ -33,12 +33,12 @@ Digitální televizní signál přijímáme pomocí DVB-T karty umístěné do s
 
 K sledování streamu je potřeba stáhnout a nainstalovat VLC player a nastavit jej tak, jak ukazuje následující:
 
-{{<figure src="/vlc_nastaveni-sap.jpg" alt="Nastaveni TV ve VLC">}}
+{{<figure src="vlc_nastaveni-sap.jpg" alt="Nastaveni TV ve VLC">}}
 
 ### Sledování
 
 Pokud je vše nastaveno správně není nic jednodušího než přes pár kliků začít sledovat TV.
 
-{{<figure src="/vlc_prohledavani-sap.jpg" alt="TV kanály ve VLC">}}
+{{<figure src="vlc_prohledavani-sap.jpg" alt="TV kanály ve VLC">}}
 
 Načtení seznamu může trvat až 5 minut. Pokud máš firewall, musíš povolit nejen porty, na kterých běží streamy (UDP 1234), ale i IGMP (UDP 9875). Pokud se ti seznam stanic ani poté nezobrazí kontaktuj svého televizora.

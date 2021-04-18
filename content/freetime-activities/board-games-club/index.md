@@ -16,4 +16,4 @@ KDE? Pokoj B206
 
 KDY? Úterý 20:00 (nebo po domluvě)
 
-{{<figure src="/board-games-club/main.jpg" alt="Board games club">}}
+{{<figure src="main.jpg" alt="Board games club">}}

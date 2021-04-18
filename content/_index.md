@@ -4,7 +4,7 @@ title: Kolejní klub Pod-O-Lee
 slug: kolejni-klub-pod-o-lee
 showtoc: false
 cover:
-    image: "/homepage/panorama.jpg"
+    image: "panorama.jpg"
     alt: "Cover image"
 ---
 
