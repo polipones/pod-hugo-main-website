@@ -22,11 +22,11 @@ Na grilování je určen krb, který se nachází v jiho-západním rohu areálu
 
 Součástí krbu není uhlí ani podpalovač. Každý si tedy uhlí musí zakoupit vlastní.
 
-## Rezervace
+### Rezervace
 
 Rezervace se provádí v [rezervačním systému](https://docs.google.com/spreadsheets/d/1hPCFDFbPxdn3RhRlOrVNSJ3h69W_v7PSt7fB9bMl78Q/edit#gid=0), minimálně 2 pracovní dny předem. Po zarezervování v rezervačním systému a odsouhlasení správcem sudovny a vedoucí koleje nebo jí pověřenou osobou, je možno vypůjčit krb a příslušenství, oproti kolejence, u správce sudovny nebo jím pověřené osoby. Na konkrétním předání klíčů nebo vypůjčených věcí se je třeba domluvit se správcem nebo jím pověřenou osobou (ať již telefonicky, mailem nebo jinak), minimálně dva pracovní dny dopředu.
 
-## Výpůjční řád krbu
+### Výpůjční řád krbu
 
 1. Každý, kdo si krb vypůjčí, za něj bere zodpovědnost (dále jako zodpovědná osoba)
 2. Krb a příslušenství se půjčuje od správce sudovny oproti kolejence.
