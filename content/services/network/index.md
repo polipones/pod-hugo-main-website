@@ -16,7 +16,21 @@ weight: 2
 
 ### Bezdrátové připojení (WiFi)
 
-Návod na připojení naleznete: [https://wiki.pod.cvut.cz/sluzby/sit/wifi](https://wiki.pod.cvut.cz/sluzby/sit/wifi).
+Aktuálně je Wifi dostupná na všech blocích, ve sportovišti a v okolí menzy.
+
+Je možné zaregistrovat nejvíce tři bezdrátová zařízení, jedno pro každou kategorii (jeden notebook, mobil a tablet). O případnou výjimku je možné požádat Správce sítě (s přiloženým odůvodněním).
+
+Postup při registraci je totožný s registrací kabelového připojení. Tj. navštiv svého televizora a vem s sebou zařízení, které chceš používat.
+
+Název kolejní WiFi sítě (SSID) je “Pod-O-Lee” (operuje na 2.4GHz frekvenci → vhodné pokud jste více vzdáleni od APčka na chodbě) a “Pod-O-Lee 5GHz” (preferované SSID/Wifi síť → pokud máte dobrý signál, jste blízko APčku - třeba vyzkoušet). V budoucnu bude používáno pouze jedno SSID a to “Pod-O-Lee” (prozatím oddělené z důvodu testování). Přihlášení probíhá pomocí klubového e-mailu (ve tvaru x.y@pod.cvut.cz) + síťového hesla a je totožné pro obě klubové SSID. Síťové heslo je nezávislé (tj. není totožné) na heslu pro přihlášení do klubového informačního systému Hydra a je možné ho nastavit na https://hydra.pod.cvut.cz/services/network (viz obrázek níže).
+
+{{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
+
+#### Zabezpečení
+
+Používáme WPA2 Enterprise/802.1x EAP. Ověření certifikátu našeho RADIUS serveru a shody doménového jména (radius-a.pod.cvut.cz) je zcela nutné, pokud chcete mít jistotu, že jste opravdu připojeni do naší sítě a nikdo vaši komunikaci nezneužívá (např. vytvořením stejného SSID/jména Wifi, vlastního „fake“ RADIUS serveru → ale už jiného certifikátu). 
+
+Využíváme certifikáty od Let's Encrypt, které jsou mimo jiné podepsány společností IdenTrust (DST Root CA X3) a tedy obecně přijímány jako bezpečné (jsou součástí většiny systémových repositářů). Z toho plyne, že není nutné certifikát dodatečně stahovat, aby mohlo ověření proběhnout. Televizor vám zařízení k WiFi připojí, takže se nemusíte bát, že věcem v tomto odstavci nerozumíte :).
 
 ### Připojení přes kabel (Ethernet)
 
