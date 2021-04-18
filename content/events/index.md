@@ -29,6 +29,8 @@ Večer je obohacen o občerstvení, čepuje se pivo i limonáda a na zahnání h
 
 [Příručka prváka](AP_CZ.pdf)
 
+{{<figure src="akce_prvak.jpg" alt="Akce prvák">}}
+
 ## Pod-O-Day (Sportovní den)
 Je to ZÁBAVA.  
 Je to MAKAČKA.  
