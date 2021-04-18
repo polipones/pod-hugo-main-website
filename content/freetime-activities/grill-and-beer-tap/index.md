@@ -20,7 +20,9 @@ Na grilování je určen krb, který se nachází v jiho-západním rohu areálu
 - kleštičky,
 - lopatka na uhlí.
 
-Součástí krbu není uhlí ani podpalovač. Každý si tedy uhlí musí zakoupit vlastní.
+Součástí krbu **není** uhlí ani podpalovač. Každý si tedy uhlí musí zakoupit vlastní.
+
+{{<figure src="/grill-and-beer-tap/grill.jpg" alt="Grill">}}
 
 ### Rezervace
 
