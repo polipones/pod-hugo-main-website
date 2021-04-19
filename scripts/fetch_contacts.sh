@@ -15,7 +15,7 @@ if [[ "$response" == "" ]]; then
     exit 0
 fi
 
-response_code=$(echo "$response" | python3 -c "import sys, json; print(json.load(sys.stdin)['code'])")
+response_code=$(echo "$response" | jq -r '.code')
 
 if [[ "$response_code" == "200" ]]; then
     if [[ ! -d "../data" ]]; then
