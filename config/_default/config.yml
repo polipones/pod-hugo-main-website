@@ -1,4 +1,4 @@
-baseURL: "https://pod.cvut.cz"
+baseURL: "http://localhost"
 title: Pod-O-Lee
 paginate: 5
 theme: POD
@@ -7,8 +7,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
-googleAnalytics: G-0M7DW95LQP
 
 minify:
   disableXML: true
