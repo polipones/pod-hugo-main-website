@@ -1,12 +1,14 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Movie club # TODO
+title: Movie club
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: freetime-activities/movie-club
 # https://en.wikipedia.org/wiki/Clean_URL#Slug
 slug: movie-club
 # Defines sorting of pages in parent list
 weight: 4
+
+showtoc: false
 
 draft: true # Remove when ready to publish page
 ---

@@ -7,6 +7,8 @@ url: volnocasove-aktivity/salsa
 slug: salsa
 # Defines sorting of pages in parent list
 weight: 3
+
+showtoc: false
 ---
 Máš rád pohyb?
 

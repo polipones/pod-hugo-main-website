@@ -8,6 +8,8 @@ slug: board-games-club
 # Defines sorting of pages in parent list
 weight: 2
 
+showtoc: false
+
 draft: true # Remove when ready to publish page
 ---
 {{<linktraslations>}} <!-- TODO: remove before publishing draft -->
