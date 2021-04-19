@@ -7,6 +7,8 @@ url: volnocasove-aktivity/filmovy-klub
 slug: filmovy-klub # TODO
 # Defines sorting of pages in parent list
 weight: 4
+
+showtoc: false
 ---
 Filmový klub Pod-O-Lee byl založen za účelem ukázat obyvatelům koleje Podolí rozmanitost filmového světa. Promítáme každé dva týdny filmy nejrůznějších žánrů, od kultovních sérií jako Godfather po černobílé klasiky včetně komedií a westernů. Po každém filmu následuje diskuze, co se komu líbilo a v čem si myslí, že je dílo výjimečné. 
 

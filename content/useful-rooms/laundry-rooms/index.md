@@ -7,6 +7,8 @@ url: uzitecne-mistnosti/pradelna
 slug: pradelna
 # Defines sorting of pages in parent list
 weight: 1
+
+showtoc: false
 ---
 
 Pokud si potřebuješ na koleji vyprat slouží k tomu prádelny. Najdeš je v suterénu bloků A, B, C, F a v 1. patře bloků D a E. Klíč od prádelny dostaneš na vrátnici oproti kolejence.

@@ -8,6 +8,8 @@ slug: salsa
 # Defines sorting of pages in parent list
 weight: 3
 
+showtoc: false
+
 draft: true # Remove when ready to publish page
 ---
 {{<linktraslations>}} <!-- TODO: remove before publishing draft -->

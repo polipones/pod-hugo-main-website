@@ -7,9 +7,11 @@ url: uzitecne-mistnosti/kolarna
 slug: kolarna
 # Defines sorting of pages in parent list
 weight: 2
+
+showtoc: false
 ---
 
-Současný správce: Ondřej Barda, C424, <o.barda@pod.cvut.cz>.
+Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále](https://pod.cvut.cz/kontakty/#p%C5%99edsednick%C3%A1-centr%C3%A1la).
 
 [Provozní řád kolárny (PDF)](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/kolarna_provozni_rad_2021.pdf)
 

@@ -7,6 +7,8 @@ url: volnocasove-aktivity/klub-stolnich-her
 slug: klub-stolnich-her
 # Defines sorting of pages in parent list
 weight: 2
+
+showtoc: false
 ---
 Podolské deskovky mají už dlouholetou tradici, díky čemuž jsme posbírali velkou spoustu nejrůznějších her. Ať už na večer hledáš relax, chceš poznat nové lidi nebo máš chuť si zasoutěžit v našich turnajích, jsme tu pro tebe!
 

@@ -7,6 +7,8 @@ url: uzitecne-mistnosti/kufrarna
 slug: kufrarna
 # Defines sorting of pages in parent list
 weight: 3
+
+showtoc: false
 ---
 
 Je to místnost k uložení věcí v období letních prázdnin. Otevírá se vždy na začátku a konci prázdnin. Uložení je zdarma.
