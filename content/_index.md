@@ -30,6 +30,8 @@ Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důleži
 
 Fotky a videa z akcí i ze života můžeš najít na klubovém Instagramu: [pod_o_lee](https://www.instagram.com/pod_o_lee/).
 
+Máme také Discord server, pokud by sis chtěl s kamarády z kolejí něco zahrát nebo jen tak popovídat: https://discord.gg/bSP7qnZY5y.
+
 {{<rawhtml>}}
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}
