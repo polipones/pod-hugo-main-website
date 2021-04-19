@@ -9,6 +9,8 @@ slug: storage-room
 weight: 3
 
 draft: true # Remove when ready to publish page
+
+showtoc: false
 ---
 {{<linktraslations>}} <!-- TODO: remove before publishing draft -->
 

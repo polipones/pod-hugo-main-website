@@ -7,6 +7,8 @@ url: useful-rooms/bike-room
 slug: bike-room
 # Defines sorting of pages in parent list
 weight: 2
+
+showtoc: false
 ---
 
 Contact to current manager can be found in [Contacts page under Director's head office](https://pod.cvut.cz/en/contacts/#directors-head-office).
