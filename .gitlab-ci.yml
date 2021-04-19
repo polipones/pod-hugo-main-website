@@ -20,12 +20,11 @@ build:
     paths:
       - public
 
-deploy:
-  image: "debian:buster"
+deploy_develop:
+  image: alpine
   stage: deploy
   before_script:
-    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
-    - 'which rsync || ( apt-get update -y && apt-get install rsync -y )'
+    - apk add --no-cache rsync openssh-client
     - eval $(ssh-agent -s)
     - ssh-add <(echo "$SSH_PRIVATE_KEY")
     - mkdir -p ~/.ssh
@@ -34,5 +33,23 @@ deploy:
   script:
     - rsync -az --omit-dir-times --no-o --no-g --no-perms public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
   only:
-    - main
+    - develop
   when: on_success
+
+# TODO
+# deploy_production:
+#   image: "debian:buster"
+#   stage: deploy
+#   before_script:
+#     - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+#     - 'which rsync || ( apt-get update -y && apt-get install rsync -y )'
+#     - eval $(ssh-agent -s)
+#     - ssh-add <(echo "$SSH_PRIVATE_KEY")
+#     - mkdir -p ~/.ssh
+#     - chmod 700 ~/.ssh
+#     - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
+#   script:
+#     - rsync -az --omit-dir-times --no-o --no-g --no-perms public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/pod.cvut.cz/web/ --delete
+#   only:
+#     - main
+#   when: on_success
