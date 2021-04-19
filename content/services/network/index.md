@@ -22,7 +22,7 @@ Je možné zaregistrovat nejvíce tři bezdrátová zařízení, jedno pro každ
 
 Postup při registraci je totožný s registrací kabelového připojení. Tj. navštiv svého televizora a vem s sebou zařízení, které chceš používat.
 
-Název kolejní WiFi sítě (SSID) je “Pod-O-Lee” (operuje na 2.4GHz frekvenci → vhodné pokud jste více vzdáleni od APčka na chodbě) a “Pod-O-Lee 5GHz” (preferované SSID/Wifi síť → pokud máte dobrý signál, jste blízko APčku - třeba vyzkoušet). V budoucnu bude používáno pouze jedno SSID a to “Pod-O-Lee” (prozatím oddělené z důvodu testování). Přihlášení probíhá pomocí klubového e-mailu (ve tvaru x.y@pod.cvut.cz) + síťového hesla a je totožné pro obě klubové SSID. Síťové heslo je nezávislé (tj. není totožné) na heslu pro přihlášení do klubového informačního systému Hydra a je možné ho nastavit na https://hydra.pod.cvut.cz/services/network (viz obrázek níže).
+Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 GHz a 5 Ghz ). Přihlášení probíhá pomocí klubového e-mailu (ve tvaru x.y@pod.cvut.cz) + síťového hesla. Síťové heslo je nezávislé (tj. není totožné) na heslu pro přihlášení do klubového informačního systému Hydra a je možné ho nastavit na https://hydra.pod.cvut.cz/services/network (viz obrázek níže).
 
 {{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
 

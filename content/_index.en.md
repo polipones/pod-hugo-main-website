@@ -33,6 +33,8 @@ Join your block facebook group too, so you don’t miss informations regarding b
 
 Photos and videos from events and life at our dorm can be found on the club’s Instagram: [pod_o_lee](https://www.instagram.com/pod_o_lee/).
 
+We also have Discord server, if you want to play some game with your friends from dorm or just chat: https://discord.gg/bSP7qnZY5y.
+
 {{<rawhtml>}}
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}
