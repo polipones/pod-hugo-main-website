@@ -2,7 +2,7 @@
     {{ $tvs := (index (.Page.Scratch.Get "people") .Params.index) }}
     {{ range $tvs }}
     <div>
-        <strong>{{ .name }}</strong>, {{ if eq .room "None" }} --- {{ else }} {{ .room }} {{ end }}, <a href="mailto:{{ .email_alias}}@pod.cvut.cz">{{ .email_alias }}@pod.cvut.cz</a>
+        <strong>{{ .name }}</strong>, {{ if eq .room "None" }}---{{ else }}{{ .room }}{{ end }}, <a href="mailto:{{ .email_alias}}@pod.cvut.cz">{{ .email_alias }}@pod.cvut.cz</a>
     </div>
     {{ else }}
     <p>---</p>
