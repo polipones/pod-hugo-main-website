@@ -37,7 +37,7 @@ build_prod:
   only:
     - main
 
-deploy_develop:
+deploy_dev:
   image: alpine
   stage: deploy
   before_script:
@@ -53,7 +53,7 @@ deploy_develop:
     - develop
   when: on_success
 
-deploy_production:
+deploy_prod:
   image: alpine
   stage: deploy
   before_script:
