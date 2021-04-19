@@ -5,6 +5,8 @@ title: Contacts
 url: contacts
 slug: contacts
 ---
+{{<load_contacts>}}
+
 If you have problems with payment, email us at <platby@pod.cvut.cz>.
 
 ## Official contact
@@ -16,108 +18,111 @@ IČO: 67981224
 DIČ: CZ67981224  
 <predstavenstvo@pod.cvut.cz>
 
-{{<contact index="chairman" role="Chairman">}}
-{{<contact index="vice_chairman" role="Vicechairman">}}
+{{<contact index="pk" role="Chairman">}}
+{{<contact index="m" role="Vicechairman">}}
 
 ## Service managers
 ### Network
 
-{{<contact index="system_admin" role="System administrator">}}
-{{<contact index="network_admin" role="Network administrator">}}
+{{<contact index="ss" role="System administrator">}}
+{{<contact index="zss" role="Deputy system administrator">}}
+
+{{<contact index="sn" role="Network administrator">}}
+{{<contact index="zsn" role="Deputy network administrator">}}
 
 ### Projects
 
-{{<contact index="project_admin" role="Project manager">}}
-{{<contact index="project_admin_deputy" role="Deputy project manager">}}
+{{<contact index="sp" role="Project manager">}}
+{{<contact index="zsp" role="Deputy project manager">}}
 
 ### Pod-O-Gym
 
-{{<contact index="gym_admin" role="Pod-O-Gym manager">}}
+{{<contact index="sg" role="Pod-O-Gym manager">}}
 
 ### Music room
 
-{{<contact index="music_room_admin" role="Music room manager">}}
-{{<contact index="music_room_admin_deputy" role="Deputy music room manager">}}
+{{<contact index="sh" role="Music room manager">}}
+{{<contact index="zsh" role="Deputy music room manager">}}
 
 ## Block A
 
-{{<contact index="blok_a_admin" role="Block A administrator">}}
-{{<contact index="blok_a_admin_deputy" role="Deputy block A administrator">}}
+{{<contact index="sba" role="Block A administrator">}}
+{{<contact index="zsba" role="Deputy block A administrator">}}
 
 <admins-a@pod.cvut.cz>
 
 ### Televizors
 
-{{<block_tv index="tv_a">}}
+{{<block_tv index="tv-a">}}
 
 ## Block B
 
-{{<contact index="blok_b_admin" role="Block B administrator">}}
-{{<contact index="blok_b_admin_deputy" role="Deputy block B administrator">}}
+{{<contact index="sbb" role="Block B administrator">}}
+{{<contact index="zsbb" role="Deputy block B administrator">}}
 
 <admins-b@pod.cvut.cz>
 
 ### Televizors
 
-{{<block_tv index="tv_b">}}
+{{<block_tv index="tv-b">}}
 
 ## Block C
 
-{{<contact index="blok_c_admin" role="Block C administrator">}}
-{{<contact index="blok_c_admin_deputy" role="Deputy block C administrator">}}
+{{<contact index="sbc" role="Block C administrator">}}
+{{<contact index="zsbc" role="Deputy block C administrator">}}
 
 <admins-c@pod.cvut.cz>
 
 ### Televizors
 
-{{<block_tv index="tv_c">}}
+{{<block_tv index="tv-c">}}
 
 ## Block D
 
-{{<contact index="blok_d_admin" role="Block D administrator">}}
-{{<contact index="blok_d_admin_deputy" role="Deputy block D administrator">}}
+{{<contact index="sbd" role="Block D administrator">}}
+{{<contact index="zsbd" role="Deputy block D administrator">}}
 
 <admins-d@pod.cvut.cz>
 
 ### Televizors
 
-{{<block_tv index="tv_d">}}
+{{<block_tv index="tv-d">}}
 
 ## Block E
 
-{{<contact index="blok_e_admin" role="Block E administrator">}}
-{{<contact index="blok_e_admin_deputy" role="Deputy block E administrator">}}
+{{<contact index="sbe" role="Block E administrator">}}
+{{<contact index="zsbe" role="Deputy block E administrator">}}
 
 <admins-e@pod.cvut.cz>
 
 ### Televizors
 
-{{<block_tv index="tv_e">}}
+{{<block_tv index="tv-e">}}
 
 ## Block F
 
-{{<contact index="blok_f_admin" role="Block F administrator">}}
-{{<contact index="blok_f_admin_deputy" role="Deputy block F administrator">}}
+{{<contact index="sbf" role="Block F administrator">}}
+{{<contact index="zsbf" role="Deputy block F administrator">}}
 
 <admins-f@pod.cvut.cz>
 
 ### Televizors
 
-{{<block_tv index="tv_f">}}
+{{<block_tv index="tv-f">}}
 
 ## Director's head office
 
-{{<contact index="printer_manager" role="Printer manager">}}
-{{<contact index="printer_manager_deputy" role="Deputy printer manager">}}
+{{<contact index="st" role="Printer manager">}}
+{{<contact index="zst" role="Deputy printer manager">}}
 
-{{<contact index="lab_manager" role="Pod-O-Lab manager">}}
-{{<contact index="lab_manager_deputy" role="Deputy Pod-O-Lab manager">}}
+{{<contact index="sl" role="Pod-O-Lab manager">}}
+{{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
 
-{{<contact index="bike_room_manager" role="Bike room manager">}}
+{{<contact index="sk" role="Bike room manager">}}
 
-{{<contact index="pc_room_manager" role="PC room manager">}}
-{{<contact index="hr_manager" role="HR manager">}}
+{{<contact index="pc" role="PC room manager">}}
+{{<contact index="hr" role="HR manager">}}
 
 ### Dormitory group
 
-{{<contact index="dormitory_group_manager" role="Head of dormitory group">}}
+{{<contact index="vks" role="Head of dormitory group">}}
