@@ -110,6 +110,9 @@ languages:
         - name: Koronavirus
           url: koronavirus
           weight: 2
+        - name: Volby
+          url: volby
+          weight: 3
   en:
     languageName: ":en:"
     weight: 2
