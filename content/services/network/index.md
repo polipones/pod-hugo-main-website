@@ -26,6 +26,12 @@ Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 G
 
 {{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
 
+#### Problém s připojením - Randomizovaná MAC adresa
+
+Tuto funkci si každý výrobce pojmenovává jinak, proto hledejte něco podobného. Pokud je tato funkce zapnutá, nepovede se vám toto zařízení připojit k naší síti, jelikož ověřujeme MAC adresu co máte v Hydře proti té, co má vaše zařízení. Pokud tedy vaše zařízení MAC adresu mění, nepůjde se vám připojit.
+
+Pokud to nepomohlo, kontaktuj televizora na svém prípadně na vedlejším bloku: https://pod.cvut.cz/kontakty/.
+
 #### Zabezpečení
 
 Používáme WPA2 Enterprise/802.1x EAP. Ověření certifikátu našeho RADIUS serveru a shody doménového jména (radius-a.pod.cvut.cz) je zcela nutné, pokud chcete mít jistotu, že jste opravdu připojeni do naší sítě a nikdo vaši komunikaci nezneužívá (např. vytvořením stejného SSID/jména Wifi, vlastního „fake“ RADIUS serveru → ale už jiného certifikátu). 
@@ -36,6 +42,18 @@ Využíváme certifikáty od Let's Encrypt, které jsou mimo jiné podepsány sp
 
 Není potřeba dělat další kroky, stačí jen zapojit kabel do registrovaného zařízení.
 Každý člen může mít připojen pouze jeden počítač na kabelu, případné další musí povolit představenstvo klubu.
+
+## Přihlášení odběru emailů
+
+Každému nově registrovanému členovi se automaticky přihlásí konference kolej-info@pod.cvut.cz. Je to konference, kam vedoucí kolejí (p. Makulová) posílá důležité informace (revize, odstávky, kontroly, …) nebo zástupci kolejního klubu oznamují akce, volby, atd.
+
+Dále se hodí být členem tvé blokové konference, info-x@pod.cvut.cz, kde x je písmenko tvého bloku. Sem se například ohlašují volby na správce bloku, blokové poznávačky, atd.
+
+Tyto konference jsou moderované, pokud bys chtěl poslat nějakou důležitou informaci ty, dej nám vědět na admins@pod.cvut.cz. Zároveň to zaručuje, že do konferencí nechodí spam.
+
+Tyto konference je možné přihlásit i odhlásit v Hydře: https://hydra.pod.cvut.cz/mailing.
+
+{{<figure src="hydra_mailing.png" alt="Email conferences in Hydra">}}
 
 ## Sledování televize na počítači
 

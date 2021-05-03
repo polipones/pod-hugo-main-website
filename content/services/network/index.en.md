@@ -36,3 +36,21 @@ To set the second password used for WiFi connection, follow these steps:
 {{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
 
 Try to log in with the username (case-sensitive!) and the newly set password. If it doesn’t work, wait for cca 10 minutes and try again.
+
+#### Connection troubleshooting - Randomized MAC address
+
+Every manufacturer names this function differently, try to search for something similar. If enabled, device cannot be connected to our network, because we are verifying known devices based on MAC addresses. So disable this function if you want to connect to our network.
+
+If you don't know how, contact admin of your or any other block: https://pod.cvut.cz/en/contacts/.
+
+## Email conferences
+
+Every newly registered member is automatically registered to recieve emails from kolej-info@pod.cvut.cz. It is email conference, where campus manager notifies about important information (like revisions of appliances, outages, etc.) or active members of Pod-O-Lee (admins) notify about other important activities, network outages, elections, etc.
+
+You also should subscribe to your block email conference, info-x@pod.cvut.cz, where x is letter of your block. Block admins notify here about block oriented stuff, like meetings, block outages, etc.
+
+These conferences are moderated, if you want to send some important information, let us now at admins@pod.cvut.cz. This also blocks any unwanted mail.
+
+You can subscribe and unsubscribe these conferences in your Hydra account: https://hydra.pod.cvut.cz/mailing.
+
+{{<figure src="hydra_mailing.png" alt="Email conferences in Hydra">}}
