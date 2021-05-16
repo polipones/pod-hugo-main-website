@@ -1,0 +1,3 @@
+[submodule "themes/POD"]
+	path = themes/POD
+	url = https://github.com/polipones/hugo-PaperMod-POD.git
