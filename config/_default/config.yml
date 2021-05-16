@@ -67,10 +67,9 @@ params:
     linkFullImages: true
     responsiveImages: true
   
-  # editPost:
-  #   URL: "https://github.com/<path_to_repo>/content"
-  #   Text: "Suggest Changes" # edit text
-  #   appendFilePath: true # to append file path to Edit link
+  editPost:
+    URL: "mailto:admin@pod.cvut.cz?subject=Návrh na změnu stránky / Website page change suggestion"
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
