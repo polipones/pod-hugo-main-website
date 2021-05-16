@@ -1,6 +1,6 @@
 baseURL: "http://localhost"
 title: Pod-O-Lee
-paginate: 5
+paginate: 10
 theme: POD
 
 enableRobotsTXT: true
@@ -25,7 +25,7 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: false
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   disableSpecial1stPost: true
