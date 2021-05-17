@@ -19,7 +19,7 @@ Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapel
 Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
 Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
 
-{{<figure src="mb_01.jpg" alt="Mezibloky 1">}}  
+{{<figure src="mb_01.jpg" alt="Mezibloky 1">}}
 {{<figure src="mb_02.jpg" alt="Mezibloky 2">}}
 
 ## Akce prvák
@@ -57,7 +57,7 @@ Podolské Vánoce je každoroční akce, která má účastníky naladit na nadc
 
 Na zúčastněné zde dýchá vánoční atmosféra díky, koledám a přátelskému, až rodinnému prostředí. Nechybí zde ani zábava. Tradičně probíhá běh s jablkem pro páry, ale také vkládáme nové soutěže, jako například soutěž o nejhezčí vánoční básničku. Je to akce, kde se mohou obyvatelé kolejí v klidu sejít a pobavit se.
 
-{{<figure src="christmas_01.jpg" alt="POD Vánoce 1">}}  
+{{<figure src="christmas_01.jpg" alt="POD Vánoce 1">}}
 {{<figure src="christmas_02.jpg" alt="POD Vánoce 2">}}
 
 ## Poznej svého správce

@@ -19,7 +19,7 @@ Nově pořízený stůl na stolní tenis – Cornilleau Sport 500 indoor – je 
 
 Míčky určené do stolního fotbálku jsou v jedné ze dvou branek. V případě zastavení míčku při hře, je přísně zakázáno stůl nahýbat za tyče. Při jeho zastavení, hráč do míčku cvrnkne nebo ho znovu do pohybu uvede rukou. Jakýkoli jiný způsob není přípustný.
 
-{{<figure src="football.jpg" alt="Football">}}  
+{{<figure src="football.jpg" alt="Football">}}
 {{<figure src="pingpong.jpg" alt="Ping pong">}}
 
 ### Provozní řád místnosti s fotbálkem a stolním tenisem

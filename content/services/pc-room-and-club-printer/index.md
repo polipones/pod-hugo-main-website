@@ -14,7 +14,7 @@ Přístup do učebny má každý člen klubu Pod-O-Lee. To znamená, že stačí
 Jestliže jsi členem klubu Pod-O-Lee, pak máš automaticky přístup do učebny. Pokud se se ti nedaří dostat se do PC učebny, zajdi za televizorem, který Ti řekne co a jak.
 V počítačové učebně se mimo jiné nachází klubová tiskárna.
 
-{{<figure src="pc_room_01.jpg" alt="PC room: Main room">}}  
+{{<figure src="pc_room_01.jpg" alt="PC room: Main room">}}
 {{<figure src="pc_room_02.jpg" alt="PC room: Second room with whiteboards">}}
 
 ## Tiskárna
