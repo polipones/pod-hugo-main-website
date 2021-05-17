@@ -4,6 +4,8 @@ title: Contacts
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: contacts
 slug: contacts
+
+tocopen: true
 ---
 {{<load_contacts>}}
 
