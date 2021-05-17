@@ -1,12 +1,13 @@
 baseURL: "http://localhost"
 title: Pod-O-Lee
-paginate: 5
+paginate: 10
 theme: POD
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 minify:
   disableXML: true
@@ -16,15 +17,22 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Pod-O-Lee
   description: "Official website of dormitory club Pod-O-Lee"
+  keywords: [ČVUT, SU ČVUT, Pod-O-Lee, dormitory]
 
+  DateFormat: "2. January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: false
   ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: true
+  disableScrollToTop: false
   comments: false
   hidemeta: false
+  hideSummary: false
   showtoc: true
   tocopen: false
 
@@ -58,6 +66,10 @@ params:
     hiddenInSingle: false # hide on single page
     linkFullImages: true
     responsiveImages: true
+  
+  editPost:
+    URL: "mailto:admin@pod.cvut.cz?subject=Návrh na změnu stránky / Website page change suggestion"
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -79,6 +91,7 @@ defaultContentLanguage: cs
 languages:
   cs:
     languageName: ":cs:"
+    languageAltTitle: Čeština
     weight: 1
     menu:
       main:
@@ -115,6 +128,7 @@ languages:
           weight: 3
   en:
     languageName: ":en:"
+    languageAltTitle: English
     weight: 2
     menu:
       main:
@@ -146,9 +160,12 @@ languages:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+#   goldmark:
+#         renderer:
+#             unsafe: true
+#   highlight:
+#       # anchorLineNos: true
+#       codeFences: true
+#       guessSyntax: true
+#       lineNos: true
+#       style: monokai
