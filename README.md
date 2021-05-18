@@ -96,6 +96,7 @@ Pár důležitých poznámek:
 
 - `slug-kategorie` musí být pro všechny jazykové mutace stejný, jinak stránky nebudou v rámci jazyků propojené odkazy.
 - Pokud chceš vytvořit zanořenou kategorii, stačí příslušně upravit cestu. Např. chci vytvořit kategorii `water-sports` v již existující kategorii `sport`. Stačí tedy jako příkaz použít `hugo new --kind post_category posts/sport/water-sports/_index.md`.
+- Je důležité, aby soubor ve výsledné složce kategorie měl na začátku podtržítko `_index.md`.
 
 Pak stačí nově vytvoření soubor upravit na místech vyznačených pomocí _#TODO_.
 
@@ -106,31 +107,31 @@ Opět hodně podobné vytváření kategorií a stránek. Akorát je potřeba zn
 Pro českou verzi příspěvků:
 
 ```bash
-hugo new --kind post posts/<slug-kategorie>/<slug-prispevku>.md
+hugo new --kind post posts/<slug-kategorie>/<slug-prispevku>/index.md
 ```
 
 Konkrétní příklad:
 
 ```bash
-hugo new --kind post posts/people/televizors.md
+hugo new --kind post posts/people/televizors/index.md
 ```
 
 Jazykové mutace:
 
 ```bash
-hugo new --kind post posts/<slug-kategorie>/<slug-prispevku>.<zkratka-jazyka>.md
+hugo new --kind post posts/<slug-kategorie>/<slug-prispevku>/index.<zkratka-jazyka>.md
 ```
 
 Konkrétní příklad:
 
 ```bash
-hugo new --kind post posts/people/televizors.en.md
+hugo new --kind post posts/people/televizors/index.en.md
 ```
 
 Pár důležitých poznámek:
 
 - `slug-prispevku` musí být pro všechny jazykové mutace stejný, jinak stránky nebudou v rámci jazyků propojené odkazy.
-- `slug-prispevku` musí být unikátní v dané složce.
+- `slug-prispevku` je opravdu složka, v níž se tvoří soubory `index` s přídavnou koncovkou podle jazykové mutace.
 
 ## Kontakt na autora
 
