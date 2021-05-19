@@ -2,7 +2,7 @@
 
 Vytvořeno pomocí frameworku Hugo (https://gohugo.io/) a stylu upraveného z PaperMod (https://github.com/adityatelange/hugo-PaperMod/).
 
-Finální verzi upraveného stylu je možné najít zde: https://github.com/polipones/pod_hugo_theme.
+Finální verzi upraveného stylu je možné najít zde: https://github.com/polipones/hugo-PaperMod-POD.
 
 ## Lokální instalace
 
@@ -17,7 +17,7 @@ git clone git@gitlab.pod.cvut.cz:weby/main-website.git
 2. Naklonovat styl
 
 ```bash
-git submodule add https://github.com/polipones/pod_hugo_theme.git themes/POD --depth=1
+git submodule add https://github.com/polipones/hugo-PaperMod-POD.git themes/POD --depth=1
 git submodule update --init --recursive
 ```
 
