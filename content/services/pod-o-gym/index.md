@@ -5,7 +5,22 @@ title: Pod-O-Gym
 url: sluzby/pod-o-gym
 slug: pod-o-gym
 weight: 3
+
+HidePublishDate: false
+
+# Format: 02 Jan 2006 15:04:05 MST
+date: Sat, 22 May 2021 11:30:00 CEST
 ---
+
+## Aktuality / News
+
+Přístup do posilovny je omezen kvůli vládním opatřením. Pro povolení vstupu je nutné podepsat čestné prohlášení ([vzor zde](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) a odeslat ho na adresu <koronavirus@pod.cvut.cz>. Po kontrole někým z klubu vám bude povolen vstup do posilovny.
+
+**EN**
+
+Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by someone from Pod-O-Lee club.
+
+## Pod-O-Gym
 
 Pod-O-Gym, 2. největší fitko Studentské Unie ČVUT. Nachází se v areálu kolejí z boční strany menzy směrem k bloku D.
 Každý kdo chce chodit do Pod-O-Gym se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/provozni_rad.pdf)!
