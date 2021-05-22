@@ -12,8 +12,6 @@ build_dev:
   image: "node:16-alpine3.12"
   before_script:
     - 'which curl || ( apk update && apk add curl jq git )'
-    - git status
-    - git pull
     - git submodule update --init --recursive
     - curl -L https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_0.83.1_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
     - npm install
