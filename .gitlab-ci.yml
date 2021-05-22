@@ -14,7 +14,6 @@ build_dev:
     - 'which curl || ( apk update && apk add curl jq )'
     - curl -L https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_0.83.1_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
     - npm install
-    - git status
     - ls -acl
   script: 
     - npx gulp build -f gulpfile_dev.js
