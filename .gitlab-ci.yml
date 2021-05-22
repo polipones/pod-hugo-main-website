@@ -9,10 +9,11 @@ stages:
 
 build_dev:
   stage: build
-  image: "node:alpine"
+  image: "node:16-alpine3.12"
   before_script:
-    - 'which curl || ( apk update && apk add curl jq )'
-    - curl -L https://github.com/gohugoio/hugo/releases/download/v0.81.0/hugo_0.81.0_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
+    - 'which curl || ( apk update && apk add curl jq git )'
+    - git submodule update --init --recursive
+    - curl -L https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_0.83.1_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
     - npm install
   script: 
     - npx gulp build -f gulpfile_dev.js
@@ -25,10 +26,11 @@ build_dev:
 
 build_prod:
   stage: build
-  image: "node:alpine"
+  image: "node:16-alpine3.12"
   before_script:
-    - 'which curl || ( apk update && apk add curl jq )'
-    - curl -L https://github.com/gohugoio/hugo/releases/download/v0.81.0/hugo_0.81.0_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
+    - 'which curl || ( apk update && apk add curl jq git )'
+    - git submodule update --init --recursive
+    - curl -L https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_0.83.1_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
     - npm install
   script: 
     - npx gulp build -f gulpfile_prod.js
@@ -40,7 +42,7 @@ build_prod:
     - main
 
 deploy_dev:
-  image: alpine
+  image: alpine:3.12
   stage: deploy
   before_script:
     - apk add --no-cache rsync openssh-client
@@ -56,7 +58,7 @@ deploy_dev:
   when: on_success
 
 deploy_prod:
-  image: alpine
+  image: alpine:3.12
   stage: deploy
   before_script:
     - apk add --no-cache rsync openssh-client

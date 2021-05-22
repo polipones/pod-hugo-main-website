@@ -19,7 +19,7 @@ params:
   description: "Official website of dormitory club Pod-O-Lee"
   keywords: [ČVUT, SU ČVUT, Pod-O-Lee, dormitory]
 
-  DateFormat: "2. January 2006"
+  DateFormat: "02. 01. 2006 15:04"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -157,15 +157,3 @@ languages:
         - name: Covid info
           url: covid
           weight: 2
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#   goldmark:
-#         renderer:
-#             unsafe: true
-#   highlight:
-#       # anchorLineNos: true
-#       codeFences: true
-#       guessSyntax: true
-#       lineNos: true
-#       style: monokai

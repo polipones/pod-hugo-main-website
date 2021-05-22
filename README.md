@@ -2,7 +2,7 @@
 
 Vytvořeno pomocí frameworku Hugo (https://gohugo.io/) a stylu upraveného z PaperMod (https://github.com/adityatelange/hugo-PaperMod/).
 
-Finální verzi upraveného stylu je možné najít zde: https://github.com/polipones/pod_hugo_theme.
+Finální verzi upraveného stylu je možné najít zde: https://github.com/polipones/hugo-PaperMod-POD.
 
 ## Lokální instalace
 
@@ -17,7 +17,7 @@ git clone git@gitlab.pod.cvut.cz:weby/main-website.git
 2. Naklonovat styl
 
 ```bash
-git submodule add https://github.com/polipones/pod_hugo_theme.git themes/POD --depth=1
+git submodule add https://github.com/polipones/hugo-PaperMod-POD.git themes/POD --depth=1
 git submodule update --init --recursive
 ```
 
@@ -62,7 +62,76 @@ Konkrétní příklad:
 hugo new --kind single services/music-room/index.en.md
 ```
 
-Pak stačí nově vytvoření soubor upravit na místech vyznačených pomocí *#TODO*.
+Pak stačí nově vytvoření soubor upravit na místech vyznačených pomocí _#TODO_.
+
+### Vytváření kategorie příspěvků
+
+Velmi podobné vytváření stránek. Stačí akorát místo šablony `default` použít [archetypes/post_category.md](archetypes/post_category.md).
+
+Pro českou verzi kategorie:
+
+```bash
+hugo new --kind post_category posts/<slug-kategorie>/_index.md
+```
+
+Konkrétní příklad:
+
+```bash
+hugo new --kind post_category posts/people/_index.md
+```
+
+Jazykové mutace:
+
+```bash
+hugo new --kind post_category posts/<slug-kategorie>/_index.<zkratka-jazyka>.md
+```
+
+Konkrétní příklad:
+
+```bash
+hugo new --kind post_category posts/people/_index.en.md
+```
+
+Pár důležitých poznámek:
+
+- `slug-kategorie` musí být pro všechny jazykové mutace stejný, jinak stránky nebudou v rámci jazyků propojené odkazy.
+- Pokud chceš vytvořit zanořenou kategorii, stačí příslušně upravit cestu. Např. chci vytvořit kategorii `water-sports` v již existující kategorii `sport`. Stačí tedy jako příkaz použít `hugo new --kind post_category posts/sport/water-sports/_index.md`.
+- Je důležité, aby soubor ve výsledné složce kategorie měl na začátku podtržítko `_index.md`.
+
+Pak stačí nově vytvoření soubor upravit na místech vyznačených pomocí _#TODO_.
+
+### Vytváření příspěvků
+
+Opět hodně podobné vytváření kategorií a stránek. Akorát je potřeba znovu vyměnit typ stránky na [archetypes/post.md](archetypes/post.md).
+
+Pro českou verzi příspěvků:
+
+```bash
+hugo new --kind post posts/<slug-kategorie>/<slug-prispevku>/index.md
+```
+
+Konkrétní příklad:
+
+```bash
+hugo new --kind post posts/people/televizors/index.md
+```
+
+Jazykové mutace:
+
+```bash
+hugo new --kind post posts/<slug-kategorie>/<slug-prispevku>/index.<zkratka-jazyka>.md
+```
+
+Konkrétní příklad:
+
+```bash
+hugo new --kind post posts/people/televizors/index.en.md
+```
+
+Pár důležitých poznámek:
+
+- `slug-prispevku` musí být pro všechny jazykové mutace stejný, jinak stránky nebudou v rámci jazyků propojené odkazy.
+- `slug-prispevku` je opravdu složka, v níž se tvoří soubory `index` s přídavnou koncovkou podle jazykové mutace.
 
 ## Kontakt na autora
 
