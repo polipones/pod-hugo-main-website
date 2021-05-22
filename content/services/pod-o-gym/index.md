@@ -20,6 +20,8 @@ Přístup do posilovny je omezen kvůli vládním opatřením. Pro povolení vst
 
 Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by someone from Pod-O-Lee club.
 
+Testovací změna pro Gitlab CI.
+
 ## Pod-O-Gym
 
 Pod-O-Gym, 2. největší fitko Studentské Unie ČVUT. Nachází se v areálu kolejí z boční strany menzy směrem k bloku D.
