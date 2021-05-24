@@ -10,6 +10,12 @@ cover:
 HidePublishDate: true
 ---
 
+## Příspěvky
+
+{{< latest_posts count="5" >}}
+
+## O klubu
+
 Studentský klub Pod-O-Lee funguje na koleji již od roku 1998 a je druhým největším klubem [Studentské unie ČVUT](https://su.cvut.cz/). Správu klubu dobrovolně zajišťují sami studenti.
 
 Naší náplní je správa počítačové sítě na kolejích a zprostředkování volnočasových aktivit pro ubytované. Zajišťujeme například provoz hudebny, sportoviště Pod-O-Gym, nově také provoz dílny Pod-O-Lab a mnoho dalších. Také zde organizujeme různé společenské, kulturní a sportovní akce. V klubu Pod-O-Lee se určitě nudit nebudete, každý si najde zábavu přímo pro sebe.
