@@ -62,6 +62,11 @@ Konkrétní příklad:
 hugo new --kind single services/music-room/index.en.md
 ```
 
+Poznámky:
+
+- obrázky, které patří na stránku dávejte do stejné složky (případně do podsložky) k Markdown souboru
+  - např. pokud chceme fotku `room-photo.jpg` dát do přípěvku `services/music-room/index.md`, tak fotku umístíme do složky `services/music-room/room-photo.jpg`
+
 Pak stačí nově vytvoření soubor upravit na místech vyznačených pomocí _#TODO_.
 
 ### Vytváření kategorie příspěvků
@@ -132,6 +137,8 @@ Pár důležitých poznámek:
 
 - `slug-prispevku` musí být pro všechny jazykové mutace stejný, jinak stránky nebudou v rámci jazyků propojené odkazy.
 - `slug-prispevku` je opravdu složka, v níž se tvoří soubory `index` s přídavnou koncovkou podle jazykové mutace.
+- obrázky, které patří k příspěvku dávejte do stejné složky (případně do podsložky) k Markdown souboru
+  - např. pokud chceme fotku `room-photo.jpg` dát do přípěvku `posts/people/televizors/index.md`, tak fotku umístíme do složky `posts/people/televizors/room-photo.jpg`
 
 ## Kontakt na autora
 
