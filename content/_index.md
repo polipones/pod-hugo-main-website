@@ -3,12 +3,11 @@
 title: Kolejní klub Pod-O-Lee
 slug: kolejni-klub-pod-o-lee
 showtoc: false
-cover:
-    image: "panorama.jpg"
-    alt: "Cover image"
 
 HidePublishDate: true
 ---
+
+{{<figure src="panorama.jpg" alt="Panorama">}}
 
 ## Příspěvky
 

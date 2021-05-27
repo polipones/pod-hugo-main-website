@@ -3,12 +3,11 @@
 title: Dormitory club Pod-O-Lee
 slug: dormitory-club-pod-o-lee
 showtoc: false
-cover:
-    image: "panorama.jpg"
-    alt: "Cover image"
 
 HidePublishDate: true
 ---
+
+{{<figure src="panorama.jpg" alt="Panorama">}}
 
 ## Posts
 
