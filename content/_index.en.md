@@ -7,7 +7,7 @@ showtoc: false
 HidePublishDate: true
 ---
 
-{{<figure src="panorama.jpg" alt="Panorama">}}
+{{<figure src="panorama.jpg" alt="Panorama" disable_lazy_loading=true >}}
 
 ## Posts
 
@@ -43,5 +43,5 @@ Photos and videos from events and life at our dorm can be found on the club’s 
 We also have Discord server, if you want to play some game with your friends from dorm or just chat: https://discord.gg/bSP7qnZY5y.
 
 {{<rawhtml>}}
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe loading="lazy" width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}
