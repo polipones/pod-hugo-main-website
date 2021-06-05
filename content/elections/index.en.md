@@ -8,7 +8,8 @@ slug: elections # TODO
 # Defines sorting of pages in parent list
 weight: # TODO
 
-draft: true # Remove when ready to publish page
+showtoc: false
+HideThisTranslation: true
 ---
 {{<linktraslations>}} <!-- TODO: remove before publishing draft -->
 

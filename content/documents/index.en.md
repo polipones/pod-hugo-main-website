@@ -16,6 +16,8 @@ aliases:
     - annual-reports
     - chairmans-regulations
     - club-meeting-minutes
+  
+HideThisTranslation: true
 ---
 {{<linktraslations>}} <!-- TODO: remove after translation -->
 

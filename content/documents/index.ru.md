@@ -7,6 +7,7 @@ url: documents
 slug: documents
 
 showtoc: false
+HideThisTranslation: true
 ---
 {{<linktraslations>}} <!-- TODO: remove after translation -->
 

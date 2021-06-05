@@ -5,6 +5,7 @@ slug: dormitory-club-pod-o-lee
 showtoc: false
 
 HidePublishDate: true
+HideThisTranslation: true
 ---
 
 {{<figure src="panorama.jpg" alt="Panorama" disable_lazy_loading=true >}}

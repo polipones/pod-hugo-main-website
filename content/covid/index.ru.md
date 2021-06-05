@@ -7,6 +7,7 @@ url: covid
 slug: covid
 
 showtoc: false
+HideThisTranslation: true
 ---
 {{<linktraslations>}} <!-- TODO: remove after translation -->
 

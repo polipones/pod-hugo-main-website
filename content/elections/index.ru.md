@@ -7,6 +7,7 @@ url: elections
 slug: elections
 
 showtoc: false
+HideThisTranslation: true
 ---
 {{<linktraslations>}} <!-- TODO: remove after translation -->
 
