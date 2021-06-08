@@ -2,6 +2,7 @@ baseURL: "http://localhost"
 title: Pod-O-Lee
 paginate: 10
 theme: POD
+timeout: 120000
 
 enableRobotsTXT: true
 buildDrafts: false
