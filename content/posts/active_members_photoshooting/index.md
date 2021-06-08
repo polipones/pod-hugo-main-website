@@ -33,7 +33,7 @@ Možná jste na kolejích noví, možná už tu jste tu delší dobu a víte co 
 
 {{<figure src="images/people.jpg" alt="Image 3 - People">}}
 
-Vzhledem k tomu, že kolejní (a celkově společenský) život de facto neexistoval a žádné akce nebyly. Ale s nadějí na lepší zítřky už pro vás plánujeme všechny možné akce a slibujeme, že se vám budeme snažit ten covidový rok co nejvíc vynahradit. Už se na to neskutečně těšíme a doufáme, že vy také! Ale v mezidobí, než to všechno zase vypukne, bychom vás rádi seznámili s lidmi, kteří za tím vším stojí.
+Pokud nevíte, tak vám to promineme, vzhledem k tomu, že kolejní (a celkově společenský) život de facto neexistoval a žádné akce nebyly. Ale s nadějí na lepší zítřky už pro vás plánujeme všechny možné akce a slibujeme, že se vám budeme snažit ten covidový rok co nejvíc vynahradit. Už se na to neskutečně těšíme a doufáme, že vy také! Ale v mezidobí, než to všechno zase vypukne, bychom vás rádi seznámili s lidmi, kteří za tím vším stojí.
 
 {{<figure src="images/camera_operator.jpg" alt="Image 2 - Camera operator">}}
 
