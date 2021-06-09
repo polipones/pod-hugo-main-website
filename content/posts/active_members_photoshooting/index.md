@@ -31,7 +31,7 @@ layout: post
 
 Možná jste na kolejích noví, možná už tu jste tu delší dobu a víte co a jak. Máte představu, co na kolejích můžete podniknout, jaké služby můžete využívat, jaké akce stojí za to. Ale víte, díky komu máme neustále k dispozici stabilní připojení k internetu? Díky komu si můžete zacvičit, nebo vytisknout cokoliv potřebujete? A kdo třeba zařizuje a realizuje veškeré akce (teda když zrovna není celosvětová pandemie)?
 
-{{<figure src="images/people.jpg" alt="Image 3 - People">}}
+{{<figure src="images/people.jpg" alt="Image 3 - People" caption=" Zleva: Ondra Cakl (Správce projektů), Nelča Klimešová (HR manager) a Lukáš Novotný (Předseda)">}}
 
 Pokud nevíte, tak vám to promineme, vzhledem k tomu, že kolejní (a celkově společenský) život de facto neexistoval a žádné akce nebyly. Ale s nadějí na lepší zítřky už pro vás plánujeme všechny možné akce a slibujeme, že se vám budeme snažit ten covidový rok co nejvíc vynahradit. Už se na to neskutečně těšíme a doufáme, že vy také! Ale v mezidobí, než to všechno zase vypukne, bychom vás rádi seznámili s lidmi, kteří za tím vším stojí.
 
@@ -39,4 +39,6 @@ Pokud nevíte, tak vám to promineme, vzhledem k tomu, že kolejní (a celkově 
 
 V minulých týdnech proběhlo focení členů klubu, které vám budeme postupně představovat. Mezi nimi jsou správci bloků a jejich zástupci, kteří se vám budou neskutečně hodit. Například když si (jako obvykle) zabouchnete klíče. Dále pak správci služeb jako je Pod-O-Gym, hudebna, síť či PC učebna a tiskárna, kteří vás moc rádi do služby zaregistrují a pomohou vám, když budete potřebovat. Když například nevíte, jak se dostat do posilovny, nebo když nejste zrovna technický typ a tiskárna s vámi nechce spolupracovat. Představíme vám také síťaře, díky kterým funguje celý systém a můžeme tak v naprostém klidu, bez výpadků internetu prokrastinovat nad seriály. Neopominutelní jsou také lidé z PRka, díky kterým jste neustále informovaní o dění na koleji, (o tom, jak krmit a nekrmit kachny :D) a díky kterým jsme vždy věděli, co je v koronové době aktuální. V neposlední řadě také představíme ty, kteří chod celého klubu řídí a bez kterých by to nešlo.
 
-Od příštího týdne budeme tedy pravidelně na sociálních sítích představovat členy našeho týmu a budeme se na vás těšit, až se vám představíme i offline. Seznámit se můžete tady: [FB stránka Pod-O-Lee](https://www.facebook.com/PodOLee-230079980485729), [Instagram Pod-O-Lee](https://www.instagram.com/pod_o_lee/).
+Od příštího týdne budeme tedy pravidelně na sociálních sítích představovat členy našeho týmu a budeme se na vás těšit, až se vám představíme i offline. 
+
+Seznámit se můžete tady: [FB stránka Pod-O-Lee](https://www.facebook.com/PodOLee-230079980485729), [Instagram Pod-O-Lee](https://www.instagram.com/pod_o_lee/).
