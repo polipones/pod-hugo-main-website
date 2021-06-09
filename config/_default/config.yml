@@ -2,6 +2,7 @@ baseURL: "http://localhost"
 title: Pod-O-Lee
 paginate: 10
 theme: POD
+timeout: 120000
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -155,5 +156,39 @@ languages:
           url: documents
           weight: 1
         - name: Covid info
+          url: covid
+          weight: 2
+  ru:
+    languageName: ":ru:"
+    languageAltTitle: русский
+    weight: 3
+    menu:
+      main:
+        - name: На главную
+          url: /
+          weight: 1
+        # - name: Услуги
+        #   url: services
+        #   weight: 3
+        # - name: Досуг
+        #   url: freetime-activities
+        #   weight: 4
+        # - name: Другие услуги
+        #   url: useful-rooms
+        #   weight: 5
+        # - name: Мероприятия
+        #   url: events
+        #   weight: 6
+        - name: Контакты
+          url: contacts
+          weight: 7
+        - name: Поиск
+          url: search
+          weight: 8
+      footer:
+        - name: Документы
+          url: documents
+          weight: 1
+        - name: Коронавирус
           url: covid
           weight: 2

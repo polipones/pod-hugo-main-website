@@ -3,10 +3,17 @@
 title: Dormitory club Pod-O-Lee
 slug: dormitory-club-pod-o-lee
 showtoc: false
-cover:
-    image: "panorama.jpg"
-    alt: "Cover image"
+
+HidePublishDate: true
 ---
+
+{{<figure src="panorama.jpg" alt="Panorama" disable_lazy_loading=true >}}
+
+## Posts
+
+{{< latest_posts count="5" >}}
+
+## About our club
 
 Student’s club Pod-O-Lee was established in 1998 and currently is the second largest club of the [CTU Student Union](https://su.cvut.cz/). The club is completely run by student volunteers, who decided to grab this wonderful opportunity to enhance their work experience.
 
@@ -36,5 +43,5 @@ Photos and videos from events and life at our dorm can be found on the club’s 
 We also have Discord server, if you want to play some game with your friends from dorm or just chat: https://discord.gg/bSP7qnZY5y.
 
 {{<rawhtml>}}
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe loading="lazy" width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}

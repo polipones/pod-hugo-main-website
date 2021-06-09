@@ -9,6 +9,7 @@ slug: {{ .Name | urlize }} # TODO
 weight: # TODO
 
 draft: true # Remove when ready to publish page
+# HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 {{<linktraslations>}} <!-- TODO: remove before publishing draft -->
 

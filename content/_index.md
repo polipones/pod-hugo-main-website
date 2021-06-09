@@ -3,10 +3,17 @@
 title: Kolejní klub Pod-O-Lee
 slug: kolejni-klub-pod-o-lee
 showtoc: false
-cover:
-    image: "panorama.jpg"
-    alt: "Cover image"
+
+HidePublishDate: true
 ---
+
+{{<figure src="panorama.jpg" alt="Panorama" disable_lazy_loading=true >}}
+
+## Příspěvky
+
+{{< latest_posts count="5" >}}
+
+## O klubu
 
 Studentský klub Pod-O-Lee funguje na koleji již od roku 1998 a je druhým největším klubem [Studentské unie ČVUT](https://su.cvut.cz/). Správu klubu dobrovolně zajišťují sami studenti.
 
@@ -33,5 +40,5 @@ Fotky a videa z akcí i ze života můžeš najít na klubovém Instagramu: [pod
 Máme také Discord server, pokud by sis chtěl s kamarády z kolejí něco zahrát nebo jen tak popovídat: https://discord.gg/bSP7qnZY5y.
 
 {{<rawhtml>}}
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe loading="lazy" width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}

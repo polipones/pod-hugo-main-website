@@ -5,10 +5,10 @@
     {{ if $person }}
         <div><strong>{{ $person.name }}</strong></div>
         <div>{{ $.Params.role }}</div>
-        <div>{{ if eq $.Site.Language.Lang "cs" }}Pokoj{{ else }}Room{{ end }}: {{ if eq $person.room "None" }} --- {{ else }} {{ $person.room }}{{ end }}</div>
+        <div>{{ default (i18n "room" | default "Room") }}: {{ if eq $person.room "None" }} --- {{ else }} {{ $person.room }}{{ end }}</div>
         <div><a href="mailto:{{ $person.email_alias}}@pod.cvut.cz">{{ $person.email_alias }}@pod.cvut.cz</a></div>
         {{ if $person.phone }}
-        <div>{{ if eq $.Site.Language.Lang "cs" }}Telefon{{ else }}Phone{{ end }}: {{ $person.phone }}</div>
+        <div>{{ default (i18n "phone" | default "Phone") }}: {{ $person.phone }}</div>
         {{ end }}
     {{ else }}
         <p>---</p>

@@ -7,6 +7,7 @@ author: "Web admin" # TODO
 tags: [] # TODO
 
 draft: true # TODO - Remove when ready to publish the post (post will be hidden with this set to true)
+# HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
