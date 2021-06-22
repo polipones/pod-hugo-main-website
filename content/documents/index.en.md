@@ -9,13 +9,13 @@ slug: documents
 showtoc: false
 
 aliases:
-    - economy
-    - pardons
-    - club-rules
-    - internal-regulations
-    - annual-reports
-    - chairmans-regulations
-    - club-meeting-minutes
+    - /economy
+    - /pardons
+    - /club-rules
+    - /internal-regulations
+    - /annual-reports
+    - /chairmans-regulations
+    - /club-meeting-minutes
   
 HideThisTranslation: true
 ---

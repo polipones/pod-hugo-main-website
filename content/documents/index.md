@@ -7,13 +7,13 @@ url: dokumenty
 slug: dokumenty
 
 aliases:
-    - hospodareni
-    - odpustky
-    - stanovy-klubu-pod-o-lee
-    - interni-predpisy
-    - vyrocni-zpravy
-    - narizeni-predsedy
-    - zapisy-ze-schuzi
+    - /hospodareni
+    - /odpustky
+    - /stanovy-klubu-pod-o-lee
+    - /interni-predpisy
+    - /vyrocni-zpravy
+    - /narizeni-predsedy
+    - /zapisy-ze-schuzi
 ---
 
 ## Hospodaření (rozpočty)

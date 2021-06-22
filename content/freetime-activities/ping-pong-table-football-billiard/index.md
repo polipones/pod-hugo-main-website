@@ -6,7 +6,7 @@ url: volnocasove-aktivity/ping-pong-fotbalek-kulecnik
 # https://en.wikipedia.org/wiki/Clean_URL#Slug
 slug: ping-pong-fotbalek-kulecnik
 # Defines sorting of pages in parent list
-weight: 7
+weight: 8
 ---
 
 Klíče od těchto místností si můžete půjčit na vrátnici oproti kolejence na dobu 120 minut. Vstup je možný od 9:00 - 22:00.
