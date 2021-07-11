@@ -40,6 +40,7 @@ DIČ: CZ67981224
 ### Pod-O-Gym
 
 {{<contact index="sg" role="Администратор Pod-O-Gym">}}
+{{<contact index="sgt" role="Член команды Pod-O-Gym">}}
 
 ### Музыкальная студия
 
