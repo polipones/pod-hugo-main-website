@@ -40,6 +40,7 @@ DIČ: CZ67981224
 ### Pod-O-Gym
 
 {{<contact index="sg" role="Správce Pod-O-Gym">}}
+{{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
 
 ### Hudebna
 

@@ -40,6 +40,7 @@ DIČ: CZ67981224
 ### Pod-O-Gym
 
 {{<contact index="sg" role="Pod-O-Gym manager">}}
+{{<contact index="sgt" role="Member of Pod-O-Gym team">}}
 
 ### Music room
 
