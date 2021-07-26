@@ -125,6 +125,7 @@ DIČ: CZ67981224
 
 {{<contact index="pc" role="Администратор компьютерного класса">}}
 {{<contact index="hr" role="HR manager">}}
+{{<contact index="sdh" role="менеджер комнаты настольных игр">}}
 
 ### Группка общежития
 

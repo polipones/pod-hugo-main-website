@@ -10,6 +10,9 @@ weight: 2
 
 showtoc: false
 ---
+
+Kontakt na správce je možné najít na stránce [Kontakty](https://pod.cvut.cz/kontakty/#p%c5%99edsednick%c3%a1-centr%c3%a1la).
+
 Podolské deskovky mají už dlouholetou tradici, díky čemuž jsme posbírali velkou spoustu nejrůznějších her. Ať už na večer hledáš relax, chceš poznat nové lidi nebo máš chuť si zasoutěžit v našich turnajích, jsme tu pro tebe!
 
 Do naší krásné herny můžeš dorazit v týdnu vždy v hrací den, nebo po domluvě kdykoliv třeba s partou kamarádů. Některé hry je také možnost z herny vypůjčit na pokoj / do čajovny. Najdi nás na [Facebooku](https://www.facebook.com/groups/hrypodolee), ať víš, co se u nás děje.
