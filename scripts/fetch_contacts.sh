@@ -5,6 +5,8 @@ api_url="https://hydra.pod.cvut.cz/api/v2/users/roles"
 
 script_dir=$(dirname "$(readlink -f "$0")")
 
+echo "Fetching contacts from Hydra..."
+
 cd "$script_dir"
 
 # Fetch resource
@@ -22,6 +24,7 @@ if [[ "$response_code" == "200" ]]; then
         mkdir ../data
     fi
     echo "$response" > ../data/contacts.json
+    echo "Fetching succesful"
 else
     echo "${prefix}Response code from Hydra is not 200: $response_code"
     echo "${prefix}$response"
