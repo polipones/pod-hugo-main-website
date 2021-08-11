@@ -17,8 +17,6 @@ Najdeš ji v suterénu bloku A.
 
 Otevírání kufrárny řeší správci bloků (<admins@pod.cvut.cz>) Termíny otevření jsou vždy vypisovány postupně. Není možné individuální otevírání kufrárny. Pokud v uvedených termínech nemáš čas, zašli návrhy termínů (alespoň 3 pracovní dny předem) a pokud se sejde více zájemců, otevře se i v jiný termín.
 
-**Ani SÚZ ani klub Pod-O-Lee není zodpovědný za hmotné škody vzniklé na majetku, který si tam člověk uloží.**
-
 ## Pravidla uložení
 
 1. Předmět uložený do kufrárny musí být označen jménem a číslem pokoje (bude kontrolováno při vydání).

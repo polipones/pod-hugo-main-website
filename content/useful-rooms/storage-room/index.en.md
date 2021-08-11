@@ -17,8 +17,6 @@ Storing is free.
 Storage room opening is managed by the block administrators (<admins@pod.cvut.cz>). Opening dates are posted gradually, there is no way of opening the storage room individually.
 If there is no suitable day of opening send date suggestions (at least 3 workdays prior) and if there are more interested people, the storage room will be opened another date.
 
-**NO reponsibility is taken by either The Service Facilities Administration (SUZ) or The Pod-O-Lee Club over damage caused to the stored property.**
-
 ## Storing rules:
 
 1. Stored object needs to be labeled by the name and room number. Will be monitored at the handover.
