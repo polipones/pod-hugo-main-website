@@ -20,39 +20,52 @@ IČO: 67981224
 DIČ: CZ67981224  
 <predstavenstvo@pod.cvut.cz>
 
-{{<contact index="pk" role="Předseda">}}
-{{<contact index="m" role="Místopředseda">}}
+{{<contact_section>}}
+    {{<contact index="pk" role="Předseda">}}
+    {{<contact index="m" role="Místopředseda">}}
+{{</contact_section>}}
 
 ## Správci služeb
 ### Síťaři
 
-{{<contact index="ss" role="Správce systémů">}}
-{{<contact index="zss" role="Zástupce správce systémů">}}
+{{<contact_section>}}
+    {{<contact index="ss" role="Správce systémů">}}
+    {{<contact index="zss" role="Zástupce správce systémů">}}
+{{</contact_section>}}
 
-{{<contact index="sn" role="Správce sítě">}}
-{{<contact index="zsn" role="Zástupce správce sítě">}}
+{{<contact_section>}}
+    {{<contact index="sn" role="Správce sítě">}}
+    {{<contact index="zsn" role="Zástupce správce sítě">}}
+{{</contact_section>}}
 
 ### Projekty
 
-{{<contact index="sp" role="Správce projektů">}}
-{{<contact index="zsp" role="Zástupce správce projektů">}}
+{{<contact_section>}}
+    {{<contact index="sp" role="Správce projektů">}}
+    {{<contact index="zsp" role="Zástupce správce projektů">}}
+{{</contact_section>}}
 
 ### Pod-O-Gym
 
-{{<contact index="sg" role="Správce Pod-O-Gym">}}
-{{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
+{{<contact_section>}}
+    {{<contact index="sg" role="Správce Pod-O-Gym">}}
+    {{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
+{{</contact_section>}}
 
 ### Hudebna
 
-{{<contact index="sh" role="Správce hudebny">}}
-{{<contact index="zsh" role="Zástupce správce hudebny">}}
+{{<contact_section>}}
+    {{<contact index="sh" role="Správce hudebny">}}
+    {{<contact index="zsh" role="Zástupce správce hudebny">}}
+{{</contact_section>}}
 
 ## Blok A
 
-{{<contact index="sba" role="Správce bloku A">}}
-{{<contact index="zsba" role="Zástupce správce bloku A">}}
-
 <admins-a@pod.cvut.cz>
+{{<contact_section>}}
+    {{<contact index="sba" role="Správce bloku A">}}
+    {{<contact index="zsba" role="Zástupce správce bloku A">}}
+{{</contact_section>}}
 
 ### Televizoři
 
@@ -60,10 +73,11 @@ DIČ: CZ67981224
 
 ## Blok B
 
-{{<contact index="sbb" role="Správce bloku B">}}
-{{<contact index="zsbb" role="Zástupce správce bloku B">}}
-
 <admins-b@pod.cvut.cz>
+{{<contact_section>}}
+    {{<contact index="sbb" role="Správce bloku B">}}
+    {{<contact index="zsbb" role="Zástupce správce bloku B">}}
+{{</contact_section>}}
 
 ### Televizoři
 
@@ -71,10 +85,11 @@ DIČ: CZ67981224
 
 ## Blok C
 
-{{<contact index="sbc" role="Správce bloku C">}}
-{{<contact index="zsbc" role="Zástupce správce bloku C">}}
-
 <admins-c@pod.cvut.cz>
+{{<contact_section>}}
+    {{<contact index="sbc" role="Správce bloku C">}}
+    {{<contact index="zsbc" role="Zástupce správce bloku C">}}
+{{</contact_section>}}
 
 ### Televizoři
 
@@ -82,10 +97,11 @@ DIČ: CZ67981224
 
 ## Blok D
 
-{{<contact index="sbd" role="Správce bloku D">}}
-{{<contact index="zsbd" role="Zástupce správce bloku D">}}
-
 <admins-d@pod.cvut.cz>
+{{<contact_section>}}
+    {{<contact index="sbd" role="Správce bloku D">}}
+    {{<contact index="zsbd" role="Zástupce správce bloku D">}}
+{{</contact_section>}}
 
 ### Televizoři
 
@@ -93,10 +109,11 @@ DIČ: CZ67981224
 
 ## Blok E
 
-{{<contact index="sbe" role="Správce bloku E">}}
-{{<contact index="zsbe" role="Zástupce správce bloku E">}}
-
 <admins-e@pod.cvut.cz>
+{{<contact_section>}}
+    {{<contact index="sbe" role="Správce bloku E">}}
+    {{<contact index="zsbe" role="Zástupce správce bloku E">}}
+{{</contact_section>}}
 
 ### Televizoři
 
@@ -104,10 +121,11 @@ DIČ: CZ67981224
 
 ## Blok F
 
-{{<contact index="sbf" role="Správce bloku F">}}
-{{<contact index="zsbf" role="Zástupce správce bloku F">}}
-
 <admins-f@pod.cvut.cz>
+{{<contact_section>}}
+    {{<contact index="sbf" role="Správce bloku F">}}
+    {{<contact index="zsbf" role="Zástupce správce bloku F">}}
+{{</contact_section>}}
 
 ### Televizoři
 
@@ -115,18 +133,22 @@ DIČ: CZ67981224
 
 ## Předsednická centrála
 
-{{<contact index="st" role="Správce tiskárny">}}
-{{<contact index="zst" role="Zástupce správce tiskárny">}}
+{{<contact_section>}}
+    {{<contact index="st" role="Správce tiskárny">}}
+    {{<contact index="zst" role="Zástupce správce tiskárny">}}
 
-{{<contact index="sl" role="Správce Pod-O-Lab">}}
-{{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
+    {{<contact index="sl" role="Správce Pod-O-Lab">}}
+    {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
 
-{{<contact index="sk" role="Správce kolárny">}}
+    {{<contact index="sk" role="Správce kolárny">}}
 
-{{<contact index="pc" role="Správce PC učebny">}}
-{{<contact index="hr" role="HR manager">}}
-{{<contact index="sdh" role="Správce deskoherny">}}
+    {{<contact index="pc" role="Správce PC učebny">}}
+    {{<contact index="hr" role="HR manager">}}
+    {{<contact index="sdh" role="Správce deskoherny">}}
+{{</contact_section>}}
 
 ### Kolejní skupinka
 
-{{<contact index="vks" role="Vedoucí kolejní skupinky">}}
+{{<contact_section>}}
+    {{<contact index="vks" role="Vedoucí kolejní skupinky">}}
+{{</contact_section>}}
