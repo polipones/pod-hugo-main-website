@@ -1,0 +1,35 @@
+section.contact-section {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+div.contact {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    flex-basis: 33%;
+}
+
+div.contact-photo {
+    max-width: 50%;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 900px) {
+    div.contact {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    section.contact-section {
+        flex-flow: column;
+    }
+    
+    div.contact {
+        flex-basis: auto;
+    }
+
+    div.contact-photo {
+        max-width: 60%;
+    }
+}

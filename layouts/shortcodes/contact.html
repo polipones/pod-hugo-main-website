@@ -1,8 +1,15 @@
 {{ $role_people := index (.Page.Scratch.Get "people") (.Params.index) }}
 {{ range $role_people }}
-<p>
+<div class="contact">
     {{ $person := . }}
     {{ if $person }}
+        <div class="contact-photo">
+            <img
+                src="{{ $person.profile_photo }}"
+                alt="Photo of {{ $person.name }}"
+                loading="lazy"
+            />
+        </div>
         <div><strong>{{ $person.name }}</strong></div>
         <div>{{ $.Params.role }}</div>
         <div>{{ default (i18n "room" | default "Room") }}: {{ if eq $person.room "None" }} --- {{ else }} {{ $person.room }}{{ end }}</div>
@@ -10,10 +17,6 @@
         {{ if $person.phone }}
         <div>{{ default (i18n "phone" | default "Phone") }}: {{ $person.phone }}</div>
         {{ end }}
-    {{ else }}
-        <p>---</p>
     {{ end }}
-</p>
-{{ else }}
-<p>---</p>
+</div>
 {{ end }}
