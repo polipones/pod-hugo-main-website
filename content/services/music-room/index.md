@@ -39,7 +39,7 @@ Hudebna je konstantně monitorována kamerami.
 
 #### Již jsi členem klubu?
 
-Popros televizora, aby ti dal 10 zkušebních dní a pokud nemáš přiřazenou čipovou kartu k účtu, tak postupuj podle postupu pro „nečleny“ klubu (další odstavec). Poté budeš muset platit členský příspěvek ([informace o placení](https://pod.cvut.cz/sluzby/poplatky-za-clenstvi/)) a tvou povinností je také si přečíst a dodržovat provozní řád ([Provozní řád Hudebny](https://wiki.pod.cvut.cz/_media/hudebna-provozni-rad-2014.pdf)).
+Popros televizora, aby ti dal 10 zkušebních dní a pokud nemáš přiřazenou čipovou kartu k účtu, tak postupuj podle postupu pro „nečleny“ klubu (další odstavec). Poté budeš muset platit členský příspěvek ([informace o placení]({{< ref "/services/membership-fees/index.md" >}})) a tvou povinností je také si přečíst a dodržovat provozní řád ([Provozní řád Hudebny](https://wiki.pod.cvut.cz/_media/hudebna-provozni-rad-2014.pdf)).
 
 #### Pokud nejsi členem klubu
 

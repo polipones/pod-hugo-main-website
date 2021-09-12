@@ -30,7 +30,7 @@ Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 G
 
 Tuto funkci si každý výrobce pojmenovává jinak, proto hledejte něco podobného. Pokud je tato funkce zapnutá, nepovede se vám toto zařízení připojit k naší síti, jelikož ověřujeme MAC adresu co máte v Hydře proti té, co má vaše zařízení. Pokud tedy vaše zařízení MAC adresu mění, nepůjde se vám připojit.
 
-Pokud to nepomohlo, kontaktuj televizora na svém prípadně na vedlejším bloku: https://pod.cvut.cz/kontakty/.
+Pokud to nepomohlo, kontaktuj televizora na svém prípadně na vedlejším bloku: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
 
 #### Zabezpečení
 
