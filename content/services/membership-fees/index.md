@@ -18,15 +18,15 @@ Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 - Za první pololetí se platí od 1. ledna do 30. června s platností členství do 15. října.
 - Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 15. března (příštího roku).
 
-Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny služby poskytované klubem.
+Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny služby poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do hodiny.
 
 ### Formy úhrady
 
-**DOPORUČENO**: Můžete použít QR kód pro platbu, který se vám vygeneruje v Hydře: https://hydra.pod.cvut.cz/membership/payments.
+**Doporučujeme použít funkci generování platebního QR kódu v Hydře, dostupné po přihlášení [ZDE](https://hydra.pod.cvut.cz/membership/payments).**
 
 Tradičnější způsoby:
 
-- bezhotovostním převodem na účet (doporučujeme)
+- bezhotovostním převodem na účet
 - složením hotovosti na pobočce Fio Banky (poplatek 90 Kč)
 - složením hotovosti na pokladně jakékoliv jiné banky (tomuto způsobu se vyhýbej – zbytečné poplatky za převod)
 - použití poštovních poukázek NENÍ přípustné – všechny takovéto platby nebudou brány v potaz.
@@ -40,7 +40,7 @@ Při platbě z účtů z ciziny berte v potaz poplatky na vaší straně, nevolt
 Částka za členství a specifický symbol:
 
 - základní členství – 200,- specifický symbol 1
-- připojení k akademické síti – 600,- specifický symbol 2
+- připojení k akademické síti (internet) – 600,- specifický symbol 2
 - přístup do Pod-O-Gym – 800,- specifický symbol 3
 - přístup do hudebny – 300,- specifický symbol 4
 
@@ -51,8 +51,6 @@ Variabilní symbol je tvoje identifikační číslo (zjistíš v [Hydře](https:
 Pokud budeš chtít využívat více služeb, sečti patřičné částky a seřaď vzestupně příslušné Specifické symboly.
 
 Příklad: Chci mít připojení k internetu a chodit do posilovny Pod-O-Gym, zaplatím 1600,- Kč (200+600+800 Kč) a jako Specifický symbol uvedu číslo 123.
-
-Poplatek za učebnu plaťte pouze v případě, že jste si nezvolili jiný druh členství.
 
 ## Podpis členství v klubu
 

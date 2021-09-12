@@ -28,7 +28,7 @@ Registration process is same as the registration for a cable.
 
 #### Password for WiFi
 
-To set the second password used for WiFi connection, follow these steps:
+To set password used for WiFi connection, follow these steps:
 
 1. Open [https://hydra.pod.cvut.cz/services/network](https://hydra.pod.cvut.cz/services/network). Use your username and generated password to log in (you can find it in the email you received after registration with televizor).
 2. Find red button with “Set new password” label and username above (This is your WiFi password, different from the one from email)
