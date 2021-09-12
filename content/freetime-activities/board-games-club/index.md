@@ -17,6 +17,8 @@ Podolské deskovky mají už dlouholetou tradici, díky čemuž jsme posbírali 
 
 Do naší krásné herny můžeš dorazit v týdnu vždy v hrací den, nebo po domluvě kdykoliv třeba s partou kamarádů. Některé hry je také možnost z herny vypůjčit na pokoj / do čajovny. Najdi nás na [Facebooku](https://www.facebook.com/groups/hrypodolee), ať víš, co se u nás děje.
 
+Seznam her dostupných v deskoherně nalezneš [zde](https://docs.google.com/spreadsheets/d/1Ocg36A2OPQALA3ums7OLA13KTKw1npZr3auANkEogjc/edit?usp=sharing).
+
 KDE? Pokoj B206
 
 KDY? Úterý 20:00 (nebo po domluvě)

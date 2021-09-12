@@ -12,10 +12,16 @@ Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavní
 Přístup do učebny má každý člen klubu Pod-O-Lee. To znamená, že stačí mít zaplacený členský příspěvek za sportoviště nebo za síť.
 
 Jestliže jsi členem klubu Pod-O-Lee, pak máš automaticky přístup do učebny. Pokud se se ti nedaří dostat se do PC učebny, zajdi za televizorem, který Ti řekne co a jak.
-V počítačové učebně se mimo jiné nachází klubová tiskárna.
+V počítačové učebně se mimo jiné nachází klubová tiskárna a knihbudka.
 
 {{<figure src="pc_room_01.jpg" alt="PC room: Main room">}}
 {{<figure src="pc_room_02.jpg" alt="PC room: Second room with whiteboards">}}
+
+## Knihbudka
+
+V prostorách PC učebny se nachází klubová knihbudka. Nalezneš zde na poličkách knihy jak odborné, tak romány a jiná díla žánrů jako je fantasy, sci-fy či horror a krimi.
+
+Knížky si můžeš samostatně, bez nutnosti se s někým domlouvat, vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
 
 ## Tiskárna
 
