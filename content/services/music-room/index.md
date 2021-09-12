@@ -47,10 +47,10 @@ Před samotnou registrací zajdi k Hudebně (suterén bloku B), 5x pípni čipov
 
 ### Mimokolejní zájemci
 
-Přednostně mají právo se přidat kolejní zájemci, pokud je volné místo, můžeme tě přijmout, většinou jsou volné kapacity koncem března a koncem září, kdy končí stará členství.
+Přednostně mají právo se přidat kolejní zájemci, je na správci hudebny, jestli přijme externího člena.
 
 Pokud máš zájem, napiš e-mail na hudebna@pod.cvut.cz, dej nám vědět na jaký nástroj hraješ, kdy plánuješ hudebnu navštěvovat a jestli plánuješ hrát sám nebo se skupinou.
-Pokud máme volné místo, vyplníš registrační formulář pro člena klubu. Tvou povinností je přečíst si provozní řád ([Provozní řád Hudebny](https://wiki.pod.cvut.cz/_media/hudebna-provozni-rad-2014.pdf)) a dodržovat ho.
+Pokud tě správce schválí, vyplníš registrační formulář pro člena klubu. Tvou povinností je přečíst si provozní řád ([Provozní řád Hudebny](https://wiki.pod.cvut.cz/_media/hudebna-provozni-rad-2014.pdf)) a dodržovat ho.
 
 ## Provozní řád
 

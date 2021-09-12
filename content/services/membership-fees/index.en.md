@@ -16,15 +16,15 @@ If you want to use services of club Pod-O-Lee, you have to pay fees every six mo
 - For first half of a year you can pay from 1. January to 30. June with validity of the membership to 15. October.
 - For second half of a year you can pay from 1. July to 31. December with validity of the membership to 15. March (of the next year).
 
-We would like to remind you that money transfer via bank account may take up to 3 days. If the payment won’t transfer up to the last day of payment season, as written above, you lose access to all services until the transfer is finished. It is therefore better to not wait until the last day of payment season.
+We would like to remind you that money transfer via bank account may take up to 3 days. If the payment won’t transfer up to the last day of payment season, as written above, you lose access to all services until the transfer is finished. It is therefore better to not wait until the last day of payment season. If you used instant payment, transfer should be processed by Hydra in less than hour.
 
 ## How to pay
 
-**RECOMMENDED**: You can use QR code payment in your Hydra account: https://hydra.pod.cvut.cz/membership/payments.
+**We strongly recommend using payment QR code generator in Hydra, accessible after login [HERE](https://hydra.pod.cvut.cz/membership/payments).**
 
 More traditionally:
 
-- Transfer via bank account (RECOMMENDED)
+- Transfer via bank account
 - Via cash in one of Fio bank branches (fee is 90 Kč)
 - Via cash in some other bank branches (Not recommended. Other banks might ask for higher fees)
 - Payment via postal order **is not possible** – all such payments will be ignored
