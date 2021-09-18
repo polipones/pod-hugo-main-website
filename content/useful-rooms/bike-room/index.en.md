@@ -11,7 +11,7 @@ weight: 2
 showtoc: false
 ---
 
-Contact to current manager can be found in [Contacts page under Director's head office](https://pod.cvut.cz/en/contacts/#directors-head-office).
+Contact to current manager can be found in [Contacts page under Director's head office]({{< ref "/contacts/index.md#directors-head-office" >}}).
 
 [Operating rules (PDF)](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/kolarna_provozni_rad_2021.pdf)
 

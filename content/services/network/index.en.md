@@ -41,7 +41,7 @@ Try to log in with the username (case-sensitive!) and the newly set password. If
 
 Every manufacturer names this function differently, try to search for something similar. If enabled, device cannot be connected to our network, because we are verifying known devices based on MAC addresses. So disable this function if you want to connect to our network.
 
-If you don't know how, contact admin of your or any other block: https://pod.cvut.cz/en/contacts/.
+If you don't know how, contact admin of your or any other block: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
 
 ## Email conferences
 

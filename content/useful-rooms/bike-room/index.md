@@ -11,7 +11,7 @@ weight: 2
 showtoc: false
 ---
 
-Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále](https://pod.cvut.cz/kontakty/#p%C5%99edsednick%C3%A1-centr%C3%A1la).
+Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále]({{< ref "/contacts/index.md#p%C5%99edsednick%C3%A1-centr%C3%A1la" >}}).
 
 [Provozní řád kolárny (PDF)](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/kolarna_provozni_rad_2021.pdf)
 

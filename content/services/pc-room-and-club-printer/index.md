@@ -23,6 +23,8 @@ V prostorách PC učebny se nachází klubová knihbudka. Nalezneš zde na poli�
 
 Knížky si můžeš samostatně, bez nutnosti se s někým domlouvat, vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
 
+{{<figure src="pc_room_04_books.jpg" alt="PC room: Library">}}
+
 ## Tiskárna
 
 Kontakt: <tisk@pod.cvut.cz>
