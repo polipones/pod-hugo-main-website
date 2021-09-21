@@ -20,6 +20,14 @@ Přístup do posilovny je omezen kvůli vládním opatřením. Pro povolení vst
 
 Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by someone from Pod-O-Lee club.
 
+## Jak se registrovat do Pod-O-Gym
+
+Registrace do Pod-O-Gym probíhá následovně:
+
+1. Najdeš si kartu, která obsahuje čip. Toto může být jakákoliv karta s čipem např. ISIC karta, karta Tesco, samotný čip, který máš pro vstup do jiného zařízení (např. jídelna) apod. Platební kartu použít nelze.
+2. Vezmi si tuto kartu, 5x ji přilož na čtečku karet u vstupu do Pod-O-Gym a zapamatuj si datum a čas kdy jsi tak učinil.
+3. Pošli nějakému televizorovi (případně do FB skupiny Pod-O-Lee Official) čas pípání a nějaký člověk z klubu ti ji přiřadí.
+
 ## Pod-O-Gym
 
 Pod-O-Gym, 2. největší fitko Studentské Unie ČVUT. Nachází se v areálu kolejí z boční strany menzy směrem k bloku D.
@@ -44,7 +52,7 @@ Podstatnou část lidí mohou zajímat zejména kettlebelly od 4 do 32 kg, TRX®
 
 ### Tělocvična
 
-V tělocvičně (72m2) je položeno tatami, máme vybavení pro bojové sporty – lapy, pytle, rukavice, aj. Naleznete zde také pomůcky pro relaxační a zdravotní cvičení.
+V tělocvičně (72m^2) je položeno tatami, máme vybavení pro bojové sporty – lapy, pytle, rukavice (bandáže je nutné si obstarat vlastní), aj. Naleznete zde také pomůcky pro relaxační a zdravotní cvičení.
 
 ### Sauna
 
@@ -56,8 +64,7 @@ Každým semestrem nějaké přibudou a jiné zmizí, ale pořád je to slušná
 
 ### Občasné kurzy
 
-Především „Jak cvičit“ dále čas od času nějaký zajímavý seminář
-Do Pod-O-Gym se každý semestr investuje přes 200tis. Kč a stojí JEN 800Kč na semestr, tak neváhej a přijď mezi nás! 🙂
+Především „Jak cvičit“ dále čas od času nějaký zajímavý seminář. Do Pod-O-Gym se každý semestr investuje přes 200tis. Kč a stojí jen 800Kč na semestr, tak neváhej a přijď mezi nás! 🙂
 
 [Náš facebook](https://www.facebook.com/podogym)\
 [Stránky Pod-O-Gym](https://gym.pod.cvut.cz/)
