@@ -12,6 +12,7 @@ build_dev:
   image: "janpicka/pod_hugo_node_build:latest"
   before_script:
     - git submodule update --init --recursive
+    - npm install
   script: 
     - npx gulp build -f gulpfile_dev.js
   artifacts:
