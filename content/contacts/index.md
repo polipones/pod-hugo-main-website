@@ -143,8 +143,12 @@ DIČ: CZ67981224
     {{<contact index="sk" role="Správce kolárny">}}
 
     {{<contact index="pc" role="Správce PC učebny">}}
+    {{<contact index="zpc" role="Zástupce správce PC učebny">}}
+
     {{<contact index="hr" role="HR manager">}}
+
     {{<contact index="sdh" role="Správce deskoherny">}}
+    {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
 {{</contact_section>}}
 
 ### Kolejní skupinka
