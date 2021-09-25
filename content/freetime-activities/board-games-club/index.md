@@ -21,6 +21,6 @@ Seznam her dostupných v deskoherně nalezneš [zde](https://docs.google.com/spr
 
 KDE? Pokoj B206
 
-KDY? Úterý 20:00 (nebo po domluvě)
+KDY? První schůzka 4. 10. 2021 ve 20:00, pak pravidelně v úterý 20:00 (nebo po domluvě) 
 
 {{<figure src="main.jpg" alt="Board games club">}}
