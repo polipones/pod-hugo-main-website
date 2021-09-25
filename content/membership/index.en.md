@@ -1,10 +1,12 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Membership fees
+title: Membership
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
-url: services/membership-fees
-slug: membership-fees
-weight: 1
+url: membership
+slug: membership
+
+aliases:
+    - /en/services/membership-fees
 ---
 
 If you have any problems with paying club’s membership, write email to <platby@pod.cvut.cz>.
