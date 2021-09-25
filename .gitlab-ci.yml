@@ -40,7 +40,7 @@ build_prod:
     - main
 
 deploy_dev:
-  image: janpicka/orthos_pod_deploy
+  image: janpicka/pod_hugo_node_build:latest
   stage: deploy
   before_script:
     - eval $(ssh-agent -s)
