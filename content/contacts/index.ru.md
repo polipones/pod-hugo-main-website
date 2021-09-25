@@ -143,8 +143,12 @@ DIČ: CZ67981224
     {{<contact index="sk" role="Администратор хранения велосипедов">}}
 
     {{<contact index="pc" role="Администратор компьютерного класса">}}
+    {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
+
     {{<contact index="hr" role="HR manager">}}
+
     {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
+    {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
 {{</contact_section>}}
 
 ### Группка общежития

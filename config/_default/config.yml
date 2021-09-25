@@ -99,10 +99,13 @@ languages:
         - name: Domů
           url: /
           weight: 1
+        - name: Platby
+          url: /platby
+          weight: 2
         - name: Služby
           url: sluzby
           weight: 3
-        - name: Volnočasové aktivity
+        - name: Volný čas
           url: volnocasove-aktivity
           weight: 4
         - name: Užitečné místnosti
@@ -114,9 +117,6 @@ languages:
         - name: Kontakty
           url: kontakty
           weight: 7
-        - name: Hledat
-          url: hledat
-          weight: 8
       footer:
         - name: Dokumenty
           url: dokumenty
@@ -127,6 +127,9 @@ languages:
         - name: Volby
           url: volby
           weight: 3
+        - name: Hledat
+          url: hledat
+          weight: 4
   en:
     languageName: ":en:"
     languageAltTitle: English
@@ -136,6 +139,9 @@ languages:
         - name: Home
           url: /
           weight: 1
+        - name: Payments
+          url: /payments
+          weight: 2
         - name: Services
           url: services
           weight: 3
@@ -148,9 +154,6 @@ languages:
         - name: Contacts
           url: contacts
           weight: 7
-        - name: Search
-          url: search
-          weight: 8
       footer:
         - name: Documents
           url: documents
@@ -158,6 +161,9 @@ languages:
         - name: Covid info
           url: covid
           weight: 2
+        - name: Search
+          url: search
+          weight: 3
   ru:
     languageName: ":ru:"
     languageAltTitle: русский

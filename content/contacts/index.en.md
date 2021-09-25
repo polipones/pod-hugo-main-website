@@ -143,8 +143,12 @@ DIČ: CZ67981224
     {{<contact index="sk" role="Bike room manager">}}
 
     {{<contact index="pc" role="PC room manager">}}
+    {{<contact index="zpc" role="Deputy PC room manager">}}
+
     {{<contact index="hr" role="HR manager">}}
+
     {{<contact index="sdh" role="Board games room manager">}}
+    {{<contact index="zsdh" role="Deputy board games room manager">}}
 {{</contact_section>}}
 
 ### Dormitory group
