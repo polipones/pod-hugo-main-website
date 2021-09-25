@@ -99,8 +99,8 @@ languages:
         - name: Domů
           url: /
           weight: 1
-        - name: Členství
-          url: /clenstvi
+        - name: Platby
+          url: /platby
           weight: 2
         - name: Služby
           url: sluzby
@@ -139,8 +139,8 @@ languages:
         - name: Home
           url: /
           weight: 1
-        - name: Membership
-          url: /membership
+        - name: Payments
+          url: /payments
           weight: 2
         - name: Services
           url: services

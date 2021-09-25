@@ -1,12 +1,15 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Členství
+title: Platby
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
-url: clenstvi
-slug: clenstvi
+url: platby
+slug: platby
 
 aliases:
     - /sluzby/poplatky-za-clenstvi
+    - /placeni
+    - /poplatky
+    - /clenstvi
 ---
 
 Členem se může stát jakýkoliv student bydlící na koleji Podolí. Členem může být i osoba, která aktivně klubu pomáhá a na koleji nebydlí, ale až po rozhodnutí předsedy klubu Pod-O-Lee. Členem se staneš, pokud se zaregistruješ u televizora a zaplatíš členský příspěvek. Ověřit, jestli jsi členem a jaké máš ID, můžeš v [Hydře](https://hydra.pod.cvut.cz).
