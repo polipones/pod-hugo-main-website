@@ -69,8 +69,8 @@ params:
     responsiveImages: true
   
   editPost:
-    URL: "mailto:admin@pod.cvut.cz?subject=Návrh na změnu stránky / Website page change suggestion"
-    appendFilePath: false # to append file path to Edit link
+    URL: "https://github.com/polipones/pod-hugo-main-website/tree/main/content"
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
