@@ -38,11 +38,13 @@ DIČ: CZ67981224
     {{<contact index="zsn" role="Deputy network administrator">}}
 {{</contact_section>}}
 
-### Projects
+### Projects, PR and HR
 
 {{<contact_section>}}
     {{<contact index="sp" role="Project manager">}}
     {{<contact index="zsp" role="Deputy project manager">}}
+    {{<contact index="prt" role="Member of PR team">}}
+    {{<contact index="hr" role="HR manager">}}
 {{</contact_section>}}
 
 ### Pod-O-Gym
@@ -144,8 +146,6 @@ DIČ: CZ67981224
 
     {{<contact index="pc" role="PC room manager">}}
     {{<contact index="zpc" role="Deputy PC room manager">}}
-
-    {{<contact index="hr" role="HR manager">}}
 
     {{<contact index="sdh" role="Board games room manager">}}
     {{<contact index="zsdh" role="Deputy board games room manager">}}
