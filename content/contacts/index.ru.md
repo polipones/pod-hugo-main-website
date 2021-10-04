@@ -38,11 +38,13 @@ DIČ: CZ67981224
     {{<contact index="zsn" role="Заместитель администратора сети ">}}
 {{</contact_section>}}
 
-### Проекты
+### Проекты, PR и HR
 
 {{<contact_section>}}
     {{<contact index="sp" role="Администратор проектов">}}
     {{<contact index="zsp" role="Заместитель администратора проектов">}}
+    {{<contact index="prt" role="Член PR-команды">}}
+    {{<contact index="hr" role="HR manager">}}
 {{</contact_section>}}
 
 ### Pod-O-Gym
@@ -144,8 +146,6 @@ DIČ: CZ67981224
 
     {{<contact index="pc" role="Администратор компьютерного класса">}}
     {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
-
-    {{<contact index="hr" role="HR manager">}}
 
     {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
     {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}

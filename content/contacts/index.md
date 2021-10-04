@@ -38,11 +38,13 @@ DIČ: CZ67981224
     {{<contact index="zsn" role="Zástupce správce sítě">}}
 {{</contact_section>}}
 
-### Projekty
+### Projekty, PR a HR
 
 {{<contact_section>}}
     {{<contact index="sp" role="Správce projektů">}}
     {{<contact index="zsp" role="Zástupce správce projektů">}}
+    {{<contact index="prt" role="Člen PR týmu">}}
+    {{<contact index="hr" role="HR manager">}}
 {{</contact_section>}}
 
 ### Pod-O-Gym
@@ -144,8 +146,6 @@ DIČ: CZ67981224
 
     {{<contact index="pc" role="Správce PC učebny">}}
     {{<contact index="zpc" role="Zástupce správce PC učebny">}}
-
-    {{<contact index="hr" role="HR manager">}}
 
     {{<contact index="sdh" role="Správce deskoherny">}}
     {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
