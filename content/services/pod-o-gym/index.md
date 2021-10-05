@@ -30,7 +30,7 @@ Registrace do Pod-O-Gym probíhá následovně:
 
 1. Najdeš si kartu, která obsahuje čip. Toto může být jakákoliv karta s čipem např. ISIC karta, karta Tesco, samotný čip, který máš pro vstup do jiného zařízení (např. jídelna) apod. Platební kartu použít nelze.
 2. Vezmi si tuto kartu, 5x ji přilož na čtečku karet u vstupu do Pod-O-Gym a zapamatuj si datum a čas kdy jsi tak učinil.
-3. Pošli nějakému televizorovi (případně do FB skupiny Pod-O-Lee Official) čas pípání a nějaký člověk z klubu ti ji přiřadí.
+3. Pošli mail kterémukoliv televizorovi (https://pod.cvut.cz/kontakty/) (případně do FB skupiny [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee)). Ve zprávě uveď čas, datum a ID z Hydry.
 
 ## Pod-O-Gym
 
