@@ -17,4 +17,4 @@ It is necessary to have your sworn statement with you, while training in Pod-O-G
 
 1. Find any card with a chip. It can be any card with a chip such as Your ISIC, or TESCO card, or just a chip you have for accessing to another facility e.g. canteen. You cannot use your credit card.
 2. After you picked your card take it to the entrance and put it 5 times on the card reader right next to the door. Remember the date and the time when You did this.
-3. Send a message to the the person responsible for registration on your (or any other ) dorm, which will contain: purpose of the message, the date and the time of Your visit. (List of these people will be at every dorm on a notice board opposite to the entrance to the dorm).
+3. Send mail to person responsible for registration ("televizors" - https://pod.cvut.cz/en/contacts/) (or to FB group [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee)). In message body specify time, date and your Hydra ID.
