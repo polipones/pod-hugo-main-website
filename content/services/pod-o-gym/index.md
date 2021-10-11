@@ -5,22 +5,17 @@ title: Pod-O-Gym
 url: sluzby/pod-o-gym
 slug: pod-o-gym
 weight: 3
-
-HidePublishDate: false
-
-# Format: 02 Jan 2006 15:04:05 MST
-date: Sat, 22 May 2021 11:30:00 CEST
 ---
 
 ## Aktuality / News
 
-Přístup do posilovny je omezen kvůli vládním opatřením. Pro povolení vstupu je nutné podepsat čestné prohlášení ([vzor zde](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) a odeslat ho na adresu <koronavirus@pod.cvut.cz>. Po kontrole někým z klubu vám bude povolen vstup do posilovny.
+Přístup do posilovny je omezen kvůli vládním opatřením. Pro povolení vstupu je nutné podepsat čestné prohlášení ([vzor zde](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) a odeslat ho na adresu <koronavirus@pod.cvut.cz>. Po kontrole pověřenými lidmi z klubu vám bude povolen vstup do posilovny.
 
 Je nutné, aby jste čestné prohlášení měli u sebe při cvičení v Pod-O-Gym. Můžete ho mít vytisklé na papíře nebo v mobilu v PDF formátu. Toto prohlášení bude kontrolováno členy týmu Pod-O-Gym. Pokud prohlášení na vyzvání nepředložíte budete upozorněni a požádáni k opuštění prostor Pod-O-Gym. Po dvou takovýchto upozorněních Vám bude udělen BAN, který Vám znemožní vstup do Pod-O-Gym.
 
 **EN**
 
-Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by someone from Pod-O-Lee club.
+Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by authorized person from Pod-O-Lee club.
 
 It is necessary to have your sworn statement with you, while training in Pod-O-Gym in a form of printed paper or in PDF format on your phone. Your sworn statement will by checked by the Pod-O-Gym team. If you are unable to submit this sworn statement to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
 

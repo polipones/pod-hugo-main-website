@@ -9,7 +9,7 @@ weight: 3
 
 ## News
 
-Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by someone from Pod-O-Lee club.
+Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by authorized person from Pod-O-Lee club.
 
 It is necessary to have your sworn statement with you, while training in Pod-O-Gym in a form of printed paper or in PDF format on your phone. Your sworn statement will by checked by the Pod-O-Gym team. If you are unable to submit this sworn statement to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
 
