@@ -40,6 +40,9 @@ build_prod:
 deploy_dev:
   image: janpicka/orthos_pod_deploy
   stage: deploy
+  environment:
+    name: development
+    url: https://new.pod.cvut.cz
   before_script:
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
@@ -53,6 +56,9 @@ deploy_dev:
 deploy_prod:
   image: janpicka/orthos_pod_deploy
   stage: deploy
+  environment:
+    name: production
+    url: https://pod.cvut.cz
   before_script:
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
