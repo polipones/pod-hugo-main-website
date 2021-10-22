@@ -26,6 +26,10 @@ However, the Podolí dormitory is property of [CTU](https://cvut.cz/). It is bei
 
 Please, if you find a defect anywhere in the Podolí dormitory, use the [defect reporting system](https://www.suz.cvut.cz/intranet) to let us know.
 
+Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
+
+[Here](https://hydra.pod.cvut.cz/) you can access the Hydra. There you can find for example list of paid memberships and which of your devices have enabled network access.
+
 I guess you are hungry after all the reading. Just check the daily [menu](https://agata.suz.cvut.cz/jidelnicky/index.php?clPodsystem=4) of our [canteen](https://www.suz.cvut.cz/menzy/menza-podoli). Or simply go there right away, our canteen is only a few steps away from your room, in the building with the huge sign saying “MENZA”.
 
 If you have any kind of problem with paying for club membership, please write email to <platby@pod.cvut.cz>.
@@ -41,6 +45,14 @@ Join your block facebook group too, so you don’t miss informations regarding b
 Photos and videos from events and life at our dorm can be found on the club’s Instagram: [pod_o_lee](https://www.instagram.com/pod_o_lee/).
 
 We also have Discord server, if you want to play some game with your friends from dorm or just chat: https://discord.gg/bSP7qnZY5y.
+
+## Club events calendar
+
+{{<rawhtml>}}
+<iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
+{{</rawhtml>}}
+
+## Dormitory area map
 
 {{<rawhtml>}}
 <iframe loading="lazy" width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>

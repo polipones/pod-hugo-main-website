@@ -25,7 +25,7 @@ Pokud nebudeš mít čas, nebo chuť vařit, určitě vás potěší přítomnos
 
 Pokud najdeš závadu na koleji, nahlas to v [závadovém systému](https://www.suz.cvut.cz/intranet).
 
-Pro přístup do Databáze Uživatelů Studentské Počítačové Sítě klini na [Hydra](https://hydra.pod.cvut.cz/). Zjistíš zde například seznam svých členských příspěvků.
+Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
 
 Pokud máte jakékoliv problémy s platbami, pište na <platby@pod.cvut.cz>.
 
@@ -39,6 +39,14 @@ Fotky a videa z akcí i ze života můžeš najít na klubovém Instagramu: [pod
 
 Máme také Discord server, pokud by sis chtěl s kamarády z kolejí něco zahrát nebo jen tak popovídat: https://discord.gg/bSP7qnZY5y.
 
+## Kalendář klubových akcí
+
 {{<rawhtml>}}
-<iframe loading="lazy" width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
+{{</rawhtml>}}
+
+## Mapka areálu
+
+{{<rawhtml>}}
+<iframe loading="lazy" width="100%" height="400px" frameborder="0" allowfullscreen=true src="//umap.openstreetmap.fr/en/map/mapa-arealu-koleji-podoli_580764?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 {{</rawhtml>}}
