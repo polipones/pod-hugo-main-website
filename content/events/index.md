@@ -9,6 +9,12 @@ slug: akce
 weight: 1
 ---
 
+## Kalendář klubových akcí
+
+{{<rawhtml>}}
+<iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
+{{</rawhtml>}}
+
 ## Mezi Bloky
 MEZI BLOKY je hudební open air festival. Festival se snaží podporovat začínající kapely a tvůrčí schopnosti studentů. Festival také propaguje studentské spolky a kulturu v Městské části Praha 4. Můžeš se zde odreagovat od zkouškového období nebo práce. MEZI BLOKY 2015 přesáhl počet návštěvníků 2500.
 
