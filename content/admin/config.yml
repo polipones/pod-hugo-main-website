@@ -1,0 +1,32 @@
+# https://www.netlifycms.org/docs/add-to-your-site/
+backend:
+  name: gitlab
+  branch: develop # Branch to update (optional; defaults to master)
+  api_root: https://gitlab.pod.cvut.cz/api/v4
+  base_url: https://gitlab.pod.cvut.cz
+  auth_endpoint: oauth/authorize
+  cms_label_prefix: netlify-cms/
+
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: posts
+    label: Posts
+    label_singular: 'Post'
+    description: 
+    folder: content/posts
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: 'Cover Image'
+        name: 'image'
+        widget: 'image'
+
+# This static content settings should not be used, by default, all collections should define their relative static content path (for page bundles to work)
+media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads

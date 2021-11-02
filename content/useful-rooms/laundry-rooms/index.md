@@ -11,7 +11,7 @@ weight: 1
 showtoc: false
 ---
 
-Pokud si potřebuješ na koleji vyprat slouží k tomu prádelny. Najdeš je v suterénu bloků A, B, C, F a v 1. patře bloků D a E. Rezervace prádelny je možná v rezervačním archu na vrátnici, kde v čase rezervace zároveň dostaneš i klíč.
+Pokud si potřebuješ na koleji vyprat slouží k tomu prádelny. Najdeš je v suterénu bloků A, B, C, F, v 1. patře bloku E a 2. patře bloku D. Rezervace prádelny je možná v rezervačním archu na vrátnici, kde v čase rezervace zároveň dostaneš i klíč.
 
 ## Provozní řád
 
