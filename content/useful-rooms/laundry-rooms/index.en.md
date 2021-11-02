@@ -11,7 +11,7 @@ weight: 1
 showtoc: false
 ---
 
-If you need to wash your clothes you can make use of our laundries. They can be found in the basements of blocks A, B, C & F and in the first floor of blocks D & E. Laundry room reservation is possible in the reservation sheet at the gatehouse, where at the time of reservation you will also receive a key from the room.
+If you need to wash your clothes you can make use of our laundries. They can be found in the basements of blocks A, B, C & F, on the first floor of block E and on the second floor of block D. Laundry room reservation is possible in the reservation sheet at the gatehouse, where at the time of reservation you will also receive a key from the room.
 
 ## Operating rules:
 
