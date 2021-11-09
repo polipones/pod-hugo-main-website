@@ -6,7 +6,7 @@ url: volnocasove-aktivity/salsa
 # https://en.wikipedia.org/wiki/Clean_URL#Slug
 slug: salsa
 # Defines sorting of pages in parent list
-weight: 3
+weight: 9
 
 showtoc: false
 ---

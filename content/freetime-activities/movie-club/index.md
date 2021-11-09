@@ -6,7 +6,7 @@ url: volnocasove-aktivity/filmovy-klub
 # https://en.wikipedia.org/wiki/Clean_URL#Slug
 slug: filmovy-klub # TODO
 # Defines sorting of pages in parent list
-weight: 4
+weight: 3
 
 showtoc: false
 ---
