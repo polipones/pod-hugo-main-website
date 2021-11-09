@@ -13,9 +13,15 @@ weight: 4
 
 Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 4 s VR a Nintendo Switch. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
 
+{{<figure src="games_01.jpg" alt="Games 01">}}
+
 Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů.
 
+{{<figure src="games_02.jpg" alt="Games 02">}}
+
 Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento řád podepisuje a potvrzuje tím že je s ním srozuměn nejen on, ale i lidé, kteří se v místnosti nacházejí. Porušení jakéhokoliv z bodů bude potrestáno zákazem navštěvování Pod-O-Games.
+
+{{<figure src="games_03.jpg" alt="Games 03">}}
 
 ## Provozní řád
 
