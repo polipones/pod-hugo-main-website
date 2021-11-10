@@ -51,6 +51,10 @@ DIČ: CZ67981224
 
 {{<contact_section>}}
     {{<contact index="sg" role="Správce Pod-O-Gym">}}
+    {{<contact index="zsg" role="Zástupce správce Pod-O-Gym">}}
+{{</contact_section>}}
+
+{{<contact_section>}}
     {{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
 {{</contact_section>}}
 
