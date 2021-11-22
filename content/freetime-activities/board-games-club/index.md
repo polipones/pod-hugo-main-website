@@ -21,6 +21,6 @@ Seznam her dostupných v deskoherně nalezneš [zde](https://docs.google.com/spr
 
 KDE? Pokoj B206
 
-KDY? pravidelně ve čtvrtky od 20:00
+KDY? pravidelně ve středy od 20:00
 
 {{<figure src="main.jpg" alt="Board games club">}}

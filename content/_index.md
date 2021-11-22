@@ -41,6 +41,8 @@ Máme také Discord server, pokud by sis chtěl s kamarády z kolejí něco zahr
 
 ## Kalendář klubových akcí
 
+Pokud si chcete kalendář přidat do svého, stačí vám importovat tento odkaz [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
+
 {{<rawhtml>}}
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
 {{</rawhtml>}}

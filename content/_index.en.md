@@ -48,6 +48,8 @@ We also have Discord server, if you want to play some game with your friends fro
 
 ## Club events calendar
 
+If you want to add our calendar to yours, you can import this link [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
+
 {{<rawhtml>}}
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
 {{</rawhtml>}}
