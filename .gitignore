@@ -3,3 +3,4 @@ public
 resources/_gen
 data/contacts.json
 .vscode
+.hugo_build.lock
