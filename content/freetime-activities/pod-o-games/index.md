@@ -23,6 +23,12 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 
 {{<figure src="games_03.jpg" alt="Games 03">}}
 
+## Problémy s rezervací
+
+Kvůli chybě v rezervačním systému je nutné při vyplňování rezervace do políčka pro místnost začít psát název místnosti. Omlouváme se za potíže, na opravě se pracuje.
+
+{{<figure src="olymp_games.png" alt="Olymp fix image">}}
+
 ## Provozní řád
 
 ### 1. Úvodní ustanovení
