@@ -153,6 +153,9 @@ DIČ: CZ67981224
 
     {{<contact index="sdh" role="Správce deskoherny">}}
     {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
+
+    {{<contact index="gm" role="Správce Pod-O-Games">}}
+    {{<contact index="zgm" role="Zástupce správce Pod-O-Games">}}
 {{</contact_section>}}
 
 ### Kolejní skupinka

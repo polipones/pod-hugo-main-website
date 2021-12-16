@@ -153,6 +153,9 @@ DIČ: CZ67981224
 
     {{<contact index="sdh" role="Board games room manager">}}
     {{<contact index="zsdh" role="Deputy board games room manager">}}
+
+    {{<contact index="gm" role="Pod-O-Games manager">}}
+    {{<contact index="zgm" role="Deputy Pod-O-Games manager">}}
 {{</contact_section>}}
 
 ### Dormitory group

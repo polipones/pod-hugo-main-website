@@ -153,6 +153,9 @@ DIČ: CZ67981224
 
     {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
     {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
+
+    {{<contact index="gm" role="Администратор Pod-O-Games">}}
+    {{<contact index="zgm" role="Заместитель администратора Pod-O-Games">}}
 {{</contact_section>}}
 
 ### Группка общежития
