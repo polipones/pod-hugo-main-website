@@ -35,7 +35,7 @@ Možná jste na kolejích noví, možná už tu jste tu delší dobu a víte co 
 
 Pokud nevíte, tak vám to promineme, vzhledem k tomu, že kolejní (a celkově společenský) život de facto neexistoval a žádné akce nebyly. Ale s nadějí na lepší zítřky už pro vás plánujeme všechny možné akce a slibujeme, že se vám budeme snažit ten covidový rok co nejvíc vynahradit. Už se na to neskutečně těšíme a doufáme, že vy také! Ale v mezidobí, než to všechno zase vypukne, bychom vás rádi seznámili s lidmi, kteří za tím vším stojí.
 
-{{<figure src="images/camera_operator.jpg" alt="Image 2 - Camera operator">}}
+{{<figure src="images/camera_operator.jpg" alt="Image 2 - Camera operator" align="center">}}
 
 V minulých týdnech proběhlo focení členů klubu, které vám budeme postupně představovat. Mezi nimi jsou správci bloků a jejich zástupci, kteří se vám budou neskutečně hodit. Například když si (jako obvykle) zabouchnete klíče. Dále pak správci služeb jako je Pod-O-Gym, hudebna, síť či PC učebna a tiskárna, kteří vás moc rádi do služby zaregistrují a pomohou vám, když budete potřebovat. Když například nevíte, jak se dostat do posilovny, nebo když nejste zrovna technický typ a tiskárna s vámi nechce spolupracovat. Představíme vám také síťaře, díky kterým funguje celý systém a můžeme tak v naprostém klidu, bez výpadků internetu prokrastinovat nad seriály. Neopominutelní jsou také lidé z PRka, díky kterým jste neustále informovaní o dění na koleji, (o tom, jak krmit a nekrmit kachny :D) a díky kterým jsme vždy věděli, co je v koronové době aktuální. V neposlední řadě také představíme ty, kteří chod celého klubu řídí a bez kterých by to nešlo.
 
