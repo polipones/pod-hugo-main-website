@@ -9,15 +9,15 @@ weight: 3
 
 ## Aktuality / News
 
-Přístup do posilovny je omezen kvůli vládním opatřením. Pro povolení vstupu je nutné podepsat čestné prohlášení ([vzor zde](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) a odeslat ho na adresu <koronavirus@pod.cvut.cz>. Po kontrole pověřenými lidmi z klubu vám bude povolen vstup do posilovny.
+Přístup do posilovny je omezen kvůli vládním opatřením. Pro vstup je nutno zaslat certifikát o očkování proti COVID-19 na adresu <koronavirus@pod.cvut.cz>. Po kontrole pověřenými lidmi z klubu vám bude povolen vstup do posilovny. Již nepřijímáme PCR testy jako validní možnost pro vstup do Pod-O-Gym.
 
-Je nutné, aby jste čestné prohlášení měli u sebe při cvičení v Pod-O-Gym. Můžete ho mít vytisklé na papíře nebo v mobilu v PDF formátu. Toto prohlášení bude kontrolováno členy týmu Pod-O-Gym. Pokud prohlášení na vyzvání nepředložíte budete upozorněni a požádáni k opuštění prostor Pod-O-Gym. Po dvou takovýchto upozorněních Vám bude udělen BAN, který Vám znemožní vstup do Pod-O-Gym.
+**Cvičit v prostorách Pod-O-Gym je možné jenom s dokladem o plném očkování (certifikátem) proti COVID-19.** Členové týmu Pod-O-Gym budou kontrolovat certifikát. Můžete ho mít vytisklý na papíře nebo v mobilu v PDF formátu. Pokud certifikát o plném očkování na vyzvání nepředložíte budete upozorněni a požádáni k okamžitému opuštění prostor Pod-O-Gym. Po druhém upozornění následuje na místě BAN, který Vám znemožní vstup do Pod-O-Gym.
 
 **EN**
 
-Access to gym is restricted by government regulation. To gain access to gym sign sworn statement ([template here](https://cloud.pod.cvut.cz/index.php/s/eaTN5iL4KRtmFyy)) and send it to email <koronavirus@pod.cvut.cz>. You will be granted access after the statement is checked by authorized person from Pod-O-Lee club.
+Access to the Pod-O-Gym is restricted by government regulations. To gain access to the Pod-O-Gym you must posses vaccination certificate for COVID-19 before entering the Pod-O-Gym. You need to send your vaccination certificate to email address <koronavirus@pod.cvut.cz>. You will be granted access after the certificate is checked by authorized person from the Pod-O-Lee club. We no loger accept PCR test results as valid option for Pod-O-Gym entry.
 
-It is necessary to have your sworn statement with you, while training in Pod-O-Gym in a form of printed paper or in PDF format on your phone. Your sworn statement will by checked by the Pod-O-Gym team. If you are unable to submit this sworn statement to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
+**Training in the Pod-O-Gym is allowed only with vaccination certificate for COVID-19.** Members of Pod-O-Gym team will be controlling this vaccination certificate. You can have your vaccination certificate printed, or in PDF format in your phone. If you are unable to submit your vaccination certificate to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
 
 ## Jak se registrovat do Pod-O-Gym
 
