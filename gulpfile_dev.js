@@ -2,7 +2,7 @@ var gulp = require("gulp");
 var htmlmin = require("gulp-htmlmin");
 var shell = require("gulp-shell");
 
-gulp.task("fetch_contacts", shell.task(["./scripts/fetch_contacts.sh"]));
+gulp.task("fetch_contacts", shell.task(["bash scripts/fetch_contacts.sh"]));
 
 gulp.task("hugo-build", shell.task(["hugo --environment develop"]));
 
