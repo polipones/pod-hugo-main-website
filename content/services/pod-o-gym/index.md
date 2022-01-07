@@ -9,9 +9,11 @@ weight: 3
 
 ## Aktuality / News
 
-Přístup do posilovny je omezen kvůli vládním opatřením. Pro vstup je nutno zaslat certifikát o očkování proti COVID-19 na adresu <koronavirus@pod.cvut.cz>. Po kontrole pověřenými lidmi z klubu vám bude povolen vstup do posilovny. Již nepřijímáme PCR testy jako validní možnost pro vstup do Pod-O-Gym.
+**Cvičit v prostorách Pod-O-Gym je možné jenom s platným certifikátem o plném očkování proti COVID-19 nebo platným certifikátem o prodělání nemoci COVID-19. Odoby, které se ze zdravotních důvodů nemohou nechat očkovat mohou cvičit v Pod-O-Gym s negativním výsledkem RT-PCR testu COVID-19 ne starším než 72 hodin.**
 
-**Cvičit v prostorách Pod-O-Gym je možné jenom s dokladem o plném očkování (certifikátem) proti COVID-19.** Členové týmu Pod-O-Gym budou kontrolovat certifikát. Můžete ho mít vytisklý na papíře nebo v mobilu v PDF formátu. Pokud certifikát o plném očkování na vyzvání nepředložíte budete upozorněni a požádáni k okamžitému opuštění prostor Pod-O-Gym. Po druhém upozornění následuje na místě BAN, který Vám znemožní vstup do Pod-O-Gym.
+Zároveň je pro vstup nutné zaslat jednu z možností uvedených výše na adresu <koronavirus@pod.cvut.cz>. Po kontrole pověřenými lidmi z klubu vám bude povolen vstup do posilovny.
+
+Členové týmu Pod-O-Gym budou v posilovně certifikáty kontrolovat. Můžete ho mít vytisklý na papíře, v mobilu v PDF formátu nebo v aplikaci. Pokud certifikát na vyzvání nepředložíte budete upozorněni a požádáni k okamžitému opuštění prostor Pod-O-Gym. Po druhém upozornění následuje na místě BAN, který Vám znemožní vstup do Pod-O-Gym.
 
 **EN**
 
