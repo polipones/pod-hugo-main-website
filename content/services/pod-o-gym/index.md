@@ -9,7 +9,7 @@ weight: 3
 
 ## Aktuality / News
 
-**Cvičit v prostorách Pod-O-Gym je možné jenom s platným certifikátem o plném očkování proti COVID-19 nebo platným certifikátem o prodělání nemoci COVID-19. Odoby, které se ze zdravotních důvodů nemohou nechat očkovat mohou cvičit v Pod-O-Gym s negativním výsledkem RT-PCR testu COVID-19 ne starším než 72 hodin.**
+**Cvičit v prostorách Pod-O-Gym je možné jenom s platným certifikátem o plném očkování proti COVID-19 nebo platným certifikátem o prodělání nemoci COVID-19. Osoby, které se ze zdravotních důvodů nemohou nechat očkovat mohou cvičit v Pod-O-Gym s negativním výsledkem RT-PCR testu COVID-19 ne starším než 72 hodin.**
 
 Zároveň je pro vstup nutné zaslat jednu z možností uvedených výše na adresu <koronavirus@pod.cvut.cz>. Po kontrole pověřenými lidmi z klubu vám bude povolen vstup do posilovny.
 
@@ -17,7 +17,7 @@ Zároveň je pro vstup nutné zaslat jednu z možností uvedených výše na adr
 
 **EN**
 
-Access to the Pod-O-Gym is restricted by government regulations. To gain access to the Pod-O-Gym you must posses either vaccination certificate for COVID-19, or having a certificate that you suffered from the COVID-19, or having RT-PCR test for virus SARS-CoV-2 no older than 72 hours, before entering the Pod-O-Gym.
+Access to the Pod-O-Gym is restricted by government regulations. **To gain access to the Pod-O-Gym you must posses either vaccination certificate for COVID-19, a certificate that you suffered from the COVID-19 or RT-PCR test for virus SARS-CoV-2 no older than 72 hours, if you can't be vaccinated for health reasons**, before entering the Pod-O-Gym.
 You need to send one of these certificates to email address <koronavirus@pod.cvut.cz>. You will be granted access after the certificate is checked by authorized person from the Pod-O-Lee club.
 
 Training in the Pod-O-Gym is allowed only with one of these certificates. Members of Pod-O-Gym team will be controlling these certificates. You can have your certificate printed, in PDF or in application on your phone. If you are unable to submit your certificate to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
