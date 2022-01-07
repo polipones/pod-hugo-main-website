@@ -17,9 +17,10 @@ Zároveň je pro vstup nutné zaslat jednu z možností uvedených výše na adr
 
 **EN**
 
-Access to the Pod-O-Gym is restricted by government regulations. To gain access to the Pod-O-Gym you must posses vaccination certificate for COVID-19 before entering the Pod-O-Gym. You need to send your vaccination certificate to email address <koronavirus@pod.cvut.cz>. You will be granted access after the certificate is checked by authorized person from the Pod-O-Lee club. We no loger accept PCR test results as valid option for Pod-O-Gym entry.
+Access to the Pod-O-Gym is restricted by government regulations. To gain access to the Pod-O-Gym you must posses either vaccination certificate for COVID-19, or having a certificate that you suffered from the COVID-19, or having RT-PCR test for virus SARS-CoV-2 no older than 72 hours, before entering the Pod-O-Gym.
+You need to send one of these certificates to email address <koronavirus@pod.cvut.cz>. You will be granted access after the certificate is checked by authorized person from the Pod-O-Lee club.
 
-**Training in the Pod-O-Gym is allowed only with vaccination certificate for COVID-19.** Members of Pod-O-Gym team will be controlling this vaccination certificate. You can have your vaccination certificate printed, or in PDF format in your phone. If you are unable to submit your vaccination certificate to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
+Training in the Pod-O-Gym is allowed only with one of these certificates. Members of Pod-O-Gym team will be controlling these certificates. You can have your certificate printed, in PDF or in application on your phone. If you are unable to submit your certificate to a member of our team, you will be warned and asked to leave the gym immediately. After the second warning you will receive BAN, which will prevent your entry to the gym.
 
 ## Jak se registrovat do Pod-O-Gym
 
