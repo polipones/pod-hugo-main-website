@@ -7,6 +7,7 @@ slug: kontakty
 
 tocopen: true
 ---
+
 {{<load_contacts>}}
 
 Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
@@ -26,6 +27,7 @@ DIČ: CZ67981224
 {{</contact_section>}}
 
 ## Správci služeb
+
 ### Síťaři
 
 {{<contact_section>}}
