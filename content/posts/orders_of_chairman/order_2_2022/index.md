@@ -26,4 +26,4 @@ layout: post
 
 Bylo zveřejněno nové nařízení předsedy (NP 2/2022), které platí od 10. 2. 2022. Ruší omezení přístupu do místností klubu.
 
-Odkaz na NP: [NP2/2022 Nařízení předsedy o opatření ke snížení rizika nákazy koronavirem](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022..pdf)
+Odkaz na NP: [NP2/2022 Nařízení předsedy o opatření ke snížení rizika nákazy koronavirem](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022.pdf)
