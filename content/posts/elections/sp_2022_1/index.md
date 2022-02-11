@@ -24,9 +24,6 @@ date: 2022-02-11T10:55:06+01:00
 layout: post
 ---
 
-<!-- Write page contents here -->
-<!-- Use Markdown syntax: https://www.markdownguide.org/basic-syntax -->
-
 Ahoj Podolačky a Podoláci,
 
 na včerejší schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda volby na Správce projektů.
@@ -34,11 +31,12 @@ na včerejší schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda volby
 Pravomoci a povinnosti Správce projektů jsou upraveny v [IP1/2018](https://wiki.pod.cvut.cz/_media/legislativa/ip_pozice.pdf).
 
 Volby se řídí [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidátka musí obsahovat:
-příjmení a jméno kandidáta,
-kontaktní e-mail,
-fotografii odpovídající kandidátově současné podobě,
-tezi volebního programu,
-formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím."
+
+- příjmení a jméno kandidáta,
+- kontaktní e-mail,
+- fotografii odpovídající kandidátově současné podobě,
+- tezi volebního programu,
+- formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím.".
 
 Vzor kandidátky naleznete na [tomto odkazu](https://cloud.pod.cvut.cz/index.php/s/KjMXfWz4JfyS7bs). Vyplněnou a podepsanou kandidátku zašlete na <volby@pod.cvut.cz> ve formátu PDF. Podepsanou kandidátku je nutno předsat předsedovi volební komise (Vítek Zapletal, C504, <v.zapletal@pod.cvut.cz>).
 
