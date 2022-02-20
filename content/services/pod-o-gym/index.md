@@ -7,13 +7,9 @@ slug: pod-o-gym
 weight: 3
 ---
 
-## Aktuality / News
+## Aktuality
 
-**Předsedou klubu Pod-O-Lee byla zrušena veškerá omezení pro vstup do Pod-O-Gym, která byla zavedena kvůli nemoci COVID-19. Link na nařízení zde: [NP2/2022](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022.pdf).**
-
-**EN**
-
-**Chairman of club Pod-O-Lee removed all restrictions that were applied to Pod-O-Gym access due to COVID-19 pandemic with [NP2/2022](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022.pdf).**
+Předsedou klubu Pod-O-Lee byla zrušena veškerá omezení pro vstup do Pod-O-Gym, která byla zavedena kvůli nemoci COVID-19. Link na nařízení zde: [NP2/2022](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022.pdf).
 
 ## Jak se registrovat do Pod-O-Gym
 
@@ -25,41 +21,73 @@ Registrace do Pod-O-Gym probíhá následovně:
 
 ## Pod-O-Gym
 
-Pod-O-Gym, 2. největší fitko Studentské Unie ČVUT. Nachází se v areálu kolejí z boční strany menzy směrem k bloku D.
-Každý kdo chce chodit do Pod-O-Gym se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/provozni_rad.pdf)!
-Na ploše 340m^2 rozdělených do 10 místností najdete:
+[Facebook Pod-O-Gym](https://www.facebook.com/podogym)
 
-### Stroje
+Pod-O-Gym je druhá největší tělocvična Studentské Unie ČVUT s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
-Používáme zejména stroje značky HBP, máme snad vše co se nachází běžně v posilovnách – od motýlka, přes kladky až po legpress.
+**Všichni členové se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/provozni_rad.pdf)!**
 
-### Činky a volné váhy
+**Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí. Výjimku může udělit jen Správce Pod-O-Gym ([kontakt]({{< ref "/contacts#pod-o-gym" >}})).**
 
-V posledních letech postupně obměňujeme jednoručky za monolitické, váhy jsou od 0,5 kg až do 55 kg. Vlastníme 4 velké osy a 6 menších, přes tunu závaží – ať už v podobě soutěžních Ivanko či tréninkových Hi-Temp bumper kotoučů. Užijou si u nás powerlifteři, vzpěrači i kondiční cvičenci. Samozřejmostí je lifterna se zesílenou podlahou pro vzpírání.
+### Posilovací stroje a volné váhy
 
-### Funkční trénink a trendy vybavení
+Používáme různé typy posilovacích strojů značky HBP.
 
-Podstatnou část lidí mohou zajímat zejména kettlebelly od 4 do 32 kg, TRX®, BOSU®, kruhy, bradla, FLEXI-BAR® a spousta dalšího vybavení.
+{{<figure src="main-room-1.jpg" alt="Main room photo 1" width="90%" align="center">}}
+
+{{<figure src="main-room-2.jpg" alt="Main room photo 2" width="90%" align="center">}}
+
+{{<figure src="leg-room-1.jpg" alt="Leg room photo 1" width="90%" align="center">}}
+
+Najdete u nás také různé typy volných vah. Klasické jendoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a Strong Lifts.
 
 ### Kardio
 
-2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, eliptical (cross trenažér) či veslovací trenažer Concept2 D – to vše je připraveno pro vaše kardio tréninky, u které vám mohou rychleji utéct při sledování TV.
+2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, eliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Vám mohou rychleji utéct například i díky nainstalované TV.
+
+{{<figure src="cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
 ### Tělocvična
 
-V tělocvičně (72m^2) je položeno tatami, máme vybavení pro bojové sporty – lapy, pytle, rukavice (bandáže je nutné si obstarat vlastní), aj. Naleznete zde také pomůcky pro relaxační a zdravotní cvičení.
+V tělocvičně (72 m²) je položeno tatami. Místnost je vybavena pro trénink bojových sportů. Máme zde úderové bloky, boxovací pytle, boxerské lapy, rukavice a chrániče (bandáže je nutné si obstarat vlastní) i další drobnosti.
+
+Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla, FLEXI-BAR®, Bulgarian bags, medicinbaly, kardio MMA lana a další vybavení. Naleznete zde také pomůcky pro relaxační a zdravotní cvičení.
+
+{{<figure src="aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
+
+### Boulder
+
+Pro zájemce o bouldering a lezení máme v telocvičně i menší boulder.
+
+{{<figure src="boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
 ### Sauna
 
-V našich prostorách je Vám k dispozici kombinovaná sauna. Jedná se o suchou finskou a infrasaunu, kapacita sauny jsou 2-4 osoby. Určitě stojí za to vyzkoušet ji a věřte nám, nepřijdete naposledy.
+Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst pravidla pro používaní sauny a pokyny pro její spuštění.
 
-### Pravidelné kurzy
+Rezervace sauny se provádí přes rezervační systém na adrese: <https://gym.pod.cvut.cz/rezervace>.
 
-Každým semestrem nějaké přibudou a jiné zmizí, ale pořád je to slušná porce zábavy 😉
+#### Zapnutí a používání sauny
 
-### Občasné kurzy
+- Rezervace je minimálně na 1h a maximálně na 3h.
+- Sauna funguje pomocí automatu na mince hodnoty 20 a 50 Kč. Automat se nachází na pravé straně od vstupních dveří sauny.
+- Jedna hodina saunování stojí asi 90Kč. Po vhození mincí trvá asi 45 minut než se sauna nahřeje na teplotu 80-90°C.
+- V sauně **není dovoleno** sedět, nebo se **přímo dotýkat** dřeva. Laviček a lehátek se tělem dotýkat nesmí. Laviček a lehátek je možno se dotýkat jen přes ručník, nebo prostěradlo.
+- Je zakázáno saunování pod vlivem alkoholických nápojů a jiných omamných látek.
 
-Především „Jak cvičit“ dále čas od času nějaký zajímavý seminář. Do Pod-O-Gym se každý semestr investuje přes 200tis. Kč a stojí jen 800Kč na semestr, tak neváhej a přijď mezi nás! 🙂
+#### Čištění sauny
 
-[Náš facebook](https://www.facebook.com/podogym)\
-[Stránky Pod-O-Gym](https://gym.pod.cvut.cz/)
+- Po skončení saunování je nutno pečlivě očistit všechny povrchy, na kterých jste seděli, ubrousky a přiloženým čistícím prostředkem, uloženým na pravé straně vedle hlavních dveří.
+- Podlahu je nutno vytřít mopem.
+
+Při nalezení problému např. poškození, je nutno tento problém nahlásit e-mailem správci Pod-O-Gym ([kontakt]({{< ref "/contacts#pod-o-gym" >}})) hned na začátku vašeho rezervovaného času!
+
+{{<figure src="sauna-1.jpg" alt="Sauna photo 1" width="90%" align="center">}}
+
+{{<figure src="sauna-2.jpg" alt="Sauna photo 2" width="90%" align="center">}}
+
+### Pravidelné a občasné
+
+Každým semestrem nějaké přibydou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
+
+Z občasných kurzů je asi nejdůležitější kurz "Jak cvičit". Tento jednohodinový kurz pravidelně začíná na začátku akademického roku. Pokud si nejste jisti jak začít cvičit, nebo nemáte partnera s kterým by jste chtěli chodit do posilovny, možná vyřešíte oba problémy právě na tomto kurzu.
