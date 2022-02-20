@@ -23,7 +23,7 @@ Registrace do Pod-O-Gym probíhá následovně:
 
 [Facebook Pod-O-Gym](https://www.facebook.com/podogym)
 
-Pod-O-Gym je druhá největší tělocvična Studentské Unie ČVUT s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
+Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su.cvut.cz/) s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
 **Všichni členové se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/provozni_rad.pdf)!**
 
@@ -90,4 +90,4 @@ Při nalezení problému např. poškození, je nutno tento problém nahlásit e
 
 Každým semestrem nějaké přibydou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
 
-Z občasných kurzů je asi nejdůležitější kurz "Jak cvičit". Tento jednohodinový kurz pravidelně začíná na začátku akademického roku. Pokud si nejste jisti jak začít cvičit, nebo nemáte partnera s kterým by jste chtěli chodit do posilovny, možná vyřešíte oba problémy právě na tomto kurzu.
+Z občasných kurzů je asi nejdůležitější kurz "Jak cvičit". Tento jednohodinový kurz se pravidelně pořádá na začátku akademického roku. Pokud si nejste jisti jak začít cvičit, nebo nemáte partnera s kterým by jste chtěli chodit do posilovny, možná vyřešíte oba problémy právě na tomto kurzu.
