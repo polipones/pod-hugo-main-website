@@ -39,11 +39,11 @@ Používáme různé typy posilovacích strojů značky HBP.
 
 {{<figure src="leg-room-1.jpg" alt="Leg room photo 1" width="90%" align="center">}}
 
-Najdete u nás také různé typy volných vah. Klasické jendoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a Strong Lifts.
+Najdete u nás také různé typy volných vah. Klasické jednoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a Strong Lifts.
 
 ### Kardio
 
-2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, eliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Vám mohou rychleji utéct například i díky nainstalované TV.
+2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, elliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Vám mohou rychleji utéct například i díky nainstalované TV.
 
 {{<figure src="cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
@@ -57,7 +57,7 @@ Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla,
 
 ### Boulder
 
-Pro zájemce o bouldering a lezení máme v telocvičně i menší boulder.
+Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder.
 
 {{<figure src="boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
@@ -88,6 +88,6 @@ Při nalezení problému např. poškození, je nutno tento problém nahlásit e
 
 ### Pravidelné a občasné
 
-Každým semestrem nějaké přibydou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
+Každým semestrem nějaké přibudou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
 
 Z občasných kurzů je asi nejdůležitější kurz "Jak cvičit". Tento jednohodinový kurz se pravidelně pořádá na začátku akademického roku. Pokud si nejste jisti jak začít cvičit, nebo nemáte partnera s kterým by jste chtěli chodit do posilovny, možná vyřešíte oba problémy právě na tomto kurzu.
