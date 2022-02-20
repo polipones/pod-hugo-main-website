@@ -39,6 +39,6 @@ Tisk je prozatím možný pouze z flashdisku (pouze formát FAT32), návod je vy
 
 Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit. Zároveň platí **zákaz tisku fotografií**.
 
-Dotazy, námitky a závady zasílejte na tisk@pod.cvut.cz
+Dotazy, námitky a závady zasílejte na <tisk@pod.cvut.cz>.
 
 {{<figure src="pc_room_03_printer.jpg" alt="PC room: Printer">}}
