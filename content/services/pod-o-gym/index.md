@@ -86,7 +86,7 @@ Při nalezení problému např. poškození, je nutno tento problém nahlásit e
 
 {{<figure src="sauna-2.jpg" alt="Sauna photo 2" width="90%" align="center">}}
 
-### Pravidelné a občasné
+### Pravidelné a občasné kurzy
 
 Každým semestrem nějaké přibudou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
 
