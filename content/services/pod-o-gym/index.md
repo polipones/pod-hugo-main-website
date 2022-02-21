@@ -33,11 +33,11 @@ Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su
 
 Používáme různé typy posilovacích strojů značky HBP.
 
-{{<figure src="main-room-1.jpg" alt="Main room photo 1" width="90%" align="center">}}
-
-{{<figure src="main-room-2.jpg" alt="Main room photo 2" width="90%" align="center">}}
-
-{{<figure src="leg-room-1.jpg" alt="Leg room photo 1" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="main-room-2.jpg" alt="Main room photo 2">}}
+    {{<figure src="main-room-1.jpg" alt="Main room photo 1">}}
+    {{<figure src="leg-room-1.jpg" alt="Leg room photo 1">}}
+{{</figure_gallery>}}
 
 Najdete u nás také různé typy volných vah. Klasické jednoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a Strong Lifts.
 
@@ -82,9 +82,10 @@ Rezervace sauny se provádí přes rezervační systém na adrese: <https://gym.
 
 Při nalezení problému např. poškození, je nutno tento problém nahlásit e-mailem správci Pod-O-Gym ([kontakt]({{< ref "/contacts#pod-o-gym" >}})) hned na začátku vašeho rezervovaného času!
 
-{{<figure src="sauna-1.jpg" alt="Sauna photo 1" width="90%" align="center">}}
-
-{{<figure src="sauna-2.jpg" alt="Sauna photo 2" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="sauna-1.jpg" alt="Sauna photo 1">}}
+    {{<figure src="sauna-2.jpg" alt="Sauna photo 2">}}
+{{</figure_gallery>}}
 
 ### Pravidelné a občasné kurzy
 

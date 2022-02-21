@@ -54,3 +54,45 @@ Tyto konference jsou moderované, pokud bys chtěl poslat nějakou důležitou i
 Tyto konference je možné přihlásit i odhlásit v Hydře: https://hydra.pod.cvut.cz/mailing.
 
 {{<figure src="hydra_mailing.png" alt="Email conferences in Hydra">}}
+
+## Více o naší síti
+
+Z bezpečnostních důvodů nebudeme zveřejňovat detaily o tom, jak funguje naše interní síť do detailu. Vítáme ale pomoc při rozvoji počítačové sítě, pokud se chceš zapojit a získat nějakou praxi, neboj se napsat na mail <admin@pod.cvut.cz>.
+
+### Co všechno je "síť"
+
+Všechno, co má na našich kolejích nějakou souvislost s počítači spravujeme do nejmenšího detailu my, tedy skupina studentů, které to baví a dělají to ve svém volném čase. Jedinou výjimkou jsou počítače SÚZu, které si spravují sami (kanceláře, sklad na Fku, údržbáři, menza, ...).
+
+#### Fyzická infrastruktura
+
+- Momentálně je síť vystavěna na prvcích firmy Cisco a Huawei. Konkrétně to jsou L3 přepínače od Cisco (C3560, C4500) a Huawei přepínače (stack S5720 a S6720).
+- Optické spoje propojující jednotlivé bloky (redundance je zajištěná křížovou a kruhovou fyzickou topologií), metalické spoje (připojení AP) a strukturovaná kabeláž (připojení jednotlivých pokojů do serverovny na bloku).
+- Bezdrátová konektivita je zajištěna AP od firmy Ruckus, konkrétně modely R510.
+- Drtivá většina serverů běží na OS Debian.
+
+{{<figure_gallery>}}
+    {{<figure src="rack-1.jpg" alt="Rack 1">}}
+    {{<figure src="rack-2.jpg" alt="Rack 2">}}
+{{</figure_gallery>}}
+
+#### Logická infrastruktura
+
+- Hlavní (core) služby: DHCP ([isc-dhcp](https://www.isc.org/dhcp/)), DNS ([knot-dns](https://www.knot-dns.cz/), [knot-resolver](https://www.knot-resolver.cz/)), RADIUS ([freeradius](https://freeradius.org/)).
+  - Spravujeme doménu pod.cvut.cz, IPv4 rozsah 147.32.88.0/21 a IPv6 rozsah 2001:718:2:800:/56.
+- Vlastní "hostingové" služby
+  - Webové aplikace, stránky a služby: PHP ([Laravel](https://laravel.com/)), Python ([Django](https://www.djangoproject.com/)), Javascript ([NodeJS](https://nodejs.org/en/), [Angular](https://angular.io/)), Nginx i Apache, PostgreSQL, MySQL, Redis, RabbitMQ
+  - Mailové služby
+    - Mailové schránky @pod.cvut.cz, @mezibloky.pod.cvut.cz ([mailcow-dockerized](https://mailcow.github.io/mailcow-dockerized-docs/))
+    - Emailové aliasy pro všechny členy klubu z/na @pod.cvut.cz adresy
+    - Emailové konference ([Mailman 3](https://list.org/))
+  - Vlastní informační systém - [Hydra](https://hydra.pod.cvut.cz)
+    - Systém navržený ve stylu mikroslužeb
+    - Backend: Python (Django) s HTTP API
+    - Frontend: Bootstrap 3 (AdminLTE) + JS (cílem je přepsat frontend pomocí nějakého frameworku - help needed -> [Kontakt na správce systémů]({{< ref "/contacts/index.md#síťaři" >}}))
+  - Konkrétní webové stránky/aplikace
+    - Oficiální webové stránky klubu ([Hugo](https://gohugo.io/)) - [pod.cvut.cz](https://pod.cvut.cz)
+    - Rezervační systém ve vývoji - [olymp.pod.cvut.cz](https://olymp.pod.cvut.cz)
+    - Cloudové úložiště pro aktivní členy klubu ([Nextcloud](https://nextcloud.com/)) - [cloud.pod.cvut.cz](https://cloud.pod.cvut.cz)
+    - Webmail pro aktivní členy klubu - [webmail.pod.cvut.cz](https://webmail.pod.cvut.cz)
+- Kartový systém (momentálně od firmy IMA, hledáme náhradu za moderní řešení)
+- Kamerový systém postavený na kamerách od firmy Hikvision
