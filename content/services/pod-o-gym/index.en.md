@@ -25,17 +25,17 @@ Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) 
 
 **All members who are training in our gym must be acquainted with [our rules](https://gym.pod.cvut.cz/provozni_rad.pdf)!** (Translation in progress, sorry.)
 
-**Main rule for becoming member of our gym is that you must live in our dormitory Podolí. Exception can be made only by Pod-O-Gym manager ([contact]({{< ref "/contacts#pod-o-gym" >}})).**
+**Main rule for becoming member of our gym is that you must live in our dormitory Podolí.**
 
 ### Exercise machines & free weights
 
 We use various machines from company HBP.
 
-{{<figure src="main-room-1.jpg" alt="Main room photo 1" width="90%" align="center">}}
-
-{{<figure src="main-room-2.jpg" alt="Main room photo 2" width="90%" align="center">}}
-
-{{<figure src="leg-room-1.jpg" alt="Leg room photo 1" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="main-room-2.jpg" alt="Main room photo 2">}}
+    {{<figure src="main-room-1.jpg" alt="Main room photo 1">}}
+    {{<figure src="leg-room-1.jpg" alt="Leg room photo 1">}}
+{{</figure_gallery>}}
 
 We have at our disposal dumbbells ranging from 0,5kg to 55kg. Kettlebells from 6kg to 32kg. 6 Barbells, 6 smaller specialized barbells and over 1 ton of weights. Weight plates we use are mainly from companies Ivanko and Strong Lifts.
 
@@ -80,9 +80,10 @@ You can reserve sauna from reservation system here: <https://gym.pod.cvut.cz/rez
 
 If you encounter any problems with sauna room regarding damage, or other, you must e-mail these to Pod-O-Gym manager ([contact]({{< ref "/contacts#pod-o-gym" >}})) in the beginning of your reserved time!
 
-{{<figure src="sauna-1.jpg" alt="Sauna photo 1" width="90%" align="center">}}
-
-{{<figure src="sauna-2.jpg" alt="Sauna photo 2" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="sauna-1.jpg" alt="Sauna photo 1">}}
+    {{<figure src="sauna-2.jpg" alt="Sauna photo 2">}}
+{{</figure_gallery>}}
 
 ### Regular and occasional courses
 
