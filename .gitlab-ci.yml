@@ -1,70 +1,24 @@
-image: "gitlab/dind"
+image: docker:20.10
 
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
+services:
+  - docker:20.10-dind
 
-stages:
-  - build
-  - deploy
+before_script:
+  - docker info
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
 
 build_dev:
   stage: build
-  image: "janpicka/pod_hugo_node_build:latest"
-  before_script:
-    - git submodule update --init --recursive
-    - npm install
   script: 
-    - npx gulp build -f gulpfile_dev.js
-  artifacts:
-    paths:
-      - public
-    expire_in: 2 days
+    - docker-compose build web_dev
+    - docker-compose push web_dev
   only:
     - develop
 
 build_prod:
   stage: build
-  image: "janpicka/pod_hugo_node_build:latest"
-  before_script:
-    - git submodule update --init --recursive
-    - npm install
   script: 
-    - npx gulp build -f gulpfile_prod.js
-  artifacts:
-    paths:
-      - public
-    expire_in: 2 days
+    - docker-compose build web_prod
+    - docker-compose push web_prod
   only:
     - main
-
-deploy_dev:
-  image: janpicka/orthos_pod_deploy
-  stage: deploy
-  environment:
-    name: development
-    url: https://new.pod.cvut.cz
-  before_script:
-    - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
-    - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
-  script:
-    - rsync -az --omit-dir-times --no-o --no-g --no-perms public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
-  only:
-    - develop
-  when: on_success
-
-deploy_prod:
-  image: janpicka/orthos_pod_deploy
-  stage: deploy
-  environment:
-    name: production
-    url: https://pod.cvut.cz
-  before_script:
-    - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
-    - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
-  script:
-    - rsync -az --omit-dir-times --no-o --no-g --no-perms public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/pod.cvut.cz/web/ --delete
-  only:
-    - main
-  when: on_success
