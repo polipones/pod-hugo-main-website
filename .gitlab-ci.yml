@@ -1,10 +1,9 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  REG_PREFIX: registry.pod.cvut.cz/internal/pod-o-lee/
-  TAG_LATEST_DEV: $REG_PREFIX/main-web-dev:latest
-  TAG_COMMIT_DEV: $REG_PREFIX/main-web-dev:$CI_COMMIT_SHORT_SHA
-  TAG_LATEST_PROD: $REG_PREFIX/main-web-prod:latest
-  TAG_COMMIT_PROD: $REG_PREFIX/main-web-prod:$CI_COMMIT_SHORT_SHA
+  TAG_LATEST_DEV: registry.pod.cvut.cz/internal/pod-o-lee//main-web-dev:latest
+  TAG_COMMIT_DEV: registry.pod.cvut.cz/internal/pod-o-lee//main-web-dev:$CI_COMMIT_SHORT_SHA
+  TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee//main-web-prod:latest
+  TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee//main-web-prod:$CI_COMMIT_SHORT_SHA
 
 stages:
   - build
