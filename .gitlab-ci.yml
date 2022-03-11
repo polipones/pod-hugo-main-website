@@ -35,6 +35,7 @@ build_prod:
     - main
 
 deploy_dev:
+  stage: deploy
   script:
     - echo "Good"
   only:
