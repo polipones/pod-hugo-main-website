@@ -1,23 +1,25 @@
-image: registry.pod.cvut.cz/cache/docker/compose:alpine-1.29.2
-
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
+  REG_PREFIX: registry.pod.cvut.cz/internal/pod-o-lee/
+  TAG_LATEST_DEV: $REG_PREFIX/main-web-dev:latest
+  TAG_COMMIT_DEV: $REG_PREFIX/main-web-dev:$CI_COMMIT_SHORT_SHA
+  TAG_LATEST_PROD: $REG_PREFIX/main-web-prod:latest
+  TAG_COMMIT_PROD: $REG_PREFIX/main-web-prod:$CI_COMMIT_SHORT_SHA
 
 stages:
   - build
   - deploy
 
-before_script:
-  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
-
 build_dev:
   stage: build
+  image: registry.pod.cvut.cz/cache/library/docker:latest
   script:
-    - DOCKER_BUILDKIT=1 COMPOSE_DOCKER_CLI_BUILD=1 docker-compose build web_dev
-    - docker-compose push web_dev
+    - DOCKER_BUILDKIT=1 docker build --target web_dev --cache-from $TAG_LATEST_DEV -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV .
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
+    - docker push $TAG_COMMIT_DEV
+    - docker push $TAG_LATEST_DEV
   only:
     - develop
-
 
 build_prod:
   stage: build
@@ -36,8 +38,17 @@ build_prod:
 
 deploy_dev:
   stage: deploy
+  image: registry.pod.cvut.cz/cache/library/alpine:latest
   script:
-    - echo "Good"
+    - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
+    - apk update && apk add openssh-client
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker pull $TAG_COMMIT_DEV"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker container rm -f main-web-dev || true"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker run -d -p 8005:80 --restart unless-stopped --name main-web-dev $TAG_COMMIT_DEV"
+  environment:
+    name: development
+    url: https://new.pod.cvut.cz
   only:
     - develop
   when: on_success
