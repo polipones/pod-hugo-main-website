@@ -1,5 +1,8 @@
 image: registry.pod.cvut.cz/cache/library/docker:20.10
 
+services:
+  - registry.pod.cvut.cz/cache/library/docker:20.10-dind
+
 variables:
   DOCKER_HOST: tcp://docker:2375
 
