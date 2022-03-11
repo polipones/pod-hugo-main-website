@@ -14,7 +14,7 @@ build_dev:
   stage: build
   image: registry.pod.cvut.cz/cache/library/docker:latest
   script:
-    - DOCKER_BUILDKIT=1 docker build --target web_dev --cache-from $TAG_LATEST_DEV -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV .
+    - DOCKER_BUILDKIT=1 docker build --target web_dev -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV --build-arg BUILDKIT_INLINE_CACHE=1 --cache-from $TAG_LATEST_DEV .
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
     - docker push $TAG_COMMIT_DEV
     - docker push $TAG_LATEST_DEV
