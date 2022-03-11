@@ -1,9 +1,9 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  TAG_LATEST_DEV: registry.pod.cvut.cz/internal/pod-o-lee//main-web-dev:latest
-  TAG_COMMIT_DEV: registry.pod.cvut.cz/internal/pod-o-lee//main-web-dev:$CI_COMMIT_SHORT_SHA
-  TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee//main-web-prod:latest
-  TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee//main-web-prod:$CI_COMMIT_SHORT_SHA
+  TAG_LATEST_DEV: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev:latest
+  TAG_COMMIT_DEV: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev:$CI_COMMIT_SHORT_SHA
+  TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:latest
+  TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:$CI_COMMIT_SHORT_SHA
 
 stages:
   - build
@@ -13,7 +13,7 @@ build_dev:
   stage: build
   image: registry.pod.cvut.cz/cache/library/docker:latest
   script:
-    - DOCKER_BUILDKIT=1 docker build --target web_dev -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV .
+    - DOCKER_BUILDKIT=1 docker build --target web_dev -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV --build-arg BUILDKIT_INLINE_CACHE=1 --cache-from $TAG_LATEST_DEV .
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
     - docker push $TAG_COMMIT_DEV
     - docker push $TAG_LATEST_DEV
