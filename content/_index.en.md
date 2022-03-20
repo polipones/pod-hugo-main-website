@@ -24,7 +24,7 @@ We do not just provide the internet connection, we also take care of providing e
 On top of that, we organise various social, cultural and sports events.
 However, the Podolí dormitory is property of [CTU](https://cvut.cz/). It is being administered by [SUZ ČVUT (The Service Facilities Administration of the Czech Technical University in Prague)](https://www.suz.cvut.cz/koleje/koleje-podoli) throughout the whole year.
 
-Please, if you find a defect anywhere in the Podolí dormitory, use the [defect reporting system](https://www.suz.cvut.cz/intranet) to let us know.
+Please, if you find a defect anywhere in the Podolí dormitory, use the [defect reporting system](https://web.suz.cvut.cz/KnihaZavad) in ISKAM (menu Accommodation -> Defect log).
 
 Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
 
