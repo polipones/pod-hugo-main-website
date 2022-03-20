@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build",
-    "dev": "scripts/fetch_contacts.sh && hugo server --disableFastRender --navigateToChanged --ignoreCache --verbose --bind='0.0.0.0' --path-warnings --i18n-warnings --templateMetricsHints"
+    "dev": "sh scripts/fetch_contacts.sh && hugo server --disableFastRender --navigateToChanged --ignoreCache --verbose --bind='0.0.0.0' --path-warnings --i18n-warnings --templateMetricsHints"
   },
   "author": "Jan Picka (j.picka@pod.cvut.cz)",
   "license": "MIT",
