@@ -23,7 +23,7 @@ Koleje Podolí patří [ČVUT](https://cvut.cz/). O správu kolejí se stará [S
 
 Pokud nebudeš mít čas, nebo chuť vařit, určitě vás potěší přítomnost [menzy](https://www.suz.cvut.cz/menzy/menza-podoli) přímo v areálu a jídelníček najdeš [zde](https://agata.suz.cvut.cz/jidelnicky/index.php?clPodsystem=4).
 
-Pokud najdeš závadu na koleji, nahlas to v [závadovém systému](https://www.suz.cvut.cz/intranet).
+Pokud najdeš závadu na koleji, nahlas to v [závadovém systému](https://web.suz.cvut.cz/KnihaZavad) v ISKAMu (menu Ubytování -> Kniha závad).
 
 Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
 

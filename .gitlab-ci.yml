@@ -1,7 +1,9 @@
-image: "gitlab/dind"
-
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
+  TAG_LATEST_DEV: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev:latest
+  TAG_COMMIT_DEV: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev:$CI_COMMIT_SHORT_SHA
+  TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:latest
+  TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:$CI_COMMIT_SHORT_SHA
 
 stages:
   - build
@@ -9,16 +11,12 @@ stages:
 
 build_dev:
   stage: build
-  image: "janpicka/pod_hugo_node_build:latest"
-  before_script:
-    - git submodule update --init --recursive
-    - npm install
-  script: 
-    - npx gulp build -f gulpfile_dev.js
-  artifacts:
-    paths:
-      - public
-    expire_in: 2 days
+  image: registry.pod.cvut.cz/cache/library/docker:20.10
+  script:
+    - DOCKER_BUILDKIT=1 docker build --target web_dev -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV --build-arg BUILDKIT_INLINE_CACHE=1 --cache-from $TAG_LATEST_DEV .
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
+    - docker push $TAG_COMMIT_DEV
+    - docker push $TAG_LATEST_DEV
   only:
     - develop
 
@@ -38,17 +36,18 @@ build_prod:
     - main
 
 deploy_dev:
-  image: janpicka/orthos_pod_deploy
   stage: deploy
+  image: registry.pod.cvut.cz/cache/library/alpine:latest
+  script:
+    - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
+    - apk update && apk add openssh-client
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker pull $TAG_COMMIT_DEV"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker container rm -f main-web-dev || true"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker run -d -p 8005:80 --restart unless-stopped --name main-web-dev $TAG_COMMIT_DEV"
   environment:
     name: development
     url: https://new.pod.cvut.cz
-  before_script:
-    - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
-    - ssh-keyscan -t rsa orthos.pod.cvut.cz >> ~/.ssh/known_hosts
-  script:
-    - rsync -az --omit-dir-times --no-o --no-g --no-perms public/ gitlab-deployer@orthos.pod.cvut.cz:/var/www/new.pod.cvut.cz/web/ --delete
   only:
     - develop
   when: on_success
@@ -68,3 +67,4 @@ deploy_prod:
   only:
     - main
   when: on_success
+
