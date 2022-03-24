@@ -38,7 +38,7 @@ Pro rezervaci použijte prosím rezervační systém.
 
 1. Vytvořte rezervaci v [**rezervačním systému Olymp**](https://olymp.pod.cvut.cz/reservations).
 2. Pošli email s podstatnými informacemi (datum, jméno, pokoj, ID) na adresu <party@pod.cvut.cz>
-3. Pošli email se žádostí a podstatnými informacemi na adresu vedoucí koleje p. Makulové <Nadezda.Makulova@cvut.cz>
+3. Pošli email se žádostí a podstatnými informacemi na adresu vedoucí koleje p. Unzeitig <katerina.unzeitig@cvut.cz>
 4. Na základě emailu a žádosti bude tvá rezervace schválena
 5. Následně tě kontaktuje Vedoucí kolejní skupinky nebo jeden z jeho zástupců a domluví se s tebou na předání příslušenství grilu, čistících pomůcek atd.
 
