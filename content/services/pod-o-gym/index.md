@@ -5,6 +5,8 @@ title: Pod-O-Gym
 url: sluzby/pod-o-gym
 slug: pod-o-gym
 weight: 3
+
+tocopen: true
 ---
 
 ## Aktuality
@@ -23,9 +25,11 @@ Registrace do Pod-O-Gym probíhá následovně:
 
 [Facebook Pod-O-Gym](https://www.facebook.com/podogym)
 
+Pod-O-Gym je otevřený každý den od 05:00 do 00:00.
+
 Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su.cvut.cz/) s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
-**Všichni členové se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/provozni_rad.pdf)!**
+**Všichni členové se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/data/provozni_rad.pdf)!**
 
 **Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí.**
 
@@ -39,7 +43,7 @@ Používáme různé typy posilovacích strojů značky HBP.
     {{<figure src="leg-room-1.jpg" alt="Leg room photo 1">}}
 {{</figure_gallery>}}
 
-Najdete u nás také různé typy volných vah. Klasické jednoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a Strong Lifts.
+Najdete u nás také různé typy volných vah. Klasické jednoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a StrongGear.
 
 ### Kardio
 
