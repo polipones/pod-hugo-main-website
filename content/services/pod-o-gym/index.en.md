@@ -5,6 +5,8 @@ title: Pod-O-Gym
 url: services/pod-o-gym
 slug: pod-o-gym
 weight: 3
+
+tocopen: true
 ---
 
 ## News
@@ -21,9 +23,11 @@ Chairman of club Pod-O-Lee removed all restrictions that were applied to Pod-O-G
 
 [Facebook Pod-O-Gym](https://www.facebook.com/podogym)
 
+Pod-O-Gym is open every day from 05:00 to 00:00.
+
 Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) with area of 340 m². It is located in the same building as canteen of Podolí and the entrance is from the right side of the building. All the information regarding payment can be found on our website here: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
-**All members who are training in our gym must be acquainted with [our rules](https://gym.pod.cvut.cz/provozni_rad.pdf)!** (Translation in progress, sorry.)
+**All members who are training in our gym must be acquainted with [our rules](https://gym.pod.cvut.cz/data/provozni_rad.pdf)!** (Translation in progress, sorry.)
 
 **Main rule for becoming member of our gym is that you must live in our dormitory Podolí.**
 
@@ -37,7 +41,7 @@ We use various machines from company HBP.
     {{<figure src="leg-room-1.jpg" alt="Leg room photo 1">}}
 {{</figure_gallery>}}
 
-We have at our disposal dumbbells ranging from 0,5kg to 55kg. Kettlebells from 6kg to 32kg. 6 Barbells, 6 smaller specialized barbells and over 1 ton of weights. Weight plates we use are mainly from companies Ivanko and Strong Lifts.
+We have at our disposal dumbbells ranging from 0,5kg to 55kg. Kettlebells from 6kg to 32kg. 6 Barbells, 6 smaller specialized barbells and over 1 ton of weights. Weight plates we use are mainly from companies Ivanko and StrongGear.
 
 ### Cardio
 
