@@ -49,14 +49,19 @@ DIČ: CZ67981224
     {{<contact index="hr" role="HR manager">}}
 {{</contact_section>}}
 
+{{<contact_section>}}
+    {{<contact index="sf" role="Správce Pod-O-Film">}}
+{{</contact_section>}}
+
+{{<contact_section>}}
+    {{<contact index="sk" role="Správce kolárny">}}
+{{</contact_section>}}
+
 ### Pod-O-Gym
 
 {{<contact_section>}}
     {{<contact index="sg" role="Správce Pod-O-Gym">}}
     {{<contact index="zsg" role="Zástupce správce Pod-O-Gym">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
     {{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
 {{</contact_section>}}
 
@@ -142,20 +147,22 @@ DIČ: CZ67981224
 ## Předsednická centrála
 
 {{<contact_section>}}
-    {{<contact index="st" role="Správce tiskárny">}}
-    {{<contact index="zst" role="Zástupce správce tiskárny">}}
-
     {{<contact index="sl" role="Správce Pod-O-Lab">}}
     {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
+{{</contact_section>}}
 
-    {{<contact index="sk" role="Správce kolárny">}}
-
+{{<contact_section>}}
     {{<contact index="pc" role="Správce PC učebny">}}
     {{<contact index="zpc" role="Zástupce správce PC učebny">}}
 
+    {{<contact index="st" role="Správce tiskárny">}}
+    {{<contact index="zst" role="Zástupce správce tiskárny">}}
+
     {{<contact index="sdh" role="Správce deskoherny">}}
     {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
+{{</contact_section>}}
 
+{{<contact_section>}}
     {{<contact index="gm" role="Správce Pod-O-Games">}}
     {{<contact index="zgm" role="Zástupce správce Pod-O-Games">}}
 {{</contact_section>}}
