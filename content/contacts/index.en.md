@@ -47,14 +47,19 @@ DIČ: CZ67981224
     {{<contact index="hr" role="HR manager">}}
 {{</contact_section>}}
 
+{{<contact_section>}}
+    {{<contact index="sf" role="Pod-O-Film manager">}}
+{{</contact_section>}}
+
+{{<contact_section>}}
+    {{<contact index="sk" role="Bike room manager">}}
+{{</contact_section>}}
+
 ### Pod-O-Gym
 
 {{<contact_section>}}
     {{<contact index="sg" role="Pod-O-Gym manager">}}
     {{<contact index="zsg" role="Deputy Pod-O-Gym manager">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
     {{<contact index="sgt" role="Member of Pod-O-Gym team">}}
 {{</contact_section>}}
 
@@ -140,20 +145,22 @@ DIČ: CZ67981224
 ## Director's head office
 
 {{<contact_section>}}
-    {{<contact index="st" role="Printer manager">}}
-    {{<contact index="zst" role="Deputy printer manager">}}
-
     {{<contact index="sl" role="Pod-O-Lab manager">}}
     {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
+{{</contact_section>}}
 
-    {{<contact index="sk" role="Bike room manager">}}
-
+{{<contact_section>}}
     {{<contact index="pc" role="PC room manager">}}
     {{<contact index="zpc" role="Deputy PC room manager">}}
 
+    {{<contact index="st" role="Printer manager">}}
+    {{<contact index="zst" role="Deputy printer manager">}}
+
     {{<contact index="sdh" role="Board games room manager">}}
     {{<contact index="zsdh" role="Deputy board games room manager">}}
+{{</contact_section>}}
 
+{{<contact_section>}}
     {{<contact index="gm" role="Pod-O-Games manager">}}
     {{<contact index="zgm" role="Deputy Pod-O-Games manager">}}
 {{</contact_section>}}

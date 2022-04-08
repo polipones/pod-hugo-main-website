@@ -47,14 +47,19 @@ DIČ: CZ67981224
     {{<contact index="hr" role="HR manager">}}
 {{</contact_section>}}
 
+{{<contact_section>}}
+    {{<contact index="sf" role="Менеджер Pod-O-Film">}}
+{{</contact_section>}}
+
+{{<contact_section>}}
+    {{<contact index="sk" role="Администратор хранения велосипедов">}}
+{{</contact_section>}}
+
 ### Pod-O-Gym
 
 {{<contact_section>}}
     {{<contact index="sg" role="Администратор Pod-O-Gym">}}
     {{<contact index="zsg" role="Заместитель администратора Pod-O-Gym">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
     {{<contact index="sgt" role="Член команды Pod-O-Gym">}}
 {{</contact_section>}}
 
@@ -140,20 +145,22 @@ DIČ: CZ67981224
 ## Председательская
 
 {{<contact_section>}}
-    {{<contact index="st" role="Администратор принтера">}}
-    {{<contact index="zst" role="Заместитель администратора принтера">}}
-
     {{<contact index="sl" role="Администратор Pod-O-Lab">}}
     {{<contact index="zsl" role="Заместитель администратора Pod-O-Lab">}}
+{{</contact_section>}}
 
-    {{<contact index="sk" role="Администратор хранения велосипедов">}}
-
+{{<contact_section>}}
     {{<contact index="pc" role="Администратор компьютерного класса">}}
     {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
 
+    {{<contact index="st" role="Администратор принтера">}}
+    {{<contact index="zst" role="Заместитель администратора принтера">}}
+
     {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
     {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
+{{</contact_section>}}
 
+{{<contact_section>}}
     {{<contact index="gm" role="Администратор Pod-O-Games">}}
     {{<contact index="zgm" role="Заместитель администратора Pod-O-Games">}}
 {{</contact_section>}}
