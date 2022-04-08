@@ -120,13 +120,10 @@ languages:
       footer:
         - name: Dokumenty
           url: dokumenty
-          weight: 1
-        - name: Koronavirus
-          url: koronavirus
-          weight: 2
+          weight: 8
         - name: Hledat
           url: hledat
-          weight: 3
+          weight: 9
   en:
     languageName: ":en:"
     languageAltTitle: English
@@ -154,13 +151,10 @@ languages:
       footer:
         - name: Documents
           url: documents
-          weight: 1
-        - name: Covid info
-          url: covid
-          weight: 2
+          weight: 8
         - name: Search
           url: search
-          weight: 3
+          weight: 9
   ru:
     languageName: ":ru:"
     languageAltTitle: русский
@@ -191,7 +185,7 @@ languages:
       footer:
         - name: Документы
           url: documents
-          weight: 1
-        - name: Коронавирус
-          url: covid
-          weight: 2
+          weight: 8
+        - name: Поиск
+          url: search
+          weight: 9
