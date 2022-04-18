@@ -40,23 +40,6 @@ DIČ: CZ67981224
     {{<contact index="zsn" role="Zástupce správce sítě">}}
 {{</contact_section>}}
 
-### Projekty, PR a HR
-
-{{<contact_section>}}
-    {{<contact index="sp" role="Správce projektů">}}
-    {{<contact index="zsp" role="Zástupce správce projektů">}}
-    {{<contact index="prt" role="Člen PR týmu">}}
-    {{<contact index="hr" role="HR manager">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="sf" role="Správce Pod-O-Film">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="sk" role="Správce kolárny">}}
-{{</contact_section>}}
-
 ### Pod-O-Gym
 
 {{<contact_section>}}
@@ -70,6 +53,43 @@ DIČ: CZ67981224
 {{<contact_section>}}
     {{<contact index="sh" role="Správce hudebny">}}
     {{<contact index="zsh" role="Zástupce správce hudebny">}}
+{{</contact_section>}}
+
+## Projekty, PR a HR
+
+{{<contact_section>}}
+    {{<contact index="sp" role="Správce projektů">}}
+    {{<contact index="zsp" role="Zástupce správce projektů">}}
+    {{<contact index="pr" role="PR manažer">}}
+    {{<contact index="prt" role="Člen PR týmu">}}
+    {{<contact index="hr" role="HR manažer">}}
+{{</contact_section>}}
+
+### Pod-O-Film
+
+{{<contact_section>}}
+    {{<contact index="sf" role="Správce Pod-O-Film">}}
+{{</contact_section>}}
+
+### Pod-O-Games
+
+{{<contact_section>}}
+    {{<contact index="gm" role="Správce Pod-O-Games">}}
+    {{<contact index="zgm" role="Zástupce správce Pod-O-Games">}}
+{{</contact_section>}}
+
+### Kolárna
+
+{{<contact_section>}}
+    {{<contact index="sk" role="Správce kolárny">}}
+    {{<contact index="zsk" role="Zástupce správce kolárny">}}
+{{</contact_section>}}
+
+### Deskoherna
+
+{{<contact_section>}}
+    {{<contact index="sdh" role="Správce deskoherny">}}
+    {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
 {{</contact_section>}}
 
 ## Blok A
@@ -157,14 +177,6 @@ DIČ: CZ67981224
 
     {{<contact index="st" role="Správce tiskárny">}}
     {{<contact index="zst" role="Zástupce správce tiskárny">}}
-
-    {{<contact index="sdh" role="Správce deskoherny">}}
-    {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="gm" role="Správce Pod-O-Games">}}
-    {{<contact index="zgm" role="Zástupce správce Pod-O-Games">}}
 {{</contact_section>}}
 
 ### Kolejní skupinka

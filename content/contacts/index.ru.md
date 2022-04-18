@@ -29,30 +29,13 @@ DIČ: CZ67981224
 ### Администраторы сети
 
 {{<contact_section>}}
-        {{<contact index="ss" role="Системний администратор">}}
-        {{<contact index="zss" role="Zástupce správce systémů">}}
+    {{<contact index="ss" role="Системный администратор">}}
+    {{<contact index="zss" role="Заместитель системного администратора">}}
 {{</contact_section>}}
 
 {{<contact_section>}}
     {{<contact index="sn" role="Администратор сети">}}
     {{<contact index="zsn" role="Заместитель администратора сети ">}}
-{{</contact_section>}}
-
-### Проекты, PR и HR
-
-{{<contact_section>}}
-    {{<contact index="sp" role="Администратор проектов">}}
-    {{<contact index="zsp" role="Заместитель администратора проектов">}}
-    {{<contact index="prt" role="Член PR-команды">}}
-    {{<contact index="hr" role="HR manager">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="sf" role="Менеджер Pod-O-Film">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="sk" role="Администратор хранения велосипедов">}}
 {{</contact_section>}}
 
 ### Pod-O-Gym
@@ -68,6 +51,43 @@ DIČ: CZ67981224
 {{<contact_section>}}
     {{<contact index="sh" role="Администратор музыкальной студии">}}
     {{<contact index="zsh" role="Заместитель администратора музыкальной студии">}}
+{{</contact_section>}}
+
+## Проекты, PR и HR
+
+{{<contact_section>}}
+    {{<contact index="sp" role="Администратор проектов">}}
+    {{<contact index="zsp" role="Заместитель администратора проектов">}}
+    {{<contact index="pr" role="PR manager">}}
+    {{<contact index="prt" role="Член PR-команды">}}
+    {{<contact index="hr" role="HR manager">}}
+{{</contact_section>}}
+
+### Pod-O-Film
+
+{{<contact_section>}}
+    {{<contact index="sf" role="Менеджер Pod-O-Film">}}
+{{</contact_section>}}
+
+### Pod-O-Games
+
+{{<contact_section>}}
+    {{<contact index="gm" role="Администратор Pod-O-Games">}}
+    {{<contact index="zgm" role="Заместитель администратора Pod-O-Games">}}
+{{</contact_section>}}
+
+### Комната для хранения велосипедов
+
+{{<contact_section>}}
+    {{<contact index="sk" role="Администратор хранения велосипедов">}}
+    {{<contact index="zsk" role="Заместитель администратора по хранению велосипедов">}}
+{{</contact_section>}}
+
+### Комната настольных игр
+
+{{<contact_section>}}
+    {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
+    {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
 {{</contact_section>}}
 
 ## Блок A
@@ -155,14 +175,6 @@ DIČ: CZ67981224
 
     {{<contact index="st" role="Администратор принтера">}}
     {{<contact index="zst" role="Заместитель администратора принтера">}}
-
-    {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
-    {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="gm" role="Администратор Pod-O-Games">}}
-    {{<contact index="zgm" role="Заместитель администратора Pod-O-Games">}}
 {{</contact_section>}}
 
 ### Группка общежития

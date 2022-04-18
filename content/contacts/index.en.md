@@ -38,23 +38,6 @@ DIČ: CZ67981224
     {{<contact index="zsn" role="Deputy network administrator">}}
 {{</contact_section>}}
 
-### Projects, PR and HR
-
-{{<contact_section>}}
-    {{<contact index="sp" role="Project manager">}}
-    {{<contact index="zsp" role="Deputy project manager">}}
-    {{<contact index="prt" role="Member of PR team">}}
-    {{<contact index="hr" role="HR manager">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="sf" role="Pod-O-Film manager">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="sk" role="Bike room manager">}}
-{{</contact_section>}}
-
 ### Pod-O-Gym
 
 {{<contact_section>}}
@@ -68,6 +51,43 @@ DIČ: CZ67981224
 {{<contact_section>}}
     {{<contact index="sh" role="Music room manager">}}
     {{<contact index="zsh" role="Deputy music room manager">}}
+{{</contact_section>}}
+
+## Projects, PR and HR
+
+{{<contact_section>}}
+    {{<contact index="sp" role="Project manager">}}
+    {{<contact index="zsp" role="Deputy project manager">}}
+    {{<contact index="pr" role="PR manager">}}
+    {{<contact index="prt" role="Member of PR team">}}
+    {{<contact index="hr" role="HR manager">}}
+{{</contact_section>}}
+
+### Pod-O-Film
+
+{{<contact_section>}}
+    {{<contact index="sf" role="Pod-O-Film manager">}}
+{{</contact_section>}}
+
+### Pod-O-Games
+
+{{<contact_section>}}
+    {{<contact index="gm" role="Pod-O-Games manager">}}
+    {{<contact index="zgm" role="Deputy Pod-O-Games manager">}}
+{{</contact_section>}}
+
+### Bike room
+
+{{<contact_section>}}
+    {{<contact index="sk" role="Bike room manager">}}
+    {{<contact index="zsk" role="Deputy bike room manager">}}
+{{</contact_section>}}
+
+### Board games room
+
+{{<contact_section>}}
+    {{<contact index="sdh" role="Board games room manager">}}
+    {{<contact index="zsdh" role="Deputy board games room manager">}}
 {{</contact_section>}}
 
 ## Block A
@@ -155,14 +175,6 @@ DIČ: CZ67981224
 
     {{<contact index="st" role="Printer manager">}}
     {{<contact index="zst" role="Deputy printer manager">}}
-
-    {{<contact index="sdh" role="Board games room manager">}}
-    {{<contact index="zsdh" role="Deputy board games room manager">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="gm" role="Pod-O-Games manager">}}
-    {{<contact index="zgm" role="Deputy Pod-O-Games manager">}}
 {{</contact_section>}}
 
 ### Dormitory group
