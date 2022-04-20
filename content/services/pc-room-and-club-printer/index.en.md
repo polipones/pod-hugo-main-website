@@ -33,6 +33,10 @@ Print prices were stated to be 0,90 CZK for a monochromatic page and 4 CZK for c
 
 In order to use the printer a credit needs to be payed. Credit can be raised via e-mail agreement.
 
+In order to start printing on our printer, you have to contact one of administrators of PC room ([Contacts page]({{< ref "/contacts#directors-head-office" >}})).
+
+After registration, you can login to web interface of print system: <https://printer.pod.cvut.cz>. To check printing credit you can login to your virtual wallet: <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
+
 ### Important reminder
 
 Do not forget the fact that the printer prints coloured pages primarily, if you need to print monochromatic, you need to have it set correctly. **Photography print is prohibited.**
