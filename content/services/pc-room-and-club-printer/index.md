@@ -31,9 +31,9 @@ Kontakt: <tisk@pod.cvut.cz>
 
 Ceny za tisk byly stanoveny na 0,90 Kč za černobílou stránku a 4 Kč za stránku barevnou (v ceně tisku je zahrnut i papír).
 
-Abyste tedy mohli tiskárnu využívat, je nutné si zaplatit kredit. Dobít kredit je možné pouze domluvou přes email. Stav vašeho kreditu si můžete zjistit na webu, po [přihlášení do MyQ](http://tisk.pod.cvut.cz:8080/cs/).
+Abyste tedy mohli tiskárnu využívat, je nutné si nechat založit účet a zaplatit nabití kreditu. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email ([Kontakty]({{< ref "/contacts#předsednická-centrála" >}})).
 
-Tisk je prozatím možný pouze z flashdisku (pouze formát FAT32), návod je vyvěšen u tiskárny. Podporované formáty k tisku: PDF, DOCX, JPEG. Doporučujeme tisknout vše z PDF, předejdete nepříjemné změně vzhledu dokumentu.
+Po registraci se můžete přihlásit k webovému rozhraní našeho systému pro tisk: <https://printer.pod.cvut.cz>. Zjištění stavu vašeho kreditu a případné nabití přes voucher je možné provést ve vaší virtuální peněžence: <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
 
 ### Důležité upozornění
 
