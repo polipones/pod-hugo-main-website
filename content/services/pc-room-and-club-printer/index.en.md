@@ -39,7 +39,8 @@ After registration, you can login to web interface of print system: <https://pri
 
 ### Important reminder
 
-Do not forget the fact that the printer prints coloured pages primarily, if you need to print monochromatic, you need to have it set correctly. **Photography print is prohibited.**
+- Sending scanned document by emial is not working yet. If you wnat to scan, you have to scan to USB drive.
+- Do not forget the fact that the printer prints coloured pages primarily, if you need to print monochromatic, you need to have it set correctly. **Photography print is prohibited.**
 
 Questions, objections and malfunctions can be sent to <tisk@pod.cvut.cz>.
 
