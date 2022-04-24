@@ -37,7 +37,8 @@ Po registraci se můžete přihlásit k webovému rozhraní našeho systému pro
 
 ### Důležité upozornění
 
-Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit. Zároveň platí **zákaz tisku fotografií**.
+- Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete skenovat, musíte skenovat na USB disk.
+- Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit. Zároveň platí **zákaz tisku fotografií**.
 
 Dotazy, námitky a závady zasílejte na <tisk@pod.cvut.cz>.
 
