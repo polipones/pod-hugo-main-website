@@ -7,6 +7,8 @@ slug: pc-room-printer
 weight: 5
 ---
 
+Managers: [Contacts]({{< ref "/contacts#pc-room-and-printer" >}})
+
 PC room is placed in the block C basement. When accessed via the main block door to the left, downstairs, through the first door on the left.
 
 Access is granted to every Pod-O-Lee member with the basic membership.
