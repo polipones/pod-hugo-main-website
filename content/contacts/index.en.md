@@ -164,10 +164,14 @@ DIČ: CZ67981224
 
 ## Director's head office
 
+### Pod-O-Lab
+
 {{<contact_section>}}
     {{<contact index="sl" role="Pod-O-Lab manager">}}
     {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
 {{</contact_section>}}
+
+### PC room and printer
 
 {{<contact_section>}}
     {{<contact index="pc" role="PC room manager">}}

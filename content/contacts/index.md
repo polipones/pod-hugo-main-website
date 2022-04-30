@@ -166,10 +166,14 @@ DIČ: CZ67981224
 
 ## Předsednická centrála
 
+### Pod-O-Lab
+
 {{<contact_section>}}
     {{<contact index="sl" role="Správce Pod-O-Lab">}}
     {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
 {{</contact_section>}}
+
+### PC učebna a tiskárna
 
 {{<contact_section>}}
     {{<contact index="pc" role="Správce PC učebny">}}
