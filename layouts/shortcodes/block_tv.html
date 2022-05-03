@@ -1,6 +1,6 @@
 <p>
     {{ $tvs := (index (.Page.Scratch.Get "people") .Params.index) }}
-    {{ range $tvs }}
+    {{ range sort $tvs "room" }}
     <div>
         <strong>{{ .name }}</strong>, {{ if eq .room "None" }}---{{ else }}{{ .room }}{{ end }}, <a href="mailto:{{ .email_alias}}@pod.cvut.cz">{{ .email_alias }}@pod.cvut.cz</a>
     </div>
