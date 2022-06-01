@@ -9,15 +9,15 @@ slug: gril
 weight: 6
 
 aliases:
-    - /volnocasove-aktivity/grilovani-a-pipa
+  - /volnocasove-aktivity/grilovani-a-pipa
 ---
 
 Správci: Vojtěch Halamka, Jan Vlk  
-Kontakt: party@pod.cvut.cz
+Kontakt: <party@pod.cvut.cz>
 
 Na grilování je určen krb, který se nachází v jiho-západním rohu areálu kolejí (tzn. vedle menzy). Zapůjčení krbu je pro členy klubu zdarma.
 
-### Součásti krbu
+## Součásti krbu
 
 - Rošt na maso
 - Vidlička
@@ -32,32 +32,51 @@ Součástí krbu **není uhlí ani podpalovač**. Každý si tedy uhlí musí 
 
 {{<figure src="grill.jpg" alt="Grill">}}
 
-### Rezervace
+## Návod na půjčení grilu
 
-Pro rezervaci použijte prosím rezervační systém.
+1. Vytvoř si rezervaci v rezervačním systému Olymp.
+    * Do prohlížeče zadej stránku [olymp.pod.cvut.cz](https://olymp.pod.cvut.cz).
+    * Přihlas se stejně jako v Hydře.
+    * V záložce **Rooms** si zjisti, zda je gril v daný termín volný.
+    * Pokud ano, vytvoř si rezervaci v záložce **Reservations**.
+2. Pošli email s důležitými údaji na <party@pod.cvut.cz>.
+    * Tvoje celé jméno, ID (najdeš v Hydře) a pokoj.
+    * Co a kdy chceš půjčit.
+3. Na základě emailu bude tvá žádost vyřízena.
+4. Následně tě kontaktuje Vedoucí Kolejní Skupinky nebo jeden ze zástupců a domluví se s tebou na předání příslušenství.
 
-1. Vytvořte rezervaci v [**rezervačním systému Olymp**](https://olymp.pod.cvut.cz/reservations).
-2. Pošli email s podstatnými informacemi (datum, jméno, pokoj, ID) na adresu <party@pod.cvut.cz>
-3. Pošli email se žádostí a podstatnými informacemi na adresu vedoucí koleje p. Unzeitig <katerina.unzeitig@cvut.cz>
-4. Na základě emailu a žádosti bude tvá rezervace schválena
-5. Následně tě kontaktuje Vedoucí kolejní skupinky nebo jeden z jeho zástupců a domluví se s tebou na předání příslušenství grilu, čistících pomůcek atd.
+**Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 
-Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abychom měli čas na reakci a mohli vše připravit k předání.
+## Provozní řád grilu
 
-### Výpůjční řád krbu
+1. Vstupem do prostoru grilu jste zavázání k dodržování tohoto provozního řádu. Pokud s těmito pravidly nesouhlasíte, opusťte prostor grilu.
+2. Gril zapůjčuje **POUZE VEDOUCÍ KOLEJNÍ SKUPINKY** nebo jeho zástupce se souhlasem vedení koleje na základě předchozí rezervace v systému [Olymp](https://olymp.pod.cvut.cz) a jenom členům klubu. Vstup bez svolení vedoucího kolejní skupinky je klasifikován jako **PORUŠENÍ PROVOZNÍHO ŘÁDU**.
+3. **Předáním příslušenství grilu** je osoba přijímající toto příslušenství definována jako *ORGANIZÁTOR AKCE*.
+4. Při prvním vstupu do prostoru grilu je organizátor akce povinný nahlásit veškeré závady a poškozené vybavení.
+5. Organizátor akce je zodpovědný za účastníky akce (tj. všechny osoby v prostorách grilu a okolí), zároveň zodpovídá za hluk, poškození vybavení a stav okolí grilu.
+6. **Rozdělávání ohně mimo k tomu určený prostor** a **používání tekutého podpalovače** je z důvodu požární ochrany v prostoru grilu **ZAKÁZÁNO**.
+7. **Konzumace drog** nebo jiných zákonem nepovolených látek a je v prostoru grilu **ZAKÁZÁNO**.
+8. **Vykonávání jakékoliv potřeby** je v prostoru grilu **ZAKÁZÁNO**.
+9. Před rozvázáním statusu organizátor akce (navrácení příslušenství grilu vedoucímu kolejní skupiny nebo jeho zástupci) je nutno **vyčistit veškeré zapůjčené příslušenství** (obzvlášť rošt na maso), **odstranit popel z krboviště** a **řádně uklidit gril** a jeho okolí.
+10. Pokud dojde v průběhu akce k jakémukoliv poškození grilu nebo věcí v jeho okolí, je nutno tuto skutečnost nahlásit a domluvit se na způsobu náhrady. V opačném případě, je to bráno jako úmyslné poškozování vybavení koleje. Postihy jsou jasně stanoveny v kolejním řádu.
+11. Způsobené škody budou opraveny nebo zaplaceny, případný finanční dluh bude vymáhán vedením kolejí.
+12. Po 22. hodině je nutné dodržovat noční klid.
 
-1. Každý, kdo si krb vypůjčí, za něj bere zodpovědnost (dále jako zodpovědná osoba)
-2. Krb a příslušenství se půjčuje od Vedoucího kolejní skupinky nebo jednoho z jeho zástupců oproti kolejence.
-3. Ihned po zapůjčení krbu a příslušenství je zodpovědná osoba povinna nahlásit všechny závady správci.
-4. Pro rozdělání ohně se nesmí používat kapalné ani plynné podpalovače.
-5. V krbu lze spalovat dřevěné uhlí, dřevouhelné briketky i samotné dřevo.
+Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž **přijde o možnost** využívání služeb Kolejní Skupinky (sudovna, pípa, gril). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na **ban na základní členství** v klubu Pod-O-Lee.
 
-Po ukončí akce je nutno:
+## GRILL for DUMMIES by Vojta
 
-- Vyčistit veškeré příslušenství (obzvláště rošt na maso).
-- Odstranit popel z krbu a řádně očistit krb.
-- Uklidit okolí krboviště.
+1. Pokud se ti nelíbí řád, tak nelez ke grilu.
+2. Gril půjčuju pouze **JÁ**. Nemáš rezervaci, nemáš tu co dělat.
+3. Dám ti příslušenství ke grilu -> Jsi **ORGANIZÁTOR AKCE**.
+4. Je něco zničený? Řekni mi to rovnou, ne až po akci.
+5. Jsi organizátor -> **Máš to tu na krku se vším všudy**.
+6. **ROZDĚLÁVEJ OHEŇ JEN V GRILU** a **NEPOUŽÍVEJ TEKUTÝ PEPO** ať nepodpálíš celý koleje.
+7. **NEFETUJ MI TADY**, radši si dej pivko a kus masa.
+8. **ZÁCHODY MÁŠ NA BLOCÍCH**, ne v okolí grilu.
+9. Před VRÁCENÍM: UMYJ, CO JSEM TI PUJČIL, VYNES POPEL a UKLID OKOLO.
+10. Když něco rozbiješ, NAHLAS TO ROVNOU, protože na to stejně přijdeme a pak to bude horší.
+11. Co rozbiješ, to OPRAVÍŠ nebo ZAPLATÍŠ. Stát se to může každému, jde o to se jenom dohodnout na řešení.
+12. **PO DESÁTÉ VEČER TROŠKU ZTLUMTE**. Na koleji jsou i další lidi a někteří chtějí spát.
 
-Pokud dojde v průběhu zápůjčky k jakémukoliv poškození krbu, krboviště nebo příslušenství, je nutno toto nahlásit a domluvit se na způsobu náhrady. Pokud se tak neučiní, bude to bráno jako úmyslné poškozování vybavení klubu Pod-O-Lee.
-
-**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání služeb Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**
+*PS: JSME SPRÁVCI, NE UKLÍZEČKY a děláme to zadarmo. Můžeme tě potrestat BANEM nebo tě dát NA ČERNOU LISTINU, ale děláme to neradi, tak nám k tomu nedávej důvod.*
