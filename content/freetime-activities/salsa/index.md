@@ -9,6 +9,7 @@ slug: salsa
 weight: 9
 
 showtoc: false
+draft: true # Remove when ready to publish page
 ---
 Máš rád pohyb?
 
