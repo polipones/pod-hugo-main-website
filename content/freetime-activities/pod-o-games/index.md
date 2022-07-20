@@ -7,11 +7,12 @@ url: volnocasove-aktivity/pod-o-games
 slug: pod-o-games
 # Defines sorting of pages in parent list
 weight: 4
-
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
 Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 4 s VR a Nintendo Switch. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
+
+Kompletní seznam her je zde: [Seznam her v Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
 {{<figure src="games_01.jpg" alt="Games 01">}}
 
@@ -49,7 +50,7 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 12. Za porušení pravidel provozního řádu Pod-O-Games, při kterém dojde k újmě na majetku nebo třetí osoby, je viník povinen vzniklou škodu uhradit.
 13. V místnosti Pod-O-Games je každý povinen dodržovat základní hygienické návyky a před ukončením rezervace vrátit vše do původního stavu.
 14. Každý je povinen respektovat a dodržovat provozní řád Pod-O-Games a zároveň dodržovat interní pravidla klubu Pod-O-Lee, Stanovy klubu Pod-O-Lee, Stanovy SU a zákony České republiky.
-15. V místnosti Pod-O-Games je zakázáno
+15. V místnosti Pod-O-Games je zakázáno:
     - popíjení alkoholických nápojů,
     - konzumace jídla,
     - pít z jiných než uzavíratelných plastových lahví,
@@ -59,7 +60,7 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 
 ### 3. Krok pro zapůjčení místnosti
 
-1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci v [Olympu](https://olymp.pod.cvut.cz).
+1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v rezervačním systému [Olymp](https://olymp.pod.cvut.cz).
 2. Poslat mail s nezbytnými informacemi (Datum, Jméno, pokoj, ID) na adresu: <games@pod.cvut.cz>.
 3. Se vstupem do místnosti vypůjčitel souhlasí, že si přečetl a byl srozuměn s Provozním řádem.
 
@@ -67,6 +68,6 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 
 1. Vypůjčitel potvrzuje rezervaci přebráním klíčů a vstupem do místnosti.
 2. Maximální délka rezervace je 6 hodin.
-3. Rezervaci je možné upravit 15 minut před jejím začátkem.
+3. Rezervaci je možné upravit 24 hodin před jejím začátkem.
 4. Rezervaci je možné vytvořit maximálně 14 dní dopředu.
 5. Do místnosti je možné vstoupit 15 minut před začátkem rezervace.
