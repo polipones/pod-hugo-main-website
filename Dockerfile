@@ -4,7 +4,7 @@ RUN apk update && apk add --no-cache curl git jq rsync openssh-client
 
 RUN mkdir -p ~/.ssh && chmod 700 ~/.ssh
 
-RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.91.1/hugo_0.91.1_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
+RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.101.0/hugo_0.101.0_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
 
 FROM hugo_base as build
 
