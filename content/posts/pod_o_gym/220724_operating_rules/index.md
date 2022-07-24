@@ -23,4 +23,4 @@ date: 2022-07-24T21:30:00+02:00
 layout: post
 ---
 
-Dne 24. 7. 2022 proběhla úprava provozního řádu Pod-O-Gym. Aktuální verzi je možné stáhnout zde: [Provozní řád Pod-O-Gym](../../../services/pod-o-gym/pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také během minulého víkendu vyčistili tatami vapkou.
+Dne 24. 7. 2022 proběhla úprava provozního řádu Pod-O-Gym. Aktuální verzi je možné stáhnout zde: [Provozní řád Pod-O-Gym](/sluzby/pod-o-gym/pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také během minulého víkendu vyčistili tatami vapkou.
