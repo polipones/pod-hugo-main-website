@@ -11,7 +11,7 @@ tocopen: true
 
 ## News
 
-Chairman of club Pod-O-Lee removed all restrictions that were applied to Pod-O-Gym access due to COVID-19 pandemic with [NP2/2022](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022.pdf).
+On 24. 7. 2022 Pod-O-Gym operating rules were updated, you can download them here: [Pod-O-Gym Operating rules](pod_o_gym_operating_rules.pdf). Do not forget to study new rules before your next visit to Pod-O-Gym. Pod-O-Gym manager and his team also cleaned tatami with pressure washer.
 
 ## How to register in our Pod-O-Gym
 
@@ -27,7 +27,7 @@ Pod-O-Gym is open every day from 05:00 to 00:00.
 
 Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) with area of 340 m². It is located in the same building as canteen of Podolí and the entrance is from the right side of the building. All the information regarding payment can be found on our website here: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
-**All members who are training in our gym must be acquainted with [our rules](https://gym.pod.cvut.cz/data/provozni_rad.pdf)!** (Translation in progress, sorry.)
+**All members who are training in our gym must be acquainted with [our rules](pod_o_gym_operating_rules.pdf)!**
 
 **Main rule for becoming member of our gym is that you must live in our dormitory Podolí.**
 
