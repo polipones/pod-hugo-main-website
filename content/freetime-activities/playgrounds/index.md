@@ -12,4 +12,4 @@ showtoc: false
 
 Chceš si zasportovat?
 Chceš si zahrát fotbal, volejbal, tenis nebo něco jiného?
-Více informací [zde](https://www.suz.cvut.cz/koleje/koleje-podoli#hriste).
+Více informací [zde](https://www.suz.cvut.cz/cz/komercni-sluzby/pronajem-sportovist).
