@@ -38,7 +38,9 @@ Míčky určené do stolního fotbálku jsou v jedné ze dvou branek. V případ
 12. Je zakázáno jakkoliv manipulovat s nalíčenými pastmi proti hlodavcům.
 13. Místnost po ukončení zápůjčky je nutné uvést do původního stavu a zavřít okna.
 
-## Kulečník
+## :construction: Kulečník (mimo provoz)
+
+**Místnost je momentálně mimo provoz, omlouváme se za nepříjemnosti.**
 
 Místnost se nachází na bloku D v přízemí a jsou to dveře vlevo hned před schody do prvního patra.
 
