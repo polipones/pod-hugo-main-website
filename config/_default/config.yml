@@ -52,10 +52,12 @@ params:
     iconHeight: 35
 
   socialIcons:
-    - name: instagram
+    - name: "instagram"
       url: "https://www.instagram.com/pod_o_lee/"
-    - name: facebook
+    - name: "facebook"
       url: "https://www.facebook.com/groups/klub.Podolee"
+    - name: "discord"
+      url: "https://discord.gg/bSP7qnZY5y"
 
   analytics:
     google:

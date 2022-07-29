@@ -35,9 +35,8 @@ Ať už jsi student, doktorand či samoplátce a potřebuješ s čímkoliv porad
 
 Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důležité blokové informace, např. kdy se koná akce Poznej svého správce: [Blok A](http://www.facebook.com/groups/A.Podolee/), [Blok B](http://www.facebook.com/groups/B.Podolee/), [Blok C](http://www.facebook.com/groups/C.Podolee/), [Blok D](http://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](http://www.facebook.com/groups/F.Podolee/).
 
-Fotky a videa z akcí i ze života můžeš najít na klubovém Instagramu: [pod_o_lee](https://www.instagram.com/pod_o_lee/).
-
-Máme také Discord server, pokud by sis chtěl s kamarády z kolejí něco zahrát nebo jen tak popovídat: https://discord.gg/bSP7qnZY5y.
+- [Instagram](https://www.instagram.com/pod_o_lee/)
+- [Discord](https://discord.gg/bSP7qnZY5y)
 
 ## Kalendář klubových akcí
 
