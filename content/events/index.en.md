@@ -8,7 +8,7 @@ slug: events
 # Defines sorting of pages in parent list
 weight: 1
 ---
-## Club events calendat
+## Club events calendar
 
 {{<rawhtml>}}
 
