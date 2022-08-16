@@ -10,10 +10,10 @@ echo "Fetching contacts from Hydra..."
 cd "$script_dir"
 
 # Fetch resource
-response=$(curl -s "$api_url")
+response=$(wget -q -O - "$api_url")
 
 if [[ "$response" == "" ]]; then
-    echo "${prefix}Curl encountered some problem"
+    echo "${prefix}wget encountered some problem"
     exit 0
 fi
 
