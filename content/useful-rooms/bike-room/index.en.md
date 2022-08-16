@@ -11,7 +11,7 @@ weight: 2
 showtoc: false
 ---
 
-Contact to current manager can be found in [Contacts page under Director's head office]({{< ref "/contacts/index.md#directors-head-office" >}}).
+Contact to current manager can be found in [Contacts page under Director's head office]({{< ref "/contacts/index.md#bike-room" >}}).
 
 The room is used for storage of bikes, it can be found in the ground floor of block F. For gaining access the manager needs to be visited and the [declaration of bike room member](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/prohlaseni_clena_kolarny_2021.pdf) must be filled in and signed.
 After that the key to bike room can be borrowed at the gatehouse.

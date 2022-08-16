@@ -11,7 +11,7 @@ weight: 2
 showtoc: false
 ---
 
-Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále]({{< ref "/contacts/index.md#p%C5%99edsednick%C3%A1-centr%C3%A1la" >}}).
+Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále]({{< ref "/contacts/index.md#kolárna" >}}).
 
 Je to místnost pro uložení jízdních kol, najdete ji na Bloku F v přízení. Pro získání přístupu je nutné navštívit správce kolárny a vyplnit [Prohlášení člena kolárny](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/prohlaseni_clena_kolarny_2021.pdf). Poté je možné půjčovat si klíč od kolárny na vrátnici.
 
