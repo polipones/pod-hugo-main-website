@@ -11,7 +11,7 @@ tocopen: true
 
 ## News
 
-On 18. 8. 2022 Pod-O-Gym operating rules were updated, you can download them here: [Pod-O-Gym Operating rules](pod_o_gym_operating_rules.pdf). Do not forget to study new rules before your next visit to Pod-O-Gym. Pod-O-Gym manager and his team also cleaned tatami with pressure washer.
+On 18. 8. 2022 Pod-O-Gym operating rules were updated, you can download them here: [Pod-O-Gym Operating rules](pod_o_gym_operating_rules.pdf). Do not forget to study new rules before your next visit to Pod-O-Gym. Pod-O-Gym manager and his team also cleaned tatami with pressure washer and fixed light in sauna.
 
 ## How to register in our Pod-O-Gym
 
