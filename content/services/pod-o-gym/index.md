@@ -11,7 +11,7 @@ tocopen: true
 
 ## Aktuality
 
-Dne 24. 7. 2022 byl aktualizován provozní řád Pod-O-Gym, dsotupný ke stažení zde: [Provozní řád Pod-O-Gym](pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také během minulého víkendu vyčistili tatami vapkou.
+Dne 18. 8. 2022 byl aktualizován provozní řád Pod-O-Gym, dsotupný ke stažení zde: [Provozní řád Pod-O-Gym](pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také během minulého víkendu vyčistili tatami vapkou.
 
 ## Jak se registrovat do Pod-O-Gym
 
