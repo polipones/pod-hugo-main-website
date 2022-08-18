@@ -12,4 +12,4 @@ showtoc: false
 
 Do you want to play some sport?
 Do you want to play footbal, voleyball, tennis or something else?
-You can use dorm playgrounds, more info [here](https://www.suz.cvut.cz/koleje/koleje-podoli#hriste).
+You can use dorm playgrounds, more info [here](https://www.suz.cvut.cz/en/commercial-services/lease-sports-facilities).

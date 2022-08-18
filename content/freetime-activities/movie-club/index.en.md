@@ -9,10 +9,7 @@ slug: movie-club
 weight: 4
 
 showtoc: false
-
-draft: true # Remove when ready to publish page
 ---
-{{<linktraslations>}} <!-- TODO: remove before publishing draft -->
+The movie club projects films of every genre ranging from Godfather, through westerns to monochromatic films from the first half of the last century. Every movie is followed by a short discussion about the projected movie.
 
-<!-- Write page contents here -->
-<!-- Use Markdown syntax: https://www.markdownguide.org/basic-syntax -->
+We also held weekend marathons of Star Wars and other series. Programme for upcoming month is always pinned at the infromation boards at every block. News and relevant info can be found at the [Facebook page](https://www.facebook.com/Filmov%C3%BD-Klub-Pod-O-Lee-133619003377044/timeline).

@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Website of dormitory club Pod-O-Lee: https://pod.cvut.cz",
   "main": "gulpfile.js",
-  "scripts": {
-    "build": "gulp build",
-    "dev": "git submodule update --init --recursive && sh scripts/fetch_contacts.sh && hugo server --disableFastRender --navigateToChanged --ignoreCache --verbose --bind='0.0.0.0' --path-warnings --i18n-warnings --templateMetricsHints"
-  },
+  "scripts": {},
   "author": "Jan Picka (j.picka@pod.cvut.cz)",
   "license": "MIT",
   "devDependencies": {

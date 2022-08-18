@@ -11,7 +11,7 @@ tocopen: true
 
 ## Aktuality
 
-Předsedou klubu Pod-O-Lee byla zrušena veškerá omezení pro vstup do Pod-O-Gym, která byla zavedena kvůli nemoci COVID-19. Link na nařízení zde: [NP2/2022](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-2-2022.pdf).
+Dne 18. 8. 2022 byl aktualizován provozní řád Pod-O-Gym, dsotupný ke stažení zde: [Provozní řád Pod-O-Gym](pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také během minulého víkendu vyčistili tatami vapkou.
 
 ## Jak se registrovat do Pod-O-Gym
 
@@ -29,7 +29,7 @@ Pod-O-Gym je otevřený každý den od 05:00 do 00:00.
 
 Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su.cvut.cz/) s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
-**Všichni členové se musí seznámit s [provozním řádem](https://gym.pod.cvut.cz/data/provozni_rad.pdf)!**
+**Všichni členové se musí seznámit s [provozním řádem](pod_o_gym_provozni_rad.pdf)!**
 
 **Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí.**
 

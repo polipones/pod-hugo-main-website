@@ -8,7 +8,7 @@ HidePublishDate: true
 HideThisTranslation: true
 ---
 
-{{<figure src="panorama.jpg" alt="Panorama" disable_lazy_loading=true >}}
+{{<figure src="panorama.jpg" alt="Panorama" loading=eager >}}
 
 ## Russian translation in progress...
 

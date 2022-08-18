@@ -1,35 +1,29 @@
-FROM node:16-alpine3.12 as hugo_base
-
-RUN apk update && apk add --no-cache curl git jq rsync openssh-client
-
-RUN mkdir -p ~/.ssh && chmod 700 ~/.ssh
-
-RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.91.1/hugo_0.91.1_Linux-64bit.tar.gz | tar -xz && mv hugo /usr/local/bin/hugo
-
-FROM hugo_base as build
-
-WORKDIR /app
-
-COPY package.json package-lock.json ./
-
-RUN npm ci
+# Development
+FROM klakegg/hugo:0.101.0-ext-alpine as hugo_dev
 
 COPY ./ ./
 
-RUN git submodule update --init --recursive
+RUN apk add jq && \
+    git submodule update --init --recursive
 
-FROM build as g_prod
+ENTRYPOINT [ "./scripts/run_server.sh" ]
 
-RUN npx gulp build -f gulpfile_prod.js
+# Production
+FROM klakegg/hugo:0.101.0-ext-alpine-ci AS hugo_onbuild
 
-FROM build as g_dev
+ARG hugo_env=production
 
-RUN npx gulp build -f gulpfile_dev.js
+ENV HUGO_ENV=${hugo_env}
 
-FROM nginx:alpine as web_prod
+COPY ./ ./
 
-COPY --from=g_prod /app/public/ /usr/share/nginx/html/
+RUN apk add jq
 
-FROM nginx:alpine as web_dev
+RUN git submodule update --init --recursive && \
+    ./scripts/fetch_contacts.sh
 
-COPY --from=g_dev /app/public/ /usr/share/nginx/html/
+RUN hugo
+
+FROM nginx:alpine as hugo_prod
+
+COPY --from=hugo_onbuild /src/public /usr/share/nginx/html

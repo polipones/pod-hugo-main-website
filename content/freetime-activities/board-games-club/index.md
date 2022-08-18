@@ -11,7 +11,7 @@ weight: 2
 showtoc: false
 ---
 
-Kontakt na správce je možné najít na stránce [Kontakty]({{< ref "/contacts/index.md#p%c5%99edsednick%c3%a1-centr%c3%a1la" >}}).
+Kontakt na správce je možné najít na stránce [Kontakty]({{< ref "/contacts/index.md#deskoherna" >}}).
 
 Podolské deskovky mají už dlouholetou tradici, díky čemuž jsme posbírali velkou spoustu nejrůznějších her. Ať už na večer hledáš relax, chceš poznat nové lidi nebo máš chuť si zasoutěžit v našich turnajích, jsme tu pro tebe!
 
@@ -21,6 +21,6 @@ Seznam her dostupných v deskoherně nalezneš [zde](https://docs.google.com/spr
 
 KDE? Pokoj B206
 
-KDY? pravidelně ve středy od 20:00
+KDY? Pravidelně ve středy od 20:00
 
 {{<figure src="main.jpg" alt="Board games club">}}
