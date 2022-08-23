@@ -12,7 +12,7 @@ weight: 1
 Místnost vhodná pro pořádání oslav a společenských akcí, která se nachází v suterénu bloku B.
 
 Správci: Vojtěch Halamka, Jan Vlk  
-Kontakt: party@pod.cvut.cz
+Kontakt: <party@pod.cvut.cz>
 
 <!-- TODO Foto bude, až bude sudovna komplet po rekonstrukci -->
 
@@ -25,9 +25,10 @@ Pro rezervaci použijte prosím rezervační systém.
 3. Na základě rezervace a tohoto emailu tě kontaktuje Vedoucí kolejní skupinky nebo jeden z jeho zástupců a domluví se s tebou na předání klíčů, čistících pomůcek atd.
 4. Při předání je nutno složit **vratnou zálohu 500 Kč**.
 
-Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abychom měli čas na reakci a mohli vše připravit k předání. 
+Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abychom měli čas na reakci a mohli vše připravit k předání.
 
 ## Řád sudovny
+
 1. Vstupem do prostoru sudovny jste zavázání k dodržování tohoto provozního řádu. Pokud s těmito pravidly nesouhlasíte, opusťte prostor sudovny.
 2. Sudovnu zapůjčuje POUZE VEDOUCÍ KOLEJNÍ SKUPINKY nebo jeho zástupce na základě předchozí rezervace na webu klubu Pod-O-Lee a jenom aktivním členům klubu. Vrátný nemá pravomoc půjčovat klíče a VSTUP BEZ SVOLENÍ VEDOUCÍHO KOLEJNÍ SKUPINKY je klasifikován jako PORUŠENÍ PROVOZNÍHO ŘÁDU.
 3. PŘEDÁNÍM KLÍČŮ je osoba klíče přijímající definována jako ORGANIZÁTOR AKCE.

@@ -10,7 +10,7 @@ weight: 7
 ---
 
 Správci: Vojtěch Halamka, Jan Vlk  
-Kontakt: party@pod.cvut.cz
+Kontakt: <party@pod.cvut.cz>
 
 Na každou správnou párty patří sud a k sudu pípa. Ta naše je dvoukohoutová s integrovaným kompresorem.
 
@@ -25,7 +25,7 @@ Máme k dispozici více narážečů:
 Pro rezervaci použijte prosím rezervační systém.
 
 1. Vytvořte rezervaci na [**rezervačním systému Olymp**](https://olymp.pod.cvut.cz/reservations).
-2. Pošli email s podstatnými informacemi (datum, jméno, pokoj, ID) na adresu <party@pod.cvut.cz>
+2. Pošli email s podstatnými informacemi (datum, jméno, pokoj, ID) na adresu <party@pod.cvut.cz>.
 3. Na základě tohoto email tě kontaktuje Vedoucí kolejní skupinky nebo jeden z jeho zástupců a domluví se s tebou na předání pípy a příslušenství.
 4. Při předání je nutno složit **vratnou zálohu 2000 Kč**.
 
