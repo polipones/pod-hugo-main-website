@@ -18,7 +18,7 @@ Contact: <party@pod.cvut.cz>
 
 1. Make a reservation in our [reservation system Olymp](https://olymp.pod.cvut.cz).
 2. Send an e-mail with crucial info (name, date, ID, room) to <party@pod.cvut.cz>.
-3. Based on this email the Head of dormitory group will contact you and you will agree on a beer tap and accessories.
+3. Based on this email the Head of dormitory group will contact you and you will agree on lending of keys and other accessories.
 4. Amount of **500 CZK is collected as a returnable deposit**.
 
 Reservation has to be made **IN ADVANCE** (a week prior is ideal), so we can have reaction and preparation time.
