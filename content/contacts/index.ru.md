@@ -58,9 +58,11 @@ DIČ: CZ67981224
 {{<contact_section>}}
     {{<contact index="sp" role="Администратор проектов">}}
     {{<contact index="zsp" role="Заместитель администратора проектов">}}
-    {{<contact index="pr" role="PR manager">}}
+    {{<contact index="pr" role="PR-менеджер">}}
+    {{<contact index="zpr" role="Заместитель PR-менеджера">}}
     {{<contact index="prt" role="Член PR-команды">}}
-    {{<contact index="hr" role="HR manager">}}
+    {{<contact index="hr" role="Менеджер по персоналу">}}
+    {{<contact index="zhr" role="Заместитель менеджера по персоналу">}}
 {{</contact_section>}}
 
 ### Pod-O-Film
