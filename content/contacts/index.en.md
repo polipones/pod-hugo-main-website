@@ -59,8 +59,10 @@ DIČ: CZ67981224
     {{<contact index="sp" role="Project manager">}}
     {{<contact index="zsp" role="Deputy project manager">}}
     {{<contact index="pr" role="PR manager">}}
+    {{<contact index="zpr" role="Deputy PR manager">}}
     {{<contact index="prt" role="Member of PR team">}}
     {{<contact index="hr" role="HR manager">}}
+    {{<contact index="zhr" role="Deputy HR manager">}}
 {{</contact_section>}}
 
 ### Pod-O-Film

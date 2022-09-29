@@ -61,8 +61,10 @@ DIČ: CZ67981224
     {{<contact index="sp" role="Správce projektů">}}
     {{<contact index="zsp" role="Zástupce správce projektů">}}
     {{<contact index="pr" role="PR manažer">}}
+    {{<contact index="zpr" role="Zástupce PR manažera">}}
     {{<contact index="prt" role="Člen PR týmu">}}
     {{<contact index="hr" role="HR manažer">}}
+    {{<contact index="zhr" role="Zástupce HR manažera">}}
 {{</contact_section>}}
 
 ### Pod-O-Film
