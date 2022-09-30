@@ -31,6 +31,8 @@ Pokud máte jakékoliv problémy s platbami, pište na <platby@pod.cvut.cz>.
 
 Pro získání informací můžeš použít i naši klubovou [wiki](https://wiki.pod.cvut.cz/).
 
+[Průvodce prváka](AP_CZ.pdf) ti může také přijít vhod.
+
 Ať už jsi student, doktorand či samoplátce a potřebuješ s čímkoliv poradit, chceš být u každé akce pořádané na našich kolejích, nebo se jen seznámit a pobavit se s dalšími skvělými lidmi, přidej se do naší facebookové skupiny: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 
 Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důležité blokové informace, např. kdy se koná akce Poznej svého správce: [Blok A](http://www.facebook.com/groups/A.Podolee/), [Blok B](http://www.facebook.com/groups/B.Podolee/), [Blok C](http://www.facebook.com/groups/C.Podolee/), [Blok D](http://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](http://www.facebook.com/groups/F.Podolee/).
