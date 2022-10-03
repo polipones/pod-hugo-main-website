@@ -23,7 +23,12 @@ Pokud tě hudebna zaujala, můžeš se také přidat k naší [Facebookové skup
 - Digitální zvuková karta Tascam pro nahrávání
 - Sada mikrofonů pro nahrávání bicích
 
-hudebna je konstantně monitorována kamerami.
+Hudebna je konstantně monitorována kamerami.
+
+{{<figure_gallery>}}
+    {{<figure src="music-room-1.jpg" alt="Music room photo 1">}}
+    {{<figure src="music-room-2.jpg" alt="Music room photo 2">}}
+{{</figure_gallery>}}
 
 ## Postup registrace
 
