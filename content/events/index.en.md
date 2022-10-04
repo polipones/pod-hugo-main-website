@@ -81,27 +81,6 @@ Mezibloky webpage: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.c
     {{<figure src="mb_06.jpg" alt="Mezibloky photo">}}
 {{</figure_gallery>}}
 
-<!-- ## Benchpress
-Soutěž je určena studentům (i studentkám) středních a vysokých škol. Soutěží provází zkušení rozhodčí. Soutěží se tradičně o věcné ceny v podobě sportovní výživy.
-
-Muži souteží ve 4 kategoriích:
-- Podolští muži a Muži celkově
-- Skupiny do 75 kg, do 85 kg, do 95 kg a nad 95 kg
-Ženy soutěží ve dvou kategoriích:
-- Podolské ženy a ženy celkově podle wilkse.
-- Výsledek dle zvednuté váhy.
-
-{{<figure src="benchpress.jpg" alt="Benchpress">}} -->
-
-## Fuckup night
-
-Máš nějaký fuckup, o který by ses rád podělil se světem? Tak tohle je právě akce pro tebe! Můžeš tím někomu pomoci do budoucna a nebo se nad tím společně zasmějeme. Pokud máš s fuckupy dlouholetou zkušenost, tak určitě doraz a dej radu ostatním. Určitě se rádi dozví, jak se jim v budoucnu vyvarovat.
-
-{{<figure_gallery>}}
-    {{<figure src="fun_01.jpg" alt="Fuckup night photo">}}
-    {{<figure src="fun_02.jpg" alt="Fuckup night photo">}}
-{{</figure_gallery>}}
-
 ## Meet the block administrators
 
 Are you new at the dorm? Do you want to know more people including the people who can unlock your doors for you or give you access to various things such as internet or gym? For this very purpose this event takes place at every block. For more info including the date of next meet your admin event:
