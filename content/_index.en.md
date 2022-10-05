@@ -26,7 +26,7 @@ However, the Podolí dormitory is property of [CTU](https://cvut.cz/). It is bei
 
 Please, if you find a defect anywhere in the Podolí dormitory, use the [defect reporting system](https://web.suz.cvut.cz/KnihaZavad) in ISKAM (menu Accommodation -> Defect log).
 
-Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
+Access to Hydra is [here](https://hydra.pod.cvut.cz/). You can find what membiership you have paid and for how long or which of your devices are registered to our network.
 
 [Here](https://hydra.pod.cvut.cz/) you can access the Hydra. There you can find for example list of paid memberships and which of your devices have enabled network access.
 

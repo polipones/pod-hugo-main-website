@@ -26,6 +26,11 @@ If you are interested, you can join the [Music room's Facebook group](https://ww
 
 The room has constant camera surveillance.
 
+{{<figure_gallery>}}
+    {{<figure src="music-room-1.jpg" alt="Music room photo 1">}}
+    {{<figure src="music-room-2.jpg" alt="Music room photo 2">}}
+{{</figure_gallery>}}
+
 ## Registration process
 
 ### Dormitory residents
