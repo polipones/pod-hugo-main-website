@@ -14,15 +14,18 @@ Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nacház
 
 Kompletní seznam her je zde: [Seznam her v Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
-{{<figure src="games_01.jpg" alt="Games 01">}}
+{{<figure src="games_02.jpg" alt="Games 02">}}
 
 Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů.
 
-{{<figure src="games_02.jpg" alt="Games 02">}}
+{{<figure_gallery>}}
+    {{<figure src="games_01.jpg" alt="Games 01">}}
+    {{<figure src="games_03.jpg" alt="Games 03">}}
+    {{<figure src="games_04.jpg" alt="Games 04">}}
+    {{<figure src="games_05.jpg" alt="Games 05">}}
+{{</figure_gallery>}}
 
 Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento řád podepisuje a potvrzuje tím že je s ním srozuměn nejen on, ale i lidé, kteří se v místnosti nacházejí. Porušení jakéhokoliv z bodů bude potrestáno zákazem navštěvování Pod-O-Games.
-
-{{<figure src="games_03.jpg" alt="Games 03">}}
 
 ## Provozní řád
 
