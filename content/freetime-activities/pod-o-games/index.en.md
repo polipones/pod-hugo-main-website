@@ -14,15 +14,18 @@ Pod-O-Games is a room dedicated to gamers and movie projections located in A blo
 
 Complete list of games is available here: [List of games in Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
-{{<figure src="games_01.jpg" alt="Games 01">}}
+{{<figure src="games_02.jpg" alt="Games 02">}}
 
 The room is equipped with a 4K projector to which you can also connect your own PC and watch a movie. Sound is delivered by Bose speakers, so we apologize to everyone above the gaming room. There are also a handful of fatboys and a convertible couch.
 
-{{<figure src="games_02.jpg" alt="Games 02">}}
+{{<figure_gallery>}}
+    {{<figure src="games_01.jpg" alt="Games 01">}}
+    {{<figure src="games_03.jpg" alt="Games 03">}}
+    {{<figure src="games_04.jpg" alt="Games 04">}}
+    {{<figure src="games_05.jpg" alt="Games 05">}}
+{{</figure_gallery>}}
 
 The operating rules are below. Everyone receiving the keys to the room is obliged to leave a signature indicating an agreement with the rules and agrees that not only him/herself, but also everyone visiting the room understands the rules. Breaking any of the rules will be punished by further ban from using the room.
-
-{{<figure src="games_03.jpg" alt="Games 03">}}
 
 ## Operating rules
 
