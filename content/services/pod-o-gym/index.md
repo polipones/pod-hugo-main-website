@@ -31,7 +31,7 @@ Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su
 
 **Všichni členové se musí seznámit s [provozním řádem](pod_o_gym_provozni_rad.pdf)!**
 
-**Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí.**
+**Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí. Externí členy tudíž nepřijímáme.**
 
 ### Posilovací stroje a volné váhy
 
