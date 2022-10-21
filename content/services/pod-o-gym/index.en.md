@@ -29,7 +29,7 @@ Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) 
 
 **All members who are training in our gym must be acquainted with [our rules](pod_o_gym_operating_rules.pdf)!**
 
-**Main rule for becoming member of our gym is that you must live in our dormitory Podolí.**
+**Main rule for becoming member of our gym is that you must live in our dormitory Podolí. That means we are not registering new external members now.**
 
 ### Exercise machines & free weights
 
