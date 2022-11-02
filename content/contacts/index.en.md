@@ -173,14 +173,11 @@ DIČ: CZ67981224
     {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
 {{</contact_section>}}
 
-### PC room and printer
+### PC room
 
 {{<contact_section>}}
     {{<contact index="pc" role="PC room manager">}}
     {{<contact index="zpc" role="Deputy PC room manager">}}
-
-    {{<contact index="st" role="Printer manager">}}
-    {{<contact index="zst" role="Deputy printer manager">}}
 {{</contact_section>}}
 
 ### Dormitory group
