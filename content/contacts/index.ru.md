@@ -174,9 +174,6 @@ DIČ: CZ67981224
 {{<contact_section>}}
     {{<contact index="pc" role="Администратор компьютерного класса">}}
     {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
-
-    {{<contact index="st" role="Администратор принтера">}}
-    {{<contact index="zst" role="Заместитель администратора принтера">}}
 {{</contact_section>}}
 
 ### Группка общежития

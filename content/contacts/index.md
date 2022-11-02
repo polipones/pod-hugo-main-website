@@ -175,14 +175,11 @@ DIČ: CZ67981224
     {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
 {{</contact_section>}}
 
-### PC učebna a tiskárna
+### PC učebna
 
 {{<contact_section>}}
     {{<contact index="pc" role="Správce PC učebny">}}
     {{<contact index="zpc" role="Zástupce správce PC učebny">}}
-
-    {{<contact index="st" role="Správce tiskárny">}}
-    {{<contact index="zst" role="Zástupce správce tiskárny">}}
 {{</contact_section>}}
 
 ### Kolejní skupinka
