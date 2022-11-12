@@ -37,8 +37,8 @@ deploy_dev:
   script:
     - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
     - apk update && apk add openssh-client
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-dev || true"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --restart-condition on-failure $TAG_COMMIT_DEV"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-dev || true"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --restart-condition on-failure $TAG_COMMIT_DEV"
   environment:
     name: development
     url: https://new.pod.cvut.cz
@@ -52,8 +52,8 @@ deploy_prod:
   script:
     - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
     - apk update && apk add openssh-client
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-prod || true"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --restart-condition on-failure $TAG_COMMIT_PROD"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-prod || true"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --restart-condition on-failure $TAG_COMMIT_PROD"
   environment:
     name: production
     url: https://pod.cvut.cz
