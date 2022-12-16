@@ -92,6 +92,34 @@ DIČ: CZ67981224
     {{<contact index="zsdh" role="Deputy board games room manager">}}
 {{</contact_section>}}
 
+## Pod-O-Lab
+
+{{<contact_section>}}
+    {{<contact index="sl" role="Pod-O-Lab manager">}}
+    {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
+{{</contact_section>}}
+
+## PC room
+
+{{<contact_section>}}
+    {{<contact index="pc" role="PC room manager">}}
+    {{<contact index="zpc" role="Deputy PC room manager">}}
+{{</contact_section>}}
+
+## Dormitory group
+
+{{<contact_section>}}
+    {{<contact index="vks" role="Head of dormitory group">}}
+{{</contact_section>}}
+
+### Bar games (Table tennis, table football, billiard)
+
+Contact: <barovky@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="shm" role="Bar games rooms manager">}}
+{{</contact_section>}}
+
 ## Block A
 
 <admins-a@pod.cvut.cz>
@@ -163,25 +191,3 @@ DIČ: CZ67981224
 ### Televizors
 
 {{<block_tv index="tv-f">}}
-
-## Director's head office
-
-### Pod-O-Lab
-
-{{<contact_section>}}
-    {{<contact index="sl" role="Pod-O-Lab manager">}}
-    {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
-{{</contact_section>}}
-
-### PC room
-
-{{<contact_section>}}
-    {{<contact index="pc" role="PC room manager">}}
-    {{<contact index="zpc" role="Deputy PC room manager">}}
-{{</contact_section>}}
-
-### Dormitory group
-
-{{<contact_section>}}
-    {{<contact index="vks" role="Head of dormitory group">}}
-{{</contact_section>}}

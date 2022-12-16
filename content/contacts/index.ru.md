@@ -92,6 +92,34 @@ DIČ: CZ67981224
     {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
 {{</contact_section>}}
 
+## Председательская
+
+{{<contact_section>}}
+    {{<contact index="sl" role="Администратор Pod-O-Lab">}}
+    {{<contact index="zsl" role="Заместитель администратора Pod-O-Lab">}}
+{{</contact_section>}}
+
+## Компьютерная комната
+
+{{<contact_section>}}
+    {{<contact index="pc" role="Администратор компьютерного класса">}}
+    {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
+{{</contact_section>}}
+
+## Группка общежития
+
+{{<contact_section>}}
+    {{<contact index="vks" role="Ведущий группкы общежития">}}
+{{</contact_section>}}
+
+### Барные игры (Настольный теннис, настольный футбол, бильярд)
+
+Контакт: <barovky@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="shm" role="Управляющий барными игровыми залами">}}
+{{</contact_section>}}
+
 ## Блок A
 
 <admins-a@pod.cvut.cz>
@@ -163,21 +191,3 @@ DIČ: CZ67981224
 ### Подключатели интернета
 
 {{<block_tv index="tv-f">}}
-
-## Председательская
-
-{{<contact_section>}}
-    {{<contact index="sl" role="Администратор Pod-O-Lab">}}
-    {{<contact index="zsl" role="Заместитель администратора Pod-O-Lab">}}
-{{</contact_section>}}
-
-{{<contact_section>}}
-    {{<contact index="pc" role="Администратор компьютерного класса">}}
-    {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
-{{</contact_section>}}
-
-### Группка общежития
-
-{{<contact_section>}}
-    {{<contact index="vks" role="Ведущий группкы общежития">}}
-{{</contact_section>}}

@@ -94,6 +94,34 @@ DIČ: CZ67981224
     {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
 {{</contact_section>}}
 
+## Pod-O-Lab
+
+{{<contact_section>}}
+    {{<contact index="sl" role="Správce Pod-O-Lab">}}
+    {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
+{{</contact_section>}}
+
+## PC učebna
+
+{{<contact_section>}}
+    {{<contact index="pc" role="Správce PC učebny">}}
+    {{<contact index="zpc" role="Zástupce správce PC učebny">}}
+{{</contact_section>}}
+
+## Kolejní skupinka
+
+{{<contact_section>}}
+    {{<contact index="vks" role="Vedoucí kolejní skupinky">}}
+{{</contact_section>}}
+
+### Herní místnosti
+
+Kontakt: <barovky@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="shm" role="Správce herních místností">}}
+{{</contact_section>}}
+
 ## Blok A
 
 <admins-a@pod.cvut.cz>
@@ -165,25 +193,3 @@ DIČ: CZ67981224
 ### Televizoři
 
 {{<block_tv index="tv-f">}}
-
-## Předsednická centrála
-
-### Pod-O-Lab
-
-{{<contact_section>}}
-    {{<contact index="sl" role="Správce Pod-O-Lab">}}
-    {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
-{{</contact_section>}}
-
-### PC učebna
-
-{{<contact_section>}}
-    {{<contact index="pc" role="Správce PC učebny">}}
-    {{<contact index="zpc" role="Zástupce správce PC učebny">}}
-{{</contact_section>}}
-
-### Kolejní skupinka
-
-{{<contact_section>}}
-    {{<contact index="vks" role="Vedoucí kolejní skupinky">}}
-{{</contact_section>}}

@@ -11,9 +11,7 @@ weight: 8
 
 Pokud si chceš zahrát pingpong, fotbálek, šipky nebo kulečník, informace o možnostech vypůjčení místností s potřebným vybavením najdeš na této stránce.
 
-Správci: Lukáš Pavljuk, David Puchoň
-
-Kontakt: barovky@pod.cvut.cz
+Kontakt a správce najdeš na stránce [Kontakty]({{< ref "/contacts/index.md#herní-místnosti" >}}).
 
 # Stolní tenis, fotbálek a šipky
 
@@ -36,9 +34,9 @@ TL;DR nic nerozbij a chovej se tam jako člověk.
 
 1. Vstup do místnosti s fotbálkem a ping-pongem klubu Pod-O-Lee Studentské unie ČVUT (dále jen fotbálkárna) je umožněn pouze členům klubu Pod-O-Lee. Svým vstupem do místnosti stvrzují souhlas s Provozním řádem a řádem užívání fotbálkárny klubu Pod-O-Lee Studentské unie ČVUT (dále jen Provozní řád) a zavazují se jej dodržovat.
 2. Uživatelem se rozumí každá osoba, která se vyskytuje ve fotbálkárně.
-3. Vypůjčitelem se rozumí člen klubu Pod-O-Lee, který si vytvoří rezervaci pomocí rezervačního systému Olymp. Fotbálkové stoly a ping-pongový stůl  jsou majetkem Správy Účelových Zařízení ČVUT v Praze (dále jen SÚZ ČVUT)
+3. Vypůjčitelem se rozumí člen klubu Pod-O-Lee, který si vytvoří rezervaci pomocí rezervačního systému Olymp. Fotbálkové stoly a ping-pongový stůl jsou majetkem Správy Účelových Zařízení ČVUT v Praze (dále jen SÚZ ČVUT)
 4. Ke vstupu do fotbálkárny slouží klíč. Každý vypůjčitel fotbálkárny si musí před příchodem do fotbálkárny vytvořit rezervaci v [rezervačním systému](https://olymp.pod.cvut.cz), následně kontaktovat správce herních místností (dále jen správce) za účelem výpůjčky klíčů. Převzetím klíčů od místnosti se vypůjčitel zavazuje dodržovat veškerá ustanovení tohoto provozního řádu a přebírá veškeré povinnosti tímto provozním řádem stanovené. Vstupem do místnosti všichni návštěvníci souhlasí s pořizováním videozáznamu, který může být použitý v případě porušení některého z pravidel. Nakládání s kamerovými záznamy je upraven v IP5/2022 Kamerový systém.
-5. Otevírací hodiny fotbálkárny jsou od 7:00 do 22:00. Výjimka možná po dohodě se správcem. 
+5. Otevírací hodiny fotbálkárny jsou od 7:00 do 22:00. Výjimka možná po dohodě se správcem.
 6. Uživatel je povinen dodržovat pořádek ve fotbálkárně.
 7. Ve fotbálkárně je zakázáno kouřit, konzumovat potraviny a vstupovat v obuvi zanechávající nečistoty. Nápoje jsou povoleny pouze v uzavíratelných lahvích. Veškeré obaly a další odpadky je uživatel povinen při odchodu odnést mimo prostory fotbálkárny. Uživatel je povinen udržovat pořádek na podlaze, stolech a parapetech.
 8. Je zakázáno cokoliv pokládat na fotbálkové stoly a ping-pongový stůl, sedat na okraje, či jinak využívat stoly k účelu, ke kterému nejsou určeny. Porušení tohoto ustanovení a zašpinění či poničení hrací plochy, stolu či jiných objektů se bude trestat jak BANem pro vypůjčitele, tak povinností vyřešení problému na náklady viníka.
@@ -74,7 +72,7 @@ TL;DR nic nerozbij a chovej se tam jako člověk.
 2. Uživatelem se rozumí každá osoba, která se vyskytuje v místnosti kulečníku.
 3. Vypůjčitelem se rozumí člen klubu Pod-O-Lee, který si vytvoří rezervaci pomocí rezervačního systému Olymp. Kulečníkové stoly jsou majetkem Správy Účelových Zařízení ČVUT v Praze (dále jen SÚZ ČVUT)
 4. Ke vstupu do kulečníku slouží klíč. Každý vypůjčitel kulečníku si musí před příchodem do kulečníku vytvořit rezervaci v [rezervačním systému](https://olymp.pod.cvut.cz), následně kontaktovat správce herních místností (dále jen správce) za účelem výpůjčky klíčů. Převzetím klíčů od místnosti se vypůjčitel zavazuje dodržovat veškerá ustanovení tohoto provozního řádu a přebírá veškeré povinnosti tímto provozním řádem stanovené. Vstupem do místnosti všichni návštěvníci souhlasí s pořizováním videozáznamu, který může být použitý v případě porušení některého z pravidel. Nakládání s kamerovými záznamy je upraven v IP5/2022 Kamerový systém.
-5. Otevírací hodiny kulečníku jsou od 7:00 do 22:00. Výjimka možná po dohodě se správcem. 
+5. Otevírací hodiny kulečníku jsou od 7:00 do 22:00. Výjimka možná po dohodě se správcem.
 6. Uživatel je povinen dodržovat pořádek v kulečníku. Po ukončení hry uklidit koule do příslušné krabice, tága postavit do stojanu.
 7. V kulečníku je zakázáno kouřit, konzumovat potraviny a vstupovat v obuvi zanechávající nečistoty. Nápoje jsou povoleny pouze v uzavíratelných lahvích. Veškeré obaly a další odpadky je uživatel povinen při odchodu odnést mimo prostory kulečníku. Uživatel je povinen udržovat pořádek na podlaze, stole a parapetech.
 8. Je zakázáno cokoliv pokládat na kulečníkové stoly, sedat na okraje, či jinak využívat stoly k účelu, ke kterému nejsou určeny. Porušení tohoto ustanovení a zašpinění či poničení hrací plochy, stolu či jiných objektů se bude trestat jak BANem pro vypůjčitele, tak povinností vyřešení problému na náklady viníka.
