@@ -28,6 +28,8 @@ DIČ: CZ67981224
 ## Service managers
 ### Network
 
+Contact: <admin@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="ss" role="System administrator">}}
     {{<contact index="zss" role="Deputy system administrator">}}
@@ -40,6 +42,8 @@ DIČ: CZ67981224
 
 ### Pod-O-Gym
 
+Contact: <sportoviste@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sg" role="Pod-O-Gym manager">}}
     {{<contact index="zsg" role="Deputy Pod-O-Gym manager">}}
@@ -48,6 +52,8 @@ DIČ: CZ67981224
 
 ### Music room
 
+Contact: <hudebna@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sh" role="Music room manager">}}
     {{<contact index="zsh" role="Deputy music room manager">}}
@@ -55,12 +61,30 @@ DIČ: CZ67981224
 
 ## Projects, PR and HR
 
+### Projects
+
+Contact: <projekty@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sp" role="Project manager">}}
     {{<contact index="zsp" role="Deputy project manager">}}
+{{</contact_section>}}
+
+### PR
+
+Contact: <pr@pod.cvut.cz>
+
+{{<contact_section>}}
     {{<contact index="pr" role="PR manager">}}
     {{<contact index="zpr" role="Deputy PR manager">}}
     {{<contact index="prt" role="Member of PR team">}}
+{{</contact_section>}}
+
+### HR
+
+Contact: <hr@pod.cvut.cz>
+
+{{<contact_section>}}
     {{<contact index="hr" role="HR manager">}}
     {{<contact index="zhr" role="Deputy HR manager">}}
 {{</contact_section>}}
@@ -73,12 +97,16 @@ DIČ: CZ67981224
 
 ### Pod-O-Games
 
+Contact: <games@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="gm" role="Pod-O-Games manager">}}
     {{<contact index="zgm" role="Deputy Pod-O-Games manager">}}
 {{</contact_section>}}
 
 ### Bike room
+
+Contact: <kolarna@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="sk" role="Bike room manager">}}
@@ -87,14 +115,52 @@ DIČ: CZ67981224
 
 ### Board games room
 
+Contact: <hry@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sdh" role="Board games room manager">}}
     {{<contact index="zsdh" role="Deputy board games room manager">}}
 {{</contact_section>}}
 
+## Pod-O-Lab
+
+Contact: <lab@pod.cvut.cz>  
+Website: <https://lab.pod.cvut.cz/en>
+
+{{<contact_section>}}
+    {{<contact index="sl" role="Pod-O-Lab manager">}}
+    {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
+{{</contact_section>}}
+
+## PC room
+
+Contact: <ucebna@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="pc" role="PC room manager">}}
+    {{<contact index="zpc" role="Deputy PC room manager">}}
+{{</contact_section>}}
+
+## Dormitory group
+
+Contact: <party@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="vks" role="Head of dormitory group">}}
+{{</contact_section>}}
+
+### Bar games (Table tennis, table football, billiard)
+
+Contact: <barovky@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="shm" role="Bar games rooms manager">}}
+{{</contact_section>}}
+
 ## Block A
 
-<admins-a@pod.cvut.cz>
+Contact: <admins-a@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sba" role="Block A administrator">}}
     {{<contact index="zsba" role="Deputy block A administrator">}}
@@ -106,7 +172,8 @@ DIČ: CZ67981224
 
 ## Block B
 
-<admins-b@pod.cvut.cz>
+Contact: <admins-b@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbb" role="Block B administrator">}}
     {{<contact index="zsbb" role="Deputy block B administrator">}}
@@ -118,7 +185,8 @@ DIČ: CZ67981224
 
 ## Block C
 
-<admins-c@pod.cvut.cz>
+Contact: <admins-c@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbc" role="Block C administrator">}}
     {{<contact index="zsbc" role="Deputy block C administrator">}}
@@ -130,7 +198,8 @@ DIČ: CZ67981224
 
 ## Block D
 
-<admins-d@pod.cvut.cz>
+Contact: <admins-d@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbd" role="Block D administrator">}}
     {{<contact index="zsbd" role="Deputy block D administrator">}}
@@ -142,7 +211,8 @@ DIČ: CZ67981224
 
 ## Block E
 
-<admins-e@pod.cvut.cz>
+Contact: <admins-e@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbe" role="Block E administrator">}}
     {{<contact index="zsbe" role="Deputy block E administrator">}}
@@ -154,7 +224,8 @@ DIČ: CZ67981224
 
 ## Block F
 
-<admins-f@pod.cvut.cz>
+Contact: <admins-f@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbf" role="Block F administrator">}}
     {{<contact index="zsbf" role="Deputy block F administrator">}}
@@ -163,25 +234,3 @@ DIČ: CZ67981224
 ### Televizors
 
 {{<block_tv index="tv-f">}}
-
-## Director's head office
-
-### Pod-O-Lab
-
-{{<contact_section>}}
-    {{<contact index="sl" role="Pod-O-Lab manager">}}
-    {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
-{{</contact_section>}}
-
-### PC room
-
-{{<contact_section>}}
-    {{<contact index="pc" role="PC room manager">}}
-    {{<contact index="zpc" role="Deputy PC room manager">}}
-{{</contact_section>}}
-
-### Dormitory group
-
-{{<contact_section>}}
-    {{<contact index="vks" role="Head of dormitory group">}}
-{{</contact_section>}}

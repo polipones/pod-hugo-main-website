@@ -30,6 +30,8 @@ DIČ: CZ67981224
 
 ### Síťaři
 
+Kontakt: <admin@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="ss" role="Správce systémů">}}
     {{<contact index="zss" role="Zástupce správce systémů">}}
@@ -42,6 +44,8 @@ DIČ: CZ67981224
 
 ### Pod-O-Gym
 
+Kontakt: <sportoviste@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sg" role="Správce Pod-O-Gym">}}
     {{<contact index="zsg" role="Zástupce správce Pod-O-Gym">}}
@@ -50,6 +54,8 @@ DIČ: CZ67981224
 
 ### Hudebna
 
+Kontakt: <hudebna@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sh" role="Správce hudebny">}}
     {{<contact index="zsh" role="Zástupce správce hudebny">}}
@@ -57,12 +63,30 @@ DIČ: CZ67981224
 
 ## Projekty, PR a HR
 
+### Projekty
+
+Kontakt: <projekty@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sp" role="Správce projektů">}}
     {{<contact index="zsp" role="Zástupce správce projektů">}}
+{{</contact_section>}}
+
+### PR
+
+Kontakt: <pr@pod.cvut.cz>
+
+{{<contact_section>}}
     {{<contact index="pr" role="PR manažer">}}
     {{<contact index="zpr" role="Zástupce PR manažera">}}
     {{<contact index="prt" role="Člen PR týmu">}}
+{{</contact_section>}}
+
+### HR
+
+Kontakt: <hr@pod.cvut.cz>
+
+{{<contact_section>}}
     {{<contact index="hr" role="HR manažer">}}
     {{<contact index="zhr" role="Zástupce HR manažera">}}
 {{</contact_section>}}
@@ -75,12 +99,16 @@ DIČ: CZ67981224
 
 ### Pod-O-Games
 
+Kontakt: <games@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="gm" role="Správce Pod-O-Games">}}
     {{<contact index="zgm" role="Zástupce správce Pod-O-Games">}}
 {{</contact_section>}}
 
 ### Kolárna
+
+Kontakt: <kolarna@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="sk" role="Správce kolárny">}}
@@ -89,14 +117,52 @@ DIČ: CZ67981224
 
 ### Deskoherna
 
+Kontakt: <hry@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sdh" role="Správce deskoherny">}}
     {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
 {{</contact_section>}}
 
+## Pod-O-Lab
+
+Kontakt: <lab@pod.cvut.cz>  
+Webovky: <https://lab.pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="sl" role="Správce Pod-O-Lab">}}
+    {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
+{{</contact_section>}}
+
+## PC učebna
+
+Kontakt: <ucebna@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="pc" role="Správce PC učebny">}}
+    {{<contact index="zpc" role="Zástupce správce PC učebny">}}
+{{</contact_section>}}
+
+## Kolejní skupinka
+
+Kontakt: <party@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="vks" role="Vedoucí kolejní skupinky">}}
+{{</contact_section>}}
+
+### Herní místnosti
+
+Kontakt: <barovky@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="shm" role="Správce herních místností">}}
+{{</contact_section>}}
+
 ## Blok A
 
-<admins-a@pod.cvut.cz>
+Kontakt: <admins-a@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sba" role="Správce bloku A">}}
     {{<contact index="zsba" role="Zástupce správce bloku A">}}
@@ -108,7 +174,8 @@ DIČ: CZ67981224
 
 ## Blok B
 
-<admins-b@pod.cvut.cz>
+Kontakt: <admins-b@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbb" role="Správce bloku B">}}
     {{<contact index="zsbb" role="Zástupce správce bloku B">}}
@@ -120,7 +187,8 @@ DIČ: CZ67981224
 
 ## Blok C
 
-<admins-c@pod.cvut.cz>
+Kontakt: <admins-c@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbc" role="Správce bloku C">}}
     {{<contact index="zsbc" role="Zástupce správce bloku C">}}
@@ -132,7 +200,8 @@ DIČ: CZ67981224
 
 ## Blok D
 
-<admins-d@pod.cvut.cz>
+Kontakt: <admins-d@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbd" role="Správce bloku D">}}
     {{<contact index="zsbd" role="Zástupce správce bloku D">}}
@@ -144,7 +213,8 @@ DIČ: CZ67981224
 
 ## Blok E
 
-<admins-e@pod.cvut.cz>
+Kontakt: <admins-e@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbe" role="Správce bloku E">}}
     {{<contact index="zsbe" role="Zástupce správce bloku E">}}
@@ -156,7 +226,8 @@ DIČ: CZ67981224
 
 ## Blok F
 
-<admins-f@pod.cvut.cz>
+Kontakt: <admins-f@pod.cvut.cz>
+
 {{<contact_section>}}
     {{<contact index="sbf" role="Správce bloku F">}}
     {{<contact index="zsbf" role="Zástupce správce bloku F">}}
@@ -165,25 +236,3 @@ DIČ: CZ67981224
 ### Televizoři
 
 {{<block_tv index="tv-f">}}
-
-## Předsednická centrála
-
-### Pod-O-Lab
-
-{{<contact_section>}}
-    {{<contact index="sl" role="Správce Pod-O-Lab">}}
-    {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
-{{</contact_section>}}
-
-### PC učebna
-
-{{<contact_section>}}
-    {{<contact index="pc" role="Správce PC učebny">}}
-    {{<contact index="zpc" role="Zástupce správce PC učebny">}}
-{{</contact_section>}}
-
-### Kolejní skupinka
-
-{{<contact_section>}}
-    {{<contact index="vks" role="Vedoucí kolejní skupinky">}}
-{{</contact_section>}}
