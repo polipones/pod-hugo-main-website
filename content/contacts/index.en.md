@@ -124,8 +124,7 @@ Contact: <hry@pod.cvut.cz>
 
 ## Pod-O-Lab
 
-Contact: <lab@pod.cvut.cz>  
-Website: <https://lab.pod.cvut.cz/en>
+Contact: <lab@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="sl" role="Pod-O-Lab manager">}}
