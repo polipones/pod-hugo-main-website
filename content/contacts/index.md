@@ -126,8 +126,7 @@ Kontakt: <hry@pod.cvut.cz>
 
 ## Pod-O-Lab
 
-Kontakt: <lab@pod.cvut.cz>  
-Webovky: <https://lab.pod.cvut.cz>
+Kontakt: <lab@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="sl" role="Správce Pod-O-Lab">}}
