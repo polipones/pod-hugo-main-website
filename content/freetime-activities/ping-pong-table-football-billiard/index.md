@@ -58,7 +58,7 @@ TL;DR nic nerozbij a chovej se tam jako člověk.
 
 Místnost se nachází na bloku D v přízemí. Od vchodu se dej doprava a jde o dveře vlevo před schodištěm.
 
-V místnosti se nachází stůl na billiard a kulečník. Tága a koule se půjčují na vrátnici spolu s klíčem od místnosti po předložení kolejenky.
+V místnosti se nachází stůl na billiard a kulečník se vším potřebným ke hře. Tága (delší pro pool, kratší pro karambol) jsou ve stojanu, křídy na stolech a koule v krabicích na oknech.
 
 {{<figure src="pool.jpg" alt="Kulečník">}}
 
