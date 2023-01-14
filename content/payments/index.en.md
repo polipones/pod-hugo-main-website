@@ -18,8 +18,8 @@ If you have any problems with paying club’s membership, write email to <platby
 
 If you want to use services of club Pod-O-Lee, you have to pay fees every six months (payment season) of the calendar year.
 
-- For first half of a year you can pay from 1. January to 30. June with validity of the membership to 15. October.
-- For second half of a year you can pay from 1. July to 31. December with validity of the membership to 15. March (of the next year).
+- For first half of a year you can pay from 1. January to 30. June with validity of the membership to 30. September.
+- For second half of a year you can pay from 1. July to 31. December with validity of the membership to 28. February (of the next year).
 
 We would like to remind you that money transfer via bank account may take up to 3 days. If the payment won’t transfer up to the last day of payment season, as written above, you lose access to all services until the transfer is finished. It is therefore better to not wait until the last day of payment season. If you used instant payment, transfer should be processed by Hydra in less than hour.
 
@@ -42,17 +42,16 @@ Bank account number: **99919040/2010**
 
 Prices of the services and specific symbols (SS) for each service:
 
-- Basic Membership – 200 Kč, specific symbol: 1
-- Internet (academical net) – 600 Kč, specific symbol: 2
-- Pod-O-Gym – 800 Kč, specific symbol: 3
-- Musical Room – 300 Kč, specific symbol: 4
+- Basic Membership – 1000 Kč, specific symbol: 1 (necessary for other memberships, alone provides access to academical network, access to PC room, ability to borrow grill and beer tap, ...)
+- Pod-O-Gym – 1000 Kč, specific symbol: 2 (provides access to Pod-O-Gym and sauna)
+- Musical Room – 500 Kč, specific symbol: 3 (provides access to music room)
 
 Variable symbol: To access this number you will have to login to your Hydra account. It is your Hydra ID.
 
-Use of ANY service is under a condition of paying the Basic Membership.
+**Use of ANY service is under a condition of paying the Basic Membership.**
 
 If you want to use more than one service and you want to pay together simply add together the individual fees for each service.
-For example: You want to use Internet and Gym then add 600 Kč + 800 Kč plus of course Basic Membership 200 Kč = 1600 Kč. And for specific symbol write: 123
+For example: You want to use Internet and Gym then add 1000 Kč + 1000 Kč for Basic Membership = 2000 Kč. And for specific symbol write: 12
 
 ## Signature of the Club’s Membership
 
