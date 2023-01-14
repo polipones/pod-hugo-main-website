@@ -20,10 +20,10 @@ Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 
 Členské příspěvky do klubu Pod-O-Lee se platí na jednotlivé pololetí každého kalendářního roku.
 
-- Za první pololetí se platí od 1. ledna do 30. června s platností členství do 15. října.
-- Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 15. března (příštího roku).
+- Za první pololetí se platí od 1. ledna do 30. června s platností členství do 30. září.
+- Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 28. února (příštího roku).
 
-Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny služby poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do hodiny.
+Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny služby poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do pár minut.
 
 ### Formy úhrady
 
@@ -44,10 +44,9 @@ Při platbě z účtů z ciziny berte v potaz poplatky na vaší straně, nevolt
 
 Částka za členství a specifický symbol:
 
-- základní členství – 200,- specifický symbol 1
-- připojení k akademické síti (internet) – 600,- specifický symbol 2
-- přístup do Pod-O-Gym – 800,- specifický symbol 3
-- přístup do hudebny – 300,- specifický symbol 4
+- základní členství – 1000,- specifický symbol 1 (nutné i pro další členství, samo o sobě přináší přístup k akademické síti, přístup do PC učebny, možnost výpujčky grilu nebo pípy, ...)
+- přístup do Pod-O-Gym – 1000,- specifický symbol 2 (přístup do Pod-O-Gym a sauny)
+- přístup do hudebny – 500,- specifický symbol 3 (přístup do hudebny)
 
 Variabilní symbol je tvoje identifikační číslo (zjistíš v [Hydře](https://hydra.pod.cvut.cz), je to tvé ID).
 
@@ -55,7 +54,7 @@ Variabilní symbol je tvoje identifikační číslo (zjistíš v [Hydře](https:
 
 Pokud budeš chtít využívat více služeb, sečti patřičné částky a seřaď vzestupně příslušné Specifické symboly.
 
-Příklad: Chci mít připojení k internetu a chodit do posilovny Pod-O-Gym, zaplatím 1600,- Kč (200+600+800 Kč) a jako Specifický symbol uvedu číslo 123.
+Příklad: Chci mít připojení k internetu a chodit do posilovny Pod-O-Gym, zaplatím 2000 Kč (1000+1000 Kč) a jako Specifický symbol uvedu číslo 12.
 
 ## Podpis členství v klubu
 
@@ -69,20 +68,10 @@ Pokud máš nějaký projekt neváhej oslovit Představenstvo. Své návrhy mů�
 
 ## Příklady
 
-### Mám nyní zaplacený „internet“, chtěl bych po novém roce začít chodit do Pod-O-Gym. Na koleji budu bydlet i další semestr a nadále chci internet.
+### Mám přístup k Internetu a chtěl bych začít chodit do posilovny
 
-Musíš si zaplatit členský poplatek za Pod-O-Gym a zároveň základní členství.
-Doporučujeme rovnou zaplatit i za internet, který Ti expiruje 15.3.2018. Z hlediska cen se pro tebe nic nemění.
+Musíš navíc zaplatit členský poplatek za Pod-O-Gym. Pošleš platbu se specifickým symbolem 2 a částkou 1000 Kč.
 
 ### Jsem externista. Chodím jen do Pod-O-Gym a chci si prodloužit členství.
 
-Tady je nutné si připlatit za základní členství. Pokud si už poslal platbu jen za Pod-O-Gym, budeš muset poslat ještě jednu za základní členství.
-V případě že teprve budeš platit oboje, spoj to dohromady. SS: 13, VS: ID z Hydry, Suma: 1000 Kč.
-
-### Bydlím na koleji, chodím do Pod-O-Gym. Příští měsíc končím a stěhuji se pryč.
-
-Nemusíš nic řešit.
-
-### Bydlím na koleji, ale budu se příští měsíc stěhovat pryč. Chci nadále (i v létě) chodit do Pod-O-Gym.
-
-Případ je prakticky shodný s případem č. 2. je nutné mít zaplacené základní členství a členství s přístupem do Pod-O-Gym.
+Podmínkou pro přístup do Pod-O-Gym je aktivní základní členství a přístup do Pod-O-Gym. Pošleš tedy platbu se specifickým symbolem 12 a částkou 2000 Kč.

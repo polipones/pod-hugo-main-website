@@ -11,7 +11,7 @@ Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
 
 Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavními dveřmi doleva, po schodech dolů a první dveře vlevo.
 
-Přístup do učebny má každý člen klubu Pod-O-Lee. To znamená, že stačí mít zaplacený členský příspěvek za sportoviště nebo za síť.
+Přístup do učebny má každý člen klubu Pod-O-Lee. To znamená, že stačí mít zaplacený členský příspěvek za sportoviště nebo za základní členství.
 
 Jestliže jsi členem klubu Pod-O-Lee, pak máš automaticky přístup do učebny. Pokud se se ti nedaří dostat se do PC učebny, zajdi za televizorem, který Ti řekne co a jak.
 V počítačové učebně se mimo jiné nachází klubová tiskárna a knihbudka.
