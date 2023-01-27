@@ -53,6 +53,8 @@ Těšíme se na vaše kandidátky.
 
 Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP1/2018](https://wiki.pod.cvut.cz/_media/legislativa/ip_pozice.pdf) a ve [Stanovách klubu](https://pod.cvut.cz/dokumenty/stanovy/stanovy_2017.pdf).
 
+Ve volbách na správce bloku F **volí pouze ubytovaní na bloku F**.
+
 Volby se řídí [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může pouze **člen klubu Pod-O-Lee ubytovaný na bloku F, který nebyl v posledních 365 dnech potrestán** za porušení předpisů. Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
