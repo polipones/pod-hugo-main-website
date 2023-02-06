@@ -16,6 +16,6 @@ The Film Club was founded to show the diversity of the film world to the residen
 
 We also held a weekend marathon of Harry Potter, Lord of the Rings and Star Wars, which were accompanied by refreshments. The programme for the semester is always posted on the bulletin boards of the dormitory blocks. For current news and information please visit [Pod-O-Film FB page](https://www.facebook.com/Filmov%C3%BD-Klub-Pod-O-Lee-133619003377044/timeline).
 
-## Program for winter semester 2022/2023
+## Program
 
-{{<figure src="pod-o-film-winter-2022-2023-en.png" alt="Program for winter semester 2022/2023">}}
+{{<figure src="pod-o-film-en.png" alt="Pod-O-Film program">}}

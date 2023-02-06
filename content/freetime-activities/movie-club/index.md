@@ -17,6 +17,6 @@ Filmový klub byl založen za účelem ukázat obyvatelům koleje Podolí rozman
 
 Uspořádali jsme také víkendový maraton Harryho Pottera, Pána prstenů a Star wars, které byly doprovázeny občerstvením. Program na daný semestr je vždy vyvěšen na nástěnkách koleje jednotlivých bloků. Aktuální novinky a informace naleznete na FB stránce [Pod-O-Film](https://www.facebook.com/Filmov%C3%BD-Klub-Pod-O-Lee-133619003377044/timeline).
 
-## Program pro zimní semestr 2022/2023
+## Program
 
-{{<figure src="pod-o-film-winter-2022-2023-cz.png" alt="Program pro zimní semestr 2022/2023">}}
+{{<figure src="pod-o-film-cz.png" alt="Pod-O-Film program">}}
