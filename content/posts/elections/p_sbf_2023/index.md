@@ -1,6 +1,6 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na předsedu a správce bloku F # TODO
+title: Volby na Předsedu klubu a správce bloku F # TODO
 # Short post description
 description: "" # TODO
 author: "Web admin" # TODO
