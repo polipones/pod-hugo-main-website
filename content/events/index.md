@@ -64,6 +64,8 @@ Akce nejen pro ty, kteří svou drahou polovičku ještě nenašli a rádi by te
 
 Sportovní den, kde se můžete zúčastnit jedné nebo více z disciplín. Na začátku probíhá běžecký závod „Podolská 3K“, kdy se běží 3 kola kolem areálu kolejí (cca 2100 m). Poté probíhá turnaj ve fotbalu (systém 3 hráči + 1 brankář) a ve volejbalu (maximálně 6 hráčů v týmu). V případě zájmu se k těmto přidává ještě turnaj ve streetballu (hraje se na jeden koš na 15 bodů, maximálně 3 hráči v týmu). Vše je potom zakončeno orienťákem po okolí kolejí, který je proložen několika úkoly.
 
+Odkaz na instrukce: [Pod-O-Day]({{< ref "/freetime-activities/pod-o-day/index.md" >}})
+
 {{<figure_gallery>}}
     {{<figure src="pod_o_day_01.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="pod_o_day_02.jpg" alt="Pod-O-Day photo">}}
