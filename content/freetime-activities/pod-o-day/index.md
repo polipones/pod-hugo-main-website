@@ -17,6 +17,7 @@ weight: 9
 
 - Datum konání: **29. 4. 2023**
 - Registrační formulář pro týmy: [https://forms.gle/7K7MnxYnq277rcp26](https://forms.gle/7K7MnxYnq277rcp26)
+- FB událost: [https://fb.me/e/3iT8cVyCk](https://fb.me/e/3iT8cVyCk)
 
 ## Program
 
