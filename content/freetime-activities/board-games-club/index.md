@@ -19,8 +19,16 @@ Do naší krásné herny můžeš dorazit v týdnu vždy v hrací den, nebo po d
 
 Seznam her dostupných v deskoherně nalezneš [zde](https://docs.google.com/spreadsheets/d/1Ocg36A2OPQALA3ums7OLA13KTKw1npZr3auANkEogjc/edit?usp=sharing).
 
+## Hrací den
+
 KDE? Pokoj B206
 
-KDY? Pravidelně ve středy od 20:00
+KDY? Pravidelně ve čtvrtek od 20:00
+
+## Šachový kroužek
+
+KDE? Pokoj B206
+
+KDY? Pravidelně v pondělí od 20:00
 
 {{<figure src="main.jpg" alt="Board games club">}}
