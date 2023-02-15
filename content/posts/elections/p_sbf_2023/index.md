@@ -23,6 +23,20 @@ date: 2023-01-27T16:52:41+00:00
 layout: post
 ---
 
+## Aktualizace 13. 2. 2023
+
+V sobotu 11. 2. 2023 ve 20:00 uplynula lhůta pro podávání kandidátek na Správce bloku F. Bohužel však volební komise neobdržela žádnou platnou kandidátku splňující všechny požadavky.
+
+Proto komise dle [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf), čl. IV bod 3), prodlužuje lhůtu na podávání kandidátek do **čtvrtka 16. 2. 2023 do 20:00**. To má za následek posunutí zbylých termínů o stejný počet dní - nový časový harmonogram je tedy následující:​​​
+
+- termín pro podávání kandidátek: do **16.2.2023 20:00**
+- termín pro předání podepsaných kandidátek předsedovi volební komise: do **19.2.2023 20:00**
+- termín voleb: **od 20.2.2023 20:00 do 24.2.2023 20:00**, volby proběhnou elektronickou formou
+
+V případě libovolných dotazů, neváhejte se na nás prosím obrátit :)
+
+## Původní znění
+
 Ahoj Podolačky a Podoláci,
 
 na středeční (25.1.2023) schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda volby na předsedu klubu Pod-O-Lee a doplňující volby na Správce bloku F.
