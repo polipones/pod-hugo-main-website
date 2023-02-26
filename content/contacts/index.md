@@ -158,6 +158,14 @@ Kontakt: <barovky@pod.cvut.cz>
     {{<contact index="shm" role="Správce herních místností">}}
 {{</contact_section>}}
 
+### Sudovna
+
+Kontakt: <party@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="sps" role="Správce sudovny">}}
+{{</contact_section>}}
+
 ## Blok A
 
 Kontakt: <admins-a@pod.cvut.cz>

@@ -156,6 +156,14 @@ DIČ: CZ67981224
     {{<contact index="shm" role="Управляющий барными игровыми залами">}}
 {{</contact_section>}}
 
+### Комната для вечеринок
+
+Контакт: <party@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="sps" role="Менеджер комнаты для вечеринок">}}
+{{</contact_section>}}
+
 ## Блок A
 
 Контакт: <admins-a@pod.cvut.cz>

@@ -156,6 +156,14 @@ Contact: <barovky@pod.cvut.cz>
     {{<contact index="shm" role="Bar games rooms manager">}}
 {{</contact_section>}}
 
+### Party room
+
+Contact: <party@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="sps" role="Party room manager">}}
+{{</contact_section>}}
+
 ## Block A
 
 Contact: <admins-a@pod.cvut.cz>
