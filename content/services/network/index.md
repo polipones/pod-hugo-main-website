@@ -34,9 +34,9 @@ Pokud to nepomohlo, kontaktuj televizora na svém prípadně na vedlejším blok
 
 #### Zabezpečení
 
-Používáme WPA2 Enterprise/802.1x EAP. Ověření certifikátu našeho RADIUS serveru a shody doménového jména (radius-a.pod.cvut.cz) je zcela nutné, pokud chcete mít jistotu, že jste opravdu připojeni do naší sítě a nikdo vaši komunikaci nezneužívá (např. vytvořením stejného SSID/jména Wifi, vlastního „fake“ RADIUS serveru → ale už jiného certifikátu). 
+Používáme WPA2 Enterprise/802.1x EAP. Ověření certifikátu našeho RADIUS serveru a shody doménového jména (radius.pod.cvut.cz) je zcela nutné, pokud chcete mít jistotu, že jste opravdu připojeni do naší sítě a nikdo vaši komunikaci nezneužívá (např. vytvořením stejného SSID/jména Wifi, vlastního „fake“ RADIUS serveru → ale už jiného certifikátu). 
 
-Využíváme certifikáty od Let's Encrypt, které jsou mimo jiné podepsány společností IdenTrust (DST Root CA X3) a tedy obecně přijímány jako bezpečné (jsou součástí většiny systémových repositářů). Z toho plyne, že není nutné certifikát dodatečně stahovat, aby mohlo ověření proběhnout. Televizor vám zařízení k WiFi připojí, takže se nemusíte bát, že věcem v tomto odstavci nerozumíte :).
+Využíváme certifikáty od CESNETu (našeho poskytovatele připojení k akademické síti ČVUT), které jsou mimo jiné podepsány společností USERTrust ([informace o certifikátech od CESNETu](https://pki.cesnet.cz/cs/ch-tcs-ssl-ca-4-crt-crl.html)) a tedy obecně přijímány jako bezpečné (jsou součástí většiny systémových repositářů). Z toho plyne, že není nutné certifikát dodatečně stahovat, aby mohlo ověření proběhnout. Televizor vám zařízení k WiFi připojí, takže se nemusíte bát, že věcem v tomto odstavci nerozumíte :).
 
 ### Připojení přes kabel (Ethernet)
 
@@ -45,7 +45,7 @@ Každý člen může mít připojen pouze jeden počítač na kabelu, případn�
 
 ## Přihlášení odběru emailů
 
-Každému nově registrovanému členovi se automaticky přihlásí konference kolej-info@pod.cvut.cz. Je to konference, kam vedoucí kolejí (p. Makulová) posílá důležité informace (revize, odstávky, kontroly, …) nebo zástupci kolejního klubu oznamují akce, volby, atd.
+Každému nově registrovanému členovi se automaticky přihlásí konference kolej-info@pod.cvut.cz. Je to konference, kam vedoucí kolejí posílá důležité informace (revize, odstávky, kontroly, …) nebo zástupci kolejního klubu oznamují akce, volby, atd.
 
 Dále se hodí být členem tvé blokové konference, info-x@pod.cvut.cz, kde x je písmenko tvého bloku. Sem se například ohlašují volby na správce bloku, blokové poznávačky, atd.
 
