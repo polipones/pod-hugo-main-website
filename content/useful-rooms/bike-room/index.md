@@ -13,7 +13,7 @@ showtoc: false
 
 Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále]({{< ref "/contacts/index.md#kolárna" >}}).
 
-Je to místnost pro uložení jízdních kol, najdete ji na Bloku F v přízení. Pro získání přístupu je nutné navštívit správce kolárny a vyplnit [Prohlášení člena kolárny](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/prohlaseni_clena_kolarny_2021.pdf). Poté je možné půjčovat si klíč od kolárny na vrátnici.
+Je to místnost pro uložení jízdních kol, najdete ji na Bloku F v přízení. Pro získání přístupu je nutné navštívit správce kolárny a vyplnit [Prohlášení člena kolárny](prohlaseni_kolarna.pdf). Poté je možné půjčovat si klíč od kolárny na vrátnici.
 
 ## Půjčování nářadí
 
@@ -27,7 +27,7 @@ Je to místnost pro uložení jízdních kol, najdete ji na Bloku F v přízení
 2. Členem kolárny může být pouze člen kolejního klubu bydlící na koleji Podolí. 
 3. Členství opravňuje k zapůjčení klíčů od místnosti č. 107 bloku F koleje Podolí, Na Lysině 12, 147 45 Praha 4 (dále jen kolárna), na vrátnici koleje Podolí a k umístění jízdního kola do kolárny.
 4. Klíče od kolárny budou vydány vrátným koleje pouze členům kolárny proti platné kolejence (tzn. kolejence s fotografií označené číslem pokoje shodným s číslem v seznamu členů na vrátnici).
-5. Členství v kolárně lze získat osobní návštěvou správce kolárny po předchozí domluvě a podepsáním [Prohlášení člena kolárny](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/prohlaseni_clena_kolarny_2021.pdf) (lze poslat na email <kolarna@pod.cvut.cz>).
+5. Členství v kolárně lze získat osobní návštěvou správce kolárny po předchozí domluvě a podepsáním [Prohlášení člena kolárny](prohlaseni_kolarna.pdf) (lze poslat na email <kolarna@pod.cvut.cz>).
 6. Správce kolárny přidělí novému členovi číslo stojanu, pokud je volná kapacita.
 7. Člen kolárny se zavazuje dodržovat následující pravidla:
     1. vrtání do zdí, podlahy i stropu je zakázáno,

@@ -13,7 +13,7 @@ showtoc: false
 
 Contact to current manager can be found in [Contacts page under Director's head office]({{< ref "/contacts/index.md#bike-room" >}}).
 
-The room is used for storage of bikes, it can be found in the ground floor of block F. For gaining access the manager needs to be visited and the [declaration of bike room member](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/prohlaseni_clena_kolarny_2021.pdf) must be filled in and signed.
+The room is used for storage of bikes, it can be found in the ground floor of block F. For gaining access the manager needs to be visited and the [declaration of bike room member](prohlaseni_kolarna.pdf) must be filled in and signed.
 After that the key to bike room can be borrowed at the gatehouse.
 
 ## Lending of tools
@@ -28,7 +28,7 @@ Bike room members have access to club’s tools for basic maintenance. Keys from
 2. Only a member of the dormitory club living in Podolí dormitory can be a member of the bike room.
 3. The bike room membership authorizes to borrow keys from the room no. F107 of the Podolí dormitory, Na Lysině 12, 147 45 Prague 4 (hereinafter referred to as the bike room), at gatehouse of the Podolí dormitory and to place a bicycle in the bike room.
 4. Keys from the bike room will be lended by the gatekeeper only to members of the bike room against a valid dorm ID card (i.e. a dorm ID card with a photograph, marked with a room number identical to the number in the list of members at the gatehouse).
-5. Membership in the bike room can be obtained by a personal visit to the manager of the bike room after prior agreement and by signing the [Declaration of membership](https://wiki.pod.cvut.cz/_media/kolej/mistnosti/prohlaseni_clena_kolarny_2021.pdf) of the bike room (can be sent to email <kolarna@pod.cvut.cz>).
+5. Membership in the bike room can be obtained by a personal visit to the manager of the bike room after prior agreement and by signing the [Declaration of membership](prohlaseni_kolarna.pdf) of the bike room (can be sent to email <kolarna@pod.cvut.cz>).
 6. The manager of the bike room assigns the number of the stand to the new member if there is spare capacity.
 7. The member of the bike room is obligated to follow the following rules:
     1. drilling into walls, floor and ceiling is prohibited,
