@@ -11,8 +11,7 @@ weight: 6
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-Managers: Vojtěch Halamka, Jan Vlk  
-Contact: <party@pod.cvut.cz>
+Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 
 {{<figure src="grill.jpg" alt="Grill">}}
 

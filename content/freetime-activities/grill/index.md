@@ -12,8 +12,7 @@ aliases:
   - /volnocasove-aktivity/grilovani-a-pipa
 ---
 
-Správci: Vojtěch Halamka, Jan Vlk  
-Kontakt: <party@pod.cvut.cz>
+Správci: [Kontakty]({{< ref "/contacts/index.md#kolejní-skupinka" >}})
 
 Na grilování je určen krb, který se nachází v jiho-západním rohu areálu kolejí (tzn. vedle menzy). Zapůjčení krbu je pro členy klubu zdarma.
 
