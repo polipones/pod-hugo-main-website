@@ -10,13 +10,15 @@ weight: 4
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-Pod-O-Games is a room dedicated to gamers and movie projections located in A block ground floor. There is PS4 with VR and Nintendo Switch. To name a few, for NS we have Mariokart Deluxe, The Legend of Zelda: Breath of the Wild, Pokemon Shield. For PS4 we have the Mafia trilogy, Red Dead Redemption II, Fifa 19 and for VR we have Superhot, Beat Saber or Gran Turismo.
+Administrators: [Contacts]({{< ref "/contacts/index.md#pod-o-games" >}})
+
+Pod-O-Games is a room dedicated to gamers and movie projections located in A block ground floor. There is PS4 with VR, Nintendo Switch and Oculus Quest 2. To name a few, for NS we have Mariokart Deluxe, The Legend of Zelda: Breath of the Wild, Pokemon Shield. For PS4 we have the Mafia trilogy, Red Dead Redemption II, Fifa 19 and for VR we have Superhot, Beat Saber or Gran Turismo.
 
 Complete list of games is available here: [List of games in Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
 {{<figure src="games_02.jpg" alt="Games 02">}}
 
-The room is equipped with a 4K projector to which you can also connect your own PC and watch a movie. Sound is delivered by Bose speakers, so we apologize to everyone above the gaming room. There are also a handful of fatboys and a convertible couch.
+The room is equipped with a 4K projector to which you can also connect your own PC and watch a movie. Sound is delivered by Bose speakers, so we apologize to everyone above the gaming room. There are also a handful of fatboys and a convertible couch. We also have racing seat Playseat Fanatec, in which you can enjoy racing games.
 
 {{<figure_gallery>}}
     {{<figure src="games_01.jpg" alt="Games 01">}}

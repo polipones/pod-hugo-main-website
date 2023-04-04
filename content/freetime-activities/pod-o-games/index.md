@@ -10,13 +10,15 @@ weight: 4
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 4 s VR a Nintendo Switch. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
+Správci: [Kontakty]({{< ref "/contacts/index.md#pod-o-games" >}})
+
+Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 4 s VR, Nintendo Switch a Oculus Quest 2. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
 
 Kompletní seznam her je zde: [Seznam her v Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
 {{<figure src="games_02.jpg" alt="Games 02">}}
 
-Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů.
+    Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů. Máme také závodní sedačku Playseat Fanatec, na které si můžeš užít závodní hry.
 
 {{<figure_gallery>}}
     {{<figure src="games_01.jpg" alt="Games 01">}}
