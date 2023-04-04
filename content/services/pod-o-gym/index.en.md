@@ -11,13 +11,13 @@ tocopen: true
 
 ## News
 
-On 18. 8. 2022 Pod-O-Gym operating rules were updated, you can download them here: [Pod-O-Gym Operating rules](pod_o_gym_operating_rules.pdf). Do not forget to study new rules before your next visit to Pod-O-Gym. Pod-O-Gym manager and his team also cleaned tatami with pressure washer and fixed light in sauna.
+All boxing bags and boxing speedbag is out of order until further notice.
 
 ## How to register in our Pod-O-Gym
 
 1. Find any card with a chip. It can be any card with a chip such as your ISIC, or TESCO card, or just a chip you have for accessing to another facility e.g. canteen. You cannot use your credit card.
 2. After you picked your card take it to the entrance and put it 5 times on the card reader right next to the door. Remember the date and the time when you did this.
-3. Send mail to person responsible for registration ("televizors" - <https://pod.cvut.cz/en/contacts/>) (or to FB group [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee)). In message body specify time, date and your Hydra ID.
+3. Send mail to person responsible for registration ("televizors" - <https://pod.cvut.cz/en/contacts/>) or to mailing list <admins@pod.cvut.cz>. In message body specify time, date and your Hydra ID.
 
 ## Pod-O-Gym
 

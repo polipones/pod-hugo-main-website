@@ -22,15 +22,13 @@ We will be happy to welcome foreign students among us as well, thus feel free to
 We do not just provide the internet connection, we also take care of providing enough opportunities for you to enjoy free time activities. You can visit our music rehearsal studio, our famous Pod-O-Gym, our new workroom Pod-O-Lab and many others.
 
 On top of that, we organise various social, cultural and sports events.
-However, the Podolí dormitory is property of [CTU](https://cvut.cz/). It is being administered by [SUZ ČVUT (The Service Facilities Administration of the Czech Technical University in Prague)](https://www.suz.cvut.cz/koleje/koleje-podoli) throughout the whole year.
+However, the Podolí dormitory is property of [Czech Technical University in Prague (CTU)](https://cvut.cz/). It is being administered by [SUZ ČVUT (The Service Facilities Administration of the Czech Technical University in Prague)](https://www.suz.cvut.cz/koleje/koleje-podoli) throughout the whole year.
 
 Please, if you find a defect anywhere in the Podolí dormitory, use the [defect reporting system](https://web.suz.cvut.cz/KnihaZavad) in ISKAM (menu Accommodation -> Defect log).
 
 Access to Hydra is [here](https://hydra.pod.cvut.cz/). You can find what membiership you have paid and for how long or which of your devices are registered to our network.
 
 [Here](https://hydra.pod.cvut.cz/) you can access the Hydra. There you can find for example list of paid memberships and which of your devices have enabled network access.
-
-I guess you are hungry after all the reading. Just check the daily [menu](https://agata.suz.cvut.cz/jidelnicky/index.php?clPodsystem=4) of our [canteen](https://www.suz.cvut.cz/menzy/menza-podoli). Or simply go there right away, our canteen is only a few steps away from your room, in the building with the huge sign saying “MENZA”.
 
 If you have any kind of problem with paying for club membership, please write email to <platby@pod.cvut.cz>.
 
@@ -42,9 +40,9 @@ Whether you are a student or a self-payer and you need help with anything, or yo
 
 Join your block facebook group too, so you don’t miss informations regarding block activities: [Blok A](https://www.facebook.com/groups/A.Podolee/), [Blok B](https://www.facebook.com/groups/B.Podolee/), [Blok C](https://www.facebook.com/groups/C.Podolee/), [Blok D](https://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](https://www.facebook.com/groups/F.Podolee/).
 
-Photos and videos from events and life at our dorm can be found on the club’s Instagram: [pod_o_lee](https://www.instagram.com/pod_o_lee/).
-
-We also have Discord server, if you want to play some game with your friends from dorm or just chat: https://discord.gg/bSP7qnZY5y.
+- [Facebook page](https://www.facebook.com/profile.php?id=100080945754982)
+- [Instagram](https://www.instagram.com/pod_o_lee/)
+- [Discord](https://discord.gg/bSP7qnZY5y)
 
 ## Club events calendar
 

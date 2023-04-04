@@ -11,7 +11,7 @@ tocopen: true
 
 ## Aktuality
 
-Dne 18. 8. 2022 byl aktualizován provozní řád Pod-O-Gym, dostupný ke stažení zde: [Provozní řád Pod-O-Gym](pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také vyčistili tatami vapkou a opravili světlo v šatně.
+Boxovací pytle a boxovací hruška jsou mimo provoz do dovolání.
 
 ## Jak se registrovat do Pod-O-Gym
 
@@ -19,7 +19,7 @@ Registrace do Pod-O-Gym probíhá následovně:
 
 1. Najdeš si kartu, která obsahuje čip. Toto může být jakákoliv karta s čipem např. ISIC karta, karta Tesco, samotný čip, který máš pro vstup do jiného zařízení (např. jídelna) apod. Platební kartu použít nelze.
 2. Vezmi si tuto kartu, 5x ji přilož na čtečku karet u vstupu do Pod-O-Gym a zapamatuj si datum a čas kdy jsi tak učinil.
-3. Pošli mail kterémukoliv televizorovi (https://pod.cvut.cz/kontakty/) (případně do FB skupiny [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee)). Ve zprávě uveď čas, datum a ID z Hydry.
+3. Pošli mail kterémukoliv televizorovi (<https://pod.cvut.cz/kontakty/>) nebo do emailové konference <admins@pod.cvut.cz>. Ve zprávě uveď čas pípnutí karty, datum a ID z Hydry.
 
 ## Pod-O-Gym
 
