@@ -18,7 +18,7 @@ Kompletní seznam her je zde: [Seznam her v Pod-O-Games](https://docs.google.com
 
 {{<figure src="games_02.jpg" alt="Games 02">}}
 
-    Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů. Máme také závodní sedačku Playseat Fanatec, na které si můžeš užít závodní hry.
+Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů. Máme také závodní sedačku Playseat Fanatec, na které si můžeš užít závodní hry.
 
 {{<figure_gallery>}}
     {{<figure src="games_01.jpg" alt="Games 01">}}
