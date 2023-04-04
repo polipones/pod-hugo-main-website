@@ -11,8 +11,7 @@ weight: 1
 
 Room dedicated to hosting of events such as celebrations or casual drinking events located in the B block basement.
 
-Administrators: Vojtěch Halamka, Jan Vlk  
-Contact: <party@pod.cvut.cz>
+Administrators: [Contacts]({{< ref "/contacts/index.md#party-room" >}})
 
 ## How to make a reservation
 

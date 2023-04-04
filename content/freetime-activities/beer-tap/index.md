@@ -9,8 +9,7 @@ slug: pipa
 weight: 7
 ---
 
-Správci: Vojtěch Halamka, Jan Vlk  
-Kontakt: <party@pod.cvut.cz>
+Správci: [Kontakty]({{< ref "/contacts/index.md#kolejní-skupinka" >}})
 
 Na každou správnou párty patří sud a k sudu pípa. Ta naše je dvoukohoutová s integrovaným kompresorem.
 

@@ -10,8 +10,7 @@ weight: 7
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-Administrators: Vojtěch Halamka, Jan Vlk  
-Contact: <party@pod.cvut.cz>
+Administrators: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 
 For every party a beer tap is needed. The one we can lend you has two outputs and has an integrated compressor.
 

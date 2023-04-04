@@ -11,8 +11,7 @@ weight: 1
 
 Místnost vhodná pro pořádání oslav a společenských akcí, která se nachází v suterénu bloku B.
 
-Správci: Vojtěch Halamka, Jan Vlk  
-Kontakt: <party@pod.cvut.cz>
+Správci: [Kontakty]({{< ref "/contacts/index.md#sudovna" >}})
 
 <!-- TODO Foto bude, až bude sudovna komplet po rekonstrukci -->
 
