@@ -41,19 +41,9 @@ Maximálně 3 hráči v týmu, hraje se na jeden koš a jeden zápas se hraje na
 
 Orientační běh vás provede po známých i méně známých historických i technických památkách Prahy 4 a užijete si tak dost dobrodružství i bez toho abyste si ucourali nohy k smrti.
 
-## Startovné
+## Ceny občerstvení
 
-Startovné je pro každého včas registrovaného účastníka **0 Kč**.
-
-Každý registrovaný účastník má nárok zdarma na:
-
-- 1× klobásu
-- 2× nealko 0,5l
-- 1× pivo 0,5l
-
-Jinak občerstvení bude za:
-
-- klobása s chlebem - 40 Kč
+- klobása s chlebem - 50 Kč
 - nealko 0,5l - 25 Kč
 - pivo 0,5l - 30 Kč
 
