@@ -11,23 +11,45 @@ stages:
 
 build_dev:
   stage: build
-  image: registry.pod.cvut.cz/cache/library/docker:20.10
+  image: registry.pod.cvut.cz/cache/library/docker:23.0
   script:
-    - DOCKER_BUILDKIT=1 docker build --target hugo_prod -t $TAG_COMMIT_DEV -t $TAG_LATEST_DEV --build-arg hugo_env=develop --build-arg BUILDKIT_INLINE_CACHE=1 --cache-from $TAG_LATEST_DEV .
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
-    - docker push $TAG_COMMIT_DEV
-    - docker push $TAG_LATEST_DEV
+    - docker pull ${TAG_LATEST_DEV} || true
+    - docker build
+      --push
+      --target hugo_prod
+      --tag ${TAG_COMMIT_DEV}
+      --tag ${TAG_LATEST_DEV}
+      --build-arg hugo_env=develop
+      --cache-to type=inline
+      --cache-from type=registry,ref=${TAG_LATEST_DEV} .
+  environment:
+    name: development
+    url: https://new.podolee.cz
+    deployment_tier: staging
+    action: prepare
   only:
     - develop
 
 build_prod:
   stage: build
-  image: registry.pod.cvut.cz/cache/library/docker:20.10
+  image: registry.pod.cvut.cz/cache/library/docker:23.0
   script:
-    - DOCKER_BUILDKIT=1 docker build --target hugo_prod -t $TAG_COMMIT_PROD -t $TAG_LATEST_PROD --build-arg hugo_env=production --build-arg BUILDKIT_INLINE_CACHE=1 --cache-from $TAG_LATEST_PROD .
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
-    - docker push $TAG_COMMIT_PROD
-    - docker push $TAG_LATEST_PROD
+    - docker pull ${TAG_LATEST_PROD} || true
+    - docker build
+      --push
+      --target hugo_prod
+      --tag ${TAG_COMMIT_PROD}
+      --tag ${TAG_LATEST_PROD}
+      --build-arg hugo_env=production
+      --cache-to type=inline
+      --cache-from type=registry,ref=${TAG_LATEST_PROD} .
+  environment:
+    name: production
+    url: https://podolee.cz
+    deployment_tier: production
+    action: prepare
   only:
     - main
 
@@ -39,10 +61,12 @@ deploy_dev:
     - apk update && apk add openssh-client
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-dev || true"
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --constraint node.labels.staging==true --placement-pref spread=node.labels.p5 --restart-condition on-failure $TAG_COMMIT_DEV"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --constraint node.labels.staging==true --restart-condition on-failure $TAG_COMMIT_DEV"
   environment:
     name: development
-    url: https://new.pod.cvut.cz
+    url: https://new.podolee.cz
+    deployment_tier: staging
+    action: start
   only:
     - develop
   when: on_success
@@ -55,10 +79,12 @@ deploy_prod:
     - apk update && apk add openssh-client
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-prod || true"
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --constraint node.labels.production==true --placement-pref spread=node.labels.p3 --restart-condition on-failure $TAG_COMMIT_PROD"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --constraint node.labels.production==true --restart-condition on-failure $TAG_COMMIT_PROD"
   environment:
     name: production
-    url: https://pod.cvut.cz
+    url: https://podolee.cz
+    deployment_tier: production
+    action: start
   only:
     - main
   when: on_success
