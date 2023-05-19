@@ -14,15 +14,12 @@ build_dev:
   image: registry.pod.cvut.cz/cache/library/docker:23.0
   script:
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
-    - docker pull ${TAG_LATEST_DEV} || true
     - docker build
       --push
       --target hugo_prod
       --tag ${TAG_COMMIT_DEV}
       --tag ${TAG_LATEST_DEV}
       --build-arg hugo_env=develop
-      --cache-to type=inline
-      --cache-from type=registry,ref=${TAG_LATEST_DEV} .
   environment:
     name: development
     url: https://new.podolee.cz
@@ -36,15 +33,12 @@ build_prod:
   image: registry.pod.cvut.cz/cache/library/docker:23.0
   script:
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
-    - docker pull ${TAG_LATEST_PROD} || true
     - docker build
       --push
       --target hugo_prod
       --tag ${TAG_COMMIT_PROD}
       --tag ${TAG_LATEST_PROD}
       --build-arg hugo_env=production
-      --cache-to type=inline
-      --cache-from type=registry,ref=${TAG_LATEST_PROD} .
   environment:
     name: production
     url: https://podolee.cz
