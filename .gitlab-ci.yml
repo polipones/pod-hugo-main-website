@@ -19,7 +19,7 @@ build_dev:
       --target hugo_prod
       --tag ${TAG_COMMIT_DEV}
       --tag ${TAG_LATEST_DEV}
-      --build-arg hugo_env=develop
+      --build-arg hugo_env=develop .
   environment:
     name: development
     url: https://new.podolee.cz
@@ -38,7 +38,7 @@ build_prod:
       --target hugo_prod
       --tag ${TAG_COMMIT_PROD}
       --tag ${TAG_LATEST_PROD}
-      --build-arg hugo_env=production
+      --build-arg hugo_env=production .
   environment:
     name: production
     url: https://podolee.cz
