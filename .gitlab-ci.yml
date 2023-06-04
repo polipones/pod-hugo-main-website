@@ -54,7 +54,8 @@ package:dev:
       --target hugo_prod_deploy
       --tag ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
       --build-arg base_image=${DEV_BUILD_COMPLETE}
-      --build-arg base_tag=${CI_COMMIT_SHORT_SHA} .
+      --build-arg base_tag=${CI_COMMIT_SHORT_SHA}
+      -f Dockerfile.package .
 
 deploy:dev:
   stage: deploy
