@@ -21,4 +21,5 @@ COPY ./ ./
 
 RUN git submodule update --init --recursive && \
     ./scripts/fetch_contacts.sh && \
+    ls -acl && ls -acl public && ls -acl resources && ls -acl resources/_gen/images \
     hugo
