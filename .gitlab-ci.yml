@@ -1,32 +1,78 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  TAG_LATEST_DEV: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev:latest
-  TAG_COMMIT_DEV: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev:$CI_COMMIT_SHORT_SHA
+  CI_BUILD_IMAGE: registry.pod.cvut.cz/cache/library/docker:24
+  CI_DEPLOY_IMAGE: registry.pod.cvut.cz/cache/library/alpine:3.18
+
+  IMAGE_BASE: registry.pod.cvut.cz/internal/pod-o-lee/main-web
+  BUILD_SUFFIX: build
+  DEPLOY_SUFFIX: deploy
+
+  DEV_BUILD_COMPLETE: ${IMAGE_BASE}-dev-${BUILD_SUFFIX}
+  DEV_DEPLOY_COMPLETE: ${IMAGE_BASE}-dev-${DEPLOY_SUFFIX}
+
+  
   TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:latest
   TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:$CI_COMMIT_SHORT_SHA
 
 stages:
   - build
+  - package
   - deploy
 
-build_dev:
+build:dev:
   stage: build
-  image: registry.pod.cvut.cz/cache/library/docker:23.0
-  script:
-    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
+  image: ${CI_BUILD_IMAGE}
+  rules:
+    - if: $CI_COMMIT_BRANCH == "develop"
+      when: always
+  script: 
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
+    - docker pull ${DEV_BUILD_COMPLETE}:latest || true
     - docker build
       --push
-      --target hugo_prod
-      --tag ${TAG_COMMIT_DEV}
-      --tag ${TAG_LATEST_DEV}
-      --build-arg hugo_env=develop .
+      --target hugo_prod_build
+      --tag ${DEV_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
+      --tag ${DEV_BUILD_COMPLETE}:latest
+      --build-arg hugo_env=develop
+      --cache-to type=inline
+      --cache-from type=registry,ref=${DEV_BUILD_COMPLETE}:latest .
   environment:
     name: development
     url: https://new.podolee.cz
     deployment_tier: staging
     action: prepare
-  only:
-    - develop
+
+package:dev:
+  stage: package
+  image: ${CI_BUILD_IMAGE}
+  rules:
+    - if: $CI_COMMIT_BRANCH == "develop"
+      when: on_success
+  script: 
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
+    - docker build
+      --push
+      --target hugo_prod_deploy
+      --tag ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
+      --build-arg base_image=${DEV_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA} .
+
+deploy:dev:
+  stage: deploy
+  image: ${CI_DEPLOY_IMAGE}
+  rules:
+    - if: $CI_COMMIT_BRANCH == "develop"
+      when: on_success
+  script:
+    - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
+    - apk update && apk add openssh-client
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-dev || true"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --constraint node.labels.staging==true --restart-condition on-failure ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}"
+  environment:
+    name: development
+    url: https://new.podolee.cz
+    deployment_tier: staging
+    action: start
 
 build_prod:
   stage: build
@@ -46,24 +92,6 @@ build_prod:
     action: prepare
   only:
     - main
-
-deploy_dev:
-  stage: deploy
-  image: registry.pod.cvut.cz/cache/library/alpine:latest
-  script:
-    - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
-    - apk update && apk add openssh-client
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-dev || true"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --constraint node.labels.staging==true --restart-condition on-failure $TAG_COMMIT_DEV"
-  environment:
-    name: development
-    url: https://new.podolee.cz
-    deployment_tier: staging
-    action: start
-  only:
-    - develop
-  when: on_success
 
 deploy_prod:
   stage: deploy
