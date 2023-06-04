@@ -1,6 +1,6 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  CI_BUILD_IMAGE: registry.pod.cvut.cz/cache/library/docker:24
+  CI_BUILD_IMAGE: registry.pod.cvut.cz/cache/library/docker:24-git
   CI_DEPLOY_IMAGE: registry.pod.cvut.cz/cache/library/alpine:3.18
 
   IMAGE_BASE: registry.pod.cvut.cz/internal/pod-o-lee/main-web
@@ -10,7 +10,6 @@ variables:
   DEV_BUILD_COMPLETE: ${IMAGE_BASE}-dev-${BUILD_SUFFIX}
   DEV_DEPLOY_COMPLETE: ${IMAGE_BASE}-dev-${DEPLOY_SUFFIX}
 
-  
   TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:latest
   TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:$CI_COMMIT_SHORT_SHA
 
@@ -54,7 +53,8 @@ package:dev:
       --push
       --target hugo_prod_deploy
       --tag ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      --build-arg base_image=${DEV_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA} .
+      --build-arg base_image=${DEV_BUILD_COMPLETE}
+      --build-arg base_tag=${CI_COMMIT_SHORT_SHA} .
 
 deploy:dev:
   stage: deploy

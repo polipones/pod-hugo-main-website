@@ -25,7 +25,7 @@ RUN git submodule update --init --recursive && \
 
 # Weird fix for COPY --from not supporting variable expansion
 # https://forums.docker.com/t/how-can-i-expand-a-variable-within-a-copy-command-in-the-dockerfile/113538/8
-FROM ${base_image} as base_image_for_deploy
+FROM ${base_image}:${base_tag} as base_image_for_deploy
 
 FROM nginx:mainline-alpine as hugo_prod_deploy
 
