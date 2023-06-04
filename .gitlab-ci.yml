@@ -10,8 +10,8 @@ variables:
   DEV_BUILD_COMPLETE: ${IMAGE_BASE}-dev-${BUILD_SUFFIX}
   DEV_DEPLOY_COMPLETE: ${IMAGE_BASE}-dev-${DEPLOY_SUFFIX}
 
-  TAG_LATEST_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:latest
-  TAG_COMMIT_PROD: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod:$CI_COMMIT_SHORT_SHA
+  PROD_BUILD_COMPLETE: ${IMAGE_BASE}-prod-${BUILD_SUFFIX}
+  PROD_DEPLOY_COMPLETE: ${IMAGE_BASE}-prod-${DEPLOY_SUFFIX}
 
 stages:
   - build
@@ -53,9 +53,13 @@ package:dev:
       --push
       --target hugo_prod_deploy
       --tag ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      --build-arg base_image=${DEV_BUILD_COMPLETE}
-      --build-arg base_tag=${CI_COMMIT_SHORT_SHA}
+      --build-arg base_image=${DEV_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
       -f Dockerfile.package .
+  environment:
+    name: development
+    url: https://new.podolee.cz
+    deployment_tier: staging
+    action: prepare
 
 deploy:dev:
   stage: deploy
@@ -75,39 +79,64 @@ deploy:dev:
     deployment_tier: staging
     action: start
 
-build_prod:
+
+build:prod:
   stage: build
-  image: registry.pod.cvut.cz/cache/library/docker:23.0
-  script:
-    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz
+  image: ${CI_BUILD_IMAGE}
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+      when: always
+  script: 
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
+    - docker pull ${PROD_BUILD_COMPLETE}:latest || true
     - docker build
       --push
-      --target hugo_prod
-      --tag ${TAG_COMMIT_PROD}
-      --tag ${TAG_LATEST_PROD}
-      --build-arg hugo_env=production .
+      --target hugo_prod_build
+      --tag ${PROD_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
+      --tag ${PROD_BUILD_COMPLETE}:latest
+      --build-arg hugo_env=production
+      --cache-to type=inline
+      --cache-from type=registry,ref=${PROD_BUILD_COMPLETE}:latest .
   environment:
     name: production
     url: https://podolee.cz
     deployment_tier: production
     action: prepare
-  only:
-    - main
 
-deploy_prod:
+package:prod:
+  stage: package
+  image: ${CI_BUILD_IMAGE}
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+      when: on_success
+  script: 
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
+    - docker build
+      --push
+      --target hugo_prod_deploy
+      --tag ${PROD_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
+      --build-arg base_image=${PROD_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
+      -f Dockerfile.package .
+  environment:
+    name: production
+    url: https://podolee.cz
+    deployment_tier: production
+    action: prepare
+
+deploy:prod:
   stage: deploy
-  image: registry.pod.cvut.cz/cache/library/alpine:latest
+  image: ${CI_DEPLOY_IMAGE}
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+      when: on_success
   script:
     - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
     - apk update && apk add openssh-client
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-prod || true"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.pod.cvut.cz"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --constraint node.labels.production==true --restart-condition on-failure $TAG_COMMIT_PROD"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --constraint node.labels.production==true --restart-condition on-failure ${PROD_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}"
   environment:
     name: production
     url: https://podolee.cz
     deployment_tier: production
     action: start
-  only:
-    - main
-  when: on_success
