@@ -13,7 +13,7 @@ showtoc: false
 
 Je to místnost k uložení věcí v období letních prázdnin. Otevírá se vždy na začátku a konci prázdnin. Uložení je zdarma.
 
-Najdeš ji v suterénu bloku A.
+Najdeš na bloku A v místnosti A019.
 
 Otevírání kufrárny řeší správci bloků (<admins@pod.cvut.cz>) Termíny otevření jsou vždy vypisovány postupně. Není možné individuální otevírání kufrárny. Pokud v uvedených termínech nemáš čas, zašli návrhy termínů (alespoň 3 pracovní dny předem) a pokud se sejde více zájemců, otevře se i v jiný termín.
 

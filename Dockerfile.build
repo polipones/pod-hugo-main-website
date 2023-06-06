@@ -1,0 +1,20 @@
+# Weird fix for COPY --from not supporting variable expansion
+# https://forums.docker.com/t/how-can-i-expand-a-variable-within-a-copy-command-in-the-dockerfile/113538/8
+ARG base_image=nope
+
+FROM ${base_image} as base_image_for_build
+
+FROM klakegg/hugo:0.101.0-ext-alpine-ci AS hugo_prod_build
+
+ARG hugo_env=production
+ENV HUGO_ENV=${hugo_env}
+
+RUN apk add jq
+
+COPY ./ ./
+
+COPY --from=base_image_for_build /src/resources resources
+
+RUN git submodule update --init --recursive && \
+    ./scripts/fetch_contacts.sh && \
+    hugo
