@@ -13,7 +13,7 @@ tocopen: true
 
 The Storage room is a room to store things (e.g. fridge, microwave and small furniture) during the summer break. It always opens at the beginning and end of the summer break. Storage is free for club members with a valid basic membership.
 
-You can find it in the basement of block A, room 19.
+You can find it on the ground floor of block A, room 19.
 
 The Storage room opening is managed by the Storage room Administrator (<kufrarna@pod.cvut.cz>) The opening dates are always announced in advance. It is not possible to open the Storage room individually. If you are not able to come during the dates listed, please send us your suggestions for dates (at least 3 workdays in advance) and if more people are interested, we will open at another date.
 
@@ -61,7 +61,7 @@ In case of a trip or internship abroad, individual agreement with the person man
 20. The User undertakes to remove the items from the Storage room no later than on the last day of the agreed period. If the User does not remove his/her belongings on the agreed date, he/she will be notified by e-mail. If the User fails to collect his/her belongings within 10 days after contacting the Storage room Administrator, his/her belongings may be considered waste and discarded.
 21. The User declares that, considering the low value of the items, he/she agrees to this procedure (discarding the items) without compensation and will not claim any damages against the Pod-O-Lee Club resulting from this agreed procedure.
 
-### Part IV - Restrictive measures for violation of the Operating rules.
+### Part IV - Restrictive measures for violation of the Operating rules
 
 1. The word "BAN" means the blocking of a basic membership for a specific or indefinite period of time.
 2. The following possible sanctions are established for violation of any item in Part III, according to their severity (each offense will be judged individually):
