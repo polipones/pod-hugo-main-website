@@ -8,7 +8,7 @@ slug: kufrarna
 # Defines sorting of pages in parent list
 weight: 3
 
-showtoc: false
+tocopen: true
 ---
 
 Kufrárna je místnost k uložení věcí (lednice, mikrovlnná trouba a malý nábytek) v období letních prázdnin. Otevírá se vždy na začátku a konci prázdnin. Uložení je možné pro členy klubu s platným základním členstvím zdarma.
