@@ -124,6 +124,13 @@ Kontakt: <hry@pod.cvut.cz>
     {{<contact index="zsdh" role="Zástupce správce deskoherny">}}
 {{</contact_section>}}
 
+### Fotografové
+
+{{<contact_section>}}
+    {{<contact index="hfot" role="Hlavní fotograf">}}
+    {{<contact index="fot" role="Fotograf">}}
+{{</contact_section>}}
+
 ## Pod-O-Lab
 
 Kontakt: <lab@pod.cvut.cz>

@@ -122,6 +122,13 @@ Contact: <hry@pod.cvut.cz>
     {{<contact index="zsdh" role="Deputy board games room manager">}}
 {{</contact_section>}}
 
+### Photographers
+
+{{<contact_section>}}
+    {{<contact index="hfot" role="Main photographer">}}
+    {{<contact index="fot" role="Photographer">}}
+{{</contact_section>}}
+
 ## Pod-O-Lab
 
 Contact: <lab@pod.cvut.cz>

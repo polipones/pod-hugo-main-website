@@ -122,6 +122,13 @@ DIČ: CZ67981224
     {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
 {{</contact_section>}}
 
+### Фотографы
+
+{{<contact_section>}}
+    {{<contact index="hfot" role="Главный фотограф">}}
+    {{<contact index="fot" role="Фотограф">}}
+{{</contact_section>}}
+
 ## Председательская
 
 Контакт: <lab@pod.cvut.cz>
