@@ -72,7 +72,7 @@ deploy:dev:
     - apk update && apk add openssh-client
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-dev || true"
     - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --constraint node.labels.staging==true --restart-condition on-failure ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}"
+    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-dev --publish published=8005,target=80 --restart-condition on-failure ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}"
   environment:
     name: development
     url: https://new.podolee.cz
