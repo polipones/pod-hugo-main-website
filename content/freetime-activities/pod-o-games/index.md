@@ -106,9 +106,9 @@ Pod-O-Games je místnost určená především na trávení volného času. Nach
     5. postih disciplinárními komisemi fakult ČVUT,
     6. předání k řešení Policii ČR,
     7. vymáhání finančního odškodnění klubu Pod-O-Lee za způsobenou škodu uživatelem v Pod-O-Games.
-Slovem BAN se rozumí zablokování základního členství na určitou nebo neurčitou dobu.
-O postihu rozhoduje Správce Pod-O-Games po konzultaci s představenstvem klubu Pod-O-Lee.
-Všechny postihy je možné zrušit Správcem Pod-O-Games nebo představenstvem klubu Pod-O-Lee.
+2. Slovem BAN se rozumí zablokování základního členství na určitou nebo neurčitou dobu.
+3. O postihu rozhoduje Správce Pod-O-Games po konzultaci s představenstvem klubu Pod-O-Lee.
+4. Všechny postihy je možné zrušit Správcem Pod-O-Games nebo představenstvem klubu Pod-O-Lee.
 
 ### Část VI - Závěrečná ustanovení
 
