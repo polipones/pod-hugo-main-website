@@ -23,17 +23,15 @@ date: 2023-07-06T17:16:15+02:00
 layout: post
 ---
 
-## Pod-O-Šerm
-
 Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každý týden, momentálně máme cca 20 aktivních členů a stále rosteme. Každý si u nám může vyzkoušet boj v hradbě se štítem, kopím či střelbu z luku nebo kuše, zároveň nabízíme možnost s námi jezdit na bitvy a LARPové světy po celé republice.
 
-### V roce 2022:
+## V roce 2022:
 1. Zúčastnili jsem se 2 bitev
 2. LARPového světa
 3. Pořádali jsme víkendové soustředění
 
-### Plány na rok 2023
-#### bitvy:
+## Plány na rok 2023
+### bitvy:
 1. Vidlácké války
 2. Za Středozem!
 3. Bitva pod horou
