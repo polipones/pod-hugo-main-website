@@ -66,14 +66,14 @@ Místnost disponuje 36 stojany na kolo.
 1. Za porušení jakéhokoliv bodu z části III se zavádí následující možné sankce podle jejich závažnosti (každý prohřešek bude souzen individuálně):
     1. upozornění e-mailem s termínem nápravy,
     2. alternativní trest po dohodě se správcem kolárny nebo představenstvem klubu Pod-O-Lee,
-    zablokování služby na určitou dobu, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do kolárny (udělení BANu na základní členství klubu Pod-O-Lee),
-    3. zablokování služby natrvalo, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do kolárny,
-    4. postih disciplinárními komisemi fakult ČVUT,
-    5. předání k řešení Policii ČR,
-    6. vymáhání finančního odškodnění klubu Pod-O-Lee za způsobenou škodu uživatelem v kolárně.
-Slovem BAN se rozumí zablokování základního členství na určitou nebo neurčitou dobu.
-O postihu rozhoduje Správce kolárny po konzultaci s představenstvem klubu Pod-O-Lee.
-Všechny postihy je možné zrušit Správcem kolárny nebo představenstvem klubu Pod-O-Lee.
+    3. zablokování služby na určitou dobu, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do kolárny (udělení BANu na základní členství klubu Pod-O-Lee),
+    4. zablokování služby natrvalo, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do kolárny,
+    5. postih disciplinárními komisemi fakult ČVUT,
+    6. předání k řešení Policii ČR,
+    7. vymáhání finančního odškodnění klubu Pod-O-Lee za způsobenou škodu uživatelem v kolárně.
+2. Slovem BAN se rozumí zablokování základního členství na určitou nebo neurčitou dobu.
+3. O postihu rozhoduje Správce kolárny po konzultaci s představenstvem klubu Pod-O-Lee.
+4. Všechny postihy je možné zrušit Správcem kolárny nebo představenstvem klubu Pod-O-Lee.
 
 ### Část V - Závěrečná ustanovení
 
