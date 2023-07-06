@@ -32,7 +32,7 @@ Provozovatelem Kolárny je Studentská unie ČVUT, Klub Pod-O-Lee, adresou Na Ly
 Kolárna je místnost určená především k uskladnění jízdních kol a jejich údržbě. Nachází se v přízemí bloku F v místnosti číslo 107.\
 Místnost disponuje 36 stojany na kolo.
 
-### Část III - Provozní řád PC učebny
+### Část III - Provozní řád Kolárny
 
 1. Vstup do kolárny klubu Pod-O-Lee Studentské unie ČVUT (dále jen “kolárna”) je umožněn pouze členům klubu Pod-O-Lee, kteří mají platné základní členství nebo je jim tento příspěvek odpuštěn Představenstvem klubu Pod-O-Lee (dále jen představenstvo). Popis, jak se stát členem a návod na platbu členských příspěvků naleznete na internetové adrese zde: https://pod.cvut.cz/platby/. 
 2. Osoba, jež má zaplacený členský příspěvek, má podepsané prohlášení uživatele kolárny a využívá její možnosti, je nazývána uživatelem kolárny (dále jen uživatel) a vstupem do místnosti souhlasí s Provozním řádem Pod-O-Lee Studentské unie ČVUT (dále jen Provozní řád) a zavazuje se jej dodržovat. 
