@@ -4,7 +4,7 @@ title: Kuchyňky
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: uzitecne-mistnosti/kuchynky
 # https://en.wikipedia.org/wiki/Clean_URL#Slug
-slug: kuchynky
+slug: kitchens
 # Defines sorting of pages in parent list
 weight: 5
 
