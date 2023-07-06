@@ -8,7 +8,7 @@ slug: klub-stolnich-her
 # Defines sorting of pages in parent list
 weight: 2
 
-showtoc: false
+showtoc: true
 ---
 
 Kontakt na správce je možné najít na stránce [Kontakty]({{< ref "/contacts/index.md#deskoherna" >}}).
