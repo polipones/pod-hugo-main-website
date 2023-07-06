@@ -11,7 +11,7 @@ weight: 4
 
 Studovny najdeš v místnostech:
 
-- A106, A306, A406
+- A306, A406
 - B306, B406
 - D219
 

@@ -13,3 +13,10 @@ showtoc: false
 Chceš si zasportovat?
 Chceš si zahrát fotbal, volejbal, tenis nebo něco jiného?
 Více informací [zde](https://www.suz.cvut.cz/cz/komercni-sluzby/pronajem-sportovist).
+
+{{<figure_gallery>}}
+    {{<figure src="pg_01.jpg" alt="Playgrounds 01">}}
+    {{<figure src="pg_02.jpg" alt="Playgrounds 02">}}
+    {{<figure src="pg_03.jpg" alt="Playgrounds 03">}}
+    {{<figure src="pg_04.jpg" alt="Playgrounds 04">}}
+{{</figure_gallery>}}

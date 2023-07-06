@@ -24,23 +24,58 @@ Bike room members have access to club’s tools for basic maintenance. Keys from
 
 ## Operating rules
 
-1. The bike room has a capacity of 36. Bikes are stored in racks.
-2. Only a member of the dormitory club living in Podolí dormitory can be a member of the bike room.
-3. The bike room membership authorizes to borrow keys from the room no. F107 of the Podolí dormitory, Na Lysině 12, 147 45 Prague 4 (hereinafter referred to as the bike room), at gatehouse of the Podolí dormitory and to place a bicycle in the bike room.
-4. Keys from the bike room will be lended by the gatekeeper only to members of the bike room against a valid dorm ID card (i.e. a dorm ID card with a photograph, marked with a room number identical to the number in the list of members at the gatehouse).
-5. Membership in the bike room can be obtained by a personal visit to the manager of the bike room after prior agreement and by signing the [Declaration of membership](prohlaseni_kolarna.pdf) of the bike room (can be sent to email <kolarna@pod.cvut.cz>).
-6. The manager of the bike room assigns the number of the stand to the new member if there is spare capacity.
-7. The member of the bike room is obligated to follow the following rules:
-    1. drilling into walls, floor and ceiling is prohibited,
-    2. sticking posters is prohibited,
-    3. damage to the equipment of the bike room and other members' bikes is prohibited,
-    4. bikes may only be placed in the stands (unless otherwise specified).
-8. A member of the bike room may ask the bike room manager to lend the tools that the bike room possesses. The manager of the bike room shall issue the requested tools to the member. The member of the bike room undertakes to use the tools with consideration and not to waste consumables. The tools must be returned on the same day or at the date and time agreed upon the loan.
-9. The member of the bike room is obliged to help with cleaning of the bike room at least once a year after an e-mail request, in case of failure to fulfil this obligation, membership of the bike room may be terminated by the manager of the bike room.
-10. The member is obliged to report any damage to property to the manager of the bike room immediately upon discovery, otherwise the member is liable for it.
-11. The operator of the bike room is not liable for the theft or damage of property, each member is liable for the security of his bicycle and confirms it by submitting a declaration to the manager of the bike room.
-12. The bike room manager is obliged to check always at the beginning of the new academic year whether any of the existing members of the bike room have terminated their stay on the dormitory and, if so, terminate their membership. If this member has left his bicycle in the bike room, the manager is obliged to contact him and arrange a vacancy with him.
-13. If there is a queue for places in the bike room and the bike room manager finds an unused empty stand for 1 month. He can exclude a member of the bike room using this empty stand at the same time and assign it to a new member of the bike room.
-14. If the bike room manager evaluates a bicycle located in the bike shop as disabled and its owner as inactive, he can eliminate this member and arrange with him to vacate the disabled bicycle.
-15. If there is a bicycle in the bike room that is not claimed for one semester, it will be excluded to the collection yard or forfeit to the Pod-O-Lee club.
-16. By entering the room, all visitors agree with video recording, which can be used in case of violation of any of the rules. The handling of camera footage is regulated in IP1/2020 Camera system.
+### Part I - Operator
+
+The operator of the bike room is the CTU Student Union (furthermore referred to as SU), address Na Lysině 772/12, 147 00 Prague 4-Podolí - IČO 67981224. 
+
+### Part II - General data
+
+The Bike room is a room intended primarily for storage of bikes and their maintenance. It is located at the block F ground floor, first door on the right upon entering the block.\
+The room has 36 bike racks.
+
+### Part III - Bike room operating rules
+
+1. Entry to the bike room of the Pod-O-Lee club of the CTU Student Union (furthermore referred to as the "bike room") is only available to members of the Pod-O-Lee club who have a valid basic membership or who have had their membership fee waived by the Board of Directors of the Pod-O-Lee club (further referred to as the Board of Directors). For a description of how to become a member and instructions on how to pay membership fees, please visit the website: https://pod.cvut.cz/platby/. 
+2. A person who has paid the membership fee, has signed the Bike Room User's Declaration and uses the facilities of the Bike Room is called a User of the Bike Room (furthermore referred to as User) and by entering the room agrees to the Operating Rules of the Pod-O-Lee of the CTU Student Union (hereinafter referred to as Operating Rules) and agrees to obey them. 
+3. The User may only place his/her bicycle in the rack assigned to him/her by the administrator and entered in the declaration of the member of the bike room. It may also be changed for operational or organisational reasons.
+4. The user is allowed access to the bike room by borrowing a key for a valid dormitory ID at the dormitory gatehouse. The user is obliged to keep the key only for the time necessary.
+5. **It is strictly forbidden to bring visitors who are not members of the club and do not have an active membership into the bike room without the permission of the bike room administrator or the approval of the Pod-O-Lee Board of Directors.**
+6. The user is obliged to keep the bike room tidy, especially during the night time (which is set for 22:00 - 7:00), so as not to disturb the inhabitants of the block. It is forbidden to move or remove furniture in the bike room without the consent of the bike room administrator or his representative or the board of directors of the Pod-O-Lee Club. Any construction modifications as well as drilling are also prohibited. It is forbidden to post any posters on the walls of the bike room or its equipment. The user is obliged to treat the equipment of the bike room with respect and to handle it in a way that does not damage it. 
+7. The user is obliged to behave in such a way as not to damage the bikes and their equipment of other members of the bike room. In case of any damage (even unintentional), the user is obliged to contact the administrator or his/her representative and pay for the damage.
+8. It is forbidden to smoke, consume alcohol or use addictive substances in the bike room. 
+9. The user is obliged to keep the floor and other equipment of the bike room clean. In the event that the user damages the bike room equipment or the bike room itself, the user must immediately address this with the bike room administrator, if the damage is spreading, try to prevent the problem from spreading and then immediately report it to the bike room administrator or his/her representative. If damage is found to the room equipment or the room itself, the user must report it immediately to the bike room administrator or his/her representative.
+10. When leaving the room, the user shall check the condition of the room and return it to its original state, tidy up and close the entrance door. When leaving, the user must hand over the keys to the room to the gatekeeper.  
+11. A member of the bike room may ask the bike room administrator for the tools available in the bike room. The bike room administrator will lend the requested tools to the member. The member agrees to use the tools with care and not to waste consumables. Tools must be returned on the same day, or at the date and time agreed at the time of rental. 
+12. The member is obliged to help with the cleaning of the bike room at least once a year when requested by email, failure to do so may result in termination of membership by the bike room administrator or the club's board of directors. 
+13. It is the responsibility of the Bike room administrator to check at the start of each new academic year to see if any current members of the Bike room have terminated their membership and if so, the Bike room administrator will terminate the individual's membership. If the member has left their bike in the bike room, the administrator is required to contact the member and arrange to clear it out, which will take place within 14 days. 
+14. If there is a queue for places in the bike room and the bike room administrator discovers a 1 month unused empty rack, he/she may exclude the member using the empty rack at the same time and assign it to a new member. 
+15. If the bike room administrator finds the bike in the bike room to be inoperative and its owner to be inactive, he/she may exclude that member and arrange to have the inoperative bike removed. If the bike is not claimed for one month, it will be discarded to the scrap yard or repossessed by the Pod-O-Lee Club.
+16. The user shall not disturb others, e.g. with loud music, and shall immediately turn it down at the request of the residents or the bike room administrator. **In the event that the person's actions are disturbing someone else and does not cease the activity upon request, the person conducting the activity may be penalized for violating the rules according to section 20!**
+17. There is a wireless wifi network in the room and when using it, the user must follow the Academic Network Usage Policy as well as the IP Usage Policy for the SU Pod-O-Lee Club computer network.
+18. In justified cases, the Board of Directors of the Pod-O-Lee Club or the Bike Room Administrator may grant a one-time exception to these rules.
+19. Users of the bike room must obey the instructions of the bike room administrator, his/her representative, or the Board of Directors. Failure to obey this rule is a violation of the rules of the bike room!   
+20. **Any violation of the Operating Rules will be punished according to the restrictive measures listed below, or the rules of the Pod-O-Lee Club, or according to the applicable laws of the Czech Republic.**
+21. By entering the room, all visitors agree to the taking of video footage that may be used in the event of a violation of any of the rules. The handling of CCTV footage is regulated in the IP redgarding CCTV footage.
+22. Neither the administrators nor the Pod-O-Lee Club are responsible for damage to items brought in (e.g. money, electronics, clothing, etc.) by users of the bike room.
+23. Bike room users use the equipment in the room at their own risk, making sure that all equipment is free of defects prior to use, and if a defect is found, they are required to report the defect to the Bike Room Administrator or his/her representative.
+24. The bike room administrator is responsible for the management of the bike room and for the enforcement of its rules and regulations.
+25. The Bike Room Operator is not responsible for theft or damage to property, each member is responsible for the security of his/her own bicycle and confirms this by submitting a **Member's Declaration** to the Bike Room Administrator. 
+26. In the event that a user finds an item belonging to another user, he/she is obliged to bring the item to the bike room administrator or his/her representative.
+
+### Part IV - Restrictive Measures for Violation of Regulations
+
+1. For violation of any item in Part III, the following potential penalties are established according to their severity (each offence will be judged individually):
+    1. warning by email with a deadline for resolution,
+    2. alternative punishment agreed with the bike room administrator or the Pod-O-Lee Club Board of Directors,
+    3. blocking of the service for a certain period of time, i.e. issuing a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the bike room (issuing a BAN on the basic membership of the Pod-O-Lee club),
+    4. blocking the service permanently, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the bike room,
+    5. punishment by the disciplinary committees of the faculties of CTU,
+    6. handing the matter over to the Police of the Czech Republic,
+    7. financial compensation to the Pod-O-Lee club for damage caused by the user in the bike room.
+2. The word BAN means blocking of basic membership for a definite or indefinite period of time.
+3. The sanction shall be decided by the Bike Room Administrator in consultation with the Board of Directors of the Pod-O-Lee Club.
+4. All penalties may be revoked by the Bike Room Administrator or the Board of Directors of the Pod-O-Lee Club.
+
+### Part V - Final provisions
+
+1. These operating rules shall become effective immediately upon their posting at the Pod-O-Lee official page.
