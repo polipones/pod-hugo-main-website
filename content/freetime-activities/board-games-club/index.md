@@ -67,3 +67,20 @@ Deskoherna je místnost určená především ke hraní stolních her nebo ke sk
 16. Uživatelé deskoherny užívají zařízení v místnosti na vlastní nebezpečí, přičemž se před užitím přesvědčí, zda veškeré zařízení nevykazuje závady bránící bezpečnému užívání, a v případě zjištění závady jsou tuto závadu povinni ohlásit správci deskoherny nebo jeho zástupci.
 17. Správce deskoherny nese odpovědnost za její provoz a dodržování jejího řádu.
 18. V případě, že uživatel nalezne věc patřící jinému uživateli, je povinen přinést danou věc správci deskoherny nebo zástupci správce.
+
+### Část IV - Restriktivní opatření za porušení řádu
+
+1. Za porušení jakéhokoliv bodu z části III se zavádí následující možné sankce podle jejich závažnosti (každý prohřešek bude souzen individuálně):
+    1. upozornění e-mailem s termínem nápravy,
+    2. alternativní trest po dohodě se správcem deskoherny nebo představenstvem klubu Pod-O-Lee,
+    3. zablokování služby na určitou dobu, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do Deskoherny (udělení BANu na základní členství klubu Pod-O-Lee),
+    4. zablokování služby natrvalo, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do Deskoherny,
+    5. postih disciplinárními komisemi fakult ČVUT,
+    6. předání k řešení Policii ČR,
+    7. vymáhání finančního odškodnění klubu Pod-O-Lee za způsobenou škodu uživatelem v Deskoherně.
+2. Slovem BAN se rozumí zablokování základního členství na určitou nebo neurčitou dobu.
+3. O postihu rozhoduje Správce Deskoherny po konzultaci s představenstvem klubu Pod-O-Lee.
+4. Všechny postihy je možné zrušit Správcem Deskoherny nebo představenstvem klubu Pod-O-Lee.
+
+### Část V - Závěrečná ustanovení
+1. Tento provozní řád nabývá platnosti okamžitě po jeho zveřejnění na oficiálních stránkách Klubu Pod-O-Lee.
