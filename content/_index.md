@@ -19,7 +19,7 @@ Studentský klub Pod-O-Lee funguje na koleji již od roku 1998 a je druhým nejv
 
 Naší náplní je správa počítačové sítě na kolejích a zprostředkování volnočasových aktivit pro ubytované. Zajišťujeme například provoz hudebny, sportoviště Pod-O-Gym a také provoz dílny Pod-O-Lab a mnoho dalších. Také zde organizujeme různé společenské, kulturní a sportovní akce. V klubu Pod-O-Lee se určitě nudit nebudete, každý si najde zábavu přímo pro sebe.
 
-Koleje Podolí patří [Českému vysokému učení technickému v Praze (ČVUT)](https://cvut.cz/). O správu kolejí se stará [Správa účelových zařízení ČVUT](https://www.suz.cvut.cz/koleje/koleje-podoli).
+Koleje Podolí patří [Českému vysokému učení technickému v Praze (ČVUT)](https://cvut.cz/). O správu kolejí se stará [Správa účelových zařízení ČVUT](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-podoli).
 
 Pokud najdeš závadu na koleji, nahlas to v [závadovém systému](https://web.suz.cvut.cz/KnihaZavad) v ISKAMu (menu Ubytování -> Kniha závad).
 
