@@ -22,10 +22,13 @@ git submodule update --init --recursive
 ```
 
 3. Nainstalovat Hugo: https://gohugo.io/getting-started/installing/
-4. Ve složce projektu spustit server
+4. Nainstalovat Docker: https://docs.docker.com/engine/install/
+5. Nainstalovat Docker Compose: https://docs.docker.com/compose/install/
+6. Ve složce projektu spustit server
 
 ```bash
-npm run dev
+docker compose build
+docker compose up
 ```
 
 ## Úpravy nasazeného webu
