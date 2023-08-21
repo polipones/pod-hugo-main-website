@@ -169,6 +169,9 @@ languages:
         - name: На главную
           url: /
           weight: 1
+        - name: Оплата
+          url: /payments
+          weight: 2
         - name: Услуги
           url: services
           weight: 3
