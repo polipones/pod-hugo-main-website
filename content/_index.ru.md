@@ -1,7 +1,7 @@
 ---
 # Will be displayed at top of the page as main heading
 title: Студенческий клуб Pod-O-Lee
-slug: kolejni-klub-pod-o-lee-ru
+slug: dormitory-club-pod-o-lee
 showtoc: false
 
 HidePublishDate: true
