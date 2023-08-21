@@ -169,13 +169,13 @@ languages:
         - name: На главную
           url: /
           weight: 1
-        # - name: Услуги
-        #   url: services
-        #   weight: 3
+        - name: Услуги
+          url: services
+          weight: 3
         # - name: Досуг
         #   url: freetime-activities
         #   weight: 4
-        # - name: Другие услуги
+        # - name: Полезные помещения
         #   url: useful-rooms
         #   weight: 5
         # - name: Мероприятия
