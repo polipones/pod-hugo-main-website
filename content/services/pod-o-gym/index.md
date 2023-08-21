@@ -13,6 +13,10 @@ tocopen: true
 
 Boxovací pytle a boxovací hruška jsou mimo provoz do dovolání.
 
+## Provozní řád
+
+Všichni členové se musí seznámit s **[provozním řádem](pod_o_gym_provozni_rad.pdf)**!
+
 ## Jak se registrovat do Pod-O-Gym
 
 Registrace do Pod-O-Gym probíhá následovně:
@@ -28,8 +32,6 @@ Registrace do Pod-O-Gym probíhá následovně:
 Pod-O-Gym je otevřený každý den od 05:00 do 00:00.
 
 Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su.cvut.cz/) s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
-
-**Všichni členové se musí seznámit s [provozním řádem](pod_o_gym_provozni_rad.pdf)!**
 
 **Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí. Externí členy tudíž nepřijímáme.**
 
