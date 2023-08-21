@@ -13,6 +13,10 @@ tocopen: true
 
 All boxing bags and boxing speedbag is out of order until further notice.
 
+## Operating rules
+
+All members who are training in our gym must be acquainted with **[operating rules](pod_o_gym_operating_rules.pdf)**!
+
 ## How to register in our Pod-O-Gym
 
 1. Find any card with a chip. It can be any card with a chip such as your ISIC, or TESCO card, or just a chip you have for accessing to another facility e.g. canteen. You cannot use your credit card.
@@ -26,8 +30,6 @@ All boxing bags and boxing speedbag is out of order until further notice.
 Pod-O-Gym is open every day from 05:00 to 00:00.
 
 Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) with area of 340 m². It is located in the same building as canteen of Podolí and the entrance is from the right side of the building. All the information regarding payment can be found on our website here: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
-
-**All members who are training in our gym must be acquainted with [our rules](pod_o_gym_operating_rules.pdf)!**
 
 **Main rule for becoming member of our gym is that you must live in our dormitory Podolí. That means we are not registering new external members now.**
 
