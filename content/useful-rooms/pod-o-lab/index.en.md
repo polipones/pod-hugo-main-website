@@ -13,8 +13,6 @@ The Pod-O-Lab is located in two rooms on the ground floor of Block E. The first 
 
 Lab is open by appointment with administrators and team members by email [lab@pod.cvut.cz](mailto:lab@pod.cvut.cz) and we kindly welcome every member of the club.
 
-{{<figure src="study_room.jpg" alt="Study room">}}
-
 ## Mechanical lab
 
 {{<figure src="mechlab.jpg" alt="Mechanical lab">}}
