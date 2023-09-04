@@ -136,6 +136,7 @@ DIČ: CZ67981224
 {{<contact_section>}}
     {{<contact index="sl" role="Администратор Pod-O-Lab">}}
     {{<contact index="zsl" role="Заместитель администратора Pod-O-Lab">}}
+    {{<contact index="slt" role="Член команды Pod-O-Lab">}}
 {{</contact_section>}}
 
 ## Компьютерная комната

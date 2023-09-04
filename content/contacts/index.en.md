@@ -136,6 +136,7 @@ Contact: <lab@pod.cvut.cz>
 {{<contact_section>}}
     {{<contact index="sl" role="Pod-O-Lab manager">}}
     {{<contact index="zsl" role="Deputy Pod-O-Lab manager">}}
+    {{<contact index="slt" role="Member of Pod-O-Lab team">}}
 {{</contact_section>}}
 
 ## PC room
