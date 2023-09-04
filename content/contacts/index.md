@@ -138,6 +138,7 @@ Kontakt: <lab@pod.cvut.cz>
 {{<contact_section>}}
     {{<contact index="sl" role="Správce Pod-O-Lab">}}
     {{<contact index="zsl" role="Zástupce správce Pod-O-Lab">}}
+    {{<contact index="slt" role="Člen Pod-O-Lab týmu">}}
 {{</contact_section>}}
 
 ## PC učebna
