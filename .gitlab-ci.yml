@@ -63,7 +63,9 @@ package:dev:
 
 deploy:dev:
   stage: deploy
-  image: ${CI_DEPLOY_IMAGE}
+  image:
+    name: ${CI_DEPLOY_IMAGE}
+    entrypoint: [""]
   rules:
     - if: $CI_COMMIT_BRANCH == "develop"
       when: on_success
