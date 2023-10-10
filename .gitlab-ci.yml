@@ -70,6 +70,7 @@ deploy:dev:
     - if: $CI_COMMIT_BRANCH == "develop"
       when: on_success
   script:
+    - kubectl config get-contexts
     # - kubectl config use-context ${K8S_AGENT_CONTEXT}
     - kubectl apply -f manifest.dev.yml
   environment:
