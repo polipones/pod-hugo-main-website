@@ -70,7 +70,7 @@ deploy:dev:
     - if: $CI_COMMIT_BRANCH == "develop"
       when: on_success
   script:
-    - kubectl config use-context weby/gitlab-k8s-runner:websites-group-agent
+    - kubectl config use-context weby/main-website:main-website-agent
     - kubectl apply -f manifest.dev.yml
   environment:
     name: development
