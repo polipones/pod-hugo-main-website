@@ -2,10 +2,8 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-service:
-  port: 80
-  nodePort: 30809
+servicePort: 80
+serviceNodePort: 30809
 
-container:
-  image: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev-deploy
-  pullPolicy: IfNotPresent
+containerImage: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev-deploy
+containerPullPolicy: IfNotPresent

@@ -6,10 +6,10 @@ metadata:
 spec:
   type: NodePort
   ports:
-    - port: {{ .Values.service.port }}
+    - port: {{ .Values.servicePort }}
       targetPort: http
       protocol: TCP
       name: http
-      nodePort: {{ .Values.service.nodePort }}
+      nodePort: {{ .Values.serviceNodePort }}
   selector:
     app: {{ .Release.Name }}-pod

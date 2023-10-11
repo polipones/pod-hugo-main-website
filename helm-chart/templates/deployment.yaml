@@ -14,11 +14,11 @@ spec:
     spec:
       containers:
         - name: {{ .Release.Name }}-container
-          image: "{{ .Values.container.image }}:{{ .Values.container.tag }}"
-          imagePullPolicy: {{ .Values.container.pullPolicy }}
+          image: "{{ .Values.containerImage }}:{{ .Values.containerTag }}"
+          imagePullPolicy: {{ .Values.containerPullPolicy }}
           ports:
             - name: http
-              containerPort: {{ .Values.service.port }}
+              containerPort: {{ .Values.servicePort }}
               protocol: TCP
           livenessProbe:
             httpGet:
