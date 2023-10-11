@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Release.Name }}-service
+  namespace: websites
+spec:
+  type: NodePort
+  ports:
+    - port: {{ .Values.servicePort }}
+      targetPort: http
+      protocol: TCP
+      name: http
+      nodePort: {{ .Values.serviceNodePort }}
+  selector:
+    app: {{ .Release.Name }}-pod

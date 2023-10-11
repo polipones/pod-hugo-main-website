@@ -1,0 +1,3 @@
+serviceNodePort: 30810
+
+containerImage: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod-deploy
