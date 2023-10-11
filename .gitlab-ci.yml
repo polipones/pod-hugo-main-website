@@ -71,7 +71,7 @@ deploy:dev:
       when: on_success
   script:
     - kubectl config use-context weby/main-website:main-website-agent
-    - helm upgrade --install -f helm-chart/values.yaml --set-json 'container.tag="${CI_COMMIT_SHORT_SHA}"' main-web-dev ./helm-chart
+    - helm upgrade --install -f helm-chart/values.yaml --set-json \'container.tag="${CI_COMMIT_SHORT_SHA}"\' main-web-dev ./helm-chart
   environment:
     name: development
     url: https://new.podolee.cz
@@ -130,7 +130,7 @@ deploy:prod:
       when: on_success
   script:
     - kubectl config use-context weby/main-website:main-website-agent
-    - helm upgrade --install -f helm-chart/values.yaml -f helm-chart/prod_values.yaml --set-json 'container.tag="${CI_COMMIT_SHORT_SHA}"' main-web-prod ./helm-chart
+    - helm upgrade --install -f helm-chart/values.yaml -f helm-chart/prod_values.yaml --set-json \'container.tag="${CI_COMMIT_SHORT_SHA}"\' main-web-prod ./helm-chart
   environment:
     name: production
     url: https://podolee.cz
