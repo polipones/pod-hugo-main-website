@@ -1,7 +1,7 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
   CI_BUILD_IMAGE: registry.pod.cvut.cz/cache/library/docker:24-git
-  CI_DEPLOY_IMAGE: registry.pod.cvut.cz/cache/bitnami/kubectl:1.28
+  CI_DEPLOY_IMAGE: registry.pod.cvut.cz/cache/dtzar/helm-kubectl:3.13
 
   IMAGE_BASE: registry.pod.cvut.cz/internal/pod-o-lee/main-web
   BUILD_SUFFIX: build
@@ -71,7 +71,7 @@ deploy:dev:
       when: on_success
   script:
     - kubectl config use-context weby/main-website:main-website-agent
-    - kubectl apply -f manifest.dev.yml
+    - helm upgrade --install -f helm-chart/values.yaml --set-json 'container.tag="${CI_COMMIT_SHORT_SHA}"' main-web-dev ./helm-chart
   environment:
     name: development
     url: https://new.podolee.cz
@@ -122,16 +122,15 @@ package:prod:
 
 deploy:prod:
   stage: deploy
-  image: ${CI_DEPLOY_IMAGE}
+  image:
+    name: ${CI_DEPLOY_IMAGE}
+    entrypoint: [""]
   rules:
     - if: $CI_COMMIT_BRANCH == "main"
       when: on_success
   script:
-    - chmod og= $DOCKER_DEPLOYER_PRIVATE_KEY
-    - apk update && apk add openssh-client
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service rm main-web-prod || true"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz"
-    - ssh -i $DOCKER_DEPLOYER_PRIVATE_KEY -o StrictHostKeyChecking=no -p $DOCKER_SERVER_HOST_SSH_PORT $DOCKER_DEPLOYER_USER@$DOCKER_SERVER_HOST "docker service create --with-registry-auth --name main-web-prod --publish published=8004,target=80 --restart-condition on-failure ${PROD_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}"
+    - kubectl config use-context weby/main-website:main-website-agent
+    - helm upgrade --install -f helm-chart/values.yaml -f helm-chart/prod_values.yaml --set-json 'container.tag="${CI_COMMIT_SHORT_SHA}"' main-web-prod ./helm-chart
   environment:
     name: production
     url: https://podolee.cz

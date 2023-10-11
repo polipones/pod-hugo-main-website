@@ -1,0 +1,11 @@
+# Default values for helm-chart.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+service:
+  port: 80
+  nodePort: 30809
+
+container:
+  image: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev-deploy
+  pullPolicy: IfNotPresent
