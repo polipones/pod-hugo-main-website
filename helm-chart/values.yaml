@@ -6,4 +6,4 @@ servicePort: 80
 serviceNodePort: 30809
 
 containerImage: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev-deploy
-containerPullPolicy: IfNotPresent
+containerPullPolicy: Always
