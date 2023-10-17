@@ -29,7 +29,7 @@ Na grilování je určen krb, který se nachází v jiho-západním rohu areálu
 
 Součástí krbu **není uhlí ani podpalovač**. Každý si tedy uhlí musí zakoupit vlastní.
 
-{{<figure src="grill.jpg" alt="Grill">}}
+{{<figure src="images/freetime-activities/grill/grill.jpg" alt="Grill" imgop="rt_fit">}}
 
 ## Návod na půjčení grilu
 

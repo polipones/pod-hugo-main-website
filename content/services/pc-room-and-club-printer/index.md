@@ -18,8 +18,8 @@ Přístup do učebny má každý člen klubu Pod-O-Lee. To znamená, že stačí
 Jestliže jsi členem klubu Pod-O-Lee, pak máš automaticky přístup do učebny. Pokud se se ti nedaří dostat se do PC učebny, zajdi za televizorem, který Ti řekne co a jak.
 V počítačové učebně se mimo jiné nachází klubová tiskárna a knihbudka.
 
-{{<figure src="pc_room_01.jpg" alt="PC room: Main room">}}
-{{<figure src="pc_room_02.jpg" alt="PC room: Second room with whiteboards">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_02.jpg" alt="PC room: Second room with whiteboards" imgop="rt_fit">}}
 
 ## Knihbudka
 
@@ -27,7 +27,7 @@ V prostorách PC učebny se nachází klubová knihbudka. Nalezneš zde na poli�
 
 Knížky si můžeš samostatně, bez nutnosti se s někým domlouvat, vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
 
-{{<figure src="pc_room_04_books.jpg" alt="PC room: Library">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Tiskárna
 
@@ -46,7 +46,7 @@ Po registraci se můžete přihlásit k webovému rozhraní našeho systému pro
 
 Dotazy, námitky a závady zasílejte na <tisk@pod.cvut.cz>.
 
-{{<figure src="pc_room_03_printer.jpg" alt="PC room: Printer">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
 ## Provozní řád
 

@@ -30,7 +30,7 @@ WHERE? Room B206
 
 WHEN? Usually on mondays from 20:00
 
-{{<figure src="main.jpg" alt="Board games club">}}
+{{<figure src="images/freetime-activities/board-games-club/main.jpg" alt="Board games club" imgop="rt_fit">}}
 
 ## Board games room Operation Rules
 

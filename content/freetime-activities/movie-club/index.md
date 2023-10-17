@@ -19,4 +19,4 @@ Uspořádali jsme také víkendový maraton Harryho Pottera, Pána prstenů a St
 
 ## Program
 
-{{<figure src="pod-o-film-cz.png" alt="Pod-O-Film program">}}
+{{<figure src="images/freetime-activities/movie-club/pod-o-film-cz.png" alt="Pod-O-Film program" imgop="rt_fit">}}

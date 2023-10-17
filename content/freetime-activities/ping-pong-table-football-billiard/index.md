@@ -23,8 +23,8 @@ Dále se v místnosti nachází dva stoly na stolní fotbálek. Starší, „ita
 
 Na zdi vedle dveří je také pěnový terč na šipky s kovovým hrotem.
 
-{{<figure src="football.jpg" alt="Football">}}
-{{<figure src="pingpong.jpg" alt="Ping pong">}}
+{{<figure src="images/freetime-activities/ping-pong-table-football-billiard/football.jpg" alt="Football" imgop="rt_fit">}}
+{{<figure src="images/freetime-activities/ping-pong-table-football-billiard/pingpong.jpg" alt="Ping pong" imgop="rt_fit">}}
 
 Provozní řád místnosti je k nahlédnutí níže. Každý obdržením klíčů potvrzuje, že je s řádem srozuměn on, ale i lidé, kteří se v místnosti nacházejí. Porušení jakéhokoliv z bodů bude potrestáno zákazem navštěvování místnosti podle odstavce Restriktivní opatření.
 
@@ -60,7 +60,7 @@ Místnost se nachází na bloku D v přízemí. Od vchodu se dej doprava a jde o
 
 V místnosti se nachází stůl na billiard a kulečník se vším potřebným ke hře. Tága (delší pro pool, kratší pro karambol) jsou ve stojanu, křídy na stolech a koule v krabicích na oknech.
 
-{{<figure src="pool.jpg" alt="Kulečník">}}
+{{<figure src="images/freetime-activities/ping-pong-table-football-billiard/pool.jpg" alt="Kulečník" imgop="rt_fit">}}
 
 Provozní řád místnosti je k nahlédnutí níže. Každý obdržením klíčů potvrzuje, že je s řádem srozuměn on, ale i lidé, kteří se v místnosti nacházejí. Porušení jakéhokoliv z bodů bude potrestáno zákazem navštěvování místnosti podle odstavce Restriktivní opatření.
 

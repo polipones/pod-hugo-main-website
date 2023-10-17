@@ -17,7 +17,7 @@ Studovny najdeš v místnostech:
 
 Klíče si můžeš vypůjčit na vrátnici **až na 3 dny** oproti kolejence.
 
-{{<figure src="study_room.jpg" alt="Study room">}}
+{{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
 ## Provozní řád Studoven
 

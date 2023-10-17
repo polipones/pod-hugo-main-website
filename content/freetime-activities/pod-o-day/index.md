@@ -13,7 +13,7 @@ weight: 9
 
 ## Ročník 2023
 
-{{<figure src="pod-o-day-2023.png" alt="Pod-O-Day 2023">}}
+{{<figure src="images/freetime-activities/pod-o-day/pod-o-day-2023.png" alt="Pod-O-Day 2023">}}
 
 - Datum konání: **29. 4. 2023**
 - Registrační formulář pro týmy: [https://forms.gle/7K7MnxYnq277rcp26](https://forms.gle/7K7MnxYnq277rcp26)
@@ -50,10 +50,10 @@ Orientační běh vás provede po známých i méně známých historických i t
 ## Galerie
 
 {{<figure_gallery>}}
-    {{<figure src="gallery_01.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="gallery_02.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="gallery_03.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="gallery_04.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="gallery_05.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="gallery_06.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_01.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_02.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_03.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_04.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_05.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_06.jpg" alt="Pod-O-Day photo">}}
 {{</figure_gallery>}}

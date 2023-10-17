@@ -26,8 +26,8 @@ Pokud tě hudebna zaujala, můžeš se také přidat k naší [Facebookové skup
 Hudebna je konstantně monitorována kamerami.
 
 {{<figure_gallery>}}
-    {{<figure src="music-room-1.jpg" alt="Music room photo 1">}}
-    {{<figure src="music-room-2.jpg" alt="Music room photo 2">}}
+    {{<figure src="images/services/music-room/music-room-1.jpg" alt="Music room photo 1">}}
+    {{<figure src="images/services/music-room/music-room-2.jpg" alt="Music room photo 2">}}
 {{</figure_gallery>}}
 
 ## Postup registrace
