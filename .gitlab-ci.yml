@@ -43,9 +43,6 @@ deploy:dev:
       when: on_success
   script:
     - kubectl config use-context weby/main-website:main-website-agent
-    - git fetch --unshallow --tags
-    - 'find ./helm-chart -type f -name "Chart.yaml" -exec sed -i "s/^version:.*$/version: $(git describe --always)/" {} \;'
-    - 'find ./helm-chart -type f -name "Chart.yaml" -exec sed -i "s/^appVersion:.*$/appVersion: $(git describe --always)/" {} \;'
     - helm upgrade --install --namespace websites -f helm-chart/values.yaml --set-string global.container.tag=${CI_COMMIT_SHORT_SHA} main-web-dev ./helm-chart
   environment:
     name: development
