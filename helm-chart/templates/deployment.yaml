@@ -1,30 +1,47 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ .Release.Name }}-deployment
-  namespace: websites
+  name: {{ .Values.name }}
+  labels:
+    {{- include "helm.labels" . | nindent 4 }}
 spec:
+  replicas: {{ default 1 .Values.replicaCount }}
   selector:
     matchLabels:
-      app: {{ .Release.Name }}-pod
+      {{- include "helm.selectorLabels" . | nindent 6 }}
   template:
     metadata:
       labels:
-        app: {{ .Release.Name }}-pod
+        {{- include "helm.selectorLabels" . | nindent 8 }}
     spec:
+      {{- if .Values.dependsOn }}
+      initContainers:
+      - name: wait-for-dependencies
+        image: opsfleet/depends-on
+        imagePullPolicy: Always
+        args:
+          {{- range .Values.dependsOn.services }}
+          - -service={{ . }}
+          {{- end }} 
+          - -check_interval={{ .Values.dependsOn.checkInterval | default 2 }}
+      {{- end }}
       containers:
-        - name: {{ .Release.Name }}-container
-          image: "{{ .Values.containerImage }}:{{ .Values.containerTag }}"
-          imagePullPolicy: {{ .Values.containerPullPolicy }}
+        - name: {{ .Values.name }}
+          image: "{{ .Values.container.image }}:{{ default .Values.global.container.tag .Values.container.tag }}"
+          imagePullPolicy: {{ .Values.global.container.pullPolicy }}
+          {{- with .Values.container.ports }}
           ports:
-            - name: http
-              containerPort: {{ .Values.servicePort }}
-              protocol: TCP
+            {{- toYaml . | nindent 12 }}
+          {{- end }}
+            {{- with .Values.container.healthcheck }}
+          startupProbe:
+            {{- toYaml . | nindent 12 }}
+          {{- end }}
+          {{- with .Values.container.healthcheck }}
           livenessProbe:
-            httpGet:
-              path: /
-              port: http
-          readinessProbe:
-            httpGet:
-              path: /
-              port: http
+            {{- toYaml . | nindent 12 }}
+          {{- end }}
+          {{- with .Values.container.env }}
+          env:
+            {{- toYaml . | nindent 12 }}
+          {{- end }}

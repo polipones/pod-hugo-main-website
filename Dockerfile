@@ -1,5 +1,5 @@
 # Local
-FROM klakegg/hugo:0.101.0-ext-alpine as hugo_local
+FROM klakegg/hugo:0.101.0-ext-alpine as hugo
 
 RUN apk add jq
 
@@ -10,3 +10,7 @@ COPY .git* ./
 RUN git submodule update --init --recursive
 
 ENTRYPOINT [ "./scripts/run_server.sh" ]
+
+FROM nginx:mainline-alpine as nginx
+
+COPY nginx/default.conf /etc/nginx/conf.d/

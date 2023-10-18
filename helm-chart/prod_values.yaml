@@ -1,3 +1,13 @@
-serviceNodePort: 30810
+web:
+  container:
+    image: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod
+  service:
+    ports:
+      - name: http
+        port: 80
+        nodePort: 30810
 
-containerImage: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod-deploy
+imgproxy:
+  resources:
+    service:
+      nodePort: 30820

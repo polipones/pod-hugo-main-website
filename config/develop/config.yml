@@ -1,1 +1,4 @@
 baseURL: "https://new.podolee.cz"
+params:
+  imgproxyUrl: https://img.test.podolee.cz
+  imgHostUrl: http://web/assets

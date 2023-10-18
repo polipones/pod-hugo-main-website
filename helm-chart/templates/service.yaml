@@ -1,15 +1,17 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: {{ .Release.Name }}-service
-  namespace: websites
+  name: {{ .Values.name }}
+  labels:
+    {{- include "helm.labels" . | nindent 4 }}
 spec:
-  type: NodePort
+  type: {{ .Values.service.type }}
   ports:
-    - port: {{ .Values.servicePort }}
-      targetPort: http
-      protocol: TCP
-      name: http
-      nodePort: {{ .Values.serviceNodePort }}
+    {{- range .Values.service.ports }}
+    - name: {{ .name }}
+      port: {{ .port }}
+      targetPort: {{ default .port .targetPort }}
+      {{ if .nodePort }}nodePort: {{ .nodePort }}{{ end }}
+    {{- end }}
   selector:
-    app: {{ .Release.Name }}-pod
+    {{- include "helm.selectorLabels" . | nindent 4 }}

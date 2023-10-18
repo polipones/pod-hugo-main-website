@@ -4,13 +4,24 @@ services:
   web:
     build:
       context: '.' 
-      target: hugo_local
+      target: hugo
     ports:
-      - 1313:1313
+      - '1313:1313'
     volumes:
       - './:/src'
     depends_on:
       - imgproxy
+    networks:
+      - internal
+  
+  imghost:
+    build:
+      context: '.'
+      target: nginx
+    ports:
+      - '127.0.0.1:8081:80'
+    volumes:
+      - './assets/images:/usr/share/nginx/html/assets/images'
     networks:
       - internal
 
@@ -18,8 +29,7 @@ services:
   imgproxy:
     image: registry.pod.cvut.cz/cache/darthsim/imgproxy:v3.20
     environment:
-      IMGPROXY_LOCAL_FILESYSTEM_ROOT: /images
-      IMGPROXY_ALLOWED_SOURCES: 'local://,https://plik.pod.cvut.cz/'
+      IMGPROXY_ALLOWED_SOURCES: 'https://plik.pod.cvut.cz/,http://imghost/'
       IMGPROXY_DEVELOPMENT_ERRORS_MODE: true
       IMGPROXY_PREFERRED_FORMATS: 'avif, webp, jpeg, png'
       IMGPROXY_ENABLE_CLIENT_HINTS: true
@@ -28,10 +38,11 @@ services:
       IMGPROXY_ONLY_PRESETS: true
       IMGPROXY_MAX_SRC_RESOLUTION: 40
       IMGPROXY_PRESETS: rt_fill=rt:fill,rt_fit=rt:fit,t_100=w:150/h:150,t_250=w:250/h:250,t_480=w:480/h:480,t_800=w:800/h:800,t_1200=w:1200/h:1200,t_1500=w:1500/h:1500,t_2000=w:2000/h:2000
-    volumes:
-      - ./assets/images:/images
+      IMGPROXY_DOWNLOAD_BUFFER_SIZE: 5242880
+      IMGPROXY_FREE_MEMORY_INTERVAL: 5
     ports:
       - "127.0.0.1:8080:8080"
+    mem_limit: "1.5G"
     networks:
       - internal
 
