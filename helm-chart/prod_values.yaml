@@ -13,5 +13,4 @@ imgproxy:
       nodePort: 30820
     deployment:
       replicas:
-        minCount: 1
-        maxCount: 2
+        default: 2
