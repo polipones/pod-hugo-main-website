@@ -1,0 +1,22 @@
+FROM klakegg/hugo:0.101.0-ext-alpine-ci AS build
+
+ARG hugo_env=production
+ENV HUGO_ENV=${hugo_env}
+
+RUN apk add jq && mkdir ./assets
+
+COPY ./assets/images ./
+
+COPY ./ ./
+
+RUN git submodule update --init --recursive && \
+    ./scripts/fetch_contacts.sh && \
+    hugo
+
+FROM nginx:mainline-alpine as deploy
+
+RUN mkdir -p /usr/share/nginx/html/assets/images
+
+COPY --from=build /src/assets/images /usr/share/nginx/html/assets/images
+
+COPY --from=build /src/public /usr/share/nginx/html

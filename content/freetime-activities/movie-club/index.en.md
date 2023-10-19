@@ -18,4 +18,4 @@ We also held a weekend marathon of Harry Potter, Lord of the Rings and Star Wars
 
 ## Program
 
-{{<figure src="pod-o-film-en.png" alt="Pod-O-Film program">}}
+{{<figure src="images/freetime-activities/movie-club/pod-o-film-en.png" alt="Pod-O-Film program" imgop="rt_fit">}}

@@ -2,8 +2,64 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-servicePort: 80
-serviceNodePort: 30809
+global:
+  replicaCount: 1
+  container:
+    tag: develop
+    pullPolicy: Always
 
-containerImage: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev-deploy
-containerPullPolicy: Always
+web:
+  name: web
+  container:
+    image: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev
+    ports:
+      - name: http
+        containerPort: 80
+        protocol: TCP
+    healthcheck:
+      httpGet:
+        path: /
+        port: http
+      failureThreshold: 2
+      periodSeconds: 10
+  service:
+    type: NodePort
+    ports:
+      - name: http
+        port: 80
+        nodePort: 30809
+
+imgproxy:
+  fullnameOverride: imgproxy
+  image:
+    tag: v3.20
+  features:
+    urlSignature:
+      enabled: false
+    security:
+      maxSrcResolution: 40
+      allowedSources: 'https://plik.pod.cvut.cz/,http://web/'
+    formatsSupportDetection:
+      webp:
+        enabled: true
+      avif:
+        enabled: true
+    clientHintsSupport:
+      enabled: true
+    formats:
+      preferred: 'avif, webp, jpeg, png'
+    presets:
+      definitions: 'rt_fill=rt:fill/g:sm,rt_fit=rt:fit,t_200=w:200/h:200,t_250=w:250/h:250,t_480=w:480/h:480,t_800=w:800/h:800,t_1200=w:1200/h:1200,t_1500=w:1500/h:1500,t_2000=w:2000/h:2000'
+      onlyPresets: true
+    memoryUsageTweaks:
+      downloadBufferSize: 5242880
+      freeMemoryInterval: 5
+  resources:
+    deployment:
+      resources:
+        limits:
+          cpu: ~
+          memory: 3Gi
+    service:
+      type: NodePort
+      nodePort: 30819

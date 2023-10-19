@@ -19,7 +19,7 @@ Je to místnost pro uložení jízdních kol, najdete ji na Bloku F v přízení
 
 Členům kolárny je k dispozici klubové nářadí pro základní údržbu jízdních kol. Klíč od skříňky získáte od správce nebo zástupce správce kolárny po dohodě e-mailem (<kolarna@pod.cvut.cz>).
 
-{{<figure src="bike-room.jpg" alt="Bike room">}}
+{{<figure src="images/useful-rooms/bike-room/bike-room.jpg" alt="Bike room">}}
 
 ## Provozní řád
 

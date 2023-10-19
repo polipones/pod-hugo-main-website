@@ -27,8 +27,8 @@ Večer je obohacen o občerstvení, čepuje se pivo i limonáda a na zahnání h
 [Příručka prváka](AP_CZ.pdf)
 
 {{<figure_gallery>}}
-    {{<figure src="akce_prvak_01.jpg" alt="Akce prvák photo">}}
-    {{<figure src="akce_prvak_02.jpg" alt="Akce prvák photo">}}
+    {{<figure src="images/events/akce_prvak_01.jpg" alt="Akce prvák photo">}}
+    {{<figure src="images/events/akce_prvak_02.jpg" alt="Akce prvák photo">}}
 {{</figure_gallery>}}
 
 ## Halloween party
@@ -36,8 +36,8 @@ Večer je obohacen o občerstvení, čepuje se pivo i limonáda a na zahnání h
 Soutěž o nejlepší masku, beerpong, fotokoutek a super parta lidí, to všechno najdeš na naší halloweenské párty.
 
 {{<figure_gallery>}}
-    {{<figure src="halloween_02.jpg" alt="Halloween photo">}}
-    {{<figure src="halloween_01.jpg" alt="Halloween photo">}}
+    {{<figure src="images/events/halloween_02.jpg" alt="Halloween photo">}}
+    {{<figure src="images/events/halloween_01.jpg" alt="Halloween photo">}}
 {{</figure_gallery>}}
 
 ## Podolské Vánoce
@@ -47,8 +47,8 @@ Podolské Vánoce je každoroční akce, která má účastníky naladit na nadc
 Na zúčastněné zde dýchá vánoční atmosféra díky, koledám a přátelskému, až rodinnému prostředí. Nechybí zde ani zábava. Tradičně probíhá běh s jablkem pro páry, ale také vkládáme nové soutěže, jako například soutěž o nejhezčí vánoční básničku. Je to akce, kde se mohou obyvatelé kolejí v klidu sejít a pobavit se.
 
 {{<figure_gallery>}}
-    {{<figure src="christmas_01.jpg" alt="POD Vánoce 1">}}
-    {{<figure src="christmas_02.jpg" alt="POD Vánoce 2">}}
+    {{<figure src="images/events/christmas_01.jpg" alt="POD Vánoce 1">}}
+    {{<figure src="images/events/christmas_02.jpg" alt="POD Vánoce 2">}}
 {{</figure_gallery>}}
 
 ## Podolský Valentýn
@@ -56,8 +56,8 @@ Na zúčastněné zde dýchá vánoční atmosféra díky, koledám a přátelsk
 Akce nejen pro ty, kteří svou drahou polovičku ještě nenašli a rádi by tento večer zamilovaných netrávili sami.
 
 {{<figure_gallery>}}
-    {{<figure src="valentyn_01.jpg" alt="Valentýn photo">}}
-    {{<figure src="valentyn_02.jpg" alt="Valentýn photo">}}
+    {{<figure src="images/events/valentyn_01.jpg" alt="Valentýn photo">}}
+    {{<figure src="images/events/valentyn_02.jpg" alt="Valentýn photo">}}
 {{</figure_gallery>}}
 
 ## Pod-O-Day (Sportovní den)
@@ -67,8 +67,8 @@ Sportovní den, kde se můžete zúčastnit jedné nebo více z disciplín. Na
 Odkaz na instrukce: [Pod-O-Day]({{< ref "/freetime-activities/pod-o-day/index.md" >}})
 
 {{<figure_gallery>}}
-    {{<figure src="pod_o_day_01.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="pod_o_day_02.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/events/pod_o_day_01.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/events/pod_o_day_02.jpg" alt="Pod-O-Day photo">}}
 {{</figure_gallery>}}
 
 ## MEZI BLOKY
@@ -89,12 +89,12 @@ Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mez
 Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
 
 {{<figure_gallery>}}
-    {{<figure src="mb_01.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_02.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_03.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_04.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_05.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_06.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_01.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_02.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_03.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_04.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_05.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_06.jpg" alt="Mezibloky photo">}}
 {{</figure_gallery>}}
 
 <!-- ## Benchpress
@@ -107,15 +107,15 @@ Muži souteží ve 4 kategoriích:
 - Podolské ženy a ženy celkově podle wilkse.
 - Výsledek dle zvednuté váhy.
 
-{{<figure src="benchpress.jpg" alt="Benchpress">}} -->
+{{<figure src="images/events/benchpress.jpg" alt="Benchpress">}} -->
 
 ## Fuckup night
 
 Máš nějaký fuckup, o který by ses rád podělil se světem? Tak tohle je právě akce pro tebe! Můžeš tím někomu pomoci do budoucna a nebo se nad tím společně zasmějeme. Pokud máš s fuckupy dlouholetou zkušenost, tak určitě doraz a dej radu ostatním. Určitě se rádi dozví, jak se jim v budoucnu vyvarovat.
 
 {{<figure_gallery>}}
-    {{<figure src="fun_01.jpg" alt="Fuckup night photo">}}
-    {{<figure src="fun_02.jpg" alt="Fuckup night photo">}}
+    {{<figure src="images/events/fun_01.jpg" alt="Fuckup night photo">}}
+    {{<figure src="images/events/fun_02.jpg" alt="Fuckup night photo">}}
 {{</figure_gallery>}}
 
 ## Poznej svého správce

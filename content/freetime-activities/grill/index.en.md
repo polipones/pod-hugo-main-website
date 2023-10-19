@@ -13,7 +13,7 @@ weight: 6
 
 Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 
-{{<figure src="grill.jpg" alt="Grill">}}
+{{<figure src="images/freetime-activities/grill/grill.jpg" alt="Grill" imgop="rt_fit">}}
 
 ## Instructions for lending a grill
 

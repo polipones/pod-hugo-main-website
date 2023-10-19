@@ -20,7 +20,7 @@ After that the key to bike room can be borrowed at the gatehouse.
 
 Bike room members have access to club’s tools for basic maintenance. Keys from the cabinet can be borrowed from the bike room manager or deputy manager after an agreement via e-mail (<kolarna@pod.cvut.cz>).
 
-{{<figure src="bike-room.jpg" alt="Bike room">}}
+{{<figure src="images/useful-rooms/bike-room/bike-room.jpg" alt="Bike room">}}
 
 ## Operating rules
 

@@ -31,7 +31,7 @@ KDE? Pokoj B206
 
 KDY? Pravidelně v pondělí od 20:00
 
-{{<figure src="main.jpg" alt="Board games club">}}
+{{<figure src="images/freetime-activities/board-games-club/main.jpg" alt="Board games club" imgop="rt_fit">}}
 
 ## Provozní řád
 

@@ -7,7 +7,7 @@ showtoc: false
 HidePublishDate: true
 ---
 
-{{<figure src="panorama.jpg" alt="Panorama" loading=eager >}}
+{{<figure src="images/panorama.jpg" alt="Panorama" loading=eager imgop="rt_fit">}}
 
 ## Příspěvky
 

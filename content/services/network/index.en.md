@@ -33,7 +33,7 @@ To set password used for WiFi connection, follow these steps:
 1. Open [https://hydra.pod.cvut.cz/services/network](https://hydra.pod.cvut.cz/services/network). Use your username and generated password to log in (you can find it in the email you received after registration with televizor).
 2. Find red button with “Set new password” label and username above (This is your WiFi password, different from the one from email)
 
-{{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
+{{<figure src="images/services/network/hydra_wifi_password.png" alt="WiFi password setup Hydra" imgop="rt_fit">}}
 
 Try to log in with the username (case-sensitive!) and the newly set password. If it doesn’t work, wait for cca 10 minutes and try again.
 
@@ -53,4 +53,4 @@ These conferences are moderated, if you want to send some important information,
 
 You can subscribe and unsubscribe these conferences in your Hydra account: https://hydra.pod.cvut.cz/mailing.
 
-{{<figure src="hydra_mailing.png" alt="Email conferences in Hydra">}}
+{{<figure src="images/services/network/hydra_mailing.png" alt="Email conferences in Hydra" imgop="rt_fit">}}

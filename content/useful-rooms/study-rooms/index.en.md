@@ -17,7 +17,7 @@ Study rooms can be found in rooms:
 
 Keys can be borrowed for **up to 3 days** in exchange for the dormitory ID.
 
-{{<figure src="study_room.jpg" alt="Study room">}}
+{{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
 ## Operation rules:
 

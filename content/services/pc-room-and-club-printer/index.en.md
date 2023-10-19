@@ -17,9 +17,9 @@ Access is granted to every Pod-O-Lee member with the basic membership.
 
 If you have trouble accessing the PC room, visit a televizor which will tell you how to proceed. Printer and small library is located at the PC room.
 
-{{<figure src="pc_room_01.jpg" alt="PC room: Main room">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 
-{{<figure src="pc_room_02.jpg" alt="PC room: Second room with whiteboards">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_02.jpg" alt="PC room: Second room with whiteboards" imgop="rt_fit">}}
 
 ## Library
 
@@ -27,7 +27,7 @@ Books are in czech. Collection composes of professional books as well as novels,
 
 You can borrow the books on your own, without the need to agree with anybody. You can also leave any book of your own.
 
-{{<figure src="pc_room_04_books.jpg" alt="PC room: Library">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Printer
 
@@ -48,7 +48,7 @@ After registration, you can login to web interface of print system: <https://pri
 
 Questions, objections and malfunctions can be sent to <tisk@pod.cvut.cz>.
 
-{{<figure src="pc_room_03_printer.jpg" alt="PC room: Printer">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
 ## Operation rules
 

@@ -24,13 +24,12 @@ layout: post
 ---
 
 Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každý týden, momentálně máme cca 20 aktivních členů a stále rosteme. Každý si u nám může vyzkoušet boj v hradbě se štítem, kopím či střelbu z luku nebo kuše, zároveň nabízíme možnost s námi jezdit na bitvy a LARPové světy po celé republice.
-<!-- {{<figure_gallery>}}
-    {{<figure src="set1/03.jpg" alt="Pod-O-Šerm 3">}}
-    {{<figure src="set1/07.jpg" alt="Pod-O-Šerm 7">}}
-    {{<figure src="set1/08.jpg" alt="Pod-O-Šerm 8">}}
-{{</figure_gallery>}} -->
-
-{{<figure src="set1/06.jpg" alt="Pod-O-Šerm">}}
+{{<figure_gallery>}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/03.jpg" alt="Pod-O-Šerm 3">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/07.jpg" alt="Pod-O-Šerm 7">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/08.jpg" alt="Pod-O-Šerm 8">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/06.jpg" alt="Pod-O-Šerm">}}
+{{</figure_gallery>}}
 
 ## V roce 2022:
 1. Zúčastnili jsem se 2 bitev
@@ -38,8 +37,8 @@ Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každ
 3. Pořádali jsme víkendové soustředění
 
 {{<figure_gallery>}}
-    {{<figure src="set1/02.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set1/04.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/02.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/04.jpg" alt="Pod-O-Šerm">}}
 {{</figure_gallery>}}
 
 ## Plány na rok 2023
@@ -53,27 +52,27 @@ Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každ
 7. Bitva o Blata
 
 {{<figure_gallery>}}
-    {{<figure src="set1/01.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set1/05.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/01.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/05.jpg" alt="Pod-O-Šerm">}}
 {{</figure_gallery>}}
 
 Opět máme v plánu pořádat víkendové soustředění a účastnit se akcí kolejního klubu Pod-O-Lee.
 
 Pokud se k nám budete chtít přidat, nebo si jen šerm vyzkoušet, neváhejte se pes odkaz připojit do naší [fb skupiny](https://www.facebook.com/groups/993731364773111/), kde se dozvíte kdy trénujeme, případně kdy jsou jaké akce a jak se na ně dostat.
 
-{{<figure src="set1/03.jpg" alt="Pod-O-Šerm">}}
+{{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/03.jpg" alt="Pod-O-Šerm">}}
 
 {{<figure_gallery>}}
-    {{<figure src="set1/07.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set1/08.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/07.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/08.jpg" alt="Pod-O-Šerm">}}
 {{</figure_gallery>}}
 
 {{<figure_gallery>}}
-    {{<figure src="set2/01.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set2/02.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set2/03.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set2/04.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set2/05.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set2/06.jpg" alt="Pod-O-Šerm">}}
-    {{<figure src="set2/07.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/01.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/02.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/03.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/04.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/05.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/06.jpg" alt="Pod-O-Šerm">}}
+    {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set2/07.jpg" alt="Pod-O-Šerm">}}
 {{</figure_gallery>}}

@@ -40,9 +40,9 @@ Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su
 Používáme různé typy posilovacích strojů značky HBP.
 
 {{<figure_gallery>}}
-    {{<figure src="main-room-2.jpg" alt="Main room photo 2">}}
-    {{<figure src="main-room-1.jpg" alt="Main room photo 1">}}
-    {{<figure src="leg-room-1.jpg" alt="Leg room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/main-room-2.jpg" alt="Main room photo 2">}}
+    {{<figure src="images/services/pod-o-gym/main-room-1.jpg" alt="Main room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/leg-room-1.jpg" alt="Leg room photo 1">}}
 {{</figure_gallery>}}
 
 Najdete u nás také různé typy volných vah. Klasické jednoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a StrongGear.
@@ -51,7 +51,7 @@ Najdete u nás také různé typy volných vah. Klasické jednoruční monolitic
 
 2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, elliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Vám mohou rychleji utéct například i díky nainstalované TV.
 
-{{<figure src="cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
+{{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
 ### Tělocvična
 
@@ -59,13 +59,13 @@ V tělocvičně (72 m²) je položeno tatami. Místnost je vybavena pro trénink
 
 Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla, FLEXI-BAR®, Bulgarian bags, medicinbaly, kardio MMA lana a další vybavení. Naleznete zde také pomůcky pro relaxační a zdravotní cvičení.
 
-{{<figure src="aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
+{{<figure src="images/services/pod-o-gym/aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
 
 ### Boulder
 
 Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder.
 
-{{<figure src="boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
+{{<figure src="images/services/pod-o-gym/boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
 ### Sauna
 
@@ -89,8 +89,8 @@ Rezervace sauny se provádí přes rezervační systém na adrese: <https://gym.
 Při nalezení problému např. poškození, je nutno tento problém nahlásit e-mailem správci Pod-O-Gym ([kontakt]({{< ref "/contacts#pod-o-gym" >}})) hned na začátku vašeho rezervovaného času!
 
 {{<figure_gallery>}}
-    {{<figure src="sauna-1.jpg" alt="Sauna photo 1">}}
-    {{<figure src="sauna-2.jpg" alt="Sauna photo 2">}}
+    {{<figure src="images/services/pod-o-gym/sauna-1.jpg" alt="Sauna photo 1">}}
+    {{<figure src="images/services/pod-o-gym/sauna-2.jpg" alt="Sauna photo 2">}}
 {{</figure_gallery>}}
 
 ### Pravidelné a občasné kurzy

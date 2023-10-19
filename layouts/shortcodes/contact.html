@@ -5,7 +5,7 @@
     {{ if $person }}
         <div class="contact-photo">
             <img
-                src="{{ $person.profile_photo }}"
+                src="{{ $.Site.Params.imgproxyUrl }}/insecure/t_200:rt_fill/plain/{{ $person.profile_photo }}"
                 alt="Photo of {{ $person.name }}"
             />
         </div>

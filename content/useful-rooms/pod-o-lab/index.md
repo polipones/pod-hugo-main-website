@@ -15,20 +15,20 @@ Lab je otevřen po domluvě se správci a členy týmu na emailu [lab@pod.cvut.c
 
 ## Mechanický lab
 
-{{<figure src="mechlab.jpg" alt="Mechanical lab">}}
+{{<figure src="images/useful-rooms/pod-o-lab/mechlab.jpg" alt="Mechanical lab" imgop="rt_fit">}}
 
 V mechanickém Labu si můžete vytvořit cokoliv, co vás napadne. Vrtáků jak do dřeva, tak do železa máme docela dost, závitníkú máme taktéž hezký rozsah. Gola sada, flexa a sada bitů tu taktéž má svoje místo. Pokud něco nebude chtít spolupracovat, tak tomu můžeme kromě již zmiňované flexy pomoct páčidlem, pár velikostmi kladiv, pilkami jak do dřeva, tak do železa, proxxonkou, vrtačkou na 230, nebo akučkou.
 Stojanová vrtačka, šukalka, pilníky, nůžky na plech a kompresor s nástavci na (d)ofuk nám taky umí dosti zjednodušit život. Pro přesné měření disponujeme rýsovacími potřebami, důlčíkem (kilnerem), posuvným měřítkem (šuplerou), či jemnými pilníčky. Pro udržování vhodných podmínek disponujeme jak WDčkem, tak čističem brzd, kartáči jak běžnými tak drátěnými, hromadou hadrů, rukavic a hezkou sbírkou fofrpásek/zdrcpásek, lepenek a ochranných pomůcek. Přijďte se za námi podívat, vždycky existuje způsob, jak něco rozebrat do šroubku nebo naopak vyrobit.
 
 ## Elektrický lab
 
-{{<figure src="ellab.jpg" alt="Electrical lab">}}
+{{<figure src="images/useful-rooms/pod-o-lab/ellab.jpg" alt="Electrical lab" imgop="rt_fit">}}
 
 V druhé z místností labu je možné se věnovat elektronice díky vybavení jako jsou laboratorní zdroje, osciloskop, signálový generátor, páječka, horkovzdušná stanice apod. Bastlení vlastních projektů pro radost nebo i školních semestrálek u nás není problém. Samozřejmostí je připojení labu do klubové sítě, včetně našeho stolního počítače se vším potřebným softwarem, mimo jiné i pro logování z měřicích přístrojů. Programování mikrokontrolérů zvládneme taky. Ať přijdeš s čímkoli, v labu najdeš ideální podmínky pro dokončení svého projektu, ať už půjde o blikačku s 555 nebo diplomku.
 
 ## 3D tisk
 
-{{<figure src="3dprint.jpg" alt="3D printing">}}
+{{<figure src="images/useful-rooms/pod-o-lab/3dprint.jpg" alt="3D printing" imgop="rt_fit">}}
 
 V jednom z rohů elektricého labu se nachází 3D tiskařský koutek. V současné době disponujeme třemi 3D tiskárnami. Dvě rozšířenější technologie FDM, a to Průša MK3S a starší dvouextruderová tiskárna Poseidon Duo. Třetí tiskárnou je resinová (SLA) tiskárna Průša SL1 a s tím spojená oplachová stanice Průša CW1. Pokud potřebuješ vytisknout nějaký díl nebo figurku na dračák, neváhej se obrátit na některého z členů týmu Pod-O-Lab, ale na větší výtisky si prosím dones vlastní filament nebo resin. 
 

@@ -23,8 +23,8 @@ There are also two football tables in the room. An older, "Italian" table (you k
 
 There is also a foam dartboard for darts with a metal tip on the wall next to the door.
 
-{{<figure src="football.jpg" alt="Football">}}
-{{<figure src="pingpong.jpg" alt="Ping pong">}}
+{{<figure src="images/freetime-activities/ping-pong-table-football-billiard/football.jpg" alt="Football" imgop="rt_fit">}}
+{{<figure src="images/freetime-activities/ping-pong-table-football-billiard/pingpong.jpg" alt="Ping pong" imgop="rt_fit">}}
 
 The operating rules for the room can be viewed below. By receiving the keys, everyone confirms that they and the people in the room are aware of the rules. Violation of any of the points will be punished by being banned from the room under the Restrictive Measures section.
 
@@ -60,7 +60,7 @@ The room is located on block D on the ground floor. From the entrance, go right 
 
 In the room there is a billiard table and a pool table with everything you need to play. Cues (longer for pool, shorter for carom) are in the rack, chalk on the tables and balls in boxes on the windows.
 
-{{<figure src="pool.jpg" alt="Kulečník">}}
+{{<figure src="images/freetime-activities/ping-pong-table-football-billiard/pool.jpg" alt="Kulečník" imgop="rt_fit">}}
 
 The operating rules of the room can be found below. By receiving the keys, everyone confirms that they and the people in the room are aware of the rules. Violation of any of the points will be punished by being banned from the room under the Restrictive Measures section.
 

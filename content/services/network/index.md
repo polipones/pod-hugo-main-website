@@ -24,7 +24,7 @@ Postup při registraci je totožný s registrací kabelového připojení. Tj. n
 
 Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 GHz a 5 GHz ). Přihlášení probíhá pomocí klubového e-mailu (najdeš v Hydře, je ve tvaru j.prijmeni[cislo]@pod.cvut.cz, např. j.novak1@pod.cvut.cz) a síťového hesla. Síťové heslo je nezávislé (tj. není totožné) na heslu pro přihlášení do Hydry a je možné ho nastavit na https://hydra.pod.cvut.cz/services/network (viz obrázek níže).
 
-{{<figure src="hydra_wifi_password.png" alt="WiFi password setup Hydra">}}
+{{<figure src="images/services/network/hydra_wifi_password.png" alt="WiFi password setup Hydra" imgop="rt_fit">}}
 
 #### Problém s připojením - Randomizovaná MAC adresa
 
@@ -53,7 +53,7 @@ Tyto konference jsou moderované, pokud bys chtěl poslat nějakou důležitou i
 
 Tyto konference je možné přihlásit i odhlásit v Hydře: https://hydra.pod.cvut.cz/mailing.
 
-{{<figure src="hydra_mailing.png" alt="Email conferences in Hydra">}}
+{{<figure src="images/services/network/hydra_mailing.png" alt="Email conferences in Hydra" imgop="rt_fit">}}
 
 ## Více o naší síti
 
@@ -71,8 +71,8 @@ Všechno, co má na našich kolejích nějakou souvislost s počítači spravuje
 - Drtivá většina serverů běží na OS Debian.
 
 {{<figure_gallery>}}
-    {{<figure src="rack-1.jpg" alt="Rack 1">}}
-    {{<figure src="rack-2.jpg" alt="Rack 2">}}
+    {{<figure src="images/services/network/rack-1.jpg" alt="Rack 1" imgop="rt_fit">}}
+    {{<figure src="images/services/network/rack-2.jpg" alt="Rack 2" imgop="rt_fit">}}
 {{</figure_gallery>}}
 
 #### Logická infrastruktura

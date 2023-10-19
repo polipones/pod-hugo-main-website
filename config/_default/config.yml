@@ -20,6 +20,9 @@ params:
   description: "Official website of dormitory club Pod-O-Lee"
   keywords: [ČVUT, SU ČVUT, Pod-O-Lee, dormitory]
 
+  imgproxyUrl: http://localhost:8080
+  imgHostUrl: http://imghost/assets
+
   DateFormat: "02. 01. 2006 15:04"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

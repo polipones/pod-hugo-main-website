@@ -26,8 +26,8 @@ The evening also includes beer, sweet drink and something to eat aswell.
 [Freshman’s guide to Podolí](AP_EN.pdf)
 
 {{<figure_gallery>}}
-    {{<figure src="akce_prvak_01.jpg" alt="Event for newcomers/firstgraders photo">}}
-    {{<figure src="akce_prvak_02.jpg" alt="Event for newcomers/firstgraders photo">}}
+    {{<figure src="images/events/akce_prvak_01.jpg" alt="Event for newcomers/firstgraders photo">}}
+    {{<figure src="images/events/akce_prvak_02.jpg" alt="Event for newcomers/firstgraders photo">}}
 {{</figure_gallery>}}
 
 ## Halloween party
@@ -35,8 +35,8 @@ The evening also includes beer, sweet drink and something to eat aswell.
 A competition for the best disguise, beerpong, photo booth and a lot of fun with fun people. That is what the Halloween party is all about.
 
 {{<figure_gallery>}}
-    {{<figure src="halloween_02.jpg" alt="Halloween photo">}}
-    {{<figure src="halloween_01.jpg" alt="Halloween photo">}}
+    {{<figure src="images/events/halloween_02.jpg" alt="Halloween photo">}}
+    {{<figure src="images/events/halloween_01.jpg" alt="Halloween photo">}}
 {{</figure_gallery>}}
 
 ## Podolí Christmas
@@ -46,8 +46,8 @@ The annual event has a goal to set the atmosphere for upcoming holidays. Grilled
 The christmas atmosphere is also boosted by a bit of a copmetition element. The main goal is to make peace, greet new people and have fun.
 
 {{<figure_gallery>}}
-    {{<figure src="christmas_01.jpg" alt="POD Christmas 1">}}
-    {{<figure src="christmas_02.jpg" alt="POD Christmas 2">}}
+    {{<figure src="images/events/christmas_01.jpg" alt="POD Christmas 1">}}
+    {{<figure src="images/events/christmas_02.jpg" alt="POD Christmas 2">}}
 {{</figure_gallery>}}
 
 ## Podolí Velentine's day
@@ -55,8 +55,8 @@ The christmas atmosphere is also boosted by a bit of a copmetition element. The 
 Event not only for those without their significant other to spend the evennig unalone.
 
 {{<figure_gallery>}}
-    {{<figure src="valentyn_01.jpg" alt="Velentine photo">}}
-    {{<figure src="valentyn_02.jpg" alt="Velentine photo">}}
+    {{<figure src="images/events/valentyn_01.jpg" alt="Velentine photo">}}
+    {{<figure src="images/events/valentyn_02.jpg" alt="Velentine photo">}}
 {{</figure_gallery>}}
 
 ## MEZI BLOKY
@@ -73,12 +73,12 @@ Facebook page: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)
 Mezibloky webpage: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
 
 {{<figure_gallery>}}
-    {{<figure src="mb_01.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_02.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_03.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_04.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_05.jpg" alt="Mezibloky photo">}}
-    {{<figure src="mb_06.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_01.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_02.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_03.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_04.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_05.jpg" alt="Mezibloky photo">}}
+    {{<figure src="images/events/mb_06.jpg" alt="Mezibloky photo">}}
 {{</figure_gallery>}}
 
 ## Meet the block administrators

@@ -38,9 +38,9 @@ Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) 
 We use various machines from company HBP.
 
 {{<figure_gallery>}}
-    {{<figure src="main-room-2.jpg" alt="Main room photo 2">}}
-    {{<figure src="main-room-1.jpg" alt="Main room photo 1">}}
-    {{<figure src="leg-room-1.jpg" alt="Leg room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/main-room-2.jpg" alt="Main room photo 2">}}
+    {{<figure src="images/services/pod-o-gym/main-room-1.jpg" alt="Main room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/leg-room-1.jpg" alt="Leg room photo 1">}}
 {{</figure_gallery>}}
 
 We have at our disposal dumbbells ranging from 0,5kg to 55kg. Kettlebells from 6kg to 32kg. 6 Barbells, 6 smaller specialized barbells and over 1 ton of weights. Weight plates we use are mainly from companies Ivanko and StrongGear.
@@ -49,7 +49,7 @@ We have at our disposal dumbbells ranging from 0,5kg to 55kg. Kettlebells from 6
 
 Two spinners NXT, two treadmills, elliptical, rowing machine Concept2D, stationary bicycles and everything is ready for your training. We even have TV so you can watch your bellowed show while getting in better shape.
 
-{{<figure src="cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
+{{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
 ### Tatami room
 
@@ -57,13 +57,13 @@ In this room (72 m²) as name suggest are tatami – foam floor. The room is tai
 
 For calisthenics we have TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR®, medicine balls, cardio MMA ropes and a lot of other equipment. You can also find equipment for relaxations of muscles and basic small therapeutic equipment.
 
-{{<figure src="aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
+{{<figure src="images/services/pod-o-gym/aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
 
 ### Boulder
 
 For climbing enthusiasts, we have a small boulder.
 
-{{<figure src="boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
+{{<figure src="images/services/pod-o-gym/boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
 ### Sauna
 
@@ -87,8 +87,8 @@ You can reserve sauna from reservation system here: <https://gym.pod.cvut.cz/rez
 If you encounter any problems with sauna room regarding damage, or other, you must e-mail these to Pod-O-Gym manager ([contact]({{< ref "/contacts#pod-o-gym" >}})) in the beginning of your reserved time!
 
 {{<figure_gallery>}}
-    {{<figure src="sauna-1.jpg" alt="Sauna photo 1">}}
-    {{<figure src="sauna-2.jpg" alt="Sauna photo 2">}}
+    {{<figure src="images/services/pod-o-gym/sauna-1.jpg" alt="Sauna photo 1">}}
+    {{<figure src="images/services/pod-o-gym/sauna-2.jpg" alt="Sauna photo 2">}}
 {{</figure_gallery>}}
 
 ### Regular and occasional courses

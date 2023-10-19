@@ -4,18 +4,12 @@ variables:
   CI_DEPLOY_IMAGE: registry.pod.cvut.cz/cache/dtzar/helm-kubectl:3.13
 
   IMAGE_BASE: registry.pod.cvut.cz/internal/pod-o-lee/main-web
-  BUILD_SUFFIX: build
-  DEPLOY_SUFFIX: deploy
 
-  DEV_BUILD_COMPLETE: ${IMAGE_BASE}-dev-${BUILD_SUFFIX}
-  DEV_DEPLOY_COMPLETE: ${IMAGE_BASE}-dev-${DEPLOY_SUFFIX}
-
-  PROD_BUILD_COMPLETE: ${IMAGE_BASE}-prod-${BUILD_SUFFIX}
-  PROD_DEPLOY_COMPLETE: ${IMAGE_BASE}-prod-${DEPLOY_SUFFIX}
+  DEV_IMAGE: ${IMAGE_BASE}-dev
+  PROD_IMAGE: ${IMAGE_BASE}-prod
 
 stages:
   - build
-  - package
   - deploy
 
 build:dev:
@@ -26,35 +20,13 @@ build:dev:
       when: always
   script:
     - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
-    - docker pull ${DEV_BUILD_COMPLETE}:latest || true
     - docker build
       --push
-      --target hugo_prod_build
-      --tag ${DEV_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      --tag ${DEV_BUILD_COMPLETE}:latest
+      --target deploy
+      --tag ${DEV_IMAGE}:${CI_COMMIT_SHORT_SHA}
+      --tag ${DEV_IMAGE}:latest
       --build-arg hugo_env=develop
-      --build-arg base_image=${DEV_BUILD_COMPLETE}:latest
-      -f Dockerfile.build .
-  environment:
-    name: development
-    url: https://new.podolee.cz
-    deployment_tier: staging
-    action: prepare
-
-package:dev:
-  stage: package
-  image: ${CI_BUILD_IMAGE}
-  rules:
-    - if: $CI_COMMIT_BRANCH == "develop"
-      when: on_success
-  script:
-    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
-    - docker build
-      --push
-      --target hugo_prod_deploy
-      --tag ${DEV_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      --build-arg base_image=${DEV_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      -f Dockerfile.package .
+      -f Dockerfile.remote .
   environment:
     name: development
     url: https://new.podolee.cz
@@ -71,7 +43,7 @@ deploy:dev:
       when: on_success
   script:
     - kubectl config use-context weby/main-website:main-website-agent
-    - helm upgrade --install -f helm-chart/values.yaml --set-string containerTag=${CI_COMMIT_SHORT_SHA} main-web-dev ./helm-chart
+    - helm upgrade --install --namespace main-web-dev --create-namespace -f helm-chart/values.yaml --set-string global.container.tag=${CI_COMMIT_SHORT_SHA} main-web-dev ./helm-chart
   environment:
     name: development
     url: https://new.podolee.cz
@@ -86,34 +58,12 @@ build:prod:
       when: always
   script:
     - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
-    - docker pull ${PROD_BUILD_COMPLETE}:latest || true
     - docker build
       --push
-      --target hugo_prod_build
-      --tag ${PROD_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      --tag ${PROD_BUILD_COMPLETE}:latest
-      --build-arg base_image=${PROD_BUILD_COMPLETE}:latest
-      -f Dockerfile.build .
-  environment:
-    name: production
-    url: https://podolee.cz
-    deployment_tier: production
-    action: prepare
-
-package:prod:
-  stage: package
-  image: ${CI_BUILD_IMAGE}
-  rules:
-    - if: $CI_COMMIT_BRANCH == "main"
-      when: on_success
-  script:
-    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
-    - docker build
-      --push
-      --target hugo_prod_deploy
-      --tag ${PROD_DEPLOY_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      --build-arg base_image=${PROD_BUILD_COMPLETE}:${CI_COMMIT_SHORT_SHA}
-      -f Dockerfile.package .
+      --target deploy
+      --tag ${PROD_IMAGE}:${CI_COMMIT_SHORT_SHA}
+      --tag ${PROD_IMAGE}:latest
+      -f Dockerfile.remote .
   environment:
     name: production
     url: https://podolee.cz
