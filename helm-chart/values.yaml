@@ -59,7 +59,7 @@ imgproxy:
       resources:
         limits:
           cpu: ~
-          memory: 1500Mi
+          memory: 3Gi
     service:
       type: NodePort
       nodePort: 30819
