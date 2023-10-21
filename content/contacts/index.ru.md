@@ -109,8 +109,8 @@ DIČ: CZ67981224
 Контакт: <kolarna@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="sk" role="Администратор хранения велосипедов">}}
-    {{<contact index="zsk" role="Заместитель администратора по хранению велосипедов">}}
+    {{<contact index="sk" role="Администратор комнаты хранения велосипедов">}}
+    {{<contact index="zsk" role="Заместитель администратора комнаты хранения велосипедов">}}
 {{</contact_section>}}
 
 ### Комната настольных игр
@@ -118,8 +118,8 @@ DIČ: CZ67981224
 Контакт: <hry@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
-    {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
+    {{<contact index="sdh" role="Администратор комнаты настольных игр">}}
+    {{<contact index="zsdh" role="Заместитель администратора комнаты настольных игр">}}
 {{</contact_section>}}
 
 ### Фотографы
@@ -129,7 +129,7 @@ DIČ: CZ67981224
     {{<contact index="fot" role="Фотограф">}}
 {{</contact_section>}}
 
-## Председательская
+## Pod-O-Lab
 
 Контакт: <lab@pod.cvut.cz>
 
@@ -139,21 +139,21 @@ DIČ: CZ67981224
     {{<contact index="slt" role="Член команды Pod-O-Lab">}}
 {{</contact_section>}}
 
-## Компьютерная комната
+## Компьютерный кабинет
 
 Контакт: <ucebna@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="pc" role="Администратор компьютерного класса">}}
-    {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
+    {{<contact index="pc" role="Администратор компьютерного кабинета">}}
+    {{<contact index="zpc" role="Заместитель aдминистратор компьютерного кабинета">}}
 {{</contact_section>}}
 
-## Группка общежития
+## Коллектив общежития
 
 Контакт: <party@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="vks" role="Ведущий группкы общежития">}}
+    {{<contact index="vks" role="Ведущий коллектива общежития">}}
 {{</contact_section>}}
 
 ### Барные игры (Настольный теннис, настольный футбол, бильярд)
@@ -169,7 +169,7 @@ DIČ: CZ67981224
 Контакт: <party@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="sps" role="Менеджер комнаты для вечеринок">}}
+    {{<contact index="sps" role="Администратор комнаты для вечеринок">}}
 {{</contact_section>}}
 
 ## Блок A
@@ -181,7 +181,7 @@ DIČ: CZ67981224
     {{<contact index="zsba" role="Заместитель администратора блока A">}}
 {{</contact_section>}}
 
-### Подключатели интернета
+### Телевизоры (заведующие интернетом)
 
 {{<block_tv index="tv-a">}}
 
@@ -194,7 +194,7 @@ DIČ: CZ67981224
     {{<contact index="zsbb" role="Заместитель администратора блока B">}}
 {{</contact_section>}}
 
-### Подключатели интернета
+### Телевизоры (заведующие интернетом)
 
 {{<block_tv index="tv-b">}}
 
@@ -207,7 +207,7 @@ DIČ: CZ67981224
     {{<contact index="zsbc" role="Заместитель администратора блока C">}}
 {{</contact_section>}}
 
-### Подключатели интернета
+### Телевизоры (заведующие интернетом)
 
 {{<block_tv index="tv-c">}}
 
@@ -220,7 +220,7 @@ DIČ: CZ67981224
     {{<contact index="zsbd" role="Заместитель администратора блока D">}}
 {{</contact_section>}}
 
-### Подключатели интернета
+### Телевизоры (заведующие интернетом)
 
 {{<block_tv index="tv-d">}}
 
@@ -233,7 +233,7 @@ DIČ: CZ67981224
     {{<contact index="zsbe" role="Заместитель администратора блока E">}}
 {{</contact_section>}}
 
-### Подключатели интернета
+### Телевизоры (заведующие интернетом)
 
 {{<block_tv index="tv-e">}}
 
@@ -246,6 +246,6 @@ DIČ: CZ67981224
     {{<contact index="zsbf" role="Заместитель администратора блока F">}}
 {{</contact_section>}}
 
-### Подключатели интернета
+### Телевизоры (заведующие интернетом)
 
 {{<block_tv index="tv-f">}}
