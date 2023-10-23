@@ -49,7 +49,7 @@ imgproxy:
     formats:
       preferred: 'avif, webp, jpeg, png'
     presets:
-      definitions: 'rt_fill=rt:fill/g:sm,rt_fit=rt:fit,t_200=w:200/h:200,t_250=w:250/h:250,t_480=w:480/h:480,t_800=w:800/h:800,t_1200=w:1200/h:1200,t_1500=w:1500/h:1500,t_2000=w:2000/h:2000'
+      definitions: 'rt_fill=rt:fill/g:sm,rt_fit=rt:fit,t_250=w:250/h:250,t_480=w:480/h:480,t_800=w:800/h:800,t_1200=w:1200/h:1200,t_1500=w:1500/h:1500,raw=raw:true'
       onlyPresets: true
     memoryUsageTweaks:
       downloadBufferSize: 5242880
