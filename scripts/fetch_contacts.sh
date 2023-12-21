@@ -7,15 +7,18 @@ script_dir=$(dirname "$(readlink -f "$0")")
 
 echo "Fetching contacts from Hydra..."
 
-cd "$script_dir"
+cd "$script_dir" || exit
 
-# Fetch resource
-response=$(wget -q -O - "$api_url")
+max_retry=3
+counter=0
 
-if [[ "$response" == "" ]]; then
-    echo "${prefix}wget encountered some problem"
-    exit 0
-fi
+until response=$(wget -q -O - "$api_url")
+do
+   sleep 1
+   [[ counter -eq $max_retry ]] && echo "Failed!" && exit 1
+   echo "Trying again. Try #$counter"
+   ((counter++))
+done
 
 response_code=$(echo "$response" | jq -r '.code')
 
