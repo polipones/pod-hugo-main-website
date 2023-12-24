@@ -7,6 +7,8 @@ global:
   container:
     tag: develop
     pullPolicy: Always
+  imagePullSecrets:
+    - name: private-registry-pod
 
 web:
   name: web

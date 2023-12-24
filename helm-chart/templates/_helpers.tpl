@@ -47,6 +47,10 @@ spec:
           env:
             {{- toYaml . | nindent 12 }}
           {{- end }}
+      {{- with .Values.global.imagePullSecrets }}
+      imagePullSecrets:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
 {{- end }}
 
 {{- define "helm.service" -}}
