@@ -129,6 +129,12 @@ Contact: <hry@pod.cvut.cz>
     {{<contact index="fot" role="Photographer">}}
 {{</contact_section>}}
 
+### Pod-O-Dance
+
+{{<contact_section>}}
+    {{<contact index="ld" role="Pod-O-Dance teacher">}}
+{{</contact_section>}}
+
 ## Pod-O-Lab
 
 Contact: <lab@pod.cvut.cz>

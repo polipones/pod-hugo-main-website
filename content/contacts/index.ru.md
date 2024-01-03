@@ -129,6 +129,12 @@ DIČ: CZ67981224
     {{<contact index="fot" role="Фотограф">}}
 {{</contact_section>}}
 
+### Pod-O-Dance
+
+{{<contact_section>}}
+    {{<contact index="ld" role="Преподаватель Pod-O-Dance">}}
+{{</contact_section>}}
+
 ## Председательская
 
 Контакт: <lab@pod.cvut.cz>
