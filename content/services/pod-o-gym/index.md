@@ -99,6 +99,8 @@ Každým semestrem nějaké přibudou a jiné zmizí. Kurzy vedou nadšenci z �
 
 #### Pod-O-Dance
 
+Taneční skupina Pod-O-Dance vznikla pro to, abychom se bavili, hýbali a hlavně tančili. Naučíme se základní kroky latinskoamerických tanců, ze kterých budeme stavět jednoduché sestavy.
 
+Hodina je koncipovaná jako kondiční/kardio cvičení. Cílem tedy není umět perfektně techniku kroků, ale pořádně se zapotit a rozproudit krev v žilách.
 
-Více informací na stránce [Pod-O-Dance]({{< ref "/freetime-activities/pod-o-dance/index.md" >}}).
+Více informací naleznete zde: [Pod-O-Dance]({{< ref "/freetime-activities/pod-o-dance/index.md" >}})
