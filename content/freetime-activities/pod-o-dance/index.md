@@ -44,13 +44,15 @@ Dále je nutné řídit se provozním řádem Pod-O-Gym. Veškeré informace ohl
 
 ## Kdy se bude tančit?
 
-**Středa 16:30 - 17:30 (první lekce bude 10. 1. 2024)**
+**Středa 16:30 - 17:30 (první lekce proběhne ve středu 10. 1. 2024)**
 
 Den a čas konání taneční lekce bude platit vždy po dobu semestru. Se začátkem nového semestru se bude volit nový termín na základě nových rozvrhů a časových možností členů skupiny.
 
 ## Co na sebe?
 
-Pohodlné sportovní oblečení. Tančit budeme na tatami bez bot, pouze v ponožkách. Dále se sebou hodí mít něco k pití a ručník na otření potu.
+Pohodlné sportovní oblečení. Tančit budeme na tatami bez bot, pouze v ponožkách.
+
+Dále se sebou hodí mít něco k pití a ručník na otření potu.
 
 ## Podmínky pro vstup na lekce
 
@@ -60,7 +62,7 @@ Pohodlné sportovní oblečení. Tančit budeme na tatami bez bot, pouze v pono�
 
 ## Jak se přihlásit na taneční lekci?
 
-Pokud máš zájem zúčastnit se taneční lekce, napiš [email lektorovi]({{< ref "/contacts/index.md#pod-o-dance" >}}) ve kterém dáš vědět, že dorazíš.
+Pokud máš zájem zúčastnit se taneční lekce, napiš [email lektorovi]({{< ref "/contacts/index.md#pod-o-dance" >}}), ve kterém dáš vědět, že dorazíš.
 
 Pokud se po první lekci rozhodneš pokračovat v tancování, přidáme tě do skupiny na Messengeru, která bude primárním informačním kanálem taneční skupiny Pod-O-Dance.
 
@@ -70,4 +72,6 @@ Na emailovou adresu uvedenou [v kontaktech]({{< ref "/contacts/index.md#pod-o-da
 
 V případě, že jsi členem klubu, můžeme ti dát přístup do Pod-O-Gym na zkoušku!
 
-Zajdi za televizorem, který ti může umožnit vstup do Pod-O-Gym, a přijď si jednu taneční lekci vyzkoušet. Pokud se pak rozhodneš pokračovat v tancování, stačí si doplatit členství do Pod-O-Gym.
+Zajdi za televizorem, který ti může umožnit vstup do Pod-O-Gym, a přijď si jednu taneční lekci vyzkoušet.
+
+Pokud se pak rozhodneš pokračovat v tancování, stačí si doplatit členství do Pod-O-Gym.
