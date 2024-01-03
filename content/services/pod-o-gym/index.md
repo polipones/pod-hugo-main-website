@@ -97,4 +97,8 @@ Při nalezení problému např. poškození, je nutno tento problém nahlásit e
 
 Každým semestrem nějaké přibudou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
 
-Z občasných kurzů je asi nejdůležitější kurz "Jak cvičit". Tento jednohodinový kurz se pravidelně pořádá na začátku akademického roku. Pokud si nejste jisti jak začít cvičit, nebo nemáte partnera s kterým by jste chtěli chodit do posilovny, možná vyřešíte oba problémy právě na tomto kurzu.
+#### Pod-O-Dance
+
+
+
+Více informací na stránce [Pod-O-Dance]({{< ref "/freetime-activities/pod-o-dance/index.md" >}}).

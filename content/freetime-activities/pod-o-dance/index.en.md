@@ -9,10 +9,8 @@ slug: pod-o-dance
 weight: 10
 
 showtoc: false
-
-draft: true # Remove when ready to publish page
 ---
-{{<linktraslations>}} <!-- TODO: remove before publishing draft -->
 
-<!-- Write page contents here -->
-<!-- Use Markdown syntax: https://www.markdownguide.org/basic-syntax -->
+## Lectures will be held in Czech language only for some time.
+
+{{<linktraslations>}} <!-- TODO: remove before publishing draft -->
