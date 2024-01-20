@@ -15,6 +15,8 @@ spec:
     metadata:
       labels:
         {{- include "helm.selectorLabels" . | nindent 8 }}
+      annotations:
+        deployedAt: {{ now | quote }}
     spec:
       {{- if .Values.dependsOn }}
       initContainers:
