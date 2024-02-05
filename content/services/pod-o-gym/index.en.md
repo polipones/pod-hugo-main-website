@@ -27,7 +27,7 @@ All members who are training in our gym must be acquainted with **[operating rul
 
 [Facebook Pod-O-Gym](https://www.facebook.com/podogym)
 
-Pod-O-Gym is open every day from 05:00 to 00:00.
+Pod-O-Gym is open every day from 05:00 to 23:00.
 
 Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) with area of 340 m². It is located in the same building as canteen of Podolí and the entrance is from the right side of the building. All the information regarding payment can be found on our website here: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
 
