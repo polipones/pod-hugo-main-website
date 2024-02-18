@@ -44,7 +44,7 @@ Dále je nutné řídit se provozním řádem Pod-O-Gym. Veškeré informace ohl
 
 ## Kdy se bude tančit?
 
-**Středa 16:30 - 17:30 (první lekce proběhne ve středu 10. 1. 2024)**
+**Úterý 19:00 - 20:00**
 
 Den a čas konání taneční lekce bude platit vždy po dobu semestru. Se začátkem nového semestru se bude volit nový termín na základě nových rozvrhů a časových možností členů skupiny.
 
