@@ -11,13 +11,13 @@ weight: 9
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-## Ročník 2023
+## Ročník 2024
 
-{{<figure src="images/freetime-activities/pod-o-day/pod-o-day-2023.png" alt="Pod-O-Day 2023">}}
+{{<figure src="images/freetime-activities/pod-o-day/pod-o-day-banner.png" alt="Pod-O-Day banner" imgop="rt_fit">}}
 
-- Datum konání: **29. 4. 2023**
+- Datum konání: **27. 4. 2024**
 - Registrační formulář pro týmy: [https://forms.gle/7K7MnxYnq277rcp26](https://forms.gle/7K7MnxYnq277rcp26)
-- FB událost: [https://fb.me/e/3iT8cVyCk](https://fb.me/e/3iT8cVyCk)
+- FB událost: [https://fb.me/e/3zOnPc7B7](https://fb.me/e/3zOnPc7B7)
 
 ## Program
 
@@ -31,7 +31,7 @@ Hraje se max. 6 hráčů na tým o 1., 2. a 3. místo. Základní část se hraj
 
 ### Fotbal (začátek 13:00)
 
-Hraje se systémem 3+1 o 1., 2. a 3. místo. Základní hrací čas je 2×7 minut (případně prodloužení 3 minuty, dále rozhodují penalty). Vyřazovací část je 2×10 minut (případné prodloužení o 5 minut, dále rozhodují penalty).
+Hraje se systémem 4+1 o 1., 2. a 3. místo. Základní hrací čas je 2×7 minut (případně prodloužení 3 minuty, dále rozhodují penalty). Vyřazovací část je 2×10 minut (případné prodloužení o 5 minut, dále rozhodují penalty).
 
 ### Streetball (začátek 10:30)
 
@@ -43,9 +43,9 @@ Orientační běh vás provede po známých i méně známých historických i t
 
 ## Ceny občerstvení
 
-- klobása s chlebem - 50 Kč
-- nealko 0,5l - 25 Kč
-- pivo 0,5l - 30 Kč
+- klobása s chlebem - 80 Kč
+- nealko 0,5l - 30 Kč
+- pivo 0,5l - 40 Kč
 
 ## Galerie
 
