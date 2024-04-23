@@ -33,7 +33,7 @@ Hraje se max. 6 hráčů na tým o 1., 2. a 3. místo. Základní část se hraj
 
 Hraje se systémem 4+1 o 1., 2. a 3. místo. Základní hrací čas je 2×7 minut (případně prodloužení 3 minuty, dále rozhodují penalty). Vyřazovací část je 2×10 minut (případné prodloužení o 5 minut, dále rozhodují penalty).
 
-### Streetball (začátek 10:30)
+### Streetball (začátek 13:30)
 
 Maximálně 3 hráči v týmu, hraje se na jeden koš a jeden zápas se hraje na 15 bodů. 1 bod = 1 koš, hod na koš spoza trojkové čáry je za 2 body.
 
