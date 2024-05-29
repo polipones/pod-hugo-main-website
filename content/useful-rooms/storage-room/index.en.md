@@ -13,7 +13,7 @@ tocopen: true
 
 The Storage room is a room to store things (e.g. fridge, microwave and small furniture) during the summer break. It always opens at the beginning and end of the summer break. Storage is free for club members with a valid basic membership.
 
-You can find it on the ground floor of block A, room 19.
+You can find it on the ground floor of block B, room 002, right next to former block B reception.
 
 The Storage room opening is managed by the Storage room Administrator (<kufrarna@pod.cvut.cz>) The opening dates are always announced in advance. It is not possible to open the Storage room individually. If you are not able to come during the dates listed, please send us your suggestions for dates (at least 3 workdays in advance) and if more people are interested, we will open at another date.
 
@@ -27,7 +27,7 @@ The operator of the storage room is the CTU Student Union, Pod-O-Lee Club, addre
 
 ### Part II - General data
 
-The Operator has rented room No. 19 located on the ground floor of Block A from the Service Facilities Administration of the CTU under the Contract for the purpose of using this room as a Storage Room. The Storage Room is a room intended for storage of items over the summer break.
+The Operator has borrowed room No. 002 located on the ground floor of Block B from the Service Facilities Administration of the CTU under the Contract for the purpose of using this room as a Storage Room. The Storage Room is a room intended for storage of items over the summer break.
 
 In case of a trip or internship abroad, individual agreement with the person managing the Storage Room (hereinafter referred to as the Storage Room Administrator) is necessary. The Storage Room is only for members of the Pod-O-Lee Club with a valid basic membership. Service Facilities Administration of the CTU in connection with the Contract shall not be responsible for the activities of the Club in this room.
 
