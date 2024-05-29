@@ -27,7 +27,7 @@ Provozovatelem Kufrárny je Studentská unie ČVUT, Klub Pod-O-Lee, adresou Jugo
 
 ### Část II - Všeobecné údaje
 
-Provozovatel si na základě Smlouvy o výpůjčce zapůjčil od SÚZ ČVUT místnost č. 002 nacházející se v přízemí bloku B za účelem využití této místnosti jako Kufrárny. Kufrárna je místnost určená k uskladnění věcí přes letní prázdniny.
+Provozovatel si na základě dohody o výpůjčce zapůjčil od SÚZ ČVUT místnost č. 002 nacházející se v přízemí bloku B za účelem využití této místnosti jako Kufrárny. Kufrárna je místnost určená k uskladnění věcí přes letní prázdniny.
 
 V případě výjezdu nebo stáže do zahraničí je nutná individuální konzultace s osobou spravující kufrárnu (dále jen správce kufrárny). Kufrárna je určena pouze pro členy klubu Pod-O-Lee s platným základním členstvím. SÚZ ČVUT v souvislosti se Smlouvou o výpůjčce místnosti nenese žádnou odpovědnost za činnost klubu v této místnosti.
 

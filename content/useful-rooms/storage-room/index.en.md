@@ -27,7 +27,7 @@ The operator of the storage room is the CTU Student Union, Pod-O-Lee Club, addre
 
 ### Part II - General data
 
-The Operator has borrowed room No. 002 located on the ground floor of Block B from the Service Facilities Administration of the CTU under the Contract for the purpose of using this room as a Storage Room. The Storage Room is a room intended for storage of items over the summer break.
+The Operator has borrowed room No. 002 located on the ground floor of Block B from the Service Facilities Administration of the CTU with the agreement for the purpose of using this room as a Storage Room. The Storage Room is a room intended for storage of items over the summer break.
 
 In case of a trip or internship abroad, individual agreement with the person managing the Storage Room (hereinafter referred to as the Storage Room Administrator) is necessary. The Storage Room is only for members of the Pod-O-Lee Club with a valid basic membership. Service Facilities Administration of the CTU in connection with the Contract shall not be responsible for the activities of the Club in this room.
 
