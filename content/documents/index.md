@@ -28,8 +28,7 @@ Přehled členů s odpuštěnými příspěvky je na Wiki: https://wiki.pod.cvut
 
 ## Stanovy
 
-Účinné od 1. 1. 2017: [Stanovy klubu od roku 2017](stanovy/stanovy_2017.pdf)  
-Starší: [Stanovy klubu do roku 2017](stanovy/stanovy_2016_and_older.pdf)
+Najdete je na Wiki: https://wiki.pod.cvut.cz/legislativa/stanovy
 
 ## Interní předpisy
 
