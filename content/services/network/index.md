@@ -9,10 +9,17 @@ weight: 2
 
 ## Jak se připojit k Internetu?
 
-1. Připrav občanku nebo ISIC. Zapamatuj si číslo pokoje. Vezmi s sebou všechna zařízení (kromě PC, tady stačí MAC adresa), která chceš registrovat pro přístup k síti.
-2. Pokud na pokoji nemáš síťový kabel, je krátký, nebo se ti prostě nezdá, připrav si i odhad, jak dlouhý kabel budeš potřebovat a starý kabel vezmi sebou.
-3. Jdi za televizorem, který je většinou na každém druhém patře bloku a má to napsané na dveřích. Televizor je taky jen člověk, proto jeho návštěvu nenechávej na brzké ranní hodiny.
-4. U televizora vyplníš přihlášku do klubu on jí zkontroluje a zařadí tě do naší databáze. Dostaneš od něj kabel a také ti aktivuje internet na 10 dní, které máš na zaplacení členského poplatku. Také ti sdělí tvé ID, které použiješ jako variabilní symbol při platbách a budeš se jím prokazovat při řešení problémů.
+#### Budeš potřebovat
+
+- občanku nebo ISIC
+- platnou ubytovací smlouvu nebo platnou kolejenku
+- číslo svého pokoje
+- zařízení, která chceš registrovat pro přístup k síti
+
+#### Další postup
+
+1. Všechny tyhle věci vezmi a jdi za televizorem ([seznam televizorů v kontaktech]({{< ref "/contacts/index.md" >}})). Televizor je taky jen člověk, proto jeho návštěvu nenechávej na brzké ranní hodiny.
+2. U televizora vyplníš přihlášku do klubu on jí zkontroluje a zařadí tě do naší databáze. Dostaneš od něj kabel a také ti aktivuje internet na 10 dní, které máš na zaplacení členského poplatku. Také ti sdělí tvé ID, které použiješ jako variabilní symbol při platbách a budeš se jím prokazovat při řešení problémů. Dále se mu musíš prokázat platnou ubytovací smlouvu nebo platnou kolejenkou, aby ti mohl aktivovat naše služby.
 
 ### Bezdrátové připojení (WiFi)
 
@@ -22,7 +29,7 @@ Je možné zaregistrovat nejvíce tři bezdrátová zařízení, jedno pro každ
 
 Postup při registraci je totožný s registrací kabelového připojení. Tj. navštiv svého televizora a vem s sebou zařízení, které chceš používat.
 
-Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 GHz a 5 GHz ). Přihlášení probíhá pomocí klubového e-mailu (najdeš v Hydře, je ve tvaru j.prijmeni[cislo]@pod.cvut.cz, např. j.novak1@pod.cvut.cz) a síťového hesla. Síťové heslo je nezávislé (tj. není totožné) na heslu pro přihlášení do Hydry a je možné ho nastavit na https://hydra.pod.cvut.cz/services/network (viz obrázek níže).
+Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 GHz a 5 GHz ). Přihlášení probíhá pomocí klubového e-mailu (najdeš ho u sebe v Hydře, např. j.novak1@pod.cvut.cz) a síťového hesla. Síťové heslo je nezávislé (tj. není totožné) na heslu pro přihlášení do Hydry a je možné ho nastavit na <https://hydra.pod.cvut.cz/services/network> (viz obrázek níže).
 
 {{<figure src="images/services/network/hydra_wifi_password.png" alt="WiFi password setup Hydra" imgop="rt_fit">}}
 
@@ -41,7 +48,7 @@ Využíváme certifikáty od CESNETu (našeho poskytovatele připojení k akadem
 ### Připojení přes kabel (Ethernet)
 
 Není potřeba dělat další kroky, stačí jen zapojit kabel do registrovaného zařízení.
-Každý člen může mít připojen pouze jeden počítač na kabelu, případné další musí povolit představenstvo klubu.
+Každý člen může mít připojen pouze jeden počítač na kabelu, případné další musí povolit správce sítě.
 
 ## Přihlášení odběru emailů
 
@@ -51,7 +58,7 @@ Dále se hodí být členem tvé blokové konference, info-x@pod.cvut.cz, kde x 
 
 Tyto konference jsou moderované, pokud bys chtěl poslat nějakou důležitou informaci ty, dej nám vědět na admins@pod.cvut.cz. Zároveň to zaručuje, že do konferencí nechodí spam.
 
-Tyto konference je možné přihlásit i odhlásit v Hydře: https://hydra.pod.cvut.cz/mailing.
+Tyto konference je možné přihlásit i odhlásit v Hydře: <https://hydra.pod.cvut.cz/mailing>.
 
 {{<figure src="images/services/network/hydra_mailing.png" alt="Email conferences in Hydra" imgop="rt_fit">}}
 
