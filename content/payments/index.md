@@ -12,7 +12,7 @@ aliases:
     - /clenstvi
 ---
 
-Členem se může stát jakýkoliv student bydlící na koleji Podolí. Členem může být i osoba, která aktivně klubu pomáhá a na koleji nebydlí, ale až po rozhodnutí předsedy klubu Pod-O-Lee. Členem se staneš, pokud se zaregistruješ u televizora a zaplatíš členský příspěvek. Ověřit, jestli jsi členem a jaké máš ID, můžeš v [Hydře](https://hydra.pod.cvut.cz).
+Interním členem se může stát jakýkoliv student bydlící na koleji Podolí. Externím členem může být osoba, která na koleji Podolí nebydlí. Více informací o členství je níže ([Interní a externí člen klubu](#interní-a-externí-člen-klubu)). Ověřit, jestli jsi členem a jaké máš ID, můžeš v [Hydře](https://hydra.pod.cvut.cz).
 
 Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 
@@ -34,9 +34,10 @@ Tradičnější způsoby:
 - bezhotovostním převodem na účet
 - složením hotovosti na pobočce Fio Banky (poplatek 90 Kč)
 - složením hotovosti na pokladně jakékoliv jiné banky (tomuto způsobu se vyhýbej – zbytečné poplatky za převod)
-- použití poštovních poukázek NENÍ přípustné – všechny takovéto platby nebudou brány v potaz.
 
-Při platbě z účtů z ciziny berte v potaz poplatky na vaší straně, nevolte poplatky SHA. Členství Vám platí pouze v případě, že na účet dorazí správná částka.
+Použití poštovních poukázek **NENÍ** přípustné – všechny takovéto platby nebudou brány v potaz.
+
+**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě vám musíme částku vrátit a stojí nás to čas navíc.**
 
 ### Náležitosti platby
 
@@ -50,7 +51,7 @@ Při platbě z účtů z ciziny berte v potaz poplatky na vaší straně, nevolt
 
 Variabilní symbol je tvoje identifikační číslo (zjistíš v [Hydře](https://hydra.pod.cvut.cz), je to tvé ID).
 
-**Využívání jakékoliv služby je podmíněno základním členstvím.**
+**Využívání jakékoliv služby je podmíněno Základním členstvím a aktivním členstvím v klubu.**
 
 Pokud budeš chtít využívat více služeb, sečti patřičné částky a seřaď vzestupně příslušné Specifické symboly.
 
@@ -59,6 +60,22 @@ Příklad: Chci mít připojení k internetu a chodit do posilovny Pod-O-Gym, za
 ## Podpis členství v klubu
 
 Každý nový člen se seznámí s pravidly a stanovami klubu Pod-O-Lee což stvrdí podpisem. Tímto podpisem zároveň dává klubu souhlas nakládat se svými osobními údaji. Podpisové archy jsou k dispozici u televizorů. Platnost podpisu je 7 let. Až po podpisu můžeš teprve využívat služeb klubu.
+
+## Interní a externí člen klubu
+
+Podle [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf) má klub Pod-O-Lee interní a externí členství.
+
+### Interní členství
+
+Interní člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov klubu a má uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí. Pro získání interního členství se osoba musí prokázat platnou ubytovací smlouvu, případně platnou kolejenkou.
+
+**Členství je platné pouze na jedno období a je nutné ho na každé období obnovit.**
+
+### Externí členství
+
+Externí člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov klubu, **nemá** uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí, ale má schválené externí členství od předsedy klubu Pod-O-Lee a od správce dané služby.
+
+Pro více informací o obou členstvích si přečti [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf).
 
 ## Odpuštění členských příspěvků
 
@@ -74,4 +91,4 @@ Musíš navíc zaplatit členský poplatek za Pod-O-Gym. Pošleš platbu se spec
 
 ### Jsem externista. Chodím jen do Pod-O-Gym a chci si prodloužit členství.
 
-Podmínkou pro přístup do Pod-O-Gym je aktivní základní členství a přístup do Pod-O-Gym. Pošleš tedy platbu se specifickým symbolem 12 a částkou 2000 Kč.
+Podmínkou pro přístup do Pod-O-Gym je aktivní základní členství a přístup do Pod-O-Gym. Musíš také mít platné externí členství ( viz výše - [Interní a externí člen klubu](#interní-a-externí-člen-klubu)). Pokud to splňuješ, pošli platbu se specifickým symbolem 12 a částkou 2000 Kč.
