@@ -47,9 +47,7 @@ Before the club registration process itself visit the Music room and scan the ca
 
 ### Not a dormitory resident
 
-We tend to prioritize dormitory residents to join, however [Music room manager]({{< ref "/contacts#music-room" >}}) determines if a new external member can join.
-
-If you are interested, send an email to <hudebna@pod.cvut.cz>, let us know which instrument do you play, when do you plan on visiting the Music room and if you plan to visit it alone or in a group. If you will get approved, you will also need to register to our club and go through the [Music room Operating rules]({{< ref "#operating-rules" >}}).
+Unfortunately, we cannot accept non-residents because the music room is inside the dorm block without external access.
 
 ## Operating rules
 

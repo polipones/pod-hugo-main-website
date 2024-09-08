@@ -9,10 +9,17 @@ weight: 2
 
 ## How to connect to the Internet
 
-1. Prepare your citizen ID or ISIC. Remember the number of your room. Take with you all devices you want to connect to the Internet (beside Desktop Computer, for it you only need to bring it´s MAC address.).
-2. If you do not have an internet cable, or if its damaged or short, make an estimate on the length of a cable you need for your room and bring the old one with you. If necessary, you will be given new cable.
-3. Now you need to go to the ´´televizor´´ a person handling registrations and problems dealing with internet connection. List of the televizors, their email addresses and numbers of their rooms are on board opposite to the main entrance of each block.
-4. Televizor will register and create account on our system Hydra. You will then receive an email with password which you can change. The ID from this account will serve as the variable symbol (VS) for payment. He will give you short explanation about the rules of the academical net. You will receive free internet for 10 days. In a span of these 10 days you should pay for it, otherwise it will stop working until you pay.
+#### You will need:
+
+- citizen ID or ISIC
+- valid accommodation agreement or accommodation card
+- room number
+- all devices you want to connect to our network
+
+#### Next steps
+
+1. Now you need to go to the televizor (a person handling registrations and problems dealing with internet connection). List of the televizors is available here: [List of televizors in contacts]({{< ref "/contacts/index.en.md" >}}).
+2. Televizor will register and create account on our system Hydra. You will then receive an email with password which you can change. The ID from this account will serve as the variable symbol (VS) for payment. He will give you short explanation about the rules of the academical net. You will receive free internet for 10 days. In a span of these 10 days you should pay for it, otherwise it will stop working until you pay. You also have to present valid accommodation agreement or accommodation card for valid membership.
 
 ### Connection to the net via cable (Ethernet)
 
@@ -22,7 +29,7 @@ No other steps are needed. Just put the cable in already registered device. You 
 
 Currently working on all blocks, in Pod-O-Gym and around our Menza (canteen)
 
-It is possible to register up to three devices one for every category. Categories are PC, smartphone, tablet etc. It is possible to ask Net Administrator (Televizor) for an exception if you have good reason.
+It is possible to register up to three devices one for every category. Categories are PC, smartphone, tablet etc. It is possible to ask Network Administrator for an exception if you have good reason.
 
 Registration process is same as the registration for a cable.
 
