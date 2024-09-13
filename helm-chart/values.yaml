@@ -34,7 +34,7 @@ web:
 imgproxy:
   fullnameOverride: imgproxy
   image:
-    tag: v3.20
+    tag: v3.25
   features:
     urlSignature:
       enabled: false

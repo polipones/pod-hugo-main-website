@@ -1,5 +1,5 @@
 # Local
-FROM klakegg/hugo:0.101.0-ext-alpine as hugo
+FROM klakegg/hugo:0.111.3-ext-alpine as hugo
 
 RUN apk add jq
 
