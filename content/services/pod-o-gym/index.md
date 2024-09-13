@@ -69,7 +69,9 @@ Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder.
 
 ### Sauna
 
-Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst pravidla pro používaní sauny a pokyny pro její spuštění.
+**[Provozní řád sauny](sauna_provozni_rad.pdf)**
+
+Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst [pravidla pro používaní sauny](sauna_provozni_rad.pdf) a pokyny pro její spuštění.
 
 Rezervace sauny se provádí přes rezervační systém na adrese: <https://gym.pod.cvut.cz/rezervace>.
 
