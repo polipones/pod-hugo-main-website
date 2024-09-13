@@ -24,7 +24,7 @@ Vždy jsou zde nachystány prezentační stánky s hlavními službami klubu, z�
 
 Večer je obohacen o občerstvení, čepuje se pivo i limonáda a na zahnání hladu se grilují klobásy.
 
-[Příručka prváka](AP_CZ.pdf)
+[Příručka prváka](../AP_CZ.pdf)
 
 {{<figure_gallery>}}
     {{<figure src="images/events/akce_prvak_01.jpg" alt="Akce prvák photo">}}
