@@ -67,7 +67,9 @@ For climbing enthusiasts, we have a small boulder.
 
 ### Sauna
 
-Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to **read our rules before using sauna**, in which you will also find how to pay for sauna.
+**[Sauna operating rules](sauna_operating_rules.pdf)**
+
+Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to **[read our rules before using sauna](sauna_operating_rules.pdf)**, in which you will also find how to pay for sauna.
 
 You can reserve sauna from reservation system here: <https://gym.pod.cvut.cz/rezervace>.
 

@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.101.0-ext-alpine-ci AS build
+FROM klakegg/hugo:0.111.3-ext-alpine-ci AS build
 
 ARG hugo_env=production
 ENV HUGO_ENV=${hugo_env}
