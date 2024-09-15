@@ -8,45 +8,85 @@ weight: 5
 
 tocopen: true
 ---
+Email pro registraci k tiskárně: <ucebna@pod.cvut.cz>
 
 Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
 
-Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavními dveřmi doleva, po schodech dolů a první dveře vlevo.
+## Základní informace
 
-Přístup do učebny má každý člen klubu Pod-O-Lee. To znamená, že stačí mít zaplacený členský příspěvek za sportoviště nebo za základní členství.
+- Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavními dveřmi doleva, po schodech dolů a první dveře vlevo.
 
-Jestliže jsi členem klubu Pod-O-Lee, pak máš automaticky přístup do učebny. Pokud se se ti nedaří dostat se do PC učebny, zajdi za televizorem, který Ti řekne co a jak.
-V počítačové učebně se mimo jiné nachází klubová tiskárna a knihbudka.
+- Přístup do učebny má každý člen klubu Pod-O-Lee, který má zaplacené základní členství a má přidanou svou kartu s našem systému Hydra.
+
+- Pokud se ti nedaří dostat se do PC učebny, zajdi za televizorem nebo přímo za správci PC učebny, kteří ti poradí a pomohou ti problém vyřešit.
+
+- V počítačové učebně se mimo jiné nachází klubová tiskárna, knihobudka a 3x bílá magnetická tabule.
+
+- V místnosti jsou k dispozici k zapůjčení 2 dataprojektory. Stačí napsat správci na email.
+
+- Lze si také rezervovat zadní místnost PC učebny pro skupinové soukromé učení. Jak si rezervovat místnost je popsáno v návodu níže.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_02.jpg" alt="PC room: Second room with whiteboards" imgop="rt_fit">}}
 
 ## Knihbudka
 
-V prostorách PC učebny se nachází klubová knihbudka. Nalezneš zde na poličkách knihy jak odborné, tak romány a jiná díla žánrů jako je fantasy, sci-fy či horror a krimi.
+- V prostorách PC učebny se nachází klubová knihobudka. Nalezneš zde na poličkách knihy jak odborné knihy, tak romány a díla jiných žánrů jako je fantasy, sci-fi, horror či krimi.
 
-Knížky si můžeš samostatně, bez nutnosti se s někým domlouvat, vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
+- Knížky si můžeš brát sám (není potřeba se s někým domlouvat) vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Tiskárna
 
-Kontakt: <tisk@pod.cvut.cz>
+- Abyste mohli tiskárnu využívat, je nutné si nechat založit účet a v hotovosti si nabít kredit na tisk. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email. (ucebna@pod.cvut.cz)
 
-Ceny za tisk byly stanoveny na 0,90 Kč za černobílou stránku a 4 Kč za stránku barevnou (v ceně tisku je zahrnut i papír).
+- **Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
 
-Abyste tedy mohli tiskárnu využívat, je nutné si nechat založit účet a zaplatit nabití kreditu. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email ([Kontakty]({{< ref "/contacts#předsednická-centrála" >}})).
+- Správce Ti vytvoří účet v našem webovém rozhraní: https://printer.pod.cvut.cz. Přihlašovací údaje Ti sdělí po registraci. Tyto údaje jsou jednotné i pro Vaši virtuální peněženku.
 
-Po registraci se můžete přihlásit k webovému rozhraní našeho systému pro tisk: <https://printer.pod.cvut.cz>. Zjištění stavu vašeho kreditu a případné nabití přes voucher je možné provést ve vaší virtuální peněžence: <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
+- Zjistit si stav svého kreditu můžeš následně v virtuální peněžence: https://payments.printer.pod.cvut.cz/payment-system/customer/login
 
-### Důležité upozornění
+- Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: (Odkaz na tento návod:  [Návod](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing) )
 
-- Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete skenovat, musíte skenovat na USB disk.
-- Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit. Zároveň platí **zákaz tisku fotografií**.
+## Důležitá upozornění
 
-Dotazy, námitky a závady zasílejte na <tisk@pod.cvut.cz>.
+- Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete tedy skenovat, musíte skenovat na USB disk.
+- Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit.
+- Platí **zákaz tisku fotografií.**
+
+**Ceny za tisk v korunách**
+
+|      | **Černobílý** | **Barevný** |
+|------|---------------|-------------|
+|**A4**| **0.9**       | **4.0**     |
+|**A3**| **1.8**       | **8.0**     |
+
+(V ceně tisku je zahrnut i papír).
+
+Detaily o papíru:
+- gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
+
+## Rezervace místnosti
+
+1. Vytvoř si rezervaci v rezervačním systému Olymp.
+    - Do prohlížeče zadej stránku <olymp.pod.cvut.cz>.
+    - Přihlašovací údaje jsou stejné jako k Hydře.
+    - V záložce **Rooms** si zjisti, zda je zadní místnost PC učebny v daný termín volná.
+    - Pokud ano, vytvoř si rezervaci v záložce **Reservations**
+2. Pošli email s důležitými údaji na <ucebna@pod.cvut.cz>
+    - **Že chceš potvrdit rezervaci**
+    - **Své jméno**
+    - **Čas kdy plánuješ mít rezervaci**
+    - **Účel**
+    - **Jestli chceš půjčit klíč k zadní místnosti PC učebny k jejímu zamknutí**
+3. Na základě emailu bude Tvá žádost vyřízena.
+
+4. Následně tě kontaktuje jeden ze správců PC učebny a schválí/neschválí tvou rezervaci.
+
+**Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 
 ## Provozní řád
 
