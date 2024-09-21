@@ -24,7 +24,7 @@ Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
 
 - V místnosti jsou k dispozici k zapůjčení 2 dataprojektory. Stačí napsat správci na email.
 
-- Lze si také rezervovat zadní místnost PC učebny pro skupinové soukromé učení. Jak si rezervovat místnost je popsáno v návodu níže.
+- Lze si také rezervovat zadní místnost PC učebny pro skupinové či soukromé učení. Jak si rezervovat místnost je popsáno v návodu níže.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_02.jpg" alt="PC room: Second room with whiteboards" imgop="rt_fit">}}
@@ -47,9 +47,9 @@ Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
 
 - Zjistit si stav svého kreditu můžeš následně v virtuální peněžence: https://payments.printer.pod.cvut.cz/payment-system/customer/login
 
-- Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: (Odkaz na tento návod:  [Návod](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing) )
+- Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: (Odkaz na tento návod:  [Návod](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
 
-## Důležitá upozornění
+### Důležitá upozornění
 
 - Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete tedy skenovat, musíte skenovat na USB disk.
 - Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit.

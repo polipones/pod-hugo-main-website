@@ -8,14 +8,23 @@ weight: 5
 
 tocopen: true
 ---
+Email for printer registration: <ucebna@pod.cvut.cz>
 
 Managers: [Contacts]({{< ref "/contacts#pc-room-and-printer" >}})
 
-PC room is placed in the block C basement. When accessed via the main block door to the left, downstairs, through the first door on the left.
+## Basic information
 
-Access is granted to every Pod-O-Lee member with the basic membership.
+- The computer room is located in the basement of Block C. Enter through the main door to the left, down the stairs and the first door on the left.
 
-If you have trouble accessing the PC room, visit a televizor which will tell you how to proceed. Printer and small library is located at the PC room.
+- Access to the computer room is available to any Pod-O-Lee Club member who has paid their basic membership and has added their card with our Hydra system.
+
+- If you are unable to get into the PC classroom, go to the televisor or directly to the PC classroom administrators who will advise you and help you solve the problem.
+
+- The computer lab contains, among other things, a club printer, a bookcase and a 3x white magnetic whiteboard.
+
+- There are 2 data projectors available for borrowing in the room. Just email the administrator.
+
+- The back room of the PC classroom can also be reserved for group or private study. How to book the room is described in the instructions below.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 
@@ -23,32 +32,60 @@ If you have trouble accessing the PC room, visit a televizor which will tell you
 
 ## Library
 
-Books are in czech. Collection composes of professional books as well as novels, fantasy, sci-fy, horrors and criminal.
-
-You can borrow the books on your own, without the need to agree with anybody. You can also leave any book of your own.
+- There is a small club library in the PC classroom. Here you will find bookshelves of both scholarly books and novels and works of other genres such as fantasy, science fiction, horror and crime fiction.
+- You can borrow or take the books on your own, without permission. But you can also leave some of your own books here for someone else to pick up.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Printer
 
-Contact: tisk@pod.cvut.cz
+- In order to use the printer, you must open an account and charge your printing credit in cash. Registration and charging of credit is only possible with the administrator and the deputy administrator of the PC classroom, and only by prior arrangement via email. (ucebna@pod.cvut.cz)
 
-Print prices were stated to be 0,90 CZK for a monochromatic page and 4 CZK for colored page (price of paper included).
+- **Credit can only be charged by cash payment in CZK.**
 
-In order to use the printer a credit needs to be payed. Credit can be raised via e-mail agreement.
+- The administrator will create an account for you in our web interface: https://printer.pod.cvut.cz. The login details will be provided to you after registration. These details are the same for your virtual wallet.
 
-In order to start printing on our printer, you have to contact one of administrators of PC room ([Contacts page]({{< ref "/contacts#directors-head-office" >}})).
+- You can then check your credit balance in your virtual wallet: https://payments.printer.pod.cvut.cz/payment-system/customer/login
 
-After registration, you can login to web interface of print system: <https://printer.pod.cvut.cz>. To check printing credit you can login to your virtual wallet: <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
+- If you do not know how to use the printer, there are instructions for using the printer: (Link to the instructions: [Instructions](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
 
 ### Important reminder
 
-- Sending scanned document by emial is not working yet. If you wnat to scan, you have to scan to USB drive.
-- Do not forget the fact that the printer prints coloured pages primarily, if you need to print monochromatic, you need to have it set correctly. **Photography print is prohibited.**
+- Sending a scanned document by email is not working yet. So if you want to scan, you have to scan to a USB drive.
+- Don't forget that the printer prints in colour, if you only want black and white printing you need to set it up correctly.
+- **Photography print is prohibited.**
 
-Questions, objections and malfunctions can be sent to <tisk@pod.cvut.cz>.
+**Printing prices in crowns**
+
+|      | **Black and white** | **Colour** |
+|------|---------------------|------------|
+|**A4**|       **0.9**       |   **4.0**  |
+|**A3**|       **1.8**       |   **8.0**  |
+
+(Paper is included in the printing price).
+
+Paper details:
+- weight 80 g/m2, whiteness 146 CIE, opacity 92%
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
+
+## Room Reservation
+
+1. Create a reservation in the Olymp reservation system.
+    - Enter <olymp.pod.cvut.cz> into your browser.
+    - Login details are the same as for Hydra.
+    - In the **Rooms** tab, check if the back room of the PC classroom is available on the given date.
+    - If so, make a reservation in the **Reservations** tab.
+2. Send an email with important details to <ucebna@pod.cvut.cz>
+    - **That you want to confirm your reservation**
+    - **Your name**
+    - **When you plan to have the reservation**
+    - **Purpose**
+    - **If you want to borrow the key to the back room of the PC classroom to lock it**
+3. Your request will be processed based on your email.
+4. You will then be contacted by one of the PC classroom administrators to approve/disapprove your booking.
+
+**Reservations must be made in advance (ideally a week in advance) to allow time for us to respond and to prepare everything for handover**.
 
 ## Operation rules
 
