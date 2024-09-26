@@ -14,48 +14,50 @@ Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
 
 ## Základní informace
 
-- Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavními dveřmi doleva, po schodech dolů a první dveře vlevo.
+Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavními dveřmi doleva, po schodech dolů a první dveře vlevo.
 
-- Přístup do učebny má každý člen klubu Pod-O-Lee, který má zaplacené základní členství a má přidanou svou kartu s našem systému Hydra.
+Přístup do učebny má každý člen klubu Pod-O-Lee, který má zaplacené základní členství a má přidanou svou kartu s našem systému Hydra.
 
-- Pokud se ti nedaří dostat se do PC učebny, zajdi za televizorem nebo přímo za správci PC učebny, kteří ti poradí a pomohou ti problém vyřešit.
+Pokud se ti nedaří dostat se do PC učebny, zajdi za televizorem nebo přímo za správci PC učebny, kteří ti poradí a pomohou ti problém vyřešit.
 
-- V počítačové učebně se mimo jiné nachází klubová tiskárna, knihobudka a 3x bílá magnetická tabule.
+V počítačové učebně se mimo jiné nachází klubová tiskárna, knihobudka a 3x bílá magnetická tabule.
 
-- V místnosti jsou k dispozici k zapůjčení 2 dataprojektory. Stačí napsat správci na email.
+V místnosti jsou k dispozici k zapůjčení 2 dataprojektory. Stačí napsat správci na email.
 
-- Lze si také rezervovat zadní místnost PC učebny pro skupinové či soukromé učení. Jak si rezervovat místnost je popsáno v návodu níže.
+Lze si také rezervovat zadní místnost PC učebny pro skupinové či soukromé učení. Jak si rezervovat místnost je popsáno v návodu níže.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_02.jpg" alt="PC room: Second room with whiteboards" imgop="rt_fit">}}
 
-## Knihbudka
+## Knihobudka
 
-- V prostorách PC učebny se nachází klubová knihobudka. Nalezneš zde na poličkách knihy jak odborné knihy, tak romány a díla jiných žánrů jako je fantasy, sci-fi, horror či krimi.
+V prostorách PC učebny se nachází klubová knihobudka. Nalezneš zde na poličkách knihy jak odborné knihy, tak romány a díla jiných žánrů jako je fantasy, sci-fi, horror či krimi.
 
-- Knížky si můžeš brát sám (není potřeba se s někým domlouvat) vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
+Knížky si můžeš brát sám (není potřeba se s někým domlouvat) vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Tiskárna
 
-- Abyste mohli tiskárnu využívat, je nutné si nechat založit účet a v hotovosti si nabít kredit na tisk. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email. (ucebna@pod.cvut.cz)
+Abyste mohli tiskárnu využívat, je nutné si nechat založit účet a v hotovosti si nabít kredit na tisk. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email. (ucebna@pod.cvut.cz)
 
-- **Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
+**Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
 
-- Správce Ti vytvoří účet v našem webovém rozhraní: https://printer.pod.cvut.cz. Přihlašovací údaje Ti sdělí po registraci. Tyto údaje jsou jednotné i pro Vaši virtuální peněženku.
+Správce Ti vytvoří účet v našem webovém rozhraní: https://printer.pod.cvut.cz. Přihlašovací údaje Ti sdělí po registraci. Tyto údaje jsou jednotné i pro Vaši virtuální peněženku.
 
-- Zjistit si stav svého kreditu můžeš následně v virtuální peněžence: https://payments.printer.pod.cvut.cz/payment-system/customer/login
+Zjistit si stav svého kreditu můžeš následně v virtuální peněžence: https://payments.printer.pod.cvut.cz/payment-system/customer/login
 
-- Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: (Odkaz na tento návod:  [Návod](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
+Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: (Odkaz na tento návod:  [Návod](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
 
 ### Důležitá upozornění
 
-- Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete tedy skenovat, musíte skenovat na USB disk.
-- Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit.
-- Platí **zákaz tisku fotografií.**
+Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete tedy skenovat, musíte skenovat na USB disk.
 
-**Ceny za tisk v korunách**
+Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit.
+
+Platí **zákaz tisku fotografií.**
+
+**Ceny za tisk v korunách:**
 
 |      | **Černobílý** | **Barevný** |
 |------|---------------|-------------|
@@ -65,7 +67,7 @@ Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
 (V ceně tisku je zahrnut i papír).
 
 Detaily o papíru:
-- gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
+gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 

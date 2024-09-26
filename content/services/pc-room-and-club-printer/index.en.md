@@ -14,17 +14,17 @@ Managers: [Contacts]({{< ref "/contacts#pc-room-and-printer" >}})
 
 ## Basic information
 
-- The computer room is located in the basement of Block C. Enter through the main door to the left, down the stairs and the first door on the left.
+The computer room is located in the basement of Block C. Enter through the main door to the left, down the stairs and the first door on the left.
 
-- Access to the computer room is available to any Pod-O-Lee Club member who has paid their basic membership and has added their card with our Hydra system.
+Access to the computer room is available to any Pod-O-Lee Club member who has paid their basic membership and has added their card with our Hydra system.
 
-- If you are unable to get into the PC classroom, go to the televisor or directly to the PC classroom administrators who will advise you and help you solve the problem.
+If you are unable to get into the PC classroom, go to the televisor or directly to the PC classroom administrators who will advise you and help you solve the problem.
 
-- The computer lab contains, among other things, a club printer, a bookcase and a 3x white magnetic whiteboard.
+The computer lab contains, among other things, a club printer, a bookcase and a 3x white magnetic whiteboard.
 
-- There are 2 data projectors available for borrowing in the room. Just email the administrator.
+There are 2 data projectors available for borrowing in the room. Just email the administrator.
 
-- The back room of the PC classroom can also be reserved for group or private study. How to book the room is described in the instructions below.
+The back room of the PC classroom can also be reserved for group or private study. How to book the room is described in the instructions below.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 
@@ -32,30 +32,33 @@ Managers: [Contacts]({{< ref "/contacts#pc-room-and-printer" >}})
 
 ## Library
 
-- There is a small club library in the PC classroom. Here you will find bookshelves of both scholarly books and novels and works of other genres such as fantasy, science fiction, horror and crime fiction.
-- You can borrow or take the books on your own, without permission. But you can also leave some of your own books here for someone else to pick up.
+There is a small club library in the PC classroom. Here you will find bookshelves of both scholarly books and novels and works of other genres such as fantasy, science fiction, horror and crime fiction.
+
+You can borrow or take the books on your own, without permission. But you can also leave some of your own books here for someone else to pick up.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Printer
 
-- In order to use the printer, you must open an account and charge your printing credit in cash. Registration and charging of credit is only possible with the administrator and the deputy administrator of the PC classroom, and only by prior arrangement via email. (ucebna@pod.cvut.cz)
+In order to use the printer, you must open an account and charge your printing credit in cash. Registration and charging of credit is only possible with the administrator and the deputy administrator of the PC classroom, and only by prior arrangement via email. (ucebna@pod.cvut.cz)
 
-- **Credit can only be charged by cash payment in CZK.**
+**Credit can only be charged by cash payment in CZK.**
 
-- The administrator will create an account for you in our web interface: https://printer.pod.cvut.cz. The login details will be provided to you after registration. These details are the same for your virtual wallet.
+The administrator will create an account for you in our web interface: https://printer.pod.cvut.cz. The login details will be provided to you after registration. These details are the same for your virtual wallet.
 
-- You can then check your credit balance in your virtual wallet: https://payments.printer.pod.cvut.cz/payment-system/customer/login
+You can then check your credit balance in your virtual wallet: https://payments.printer.pod.cvut.cz/payment-system/customer/login
 
-- If you do not know how to use the printer, there are instructions for using the printer: (Link to the instructions: [Instructions](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
+If you do not know how to use the printer, there are instructions for using the printer: (Link to the instructions: [Instructions](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
 
 ### Important reminder
 
-- Sending a scanned document by email is not working yet. So if you want to scan, you have to scan to a USB drive.
-- Don't forget that the printer prints in colour, if you only want black and white printing you need to set it up correctly.
-- **Photography print is prohibited.**
+Sending a scanned document by email is not working yet. So if you want to scan, you have to scan to a USB drive.
 
-**Printing prices in crowns**
+Don't forget that the printer prints in colour, if you only want black and white printing you need to set it up correctly.
+
+**Photography print is prohibited.**
+
+**Printing prices in crowns:**
 
 |      | **Black and white** | **Colour** |
 |------|---------------------|------------|
