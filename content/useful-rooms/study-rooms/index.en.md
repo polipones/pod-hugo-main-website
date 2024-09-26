@@ -11,18 +11,16 @@ weight: 4
 
 Study rooms can be found in rooms:
 
-- A106, A306, A406
 - B306, B406
-- D219
 
-Keys can be borrowed for **up to 3 days** in exchange for the dormitory ID.
+Keys can be borrowed for **up to 24 hours** in exchange for the dormitory ID. Reservations can be made at the dormitory's gatehouse.
 
 {{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
-## Operation rules:
+## Operation rules
 
 1. Study rooms are dedicated to study purposes, any other activities are prohibited.
-2. Study room can be borrowed for up to 3 days. Rental time is counted from the time of pick up.
+2. Study room can be borrowed for up to 24 hours. Rental time is counted from the time of pick up.
 3. Keep calm and be clean in the study room in order not to disturb any other studying people.
 4. It is prohibited to damage rooms or its equipment.
 5. For the whole rental time of the study room the student takes full responsibility over the room.
