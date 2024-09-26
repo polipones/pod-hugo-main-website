@@ -11,18 +11,16 @@ weight: 4
 
 Studovny najdeš v místnostech:
 
-- A306, A406
 - B306, B406
-- D219
 
-Klíče si můžeš vypůjčit na vrátnici **až na 3 dny** oproti kolejence.
+Klíče si můžeš vypůjčit na vrátnici **až na 24 hodin** oproti kolejence. Rezervace místnosti se provádí na vrátnici.
 
 {{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
 ## Provozní řád Studoven
 
 1. Studovny jsou určeny jen ke studijním účelům, jakékoliv jiné aktivity jsou zde zakázány.
-2. Studovnu si lze zapůjčit oproti kolejence na vrátnici a to maximálně na 3 dny. Výpůjční doba je počítána od hodiny, kdy byly klíče vyzvednuty.
+2. Studovnu si lze zapůjčit oproti kolejence na vrátnici a to maximálně na 24 hodin. Výpůjční doba je počítána od hodiny, kdy byly klíče vyzvednuty.
 3. Ve Studovně zachovávejte klid a pořádek, abyste nerušili další studující či ubytované.
 4. Je zakázáno poškozovat místnosti a jejich vybavení.
 5. Po dobu využití studovny tj. od půjčení až do vrácení klíčů nese student odpovědnost (dále již zodpovědná osoba) za její vybavení.
