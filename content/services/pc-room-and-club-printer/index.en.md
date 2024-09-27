@@ -8,14 +8,23 @@ weight: 5
 
 tocopen: true
 ---
+Email for printer registration: <ucebna@pod.cvut.cz>
 
 Managers: [Contacts]({{< ref "/contacts#pc-room-and-printer" >}})
 
-PC room is placed in the block C basement. When accessed via the main block door to the left, downstairs, through the first door on the left.
+## Basic information
 
-Access is granted to every Pod-O-Lee member with the basic membership.
+The computer room is located in the basement of Block C. Enter through the main door to the left, down the stairs and the first door on the left.
 
-If you have trouble accessing the PC room, visit a televizor which will tell you how to proceed. Printer and small library is located at the PC room.
+Access to the computer room is available to any Pod-O-Lee Club member who has paid their basic membership and has added their card with our Hydra system.
+
+If you are unable to get into the PC classroom, go to the televisor or directly to the PC classroom administrators who will advise you and help you solve the problem.
+
+The computer lab contains, among other things, a club printer, a bookcase and a 3x white magnetic whiteboard.
+
+There are 2 data projectors available for borrowing in the room. Just email the administrator.
+
+The back room of the PC classroom can also be reserved for group or private study. How to book the room is described in the instructions below.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 
@@ -23,32 +32,62 @@ If you have trouble accessing the PC room, visit a televizor which will tell you
 
 ## Library
 
-Books are in czech. Collection composes of professional books as well as novels, fantasy, sci-fy, horrors and criminal.
+There is a small club library in the PC classroom. Here you will find bookshelves of both scholarly books and novels and works of other genres such as fantasy, science fiction, horror and crime fiction.
 
-You can borrow the books on your own, without the need to agree with anybody. You can also leave any book of your own.
+You can borrow or take the books on your own, without permission. But you can also leave some of your own books here for someone else to pick up.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Printer
 
-Contact: tisk@pod.cvut.cz
+In order to use the printer, you must open an account and charge your printing credit in cash. Registration and charging of credit is only possible with the administrator and the deputy administrator of the PC classroom, and only by prior arrangement via email <ucebna@pod.cvut.cz>.
 
-Print prices were stated to be 0,90 CZK for a monochromatic page and 4 CZK for colored page (price of paper included).
+**Credit can only be charged by cash payment in CZK.**
 
-In order to use the printer a credit needs to be payed. Credit can be raised via e-mail agreement.
+The administrator will create an account for you in printer web interface. The login details will be provided to you after registration. These details are the same for your virtual wallet.
 
-In order to start printing on our printer, you have to contact one of administrators of PC room ([Contacts page]({{< ref "/contacts#directors-head-office" >}})).
+You can then check your credit balance in your virtual wallet on address <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
 
-After registration, you can login to web interface of print system: <https://printer.pod.cvut.cz>. To check printing credit you can login to your virtual wallet: <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
+If you do not know how to use the printer, there are [instructions for using the printer here](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing).
 
 ### Important reminder
 
-- Sending scanned document by emial is not working yet. If you wnat to scan, you have to scan to USB drive.
-- Do not forget the fact that the printer prints coloured pages primarily, if you need to print monochromatic, you need to have it set correctly. **Photography print is prohibited.**
+Sending a scanned document by email is not working yet. So if you want to scan, you have to scan to a USB drive.
 
-Questions, objections and malfunctions can be sent to <tisk@pod.cvut.cz>.
+Don't forget that the printer prints in colour, if you only want black and white printing you need to set it up correctly.
+
+**Photography print is prohibited.**
+
+**Printing prices in crowns:**
+
+|        | **Black and white** | **Colour**  |
+|--------|---------------------|-------------|
+| **A4** | **0.9 CZK**         | **4.0 CZK** |
+| **A3** | **1.8 CZK**         | **8.0 CZK** |
+
+(Paper is included in the printing price).
+
+Paper details: weight 80 g/m2, whiteness 146 CIE, opacity 92%.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
+
+## Room Reservation
+
+1. Create a reservation in the Olymp reservation system.
+    - Enter <olymp.pod.cvut.cz> into your browser.
+    - Login details are the same as for Hydra.
+    - In the **Rooms** tab, check if the back room of the PC classroom is available on the given date.
+    - If so, make a reservation in the **Reservations** tab.
+2. Send an email with important details to <ucebna@pod.cvut.cz>
+    - **That you want to confirm your reservation**
+    - **Your name**
+    - **When you plan to have the reservation**
+    - **Purpose**
+    - **If you want to borrow the key to the back room of the PC classroom to lock it**
+3. Your request will be processed based on your email.
+4. You will then be contacted by one of the PC classroom administrators to approve/disapprove your booking.
+
+**Reservations must be made in advance (ideally a week in advance) to allow time for us to respond and to prepare everything for handover**.
 
 ## Operation rules
 
@@ -62,7 +101,7 @@ The PC room is a room intended primarily for studying or holding meetings for th
 
 ### Part III - PC room operating rules
 
-1. Entry to the PC room of the Pod-O-Lee club of the CTU Student Union (furthermore referred to as PC room) is only available to members of the Pod-O-Lee club who have a valid basic membership or who have been granted a waiver of this fee by the Board of Directors of the Pod-O-Lee club (hereinafter referred to as the Board of Directors) after a reservation has been properly made in the Olymp system (https://olymp.pod.cvut.cz) and an email with the relevant information has been sent. For a description of how to become a member and instructions on how to pay dues, please visit the website here: https://pod.cvut.cz/platby/.
+1. Entry to the PC room of the Pod-O-Lee club of the CTU Student Union (furthermore referred to as PC room) is only available to members of the Pod-O-Lee club who have a valid basic membership or who have been granted a waiver of this fee by the Board of Directors of the Pod-O-Lee club (hereinafter referred to as the Board of Directors) after a reservation has been properly made in the Olymp system (<https://olymp.pod.cvut.cz>) and an email with the relevant information has been sent. For a description of how to become a member and instructions on how to pay dues, please visit the website here: <https://pod.cvut.cz/platby/>.
 2. A person who has paid the membership fee and uses the PC room facilities is called a PC room user (furthermore referred to as the user) and by entering the room agrees to the Operating Rules of the PC room Club Pod-O-Lee of the CTU Student Union (furthermore referred to as the Operating Rules) and agrees to obey them.
 3. The PC room consists of two rooms, the front room (where the printer is located) and the back room. The back room can be rented for personal use under the rules stated above, see section 10.
 4. A card system is used to enter the PC room. Each PC room user must sign in with their card on the card reader when entering the PC room. The last user to enter is required to close the entrance door with the card reader behind them. Thus, the number of users in the room must be the same as the number of cards logged in. The access card is non-transferable, i.e. it is used to enter the room only for the cardholder.
@@ -92,7 +131,7 @@ The PC room is a room intended primarily for studying or holding meetings for th
 ### Part IV - Rules for the use of computers and projectors
 
 1. When using a data projector, the user must ensure that it is switched on for the necessary amount of time to avoid unnecessary wear and tear on the bulb.
-2.  using monitors, the user must ensure that they are switched on for the necessary amount of time to avoid unnecessary wear and tear.
+2. When using monitors, the user must ensure that they are switched on for the necessary amount of time to avoid unnecessary wear and tear.
 3. When handling computers or data projectors, it is necessary to take care not to damage them.
 4. When using the computer, the user must observe the rules of the academic network according to the relevant internal regulation of the Rules for the Use of the SU Pod-O-Lee Club Computer Network and use the PC in such a way as not to damage it.
 5. The user must not interfere with the PC settings without the permission of the PC room administrator or network administrator.
@@ -103,15 +142,15 @@ The PC room is a room intended primarily for studying or holding meetings for th
 
 ### Part V - Rules for using the printer
 
-1. The printer is located in the front room of the PC room and is available to all club members who have set up an account with the PC room administrator or his/her representative, have paid the basic membership fee and have their own chip card added to the printer system (or printer login code). 
-2. Use of the printer is priced according to the current price list posted by the printer and can also be found on the club website at https://pod.cvut.cz.
+1. The printer is located in the front room of the PC room and is available to all club members who have set up an account with the PC room administrator or his/her representative, have paid the basic membership fee and have their own chip card added to the printer system (or printer login code).
+2. Use of the printer is priced according to the current price list posted by the printer and can also be found on the club website at <https://pod.cvut.cz>.
 3. In the case of printing it is necessary to follow the printer manual, which is attached to the printer.
 4. When inserting a USB drive into the printer, care must be taken not to destroy the input connectors. The USB drive must be in FAT32 format. Additionally, it must not contain any viruses that could damage the printer software. If these rules are not followed, financial compensation may be enforced, according to the restrictive measures section.
 5. When handling the printer, it is necessary to be gentle with it so that it is not unnecessarily damaged.
 6. It is forbidden to print on someone else's account without the express permission of the other person.
-7. It is strictly forbidden to print photographs on the printer! 
+7. It is strictly forbidden to print photographs on the printer!
 8. The user is forbidden to interfere with the settings of the printer and its electrical wiring in any way. The user is also obliged to obey the operating rules of the PC classroom in which he/she is located.
-9. In case of finding a problem on the printer, it is necessary to immediately contact one of the printer administrators at tisk@pod.cvut.cz or in person to report the problem found on the printer.
+9. In case of finding a problem on the printer, it is necessary to immediately contact one of the printer administrators at <tisk@pod.cvut.cz> or in person to report the problem found on the printer.
 10. If the printer runs out of paper (A4 or A3) or ink, this must be reported immediately to the Printer Administrator or a representative of the Printer Administrator who will restock the printer. The actual restocking is a violation of the printer use policy.
 11. In justified cases, the Board of Directors or the PC room administrator may grant a one-time exception to this policy.
 12. Any violation of the printer use policy will be punished according to the restrictive measures listed below, or the rules of the Pod-O-Lee Club, or applicable state law.
@@ -125,7 +164,7 @@ The PC room is a room intended primarily for studying or holding meetings for th
 2. For violation of any of the points in Parts III, IV and V, the following possible sanctions are introduced according to their severity (each offence will be judged individually):
     1. A warning by email with a deadline for correction,
     2. Alternative punishment as agreed upon by the PC room administrator or the Pod-O-Lee Club Board of Directors,
-    3. blocking the service for a certain period of time, i.e. issuing a BAN to Pod-O-Lee, and thus preventing access to the PC room, i.e. issuing a BAN 
+    3. blocking the service for a certain period of time, i.e. issuing a BAN to Pod-O-Lee, and thus preventing access to the PC room, i.e. issuing a BAN
     4. blocking the service permanently, i.e. granting a BAN and thus preventing access to the PC room,
     5. sanction by the disciplinary committees of the faculties of the CTU,
     6. referral to the Police of the Czech Republic,

@@ -22,7 +22,7 @@ Hlavním cílem této akce je seznámení studentů se životem na koleji Podol�
 
 Vždy jsou zde nachystány prezentační stánky s hlavními službami klubu, zájmové kolejní kroužky a informační stánek klubu Pod-O-Lee. Jsou pořádány exkurze pro ty, kteří mají zájem podívat se, kde jaké služby najdou.
 
-Večer je obohacen o občerstvení, čepuje se pivo i limonáda a na zahnání hladu se grilují klobásy.
+Večer je obohacen o občerstvení, čepuje se pivo i limonáda.
 
 [Příručka prváka](../AP_CZ.pdf)
 
@@ -39,6 +39,13 @@ Soutěž o nejlepší masku, beerpong, fotokoutek a super parta lidí, to všech
     {{<figure src="images/events/halloween_02.jpg" alt="Halloween photo">}}
     {{<figure src="images/events/halloween_01.jpg" alt="Halloween photo">}}
 {{</figure_gallery>}}
+
+## Podolský benchpress
+
+Soutěž pořádána aktivními členy Pod-O-Gym, která je určena studentům vysokých škol, obyvatelům kolejí a členům posilovny Pod-O-Gym studentského klubu Pod-O-Lee.
+Soutěž probíhá v několika kategoriích, do kterých jsou účastníci rozdělení dle Wilksovy tabulky.
+
+{{<figure src="images/events/benchpress.jpg" alt="Benchpress">}}
 
 ## Podolské Vánoce
 
@@ -60,6 +67,10 @@ Akce nejen pro ty, kteří svou drahou polovičku ještě nenašli a rádi by te
     {{<figure src="images/events/valentyn_02.jpg" alt="Valentýn photo">}}
 {{</figure_gallery>}}
 
+## Blokové hry
+
+Jelikož nám nestačí poznávačky bloků, tak jsme připravili sérii akcí, do kterých se mohou zapojit členové klubu a zasoutěžit si ve třech aktivitách (beer pong turnaj, sportovní turnaj a pubquiz).
+
 ## Pod-O-Day (Sportovní den)
 
 Sportovní den, kde se můžete zúčastnit jedné nebo více z disciplín. Na začátku probíhá běžecký závod „Podolská 3K“, kdy se běží 3 kola kolem areálu kolejí (cca 2100 m). Poté probíhá turnaj ve fotbalu (systém 3 hráči + 1 brankář) a ve volejbalu (maximálně 6 hráčů v týmu). V případě zájmu se k těmto přidává ještě turnaj ve streetballu (hraje se na jeden koš na 15 bodů, maximálně 3 hráči v týmu). Vše je potom zakončeno orienťákem po okolí kolejí, který je proložen několika úkoly.
@@ -79,12 +90,6 @@ Vše se netočí jen okolo hudby. Během celého dne jsou k dispozici různé ak
 
 Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapely, které tě navnadí na MEZI BLOKY.
 
-### Z minulého ročníku
-
-Dne 15. května 2022 se v areálu kolejí v pražském Podolí uskutečnil již 15. ročník festivalu Mezi Bloky. Tradičně i tento rok organizovali akci studenti kolejního klubu Pod-O-Lee.
-
-Na prvním pódiu vystoupili interpreti Amazing Whores, Popçorn, Forgot It´s Monday, Ventolin a Circus Brothers. Na druhé scéně návštěvníci mohli vidět vystoupení Hellwany a Koja. Festival byl podpořen bohatým doprovodným programem jako například simulátorem F1, Girl zónou a soutěžemi.
-
 Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
 Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
 
@@ -96,18 +101,6 @@ Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.
     {{<figure src="images/events/mb_05.jpg" alt="Mezibloky photo">}}
     {{<figure src="images/events/mb_06.jpg" alt="Mezibloky photo">}}
 {{</figure_gallery>}}
-
-<!-- ## Benchpress
-Soutěž je určena studentům (i studentkám) středních a vysokých škol. Soutěží provází zkušení rozhodčí. Soutěží se tradičně o věcné ceny v podobě sportovní výživy.
-
-Muži souteží ve 4 kategoriích:
-- Podolští muži a Muži celkově
-- Skupiny do 75 kg, do 85 kg, do 95 kg a nad 95 kg
-Ženy soutěží ve dvou kategoriích:
-- Podolské ženy a ženy celkově podle wilkse.
-- Výsledek dle zvednuté váhy.
-
-{{<figure src="images/events/benchpress.jpg" alt="Benchpress">}} -->
 
 ## Fuckup night
 
