@@ -39,15 +39,15 @@ Knížky si můžeš brát sám (není potřeba se s někým domlouvat) vypůjč
 
 ## Tiskárna
 
-Abyste mohli tiskárnu využívat, je nutné si nechat založit účet a v hotovosti si nabít kredit na tisk. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email. (ucebna@pod.cvut.cz)
+Abyste mohli tiskárnu využívat, je nutné si nechat založit účet a v hotovosti si nabít kredit na tisk. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email <ucebna@pod.cvut.cz>.
 
 **Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
 
-Správce Ti vytvoří účet v našem webovém rozhraní: https://printer.pod.cvut.cz. Přihlašovací údaje Ti sdělí po registraci. Tyto údaje jsou jednotné i pro Vaši virtuální peněženku.
+Správce Ti vytvoří účet ve webovém rozhraní k tiskárně. Přihlašovací údaje Ti sdělí po registraci. Tyto údaje jsou jednotné i pro Vaši virtuální peněženku.
 
-Zjistit si stav svého kreditu můžeš následně v virtuální peněžence: https://payments.printer.pod.cvut.cz/payment-system/customer/login
+Zjistit si stav svého kreditu můžeš následně ve virtuální peněžence na adrese <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
 
-Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: (Odkaz na tento návod:  [Návod](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing))
+Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: [Návod jak pracovat s tiskárnou](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing)
 
 ### Důležitá upozornění
 
@@ -59,10 +59,10 @@ Platí **zákaz tisku fotografií.**
 
 **Ceny za tisk v korunách:**
 
-|      | **Černobílý** | **Barevný** |
-|------|---------------|-------------|
-|**A4**| **0.9**       | **4.0**     |
-|**A3**| **1.8**       | **8.0**     |
+|        | **Černobílý** | **Barevný** |
+|--------|---------------|-------------|
+| **A4** | **0.9 Kč**    | **4.0 Kč**  |
+| **A3** | **1.8 Kč**    | **8.0 Kč**  |
 
 (V ceně tisku je zahrnut i papír).
 
@@ -71,7 +71,7 @@ gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
-## Rezervace místnosti
+## Rezervace zadní místnosti
 
 1. Vytvoř si rezervaci v rezervačním systému Olymp.
     - Do prohlížeče zadej stránku <olymp.pod.cvut.cz>.
@@ -102,7 +102,7 @@ PC učebna je místnost určená především ke studiu nebo pořádání meetin
 
 ### Část III - Provozní řád PC učebny
 
-1. Vstup do počítačové učebny klubu Pod-O-Lee Studentské unie ČVUT (dále jen učebna) je umožněn pouze členům klubu Pod-O-Lee, kteří mají platné základní členství nebo je jim tento příspěvek odpuštěn Představenstvem klubu Pod-O-Lee (dále jen představenstvo) a mají přidanou vlastní čipovou kartu do klubového informačního systému Hydra klubu Pod-O-Lee . Popis, jak se stát členem a návod na platbu členských příspěvků naleznete na internetové adrese zde: https://pod.cvut.cz/platby/.
+1. Vstup do počítačové učebny klubu Pod-O-Lee Studentské unie ČVUT (dále jen učebna) je umožněn pouze členům klubu Pod-O-Lee, kteří mají platné základní členství nebo je jim tento příspěvek odpuštěn Představenstvem klubu Pod-O-Lee (dále jen představenstvo) a mají přidanou vlastní čipovou kartu do klubového informačního systému Hydra klubu Pod-O-Lee . Popis, jak se stát členem a návod na platbu členských příspěvků naleznete na internetové adrese <https://pod.cvut.cz/platby/>.
 2. Osoba, jež má zaplacený členský příspěvek a využívá možnosti PC učebny, je nazývána uživatelem PC učebny (dále jen uživatel) a vstupem do místnosti souhlasí s Provozním řádem, Pravidly užívání služby tiskárny a Pravidly užívání počítačů a dataprojektorů klubu Pod-O-Lee Studentské unie ČVUT (dále jen Provozní řád) a zavazuje se jej dodržovat.
 3. Učebna se skládá ze dvou místností, přední (v ní se nachází tiskárna) a zadní. Zadní místnost si lze za uvedených pravidel zapůjčit k osobnímu užívání, viz bod 10.
 4. Ke vstupu do učebny slouží kartový systém. Každý uživatel učebny se musí při příchodu do učebny přihlásit svou kartou na čtečce karet. Poslední vstupující uživatel je povinen zavřít za sebou vstupní dveře s čtečkou. Tedy počet uživatelů v učebně musí být shodný s počtem přihlášených karet. Vstupní karta je nepřenosná, tj. slouží ke vstupu do učebny pouze vlastníkovi karty.
@@ -144,7 +144,7 @@ PC učebna je místnost určená především ke studiu nebo pořádání meetin
 ### Část V - Pravidla užívání tiskárny
 
 1. Tiskárna se nachází v přední místnosti učebny a je k dispozici všem členům klubu, kteří si zřídí u správce učebny či jeho zástupce příslušný účet, mají zaplaceno základní členství v klubu a mají přidanou vlastní čipovou kartu do systému tiskárny (případně přihlašovací kód k tiskárně).
-2. Užívání tiskárny je zpoplatněno dle platného ceníku, který je u ní vyvěšen a také je k nalezení na webových stránkách klubu https://pod.cvut.cz.
+2. Užívání tiskárny je zpoplatněno dle platného ceníku, který je u ní vyvěšen a také je k nalezení na webových stránkách klubu <https://pod.cvut.cz>.
 3. V případě tisku je nutné dodržet manuál k tiskárně, který je přiložený u tiskárny.
 4. Při vkládání USB disku do tiskárny je nutné být opatrný a nezničit vstupní konektory. USB disk musí být ve formátu FAT32. Dále pak nesmí obsahovat žádné viry, které by mohly poškodit software tiskárny. Při nedodržení těchto pravidel, může být vymáhaná finanční kompenzace řídící se podle oddílu restriktivních opatření.
 5. Při manipulaci s tiskárnou je nutné být k ní ohleduplný, aby nebyla zbytečně poškozena.
