@@ -15,7 +15,10 @@ Lab je otevřen po domluvě se správci a členy týmu na emailu [lab@pod.cvut.c
 
 ## Mechanický lab
 
-{{<figure src="images/useful-rooms/pod-o-lab/mechlab.jpg" alt="Mechanical lab" imgop="rt_fit">}}
+{{<figure_gallery>}}
+    {{<figure src="images/useful-rooms/pod-o-lab/mechlab_1.jpg" alt="Mechanical lab">}}
+    {{<figure src="images/useful-rooms/pod-o-lab/mechlab_2.jpg" alt="Mechanical lab">}}
+{{</figure_gallery>}}
 
 V mechanickém Labu si můžete vytvořit cokoliv, co vás napadne. Vrtáků jak do dřeva, tak do železa máme docela dost, závitníkú máme taktéž hezký rozsah. Gola sada, flexa a sada bitů tu taktéž má svoje místo. Pokud něco nebude chtít spolupracovat, tak tomu můžeme kromě již zmiňované flexy pomoct páčidlem, pár velikostmi kladiv, pilkami jak do dřeva, tak do železa, proxxonkou, vrtačkou na 230, nebo akučkou.
 Stojanová vrtačka, šukalka, pilníky, nůžky na plech a kompresor s nástavci na (d)ofuk nám taky umí dosti zjednodušit život. Pro přesné měření disponujeme rýsovacími potřebami, důlčíkem (kilnerem), posuvným měřítkem (šuplerou), či jemnými pilníčky. Pro udržování vhodných podmínek disponujeme jak WDčkem, tak čističem brzd, kartáči jak běžnými tak drátěnými, hromadou hadrů, rukavic a hezkou sbírkou fofrpásek/zdrcpásek, lepenek a ochranných pomůcek. Přijďte se za námi podívat, vždycky existuje způsob, jak něco rozebrat do šroubku nebo naopak vyrobit.

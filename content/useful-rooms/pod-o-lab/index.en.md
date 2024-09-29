@@ -15,7 +15,10 @@ Lab is open by appointment with administrators and team members by email [lab@po
 
 ## Mechanical lab
 
-{{<figure src="images/useful-rooms/pod-o-lab/mechlab.jpg" alt="Mechanical lab" imgop="rt_fit">}}
+{{<figure_gallery>}}
+    {{<figure src="images/useful-rooms/pod-o-lab/mechlab_1.jpg" alt="Mechanical lab">}}
+    {{<figure src="images/useful-rooms/pod-o-lab/mechlab_2.jpg" alt="Mechanical lab">}}
+{{</figure_gallery>}}
 
 In the mechanical lab, you can create anything you can think of. We have quite a few drill bits for both wood and iron, and we also have a nice range of taps. Socket wrench set, angle grinder, and bit set are also here. If something doesn't want to cooperate, we can help it with a crowbar, a couple of sizes of hammers, both wood and iron saws, a proxxon, a 230 drill, or a hacksaw.
 A bench drill, a shucker, files, sheet metal shears, and a compressor can also make our lives much easier. We have scribing tools, a dimple, a calliper or fine files for precise measurements. To maintain proper conditions, we have both a WD and brake cleaner, brushes, a pile of rags, gloves, and a nice collection of zip ties, tapes, and protective gear. Come and see us; there's always a way to take something apart into pieces or vice versa.
