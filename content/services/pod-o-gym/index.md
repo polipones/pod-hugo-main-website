@@ -11,7 +11,9 @@ tocopen: true
 
 ## Aktuality
 
-Boxovací pytle a boxovací hruška jsou mimo provoz do dovolání.
+- Do týmu se k nám přidali dva instruktoři lezení na boulderu a aktualizovali jsme [sekci o boulderu](#boulder).
+
+- 16\. 11. 2024 se bude konat akce Benchpress, více info a přihlášky na [Facebook události](https://www.facebook.com/events/1249072136219616).
 
 ## Provozní řád
 
@@ -63,7 +65,43 @@ Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla,
 
 ### Boulder
 
-Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder.
+Kontakt na instruktory: [Sekce boulder v kontaktech]({{< ref "/contacts#boulder" >}}).
+
+Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder. Pokud nevíš jak na to, ale chtěl by sis boulder vyzkoušet, neváhej kontaktovat instruktory, kteří ti pomohou se základy a poradí jak předcházet zranění. Všichni kdo chtějí boulder navštěvovat musí mít splněny všechny náležitosti pro normální přístup do Pod-O-Gym, včetně seznámení se s provozním řádem.
+
+O boulder se u nás starají instruktoři lezení, kontakty najdeš v [Kontaktech]({{< ref "/contacts#boulder" >}}). V případě problémů či nejasností piš na <sportoviste@pod.cvut.cz>.
+
+Boulder je rozdělen na 2 části, [Klasické bouldery](#klasické-bouldery) a [Spray Wall](#spray-wall).
+
+#### Klasické bouldery
+
+Jedna barva značí boulder. 2 pásky označují startovní chyt (obě ruce v jednom chytu) nebo 2 chyty (každá ruka v jednom chytu). 1 páska označuje konec boulderu – tzv. TOP.
+
+Začneš ze startovního chytu/chytů. Teprve v momentě, kdy máš celé tělo ve vzduchu, můžeš uchopit další chyty. Boulder se počítá za vylezený, když dolezeš po 1 barvě až do topového chytu a toho se dotýkáš oběma rukama cca 3 vteřiny.
+
+#### Spray Wall
+
+Pravidla boulderingu Ideálnív této části jsou stejná, avšak je to část boulderu, kde můžeš ukázat svou kreativitu, vymyslet vlastní boudlery a předat je ostatním lezcům v mobilní aplikaci.
+
+Pro telefony s operačním systémem Android stahuj aplikaci [Boulder Problems](https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos) a v ní vyhledej místnost **PodoGym**. Pokud máš iOS, musíš bohužel přes prohlížeč na tuto adresu: <https://boulderproblems.tk/boulderroom/2255>. Pro přidání nových boulderů se musíš registrovat.
+
+#### Aplikace Boulder Problems
+
+Můžeš prohlížet, přelézat a odškrtávat již vylezené bouldery, co přidali jiní lezci. Můžeš i vytvářet vlastní bouldery a tím zpříjemnit ostatním trénink s motžností přelezu tvých nápadů.
+
+Pro vytvoření nového boulderu vyfoť stěnu a zakroužkuj chyty, které jsou součástí tvého boulderu (každý druh kroužku značí jinou věc – start, top, nohy, ruce atd.). Přidej název, obtížnost, zveřejni a sleduj, kdo tvůj boulder vyleze.
+
+#### Obtížnost
+
+Budeme používat francouzskou stupnici, obtížnost 1 -- 9, a -- c (pravděpodobně se budeme pohybovat mezi 3 -- 7).
+
+Ve zkratce (snad každý pochopí):
+
+- 3 < 4 < 5 < 6 …
+- a < b < c
+- tedy -- 5a < 5b < 5c < 6a < 6b …
+
+Občas se může vyskytnout znaménko +, poté platí např.: 5a < 5a+ < 5b.
 
 {{<figure src="images/services/pod-o-gym/boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
@@ -73,7 +111,7 @@ Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder.
 
 Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst [pravidla pro používaní sauny](sauna_provozni_rad.pdf) a pokyny pro její spuštění.
 
-Rezervace sauny se provádí přes rezervační systém na adrese: <https://gym.pod.cvut.cz/rezervace>.
+Rezervace sauny se provádí přes rezervační systém na adrese: <https://olymp.pod.cvut.cz>. Přihlašovací údaje jsou shodné s Hydrou.
 
 #### Zapnutí a používání sauny
 
