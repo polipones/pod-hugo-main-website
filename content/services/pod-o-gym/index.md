@@ -9,6 +9,10 @@ weight: 3
 tocopen: true
 ---
 
+{{<rawhtml>}}
+<h3 id="presence-count" style="font-style: bold; font-size: 1.7rem;">Načítání...</h3>
+{{</rawhtml>}}
+
 ## Aktuality
 
 - Zavedli jsme nový rezervační systém na saunu, <https://olymp.pod.cvut.cz>, více info [v sekci o sauně](#sauna).
@@ -27,7 +31,7 @@ Registrace do Pod-O-Gym probíhá následovně:
 2. Vezmi si tuto kartu, 5x ji přilož na čtečku karet u vstupu do Pod-O-Gym a zapamatuj si datum a čas kdy jsi tak učinil.
 3. Pošli mail kterémukoliv televizorovi (<https://pod.cvut.cz/kontakty/>) nebo do emailové konference <admins@pod.cvut.cz>. Ve zprávě uveď čas pípnutí karty, datum a ID z Hydry.
 
-## Pod-O-Gym
+## Popis
 
 [Facebook Pod-O-Gym](https://www.facebook.com/podogym)
 
@@ -144,3 +148,30 @@ Taneční skupina Pod-O-Dance vznikla pro to, abychom se bavili, hýbali a hlavn
 Hodina je koncipovaná jako kondiční/kardio cvičení. Cílem tedy není umět perfektně techniku kroků, ale pořádně se zapotit a rozproudit krev v žilách.
 
 Více informací naleznete zde: [Pod-O-Dance]({{< ref "/freetime-activities/pod-o-dance/index.md" >}})
+
+{{<rawhtml>}}
+<script>
+    // Function to fetch data from the API and display the count
+    async function displayPresenceCount() {
+        const url = "http://hydra.local/api/v2/presence?zone=Pod-O-Gym";
+
+        try {
+            // Fetch data from the API
+            const response = await fetch(url);
+            const data = await response.json();
+
+            // Get the count from data
+            const count = data.data[0].count;
+
+            // Display count in HTML
+            document.getElementById("presence-count").textContent = `Počet lidí v Pod-O-Gym: ${count}`;
+        } catch (error) {
+            console.error("Error fetching presence count:", error);
+            document.getElementById("presence-count").textContent = "Nepovedlo se získat počet lidí";
+        }
+    }
+
+    // Load the function on page load
+    window.onload = displayPresenceCount;
+</script>
+{{</rawhtml>}}

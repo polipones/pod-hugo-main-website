@@ -9,6 +9,10 @@ weight: 3
 tocopen: true
 ---
 
+{{<rawhtml>}}
+<h3 id="presence-count" style="font-style: bold; font-size: 1.7rem;">Loading...</h3>
+{{</rawhtml>}}
+
 ## News
 
 All boxing bags and boxing speedbag is out of order until further notice.
@@ -98,3 +102,30 @@ If you encounter any problems with sauna room regarding damage, or other, you mu
 Every semester there are some courses in our gym. Courses are free and conducted by enthusiasts from our gym.
 
 The most important one from occasional courses is "How to train". This one hour course is usually held on the start of every new academic year. So if you are not sure how to start in the gym, or you do not have partner for training, you might just find answers to both in this course.
+
+{{<rawhtml>}}
+<script>
+    // Function to fetch data from the API and display the count
+    async function displayPresenceCount() {
+        const url = "http://hydra.local/api/v2/presence?zone=Pod-O-Gym";
+
+        try {
+            // Fetch data from the API
+            const response = await fetch(url);
+            const data = await response.json();
+
+            // Get the count from data
+            const count = data.data[0].count;
+
+            // Display count in HTML
+            document.getElementById("presence-count").textContent = `People in Pod-O-Gym: ${count}`;
+        } catch (error) {
+            console.error("Error fetching presence count:", error);
+            document.getElementById("presence-count").textContent = "Couldn't load number of people";
+        }
+    }
+
+    // Load the function on page load
+    window.onload = displayPresenceCount;
+</script>
+{{</rawhtml>}}
