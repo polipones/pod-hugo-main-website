@@ -15,7 +15,9 @@ tocopen: true
 
 ## News
 
-All boxing bags and boxing speedbag is out of order until further notice.
+- We have introduced a new booking system for the sauna, available at <https://olymp.pod.cvut.cz>. More info can be found in the [sauna section](#sauna).
+- Two new bouldering instructors have joined our team, and we've updated the [bouldering section](#boulder).
+- On 16. November 2024, the Benchpress event will take place. More info and registration on the [Facebook event page](https://www.facebook.com/events/1249072136219616).
 
 ## Operating rules
 
@@ -65,7 +67,43 @@ For calisthenics we have TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR�
 
 ### Boulder
 
-For climbing enthusiasts, we have a small boulder.
+Instructor contact information: [Bouldering section in contacts]({{< ref "/contacts#boulder" >}}).
+
+For those interested in bouldering and climbing, we also have a small bouldering wall in the gym. If you’re new to it and want to try it, feel free to reach out to the instructors -- they’ll help you with the basics and show you how to prevent injuries. All bouldering participants must meet the standard requirements for access to Pod-O-Gym, including familiarizing themselves with the operating rules.
+
+Our bouldering instructors maintain the wall; contact details are available in [Contacts]({{< ref "/contacts#boulder" >}}). For issues or questions, write to <sportoviste@pod.cvut.cz>.
+
+The boulder is divided into 2 sections: [Classic boulders](#classic-boulders) and [Spray Wall](#spray-wall).
+
+#### Classic Boulders
+
+One color designates a boulder. Two tapes indicate the starting hold (both hands on one hold) or two holds (one hand on each hold). One tape marks the end of the boulder -- called the TOP.
+
+Start from the initial hold/holds. Once your entire body is in the air, you can reach for additional holds. The boulder is considered climbed when you reach the top hold of the same color and hold it with both hands for about 3 seconds.
+
+#### Spray Wall
+
+The rules for bouldering here are the same, but this section allows you to show your creativity by creating your own boulders and sharing them with other climbers through a mobile app.
+
+For Android phones, download the [Boulder Problems](https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos) app and search for the **PodoGym** room. If you have iOS, you’ll need to use this link in your browser: <https://boulderproblems.tk/boulderroom/2255>. You’ll need to register to add new boulders.
+
+#### Boulder Problems App
+
+You can browse, climb, and check off boulders added by other climbers. You can also create your own boulders to add more fun and challenge to the training.
+
+To create a new boulder, take a picture of the wall and circle the holds that are part of your boulder (each type of circle indicates something different -- start, top, feet, hands, etc.). Add a name, difficulty level, publish, and watch who climbs your boulder.
+
+#### Difficulty
+
+We will use the French scale with difficulty levels from 1 to 9, a to c (we'll likely stay within 3 to 7).
+
+In short (hopefully self-explanatory):
+
+- 3 < 4 < 5 < 6 …
+- a < b < c
+- so -- 5a < 5b < 5c < 6a < 6b …
+
+Sometimes a + sign may appear, indicating, for example: 5a < 5a+ < 5b.
 
 {{<figure src="images/services/pod-o-gym/boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
@@ -75,7 +113,7 @@ For climbing enthusiasts, we have a small boulder.
 
 Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to **[read our rules before using sauna](sauna_operating_rules.pdf)**, in which you will also find how to pay for sauna.
 
-You can reserve sauna from reservation system here: <https://gym.pod.cvut.cz/rezervace>.
+You can reserve sauna from reservation system here: <https://olymp.pod.cvut.cz>. Use same login credentials as to Hydra.
 
 #### How to turn on and use sauna room
 
@@ -107,7 +145,7 @@ The most important one from occasional courses is "How to train". This one hour 
 <script>
     // Function to fetch data from the API and display the count
     async function displayPresenceCount() {
-        const url = "http://hydra.local/api/v2/presence?zone=Pod-O-Gym";
+        const url = "https://hydra.pod.cvut.cz/api/v2/presence?zone=Pod-O-Gym";
 
         try {
             // Fetch data from the API

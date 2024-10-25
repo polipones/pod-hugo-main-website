@@ -153,7 +153,7 @@ Více informací naleznete zde: [Pod-O-Dance]({{< ref "/freetime-activities/pod-
 <script>
     // Function to fetch data from the API and display the count
     async function displayPresenceCount() {
-        const url = "http://hydra.local/api/v2/presence?zone=Pod-O-Gym";
+        const url = "https://hydra.pod.cvut.cz/api/v2/presence?zone=Pod-O-Gym";
 
         try {
             // Fetch data from the API
