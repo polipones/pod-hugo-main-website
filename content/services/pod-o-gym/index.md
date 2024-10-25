@@ -11,8 +11,8 @@ tocopen: true
 
 ## Aktuality
 
+- Zavedli jsme nový rezervační systém na saunu, <https://olymp.pod.cvut.cz>, více info [v sekci o sauně](#sauna).
 - Do týmu se k nám přidali dva instruktoři lezení na boulderu a aktualizovali jsme [sekci o boulderu](#boulder).
-
 - 16\. 11. 2024 se bude konat akce Benchpress, více info a přihlášky na [Facebook události](https://www.facebook.com/events/1249072136219616).
 
 ## Provozní řád
