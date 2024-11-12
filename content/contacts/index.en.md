@@ -168,6 +168,7 @@ Contact: <barovky@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="shm" role="Bar games rooms manager">}}
+    {{<contact index="zshm" role="Deputy bar games rooms manager">}}
 {{</contact_section>}}
 
 ### Party room

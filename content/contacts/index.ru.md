@@ -168,6 +168,7 @@ DIČ: CZ67981224
 
 {{<contact_section>}}
     {{<contact index="shm" role="Управляющий барными игровыми залами">}}
+    {{<contact index="zshm" role="Заместитель управляющего игровыми залами">}}
 {{</contact_section>}}
 
 ### Комната для вечеринок

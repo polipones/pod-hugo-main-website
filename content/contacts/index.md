@@ -174,6 +174,7 @@ Kontakt: <barovky@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="shm" role="Správce herních místností">}}
+    {{<contact index="zshm" role="Zástupce správce herních místností">}}
 {{</contact_section>}}
 
 ### Sudovna
