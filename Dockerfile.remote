@@ -13,7 +13,7 @@ RUN git submodule update --init --recursive && \
     ./scripts/fetch_contacts.sh && \
     hugo
 
-FROM nginx:mainline-alpine as deploy
+FROM nginx:mainline-alpine AS deploy
 
 RUN mkdir -p /usr/share/nginx/html/assets/images
 

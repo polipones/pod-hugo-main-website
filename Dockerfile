@@ -1,7 +1,7 @@
 # Local
-FROM klakegg/hugo:0.111.3-ext-alpine as hugo
+FROM klakegg/hugo:0.111.3-ext AS hugo
 
-RUN apk add jq
+RUN apt update && apt install jq -y
 
 COPY .git .git
 
@@ -11,6 +11,6 @@ RUN git submodule update --init --recursive
 
 ENTRYPOINT [ "./scripts/run_server.sh" ]
 
-FROM nginx:mainline-alpine as nginx
+FROM nginx:mainline AS nginx
 
 COPY nginx/default.conf /etc/nginx/conf.d/
