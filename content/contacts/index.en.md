@@ -177,6 +177,7 @@ Contact: <party@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="sps" role="Party room manager">}}
+    {{<contact index="zsps" role="Deputy party room manager">}}
 {{</contact_section>}}
 
 ## Block A

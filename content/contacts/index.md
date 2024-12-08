@@ -183,6 +183,7 @@ Kontakt: <party@pod.cvut.cz>
 
 {{<contact_section>}}
     {{<contact index="sps" role="Správce sudovny">}}
+    {{<contact index="zsps" role="Zástupce správce sudovny">}}
 {{</contact_section>}}
 
 ## Blok A

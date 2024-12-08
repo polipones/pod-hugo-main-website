@@ -177,6 +177,7 @@ DIČ: CZ67981224
 
 {{<contact_section>}}
     {{<contact index="sps" role="Менеджер комнаты для вечеринок">}}
+    {{<contact index="zsps" role="Заместитель управляющего комнатой для вечеринок">}}
 {{</contact_section>}}
 
 ## Блок A
