@@ -37,16 +37,4 @@ V jednom z rohů elektricého labu se nachází 3D tiskařský koutek. V součas
 
 ## Provozní řád Pod-O-Lab
 
-1. Návštěvník je každý člen klubu Pod-O-Lee, který se nachází v místnostech Pod-O-Lab.
-2. Do Pod-O-Lab mají Návštěvníci povolen přístup pouze za doprovodu správce Pod-O-Lab, či zástupce správce Pod-O-Lab (dále jako „Správce“), případně s jeho výslovným svolením. Návštěvníci Pod-O-Lab nesmějí bez vědomí Správce umožnit přístup komukoliv dalšímu.
-3. Návštěvník je povinen se při každé návštěvě před započetím práce zapsat do knihy návštěv (netýká se Správců). Svým podpisem v knize návštěv potvrzuje, že se seznámil s Provozním řádem Pod-O-Lab, porozuměl mu a souhlasí s jeho dodržováním.
-4. Každý Návštěvník je povinen respektovat a dodržovat Provozní řád Pod-O-Lab, pokyny Správce a zároveň dodržovat interní pravidla klubu Pod-O-Lee, Stanovy klubu Pod-O-Lee, Stanovy SU a zákony České republiky.
-5. Vstupem do místnosti Návštěvník souhlasí s pořizováním videozáznamu, který může být použitý v případě porušení některého z pravidel. Nakládání s kamerovými záznamy je upraveno v IP1/2020 Kamerový systém.
-6. Návštěvník je povinen dbát na bezpečnost svoji i ostatních přítomných v Pod-O-Lab. 
-7. Návštěvník je povinen se pod vedením Správce seznámit s obsluhou vybavení v Pod-O-Lab, s umístěním a používáním hasicích přístrojů a s používáním nouzového vypínače elektrické energie.
-8. Návštěvník je povinen dbát na pořádek v Pod-O-Lab, po skončení práce své pracoviště uklidit a použité vybavení vrátit na místo k tomu určené. Pokud má při odchodu Návštěvník v Pod-O-Lab rozdělanou práci, je povinen ji označit (oč se jedná, kdo je zodpovědný za úklid, případně dodělání). Použité vybavení i tak vrací na místo tomu určené.
-9. V Pod-O-Lab je zakázáno kouřit cigarety i e-cigarety všech druhů. Nedoporučujeme v místnostech Pod-O-Lab jíst ani pít.
-10. Používáním vybavení Pod-O-Lab na sebe Návštěvník bere veškerou odpovědnost za případné škody vzniklé chybným použitím vybavení, za zranění či jinou újmu. 
-11. Za porušení Provozního řádu Pod-O-Lab, při kterém dojde k újmě na majetku nebo třetí osoby, je viník povinen vzniklou škodu uhradit.
-12. Návštěvník nesmí z Pod-O-Lab odnášet jakékoliv vybavení, zařízení či spotřební materiál. Výjimky formou výpůjček lze realizovat jen se souhlasem přítomného Správce a po zapsání do knihy výpůjček. Spotřební materiál je v malém množství možné odnášet z Pod-O-Lab jen se souhlasem Správce.
-13. Při porušení Provozního řádu Pod-O-Lab  může být viník postižen BANem do Pod-O-Lab, při zvláště závažném, nebo opakovaném porušení mu může být udělen BAN na základní členství kolejního klubu Pod-O-Lee.
+K dispozici ke stažení zde: [Provozní řád](./provozni_rad_pod_o_lab.pdf).
