@@ -24,7 +24,43 @@ tocopen: true
 
 ## Hospodaření (rozpočty)
 
-Rozpočty jsou na Wiki: https://wiki.pod.cvut.cz/legislativa/hospodareni.
+### Rozpočty po roce 2019
+
+Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
+
+- Rozpočet 2025
+  - Schválená verze z 8. 12. 2024: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2025_-_schvaleno_8.12.2024.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1TVrHikEzUFio2UdZN2T7z_2CYo2YtmKTdX5E2aejw3o/edit?usp=sharing)
+- Rozpočet 2024
+  - Schválená verze z 19. 5. 2024: [Rozpočet 2024](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2024_-_rozpocet_2024.pdf)
+  - Schválená verze ze 4. 12. 2023: [Rozpočet 2024](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2024_-_schvaleno_4.12.2023.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1f_mYj44EK_C73MPx6BEBG60x3ZdDUk_7vKIs2Bh7eX0/edit?usp=sharing)
+- Rozpočet 2023
+  - Schválená verze v PDF: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2023.pdf)
+  - Přeschválená verze z 25. 1. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2023_230125.pdf)
+  - Přeschválená verze ze 4. 4. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2023_-_preschvaleni_4.4.2023.pdf)
+  - Přeschválená verze ze 17. 9. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2023_preschvaleno_17.9.2023.pdf)
+  - Přeschválená verze ze 4. 12. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2023_-_preschvaleno_4.12.2023.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1lPW60otu6LNrq-WiSAWa4AhaajXF4eqjTiQAEGKJGdI)
+- Rozpočet 2022: [Google Sheet](https://docs.google.com/spreadsheets/d/1ZngqS69CH1dzKYc7XHeXp4aInvx4wddDTHptbp3KCZ0)
+- Rozpočet 2021: [Google Sheet](https://docs.google.com/spreadsheets/d/1f6dbfDp667SnB3FOrp0QWbdeE2VmWeY_1om7HtePLEo)
+- Rozpočet 2020: [Google Sheet](https://drive.google.com/open?id=1LRygjN8E_JrWWaQNUo0fTwDokOm36U56irKJOnIYtIA)
+
+### Rozpočty do roku 2019 včetně
+
+- [Rozpočet 2019 I](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2019_i.pdf)
+
+- [Rozpočet 2018 II](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2018_ii.pdf)
+- [Rozpočet 2018 I](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2018_i.pdf)
+
+- [Rozpočet 2017 II](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2017_ii-list1.pdf)
+- [Rozpočet 2017 I](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2017_i-list1-3.pdf)
+
+- [Rozpočet 2016 II](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_ii_2016_final.pdf)
+- [Rozpočet 2016 I](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2016_i.pdf)
+
+- [Rozpočet 2015 II](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2015_ii.pdf)
+- [Rozpočet 2015 I](https://s3.pod.cvut.cz/common/legislativa/ip/rozpocet_2015_i.pdf)
 
 ## Odpustky
 
