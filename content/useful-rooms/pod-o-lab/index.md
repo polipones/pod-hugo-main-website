@@ -37,4 +37,4 @@ V jednom z rohů elektricého labu se nachází 3D tiskařský koutek. V součas
 
 ## Provozní řád Pod-O-Lab
 
-K dispozici ke stažení zde: [Provozní řád](./provozni_rad_pod_o_lab.pdf).
+K dispozici ke stažení zde: [Provozní řád](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_lab/provozni_rad_pod_o_lab_cz.pdf).
