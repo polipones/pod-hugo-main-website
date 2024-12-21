@@ -37,4 +37,4 @@ There is a 3D printing corner in the electric lab. We currently have three 3D pr
 
 ## Operating rules
 
-Operating rules are available here: [Operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_lab/operating_rules_pod_o_lab_en.pdf).
+Operating rules are available here: [Operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_lab/operating_rules_pod_o_lab_en.pdf). If there are differences, the Czech version of the rules is the one that counts.
