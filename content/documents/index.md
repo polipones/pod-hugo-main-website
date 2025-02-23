@@ -170,6 +170,7 @@ Aktivním členům klubu Pod-O-Lee může být představenstvem odpuštěn člen
 
 Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
+- [Odpustky 2025 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2025.pdf)
 - [Odpustky 2024 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2024.pdf), [Odpustky 2024 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2024.pdf)
 - [Odpustky 2023 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2023.pdf), [Odpustky 2023 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2023.pdf)
 - [Odpustky 2022 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2022.pdf), [Odpustky 2022 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2022.pdf)
