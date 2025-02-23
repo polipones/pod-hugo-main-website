@@ -66,7 +66,18 @@ Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](http
 
 Aktivním členům klubu Pod-O-Lee může být představenstvem odpuštěn členský příspěvek.
 
-Přehled členů s odpuštěnými příspěvky je na Wiki: https://wiki.pod.cvut.cz/legislativa/odpustky.
+Přehled členů s odpuštěnými příspěvky za jednotlivá období:
+
+- [Odpustky 2024 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2024.pdf), [Odpustky 2024 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2024.pdf)
+- [Odpustky 2023 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2023.pdf), [Odpustky 2023 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2023.pdf)
+- [Odpustky 2022 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2022.pdf), [Odpustky 2022 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2022.pdf)
+- [Odpustky 2021 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2021.pdf), [Odpustky 2021 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2021.pdf)
+- [Odpustky 2020 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2020.pdf), [Odpustky 2020 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2020.pdf)
+- [Odpustky 2019 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2019.pdf), [Odpustky 2019 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2019.pdf)
+- [Odpustky 2018 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2018.pdf), [Odpustky 2018 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2018.pdf)
+- [Odpustky 2017 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2017.pdf), [Odpustky 2017 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2017.pdf)
+- [Odpustky 2016 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2016.pdf), [Odpustky 2016 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2016.pdf)
+- [Odpustky 2015 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2015.pdf), [Odpustky 2015 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2015.pdf)
 
 ## Stanovy
 
