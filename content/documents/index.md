@@ -22,66 +22,32 @@ showToc: true
 tocopen: true
 ---
 
-## Hospodaření (rozpočty)
+## Výroční zprávy
 
-### Rozpočty po roce 2019
+Na konci každého roku je vytvářen dokument shrnující činnost klubu za uplynulé období. Na základě rozhodnutí Gremia SU ze dne 12. 12. 2002 mají kluby za povinnost vytvářet na konci roku dokument nazvaný Výroční zpráva.
 
-Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
+- [Výroční zpráva 2023](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2023.pdf)
+- [Výroční zpráva 2022](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2022.pdf)
+- [Výroční zpráva 2021](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2021.pdf)
+- [Výroční zpráva 2020](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2020.pdf)
+- [Výroční zpráva 2019](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2019.pdf)
+- [Výroční zpráva 2018](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2018.pdf)
+- [Výroční zpráva 2017](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2017.pdf)
+- [Výroční zpráva 2016](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2016.pdf)
+- [Výroční zpráva 2015](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2015.pdf)
+- [Výroční zpráva 2014](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2014.pdf)
+- [Výroční zpráva 2013](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2013.pdf)
+- [Výroční zpráva 2012](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2012.pdf)
+- [Výroční zpráva 2006](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2006.pdf)
+- [Výroční zpráva 2005](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2005.pdf)
+- [Výroční zpráva 2004](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2004.pdf)
+- [Výroční zpráva 2003](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2003.pdf)
+- [Výroční zpráva 2002](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2002.pdf)
 
-- Rozpočet 2025
-  - Schválená verze z 8. 12. 2024: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_-_schvaleno_8.12.2024.pdf)
-  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1TVrHikEzUFio2UdZN2T7z_2CYo2YtmKTdX5E2aejw3o/edit?usp=sharing)
-- Rozpočet 2024
-  - Schválená verze z 19. 5. 2024: [Rozpočet 2024](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2024_-_rozpocet_2024.pdf)
-  - Schválená verze ze 4. 12. 2023: [Rozpočet 2024](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2024_-_schvaleno_4.12.2023.pdf)
-  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1f_mYj44EK_C73MPx6BEBG60x3ZdDUk_7vKIs2Bh7eX0/edit?usp=sharing)
-- Rozpočet 2023
-  - Schválená verze v PDF: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023.pdf)
-  - Přeschválená verze z 25. 1. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_230125.pdf)
-  - Přeschválená verze ze 4. 4. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_-_preschvaleni_4.4.2023.pdf)
-  - Přeschválená verze ze 17. 9. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_preschvaleno_17.9.2023.pdf)
-  - Přeschválená verze ze 4. 12. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_-_preschvaleno_4.12.2023.pdf)
-  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1lPW60otu6LNrq-WiSAWa4AhaajXF4eqjTiQAEGKJGdI)
-- Rozpočet 2022: [Google Sheet](https://docs.google.com/spreadsheets/d/1ZngqS69CH1dzKYc7XHeXp4aInvx4wddDTHptbp3KCZ0)
-- Rozpočet 2021: [Google Sheet](https://docs.google.com/spreadsheets/d/1f6dbfDp667SnB3FOrp0QWbdeE2VmWeY_1om7HtePLEo)
-- Rozpočet 2020: [Google Sheet](https://drive.google.com/open?id=1LRygjN8E_JrWWaQNUo0fTwDokOm36U56irKJOnIYtIA)
+## Stanovy klubu
 
-### Rozpočty do roku 2019 včetně
-
-- [Rozpočet 2019 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2019_i.pdf)
-
-- [Rozpočet 2018 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2018_ii.pdf)
-- [Rozpočet 2018 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2018_i.pdf)
-
-- [Rozpočet 2017 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2017_ii-list1.pdf)
-- [Rozpočet 2017 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2017_i-list1-3.pdf)
-
-- [Rozpočet 2016 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_ii_2016_final.pdf)
-- [Rozpočet 2016 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2016_i.pdf)
-
-- [Rozpočet 2015 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2015_ii.pdf)
-- [Rozpočet 2015 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2015_i.pdf)
-
-## Odpustky
-
-Aktivním členům klubu Pod-O-Lee může být představenstvem odpuštěn členský příspěvek.
-
-Přehled členů s odpuštěnými příspěvky za jednotlivá období:
-
-- [Odpustky 2024 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2024.pdf), [Odpustky 2024 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2024.pdf)
-- [Odpustky 2023 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2023.pdf), [Odpustky 2023 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2023.pdf)
-- [Odpustky 2022 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2022.pdf), [Odpustky 2022 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2022.pdf)
-- [Odpustky 2021 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2021.pdf), [Odpustky 2021 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2021.pdf)
-- [Odpustky 2020 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2020.pdf), [Odpustky 2020 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2020.pdf)
-- [Odpustky 2019 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2019.pdf), [Odpustky 2019 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2019.pdf)
-- [Odpustky 2018 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2018.pdf), [Odpustky 2018 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2018.pdf)
-- [Odpustky 2017 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2017.pdf), [Odpustky 2017 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2017.pdf)
-- [Odpustky 2016 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2016.pdf), [Odpustky 2016 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2016.pdf)
-- [Odpustky 2015 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2015.pdf), [Odpustky 2015 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2015.pdf)
-
-## Stanovy
-
-Najdete je na Wiki: https://wiki.pod.cvut.cz/legislativa/stanovy
+- [Stanovy od 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf)
+- ~~[Stanovy od 19. 10. 2016 do 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2016.pdf)~~
 
 ## Interní předpisy
 
@@ -157,11 +123,62 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 - ~~[IP8/2005 Pravidla pro využívání klubových uživatelských serverů](https://s3.pod.cvut.cz/common/legislativa/ip/ip8_2005.pdf)~~
 
-## Výroční zprávy
+## Hospodaření (rozpočty)
 
-Na konci každého roku je vytvářen dokument shrnující činnost klubu za uplynulé období. Na základě rozhodnutí Gremia SU ze dne 12. 12. 2002 mají kluby za povinnost vytvářet na konci roku dokument nazvaný Výroční zpráva.
+### Rozpočty po roce 2019
 
-Naše výroční zprávy najdete na Wiki: https://wiki.pod.cvut.cz/legislativa/vyrocni-zpravy.
+Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
+
+- Rozpočet 2025
+  - Schválená verze z 8. 12. 2024: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_-_schvaleno_8.12.2024.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1TVrHikEzUFio2UdZN2T7z_2CYo2YtmKTdX5E2aejw3o/edit?usp=sharing)
+- Rozpočet 2024
+  - Schválená verze z 19. 5. 2024: [Rozpočet 2024](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2024_-_rozpocet_2024.pdf)
+  - Schválená verze ze 4. 12. 2023: [Rozpočet 2024](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2024_-_schvaleno_4.12.2023.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1f_mYj44EK_C73MPx6BEBG60x3ZdDUk_7vKIs2Bh7eX0/edit?usp=sharing)
+- Rozpočet 2023
+  - Schválená verze v PDF: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023.pdf)
+  - Přeschválená verze z 25. 1. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_230125.pdf)
+  - Přeschválená verze ze 4. 4. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_-_preschvaleni_4.4.2023.pdf)
+  - Přeschválená verze ze 17. 9. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_preschvaleno_17.9.2023.pdf)
+  - Přeschválená verze ze 4. 12. 2023: [Rozpočet 2023](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2023_-_preschvaleno_4.12.2023.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1lPW60otu6LNrq-WiSAWa4AhaajXF4eqjTiQAEGKJGdI)
+- Rozpočet 2022: [Google Sheet](https://docs.google.com/spreadsheets/d/1ZngqS69CH1dzKYc7XHeXp4aInvx4wddDTHptbp3KCZ0)
+- Rozpočet 2021: [Google Sheet](https://docs.google.com/spreadsheets/d/1f6dbfDp667SnB3FOrp0QWbdeE2VmWeY_1om7HtePLEo)
+- Rozpočet 2020: [Google Sheet](https://drive.google.com/open?id=1LRygjN8E_JrWWaQNUo0fTwDokOm36U56irKJOnIYtIA)
+
+### Rozpočty do roku 2019 včetně
+
+- [Rozpočet 2019 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2019_i.pdf)
+
+- [Rozpočet 2018 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2018_ii.pdf)
+- [Rozpočet 2018 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2018_i.pdf)
+
+- [Rozpočet 2017 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2017_ii-list1.pdf)
+- [Rozpočet 2017 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2017_i-list1-3.pdf)
+
+- [Rozpočet 2016 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_ii_2016_final.pdf)
+- [Rozpočet 2016 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2016_i.pdf)
+
+- [Rozpočet 2015 II](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2015_ii.pdf)
+- [Rozpočet 2015 I](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2015_i.pdf)
+
+## Odpustky
+
+Aktivním členům klubu Pod-O-Lee může být představenstvem odpuštěn členský příspěvek.
+
+Přehled členů s odpuštěnými příspěvky za jednotlivá období:
+
+- [Odpustky 2024 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2024.pdf), [Odpustky 2024 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2024.pdf)
+- [Odpustky 2023 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2023.pdf), [Odpustky 2023 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2023.pdf)
+- [Odpustky 2022 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2022.pdf), [Odpustky 2022 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2022.pdf)
+- [Odpustky 2021 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2021.pdf), [Odpustky 2021 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2021.pdf)
+- [Odpustky 2020 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2020.pdf), [Odpustky 2020 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2020.pdf)
+- [Odpustky 2019 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2019.pdf), [Odpustky 2019 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2019.pdf)
+- [Odpustky 2018 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2018.pdf), [Odpustky 2018 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2018.pdf)
+- [Odpustky 2017 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2017.pdf), [Odpustky 2017 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2017.pdf)
+- [Odpustky 2016 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2016.pdf), [Odpustky 2016 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2016.pdf)
+- [Odpustky 2015 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2015.pdf), [Odpustky 2015 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2015.pdf)
 
 ## Nařízení předsedy
 
