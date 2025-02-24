@@ -344,3 +344,9 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 ### 2014
 
 - [24.7.2014](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20140724.pdf)
+
+## Usnesení ze schůzí
+
+Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
+
+- [Usnesení 23. 2. 2025](https://s3.pod.cvut.cz/common/legislativa/usneseni/20250223_usneseni.pdf)
