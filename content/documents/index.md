@@ -224,4 +224,123 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
 Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klubu pořízen zápis, dokumentující průběh schůze a přijaté závěry a rozhodnutí.
 
-Tyto zápisy jsou k nalezení také na Wiki: https://wiki.pod.cvut.cz/legislativa/zapisy.
+### 2025
+
+- [Zápis 24.1.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20250124.pdf)
+
+### 2024
+
+- [Zápis 8.12.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20241208.pdf)
+- [Zápis 24.11.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20241124.pdf)
+- [Zápis 27.10.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20241027.pdf)
+- [Zápis 15.10.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20241015.pdf)
+- [Zápis 19.9.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20240919.pdf)
+- [Zápis 23.6.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20240623.pdf)
+- [Zápis 19.5.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20240519.pdf)
+- [Zápis 28.4.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20240428.pdf)
+- [Zápis 14.4.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20240414.pdf)
+- [Zápis 20.2.2024](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20240220.pdf)
+
+### 2023
+
+- [Zápis 4.12.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20231204.pdf)
+- [Zápis 29.10.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20231029.pdf)
+- [Zápis 17.9.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230917.pdf)
+- [Zápis 31.8.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230831.pdf)
+- [Zápis 27.6.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230627.pdf)
+- [Zápis 21.6.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230621.pdf)
+- [Zápis 7.5.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230507.pdf)
+- [Zápis 4.4.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230404.pdf)
+- [Zápis 6.3.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230306.pdf)
+- [Zápis 26.3.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230326.pdf)
+- [Zápis 8.2.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230208.pdf)
+- [Zápis 25.1.2023](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20230125.pdf)
+
+### 2022
+
+- [Zápis 11.12.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20221211.pdf)
+- [Zápis 15.11.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20221115.pdf)
+- [Zápis 26.9.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220926.pdf)
+- [Zápis 18.7.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220718.pdf)
+- [Zápis 18.5.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220518.pdf)
+- [Zápis 6.4.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220406.pdf)
+- [Zápis 9.3.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220309.pdf)
+- [Zápis 10.2.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220210.pdf)
+- [Zápis 12.1.2022](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20220112.pdf)
+
+### 2021
+
+- [Zápis 8.12.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20211208.pdf)
+- [Zápis 4.11.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20211104.pdf)
+- [Zápis 5.10.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20211005.pdf)
+- [Zápis 27.5.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210527.pdf)
+- [Zápis 19.5.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210519.docx)
+- [Zápis 27.4.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210427.pdf)
+- [Zápis 31.3.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210331.pdf)
+- [Zápis 11.3.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210311.pdf)
+- [Zápis 16.2.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210216.pdf)
+- [Zápis 11.2.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210211.pdf)
+- [Zápis 20.1.2021](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20210120.pdf)
+
+### 2020
+
+- [Zápis 16.12.2020](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20201216.pdf)
+- [Zápis 2.12.2020](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20201202.pdf)
+- [Zápis 9.11.2020](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20201109.pdf)
+- [Zápis 21.9.2020](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20200921.pdf)
+- [Zápis 11.2.2020](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20200211.pdf)
+
+### 2019
+
+- [Zápis 9.12.2019](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20191209.pdf)
+- [Zápis 2.12.2019](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20191202.pdf)
+- [Zápis 19.11.2019](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20191119.pdf)
+- [Zápis 21.10.2019](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20191021.pdf)
+- [Zápis 14.10.2019](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20191014.pdf)
+- [Zápis 3.4.2019](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20190403.pdf)
+
+### 2018
+
+- [Zápis 8.11.2018](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20181108.pdf)
+- [Zápis 5.6.2018](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20180605.pdf)
+- [Zápis 2.5.2018](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20180502.pdf)
+- [Zápis 23.4.2018](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20180423.pdf)
+- [Zápis 4.4.2018](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20180404.pdf)
+- [Zápis 20.2.2018](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20180220.pdf)
+
+
+### 2017
+
+- [Zápis 12.12.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20171212.pdf)
+- [Zápis 13.11.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20171113.pdf)
+- [Zápis 12.7.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20170712.pdf)
+- [Zápis 9.10.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20171009.pdf)
+- [Zápis 28.11.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20171128.pdf)
+- [Zápis 15.5.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20170515.pdf)
+- [Zápis 4.5.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20170504.pdf)
+- [Zápis 6.3.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20170306.pdf)
+- [Zápis 3.4.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20170403.pdf)
+- [Zápis 6.2.2017](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20170206.pdf)
+
+### 2016
+
+- [Zápis 3.10.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20161003.pdf)
+- [Zápis 4.8.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160804.pdf)
+- [Zápis 18.5.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160518.pdf)
+- [Zápis 7.4.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160407.pdf)
+- [Zápis 17.3.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160317.pdf)
+- [Zápis 10.3.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160310.pdf)
+- [Zápis 28.1.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160128.pdf)
+- [Zápis 20.1.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160120.pdf)
+- [Zápis 6.1.2016](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20160106.pdf)
+
+### 2015
+
+- [Zápis 10.12.2015](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20151210.pdf)
+- [Zápis 3.12.2015](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20151203.pdf)
+- [Zápis 26.8.2015](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20150826.pdf)
+
+
+### 2014
+
+- [24.7.2014](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20140724.pdf)
