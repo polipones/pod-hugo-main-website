@@ -45,6 +45,35 @@ Používáme WPA2 Enterprise/802.1x EAP. Ověření certifikátu našeho RADIUS 
 
 Využíváme certifikáty od CESNETu (našeho poskytovatele připojení k akademické síti ČVUT), které jsou mimo jiné podepsány společností USERTrust ([informace o certifikátech od CESNETu](https://pki.cesnet.cz/cs/ch-tcs-ssl-ca-4-crt-crl.html)) a tedy obecně přijímány jako bezpečné (jsou součástí většiny systémových repositářů). Z toho plyne, že není nutné certifikát dodatečně stahovat, aby mohlo ověření proběhnout. Televizor vám zařízení k WiFi připojí, takže se nemusíte bát, že věcem v tomto odstavci nerozumíte :).
 
+#### Nastavení zařízení
+
+##### Windows
+
+Randomizovaná mac adresa by již měla být vypnutá. Stačí tedy jen vybrat síť a připojit se pomocí klubového e-mailu a síťového hesla nastaveného v [Hydře](https://hydra.pod.cvut.cz/).
+
+##### Android
+
+Při prvním pokusu o připojení do Pod-O-Lee sítě budeš vyzván k přihlášení. Spolu s tvým přihlašovacím jménem a heslem pro síť nastav následující údaje:
+
+- EAP method (Metoda EAP): PEAP (pokud tuto volbu nevidíš, rozklikni Advanced options - Pokročilé možnosti)
+- Phase-2 authentication (Ověření Phase 2): MSCHAPV2 (u starších Androidů je možné zvolit None - Žádné)
+- CA certificate (Certifikát CA): Use system certificates (Použít certifikáty systému), je nutné zvolit ověřování certifikátu, pokud chceš, aby tvoje připojení bylo bezpečné
+- Domain (Doména): radius.pod.cvut.cz
+- Identity (Identita): tvůj klubový e-mail, např. p.novak@pod.cvut.cz
+- Password (Heslo): síťové heslo nastavené v [Hydře](https://hydra.pod.cvut.cz/)
+
+{{<figure src="images/services/network/android_tutorial.jpg" alt="Android tutorial" imgop="rt_fit">}}
+
+##### iOS
+
+Ještě, než se zkusíš přihlásit rozklikni informace o síti wifi s názvem "Pod-O-Lee", kde uvidíš nastavení mac adresy/adresy telefonu. Tam budeš mít na výběr, kde musíš vybrat "Použít adresu telefonu".
+
+Poté se můžeš přihlásit pomocí tvého klubového e-mailu a síťového heslo nastaveného v [Hydře](https://hydra.pod.cvut.cz/). Budeš pak dotázán, zda důvěřuješ certifikátu radius, tam zaklidni důvěřovat. Poté by neměl být problém se připojit.
+
+##### Linux
+
+V linuxu záleží na distribuci, ale nastavení je stejné jako u androidu. Certifikáty jsou většinou uložené v této lokaci: "/etc/ca-certificates/extracted/", většinou tam nalezneš soubor "/etc/ca-certificates/extracted/ca-bundle.trust.crt".
+
 ### Připojení přes kabel (Ethernet)
 
 Není potřeba dělat další kroky, stačí jen zapojit kabel do registrovaného zařízení.
