@@ -34,13 +34,13 @@ web:
 imgproxy:
   fullnameOverride: imgproxy
   image:
-    tag: v3.25
+    tag: v3.27
   features:
     urlSignature:
       enabled: false
     security:
       maxSrcResolution: 40
-      allowedSources: 'https://plik.pod.cvut.cz/,http://web/'
+      allowedSources: 'https://plik.pod.cvut.cz/,https://s3.pod.cvut.cz/'
     formatsSupportDetection:
       webp:
         enabled: true

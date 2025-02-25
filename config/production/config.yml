@@ -2,4 +2,3 @@ baseURL: "https://podolee.cz"
 googleAnalytics: G-0M7DW95LQP
 params:
   imgproxyUrl: https://img.podolee.cz
-  imgHostUrl: http://web/assets

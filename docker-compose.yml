@@ -11,23 +11,12 @@ services:
       - imgproxy
     networks:
       - internal
-  
-  imghost:
-    build:
-      context: '.'
-      target: nginx
-    ports:
-      - '127.0.0.1:8081:80'
-    volumes:
-      - './assets/images:/usr/share/nginx/html/assets/images'
-    networks:
-      - internal
 
   # https://docs.imgproxy.net/configuration
   imgproxy:
     image: registry.pod.cvut.cz/cache/darthsim/imgproxy:v3.27
     environment:
-      IMGPROXY_ALLOWED_SOURCES: 'https://plik.pod.cvut.cz/,http://imghost/'
+      IMGPROXY_ALLOWED_SOURCES: 'https://plik.pod.cvut.cz/,https://s3.pod.cvut.cz/'
       IMGPROXY_DEVELOPMENT_ERRORS_MODE: true
       IMGPROXY_PREFERRED_FORMATS: 'avif, webp, jpeg, png'
       IMGPROXY_ENABLE_CLIENT_HINTS: true

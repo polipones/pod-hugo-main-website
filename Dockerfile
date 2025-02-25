@@ -10,7 +10,3 @@ COPY .git* ./
 RUN git submodule update --init --recursive
 
 ENTRYPOINT [ "./scripts/run_server.sh" ]
-
-FROM nginx:mainline AS nginx
-
-COPY nginx/default.conf /etc/nginx/conf.d/
