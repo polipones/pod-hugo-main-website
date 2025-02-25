@@ -11,7 +11,7 @@ HidePublishDate: true
 
 ## Příspěvky
 
-{{< latest_posts count="5" >}}
+{{< latest_posts count="3" >}}
 
 ## O klubu
 

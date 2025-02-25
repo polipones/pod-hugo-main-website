@@ -11,7 +11,7 @@ HidePublishDate: true
 
 ## Posts
 
-{{< latest_posts count="5" >}}
+{{< latest_posts count="3" >}}
 
 ## About our club
 
