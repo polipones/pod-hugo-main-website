@@ -1,12 +1,6 @@
 # Local
-FROM klakegg/hugo:0.111.3-ext AS hugo
+FROM registry.pod.cvut.cz/cache/hugomods/hugo:std-base-0.144.2 AS hugo
 
-RUN apt update && apt install jq -y
+RUN apk update && apk add jq
 
-COPY .git .git
-
-COPY .git* ./
-
-RUN git submodule update --init --recursive
-
-ENTRYPOINT [ "./scripts/run_server.sh" ]
+CMD [ "/bin/sh", "-c", "/src/scripts/run_server.sh" ]

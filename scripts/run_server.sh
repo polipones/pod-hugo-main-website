@@ -1,5 +1,5 @@
-#! /bin/bash
+#! /bin/sh
 
-./scripts/fetch_contacts.sh
+sh ./scripts/fetch_contacts.sh
 
-hugo server --disableFastRender --navigateToChanged --verbose --templateMetricsHints
+hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --bind 0.0.0.0

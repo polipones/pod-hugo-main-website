@@ -1,6 +1,5 @@
 baseURL: "http://localhost"
 title: Pod-O-Lee
-paginate: 10
 theme: POD
 timeout: 480000
 
@@ -13,6 +12,9 @@ enableEmoji: true
 minify:
   disableXML: true
   minifyOutput: true
+
+pagination:
+  pagerSize: 10
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
