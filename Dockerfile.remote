@@ -8,7 +8,7 @@ RUN apk add jq
 COPY ./ ./
 
 RUN git submodule update --init --recursive && \
-    ./scripts/fetch_contacts.sh && \
+    sh scripts/fetch_contacts.sh && \
     hugo
 
 FROM registry.pod.cvut.cz/cache/library/nginx:mainline-alpine AS deploy
