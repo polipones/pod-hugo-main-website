@@ -21,6 +21,36 @@ weight: 2
 1. Now you need to go to the televizor (a person handling registrations and problems dealing with internet connection). List of the televizors is available here: [List of televizors in contacts]({{< ref "/contacts/index.en.md" >}}).
 2. Televizor will register and create account on our system Hydra. You will then receive an email with password which you can change. The ID from this account will serve as the variable symbol (VS) for payment. He will give you short explanation about the rules of the academical net. You will receive free internet for 10 days. In a span of these 10 days you should pay for it, otherwise it will stop working until you pay. You also have to present valid accommodation agreement or accommodation card for valid membership.
 
+#### Device settings
+
+##### Windows
+
+Randomized mac address should already be disabled. So just select the network and connect using the club email and network password set in [Hydra](https://hydra.pod.cvut.cz/).
+
+##### Android
+
+The first time you try to connect to the Pod-O-Lee network you will be prompted to log in. Along with your network login and password, set the following information:
+
+- EAP method: PEAP (if you don't see this option, click Advanced options)
+- Phase-2 authentication: MSCHAPV2 (for older Androids, you can select None)
+- CA certificate: Use system certificates, you must select certificate authentication if you want your connection to be secure
+- Domain: radius.pod.cvut.cz
+- Identity: your club email, e.g. p.novak@pod.cvut.cz
+- Password: network password set in [Hydra](https://hydra.pod.cvut.cz/)
+
+{{<figure src="images/services/network/android_tutorial.jpg" alt="Android tutorial" imgop="rt_fit">}}
+
+##### iOS
+
+Before you try to log in, click on the wifi network information called "Pod-O-Lee" to see the mac address/phone address settings. There you will have a choice where you have to select "Use phone address".
+
+You can then log in using your club email and the network password set in [Hydra](https://hydra.pod.cvut.cz/). You will then be asked if you trust the radius certificate, click trust there. After that there should be no problem with connecting to the network.
+
+##### Linux
+
+In linux it depends on the distribution, but the settings are the same as android. Certificates are usually stored in this location: '/etc/ca-certificates/extracted/', you will usually find the file '/etc/ca-certificates/extracted/ca-bundle.trust.crt' there.
+
+
 ### Connection to the net via cable (Ethernet)
 
 No other steps are needed. Just put the cable in already registered device. You can only connect one device on cable. If you want more than one device, you need to write email to televizor.
