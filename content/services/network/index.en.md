@@ -61,3 +61,25 @@ These conferences are moderated, if you want to send some important information,
 You can subscribe and unsubscribe these conferences in your Hydra account: https://hydra.pod.cvut.cz/mailing.
 
 {{<figure src="images/services/network/hydra_mailing.png" alt="Email conferences in Hydra" imgop="rt_fit">}}
+
+## Computer network rules
+
+Each user of a computer network has rights and obligations. Everything is defined in the internal rules on the rules of the computer network usage rules. 
+By using the academic network you agree to follow the rules defined not only in our statutes, but also the rules of the SU, CTU and CESNET.
+
+### How it is in practice
+
+This section is only intended to give an overview of the rules of computer networking, it is not complete and may not be up to date!
+For the exact wording of the rules, please read the internal regulation related to this topic in [Documents]({{< ref "/documents#interní-předpisy" >}}).
+
+- You must not use the network for commercial purposes.
+- You must not use the network for illegal purposes.
+  - For example: hacking networks and servers, downloading and distributing illegal stuff (torrents are the most common analogy).
+- If we receive a report that your device is infected with a virus, we will disconnect your device from the network until you prove to us that the device is virus-free.
+- You can only use a device on the network that is registered in our system.
+  - Related to this is that you must not give access to the network to others.
+  - For this reason, you must not extend the network (for example, by using your own router).
+
+The network is monitored and therefore violations of these rules can be detected. Violations are then dealt with and punished not only on the basis of severity. These penalties may, for example, be a ban. 
+
+If you have a specific request, contact the TV on your case on the next block or one of the networkers: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
