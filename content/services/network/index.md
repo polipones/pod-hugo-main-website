@@ -103,3 +103,25 @@ Všechno, co má na našich kolejích nějakou souvislost s počítači spravuje
     - Webmail pro aktivní členy klubu - [webmail.pod.cvut.cz](https://webmail.pod.cvut.cz)
 - Kartový systém (momentálně od firmy IMA, hledáme náhradu za moderní řešení)
 - Kamerový systém postavený na kamerách od firmy Hikvision
+
+## Pravidla používání počítačové sítě
+
+Každý uživatel počítačové sítě má svá práva a povinnosti. Vše je definované v interních předpisech o pravidlech používání počítačové sítě. 
+Používáním akademické sítě se zavazuješ dodržovat pravidla definované nejen v našich stanovách, ale i pravidla Studentské Unie, ČVUT a CESNETu.
+
+### Jak je to v praxi
+
+Tato část slouží pouze jen pro přiblížení pravidel používání počítačové sítě, není úplná a nemusí být aktuální!
+Pro přesné znění pravidel si přečti interní předpis vztahující se k tomuto tématu v sekci [Dokumenty]({{< ref "/documents#interní-předpisy" >}}).
+
+- Síť nesmíš používat pro komerční účely.
+- Síť nesmíš využívat pro nelegální účely.
+  - Napříkad: Nabourávání se do sítí a serverů, stahování a šíření nelegálních věcí (nejčastější obdobou jsou torrenty).
+- Zda dostaneme hlášení, že je tvoje zařízení infokované nějakým virem, odpojíme tvé zařízení od sítě, dokud nám neprokážeš, že je toto zařízení bez virů.
+- V síti můžeš používat pouze zařízení, které je evidované v našem systému.
+  - S tím souvisí i to, že nesmíš poskytovat přístup do sítě jiným osobám
+  - Z tohoto důvodu nesmíš ani rozšiřovat tuto síť (například pomocí vlastního routeru).
+
+Síť je monitorována a tudíž porušování těchto pravidel lze detekovat. Přestupky jsou pak řešeny a postihnuty nejen na základě závažnosti. Tyto postihy mohou například být ban. 
+
+Jestli máš nějaké konkrétní požadavek, kontaktuj televizora na svém prípadně na vedlejším bloku nebo někoho ze síťařů: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
