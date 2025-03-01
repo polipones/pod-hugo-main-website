@@ -350,3 +350,89 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
 - [Usnesení 23. 2. 2025](https://s3.pod.cvut.cz/common/legislativa/usneseni/20250223_usneseni.pdf)
+
+## Hlasování per rollam
+
+Hlasování per rollam se řídí důležitým Interním předpisem Studentské unie ČVUT 2020-P1 [Hlasování per rollam](https://wiki.su.cvut.cz/_media/group/dokumenty/interni_predpisy/ip_2020_p1_hlasovani_per_rollam.pdf).
+
+### Postup hlasování
+
+Každý hlasující člen Představenstva klubu Pod-O-Lee (dále jen Představenstva) má možnost se vyjádřit ve stanovené lhůtě (nejméně 48 hodin), zda hlasuje pro navržené usnesení, proti usnesení, či se hlasování zdržuje.
+
+Hlasující člen představenstva pošle svoje rozhodnutí e-mailem do konference [predstavenstvo@pod.cvut.cz](mailto:predstavenstvo@pod.cvut.cz).
+
+Takové rozhodnutí obsahuje povinně:
+- znění navrhovaného usnesení
+- informaci, zda je pro, proti nebo se zdržuje
+- unikátní kód obdržený od osoby oprávněné svolat zasedání představenstva klubu Pod-O-Lee
+
+Hlasující, který se ve stanovené lhůtě nevyjádří, se bere jako zdrživší se hlasování.
+
+Při hlasování per rollam jsou pro účely určení výsledku hlasování považováni za přítomné všichni členové Představenstva.
+
+Hlasování je ukončeno vyjádřením všech členů Představenstva nebo uplynutím lhůty pro hlasování.
+
+Usnesení přijaté per rollam musí být na další řádné schůzi Představenstva potvrzeno hlasováním. Pokud potvrzující usnesení není přijato, není možné podnikat další nevynucené kroky vycházející z hlasování per rollam. Představenstvo dále v takovém případě přijme usnesení řešící situaci vzniklou na základě nepotvrzeného usnesení.
+
+### Aktuálně probíhající per rollam hlasování
+
+#### Navrhované usnesení per rollam
+
+Představenstvo kolejního klubu Pod-O-Lee schvaluje Výroční zprávu klubu Pod-O-Lee za rok 2023 zaslanou do konference predstavenstvo@pod.cvut.cz dne 27.2.2023.
+
+#### Důvod pro hlasování formou per rollam
+
+O tomto usnesení je třeba hlasovat formou per rollam z důvodu, potřeby schválení Výroční zprávy klubu, kterou nebylo možné schvalovat na řádném zasedání Představenstva a nebyly časové možnosti na to svolat další, která by byla usnášeníschopná.
+
+#### Předmět hlasování
+
+Hlasuje se o schválení Výroční zprávy klubu Pod-O-Lee za rok 2023.
+
+#### Lhůta pro hlasování
+
+29.2.2024 v 22:00
+
+#### Hashe delegátů
+
+K vytvoření hashů je použit sha512 dostupný i online na [https://emn178.github.io/online-tools/sha512.html](https://emn178.github.io/online-tools/sha512.html).
+
+Kateřina Pilná (8777) P:
+- a0f790a5cdfc5585a937a026ae928600a5d7922f77ca60d876a659f9eb4955bbd472df6cec9bc8d624231ae2cce3d8e42274d4d0b785ed95f8127f8056f6c766
+
+Karel Mareš (8785) SBA:
+- 6e976f13254051a81588090597c26f21a1afa2d1eb786c15f6d4b7fd5a5ad63d4874b1f954f7a6481804b744c033dd66182d1fc3f7859751cd6a7ac842a3e417
+
+Luboš Jánský (8494) SBB:
+- 7016519718c9722917b0eec55ea08a12fea6fc9cc61d07883496d9a5cae29477e73bd3ebd671d82c2f48f3637fc78cf1d63b1e2359c2ac9c4bdb7943e886b39a
+
+Vítek Zapletal (5979) SBC:
+- 02250f55f95a496cee6a0b101fdfbac6900d8f7aa240bafa3329bacdc1175b1107d91d715e068df27e6304bc0228ea2439ae37593a1e7ded01d855d88326a9e6
+
+David Puchoň (7218) SBD:
+- f28af2bb37f4d5837a7ee3d11802d06cd575d6d63c2fe24ad8a443bb7cd6084b7191b1efff0340f89a781ac123de2376fb6f796cf629e4d54ca85895c90c0c37
+
+Petr Šohaj (9268) SBE:
+- 5a18111919fe0564f6dd43de1b138e83589f0c771fa3205b6515c16cf8d3d7b6fde524dc8a00ce199d5a712d296392827366ff80ce66f958e82c2f1dda8e8d78
+
+Martin Kuncl (8713) SBF:
+- fd097cb3ca89437bb92f512fc6994e59a243c56bdcac62e4daf950c2f59600f645b79d26f192cf6e1f659568909671578a33cacbb677c4529961d7b4e0092c46
+
+Karel Čtvrtečka (7599) SN:
+- 19a0730af3f6596575d3d48791baa01901b3a509010d89dc63713549f1edcee08cdaac49674d1ebf78aa1efc88ee16caf127ba454ed5429d52c17edf64d979ad
+
+Jan Picka (7108) SS:
+- 428923eb16fd975d778cd976103111dfec8a4261538b1ea14cfc912baf739a3de32a134add30a3e267b8ec9a962f0d0a49934fe2f94f9b71903d26a07c7f4274
+
+Anna Pánková (9408) SP:
+- 822ab992c5ede649d0a63da4ef51b428d57b5a6410c643141532e12ae7518cae0a5a9d3f0782359199f76fd14f120a0ff16cd68e5c5001c8ee497cdec1225b79
+
+Huu Petr Pham (6686) SG:
+- 163661ffe37489ef7f5ec3d99b9fc7711848a7f20641d61c761359a91495f812bddfea72d2c49854edc02c9233e4af31df07d19e2694f83cf7d0357bec38ff82
+
+#### Výsledek hlasování
+
+Osob s hlasovacím právem: 11
+
+Pro: 11, proti: 0, zdrželo se: 0
+
+**Usnesení bylo přijato**
