@@ -374,7 +374,9 @@ Hlasování je ukončeno vyjádřením všech členů Představenstva nebo uplyn
 
 Usnesení přijaté per rollam musí být na další řádné schůzi Představenstva potvrzeno hlasováním. Pokud potvrzující usnesení není přijato, není možné podnikat další nevynucené kroky vycházející z hlasování per rollam. Představenstvo dále v takovém případě přijme usnesení řešící situaci vzniklou na základě nepotvrzeného usnesení.
 
-### Aktuálně probíhající per rollam hlasování
+<!-- Section bellow serves as template for next active per rollam voting. -->
+
+<!-- ### Aktuálně probíhající per rollam hlasování
 
 #### Navrhované usnesení per rollam
 
@@ -435,4 +437,4 @@ Osob s hlasovacím právem: 11
 
 Pro: 11, proti: 0, zdrželo se: 0
 
-**Usnesení bylo přijato**
+**Usnesení bylo přijato** -->
