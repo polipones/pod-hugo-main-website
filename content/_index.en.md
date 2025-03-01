@@ -44,6 +44,21 @@ Join your block facebook group too, so you don’t miss informations regarding b
 - [Instagram](https://www.instagram.com/pod_o_lee/)
 - [Discord](https://discord.gg/bSP7qnZY5y)
 
+## First day
+
+Shortly before the start of the semester, there are mass arrivals to the dormitory where you will be accommodated by the CTU SÚZ. When you check in, you will also come across our information booth where we will inform you about the club's operations.
+
+It will take some time to complete the check-in process. From the morning, there are usually large queues of students outside the accommodation office (you can get to it from the reception), and this is usually the case throughout the week. There is an assistant in the reception who will provide a serial number on request. You'd better take this or you'll be waiting there until the evening.
+
+For the accommodation office you need:
+- ID or passport
+- a small photo for your dorm card
+- proof of studies (only if you are not a student at the CTU)
+
+Also think about what things you want to insure against theft (at the reception you will get a sheet where you fill in what you want to insure). We **highly recommend** that you get at least a laptop/PC (plus some other more expensive items) insured. It costs a few crowns and you'll be glad you have it insured in case something gets lost.
+
+However, if you're moving in outside of the mass boarding period, feel free to visit or contact club members on your block ([Contacts]({{< ref "/contacts">}})).
+
 ## Club events calendar
 
 If you want to add our calendar to yours, you can import this link [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
