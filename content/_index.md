@@ -39,6 +39,21 @@ Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důleži
 - [Instagram](https://www.instagram.com/pod_o_lee/)
 - [Discord](https://discord.gg/bSP7qnZY5y)
 
+## Nástupy na kolej
+
+Krátce před začátkem semestru se dělají hromadné nástupy na kolej, kde tě ubytuje SÚZ ČVUT. Při ubytovávání narazíš i na náš stánek, kde tě o fungování klubu informujeme.
+
+Nabydlování zabere nějaký čas. Od rána se většinou tvoří velké fronty studentů před ubytovací kanceláří (do ní se dostaneš z vrátnice) a to zpravidla po celý týden. V budově vrátnice je pomocník, který na vyžádání poskytne pořadové číslo. To si radši vezmi, jinak tam budeš čekat až do večera.
+
+Do ubytovací kanceláře potřebuješ:
+- občanský průkaz nebo pas
+- malou fotku na kolejenku
+- potvrzení o studiu (jen pokud nejsi student ČVUT)
+
+Taktéž si rozmysli, jaké věci chceš pojistit proti krádeži (na vrátnici dostaneš list, kde vyplníš, co chceš pojistit). **Důrazně doporučujeme** nechat si věci pojistit alespoň notebook/PC (plus nějaké další dražší věci). Stojí to pár korun a budeš rád, že to máš pojištěné, kdyby se náhodou něco ztratilo.
+
+Jestli se však přistěhováváš mimo obdobé hromadných nástupů, neváhej navštívit nebo kontaktovat členy klubu na svém bloku ([Kontakty]({{< ref "/contacts" >}})).
+
 ## Kalendář klubových akcí
 
 Pokud si chcete kalendář přidat do svého, stačí vám importovat tento odkaz [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
