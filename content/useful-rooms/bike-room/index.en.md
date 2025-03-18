@@ -13,6 +13,8 @@ showtoc: false
 
 Contact to current manager can be found in [Contacts page under Director's head office]({{< ref "/contacts/index.md#bike-room" >}}).
 
+For more information, check out our [Facebook](https://www.facebook.com/groups/332363472198798/).
+
 Bike room is for storing the bicycles of the club members staying at the Dormitory, you will find it on block F on the ground floor next to the entrance.
 
 To be able to access the Bike room you must:

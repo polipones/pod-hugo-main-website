@@ -13,6 +13,8 @@ showtoc: true
 
 Kontakt na současného správce je možné najít na stránce [Kontakty v Předsednické centrále]({{< ref "/contacts/index.md#kolárna" >}}).
 
+Pro aktulání informace se podívej na náš [Facebook](https://www.facebook.com/groups/332363472198798/).
+
 Kolárna místnost pro uložení jízdních kol ubytovaných členů klubu, najdete ji na bloku F v přízemí hned u vchodu.
 
 Pro získání přístupu je nutné splnit následující podmínky:
