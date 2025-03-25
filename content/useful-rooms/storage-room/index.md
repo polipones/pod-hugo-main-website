@@ -13,7 +13,7 @@ tocopen: true
 
 Kufrárna je místnost k uložení věcí (lednice, mikrovlnná trouba a malý nábytek) v období letních prázdnin. Otevírá se vždy na začátku a konci prázdnin. Uložení je možné pro členy klubu s platným základním členstvím zdarma.
 
-Najdeš ji v přízemí bloku B v místnosti 002 hned vedle bývalé vrátnice na bloku B.
+Najdeš ji v přízemí bloku A v místnosti 019.
 
 Otevírání kufrárny řeší pověřená osoba a to správce kufrárny (<kufrarna@pod.cvut.cz>) Termíny otevření jsou vždy vypisovány postupně. Není možné individuální otevírání kufrárny. Pokud v uvedených termínech nemáš čas, zašli návrhy termínů (alespoň 3 pracovní dny předem) a pokud se sejde více zájemců, otevře se i v jiný termín.
 
@@ -27,7 +27,7 @@ Provozovatelem Kufrárny je Studentská unie ČVUT, Klub Pod-O-Lee, adresou Jugo
 
 ### Část II - Všeobecné údaje
 
-Provozovatel si na základě dohody o výpůjčce zapůjčil od SÚZ ČVUT místnost č. 002 nacházející se v přízemí bloku B za účelem využití této místnosti jako Kufrárny. Kufrárna je místnost určená k uskladnění věcí přes letní prázdniny.
+Provozovatel si na základě dohody o výpůjčce zapůjčil od SÚZ ČVUT místnost č. 019 nacházející se v přízemí bloku A za účelem využití této místnosti jako Kufrárny. Kufrárna je místnost určená k uskladnění věcí přes letní prázdniny.
 
 V případě výjezdu nebo stáže do zahraničí je nutná individuální konzultace s osobou spravující kufrárnu (dále jen správce kufrárny). Kufrárna je určena pouze pro členy klubu Pod-O-Lee s platným základním členstvím. SÚZ ČVUT v souvislosti se Smlouvou o výpůjčce místnosti nenese žádnou odpovědnost za činnost klubu v této místnosti.
 
@@ -78,7 +78,3 @@ V případě výjezdu nebo stáže do zahraničí je nutná individuální konzu
 ### Část V - Závěrečná ustanovení
 
 1. Tento provozní řád nabývá platnosti okamžitě po jeho zveřejnění na oficiálních stránkách Klubu Pod-O-Lee.
-
-<!-- ## Rozvrh otevírání
-
-{{<rawhtml>}}<iframe style="width: 100%; height: 600px; border: 0" src="//calendar.google.com/calendar/embed?src=uf87h77u4e26n4ttc58j1eo2ao%40group.calendar.google.com&amp;ctz=Europe/Prague" scrolling="no" data-mce-fragment="1"></iframe>{{</rawhtml>}} -->
