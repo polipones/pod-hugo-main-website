@@ -64,6 +64,6 @@ Orientační běh vás provede po známých i méně známých historických i t
     {{<figure src="images/freetime-activities/pod-o-day/gallery_12.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_13.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_14.jpg" alt="Pod-O-Day photo">}}
-    {{<figure src="images/freetime-activities/pod-o-day/gallery_14.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_15.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_16.jpg" alt="Pod-O-Day photo">}}
 {{</figure_gallery>}}
