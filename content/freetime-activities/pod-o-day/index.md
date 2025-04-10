@@ -15,9 +15,9 @@ weight: 9
 
 {{<figure src="images/freetime-activities/pod-o-day/pod-o-day-banner.png" alt="Pod-O-Day banner" imgop="rt_fit">}}
 
-- Datum konání: **27. 4. 2024**
-- Registrační formulář pro týmy: [https://forms.gle/7K7MnxYnq277rcp26](https://forms.gle/7K7MnxYnq277rcp26)
-- FB událost: [https://fb.me/e/3zOnPc7B7](https://fb.me/e/3zOnPc7B7)
+- Datum konání: **26. 4. 2025**
+- Registrační formulář pro týmy: [https://forms.gle/sEvAuF1JjDHZBUu77](https://forms.gle/sEvAuF1JjDHZBUu77)
+- FB událost: [https://facebook.com/events/s/pod-o-day-2025/1840669893420418/](https://facebook.com/events/s/pod-o-day-2025/1840669893420418/)
 
 ## Program
 
@@ -29,13 +29,13 @@ Běžecký závod, při kterém se beží 3 kola kolem areálu kolejí Podolí (
 
 Hraje se max. 6 hráčů na tým o 1., 2. a 3. místo. Základní část se hraje na 2 vítězné sety do 15 bodů. Vyřazovací část na 2 sety do 21 bodů, 3. set do 15 bodů.
 
+### Streetball (začátek 10:30)
+
+Maximálně 3 hráči v týmu, hraje se na jeden koš a jeden zápas se hraje na 15 bodů. 1 bod = 1 koš, hod na koš spoza trojkové čáry je za 2 body.
+
 ### Fotbal (začátek 13:00)
 
 Hraje se systémem 4+1 o 1., 2. a 3. místo. Základní hrací čas je 2×7 minut (případně prodloužení 3 minuty, dále rozhodují penalty). Vyřazovací část je 2×10 minut (případné prodloužení o 5 minut, dále rozhodují penalty).
-
-### Streetball (začátek 13:30)
-
-Maximálně 3 hráči v týmu, hraje se na jeden koš a jeden zápas se hraje na 15 bodů. 1 bod = 1 koš, hod na koš spoza trojkové čáry je za 2 body.
 
 ### Orientační běh (začátek 14:00)
 
@@ -56,4 +56,14 @@ Orientační běh vás provede po známých i méně známých historických i t
     {{<figure src="images/freetime-activities/pod-o-day/gallery_04.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_05.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_06.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_07.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_08.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_09.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_10.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_11.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_12.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_13.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_14.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_14.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_16.jpg" alt="Pod-O-Day photo">}}
 {{</figure_gallery>}}
