@@ -184,6 +184,11 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
 ## Nařízení předsedy
 
+### 2025
+
+- [NP1/2025 Nařízení předsedy - Zřízení projektu Pod-O-Šplouch](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2025.pdf)
+- [NP2/2025 Nařízení předsedy - Zrušení NP1/2025](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_2_2025.pdf)
+
 ### 2024
 
 - ~~[NP1/2024 Nařízení předsedy - Hospodaření](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2024.pdf)~~
@@ -226,6 +231,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 ### 2025
 
+- [Zápis 23.2.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20250223.pdf)
 - [Zápis 24.1.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/zapis_20250124.pdf)
 
 ### 2024
