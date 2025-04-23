@@ -11,7 +11,7 @@ weight: 9
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-## Ročník 2024
+## Ročník 2025
 
 {{<figure src="images/freetime-activities/pod-o-day/pod-o-day-banner.png" alt="Pod-O-Day banner" imgop="rt_fit">}}
 
@@ -25,7 +25,7 @@ weight: 9
 
 Běžecký závod, při kterém se beží 3 kola kolem areálu kolejí Podolí (cca 2100m).
 
-### Volejbal (začátek 10:30)
+### Volejbal (začátek 13:00)
 
 Hraje se max. 6 hráčů na tým o 1., 2. a 3. místo. Základní část se hraje na 2 vítězné sety do 15 bodů. Vyřazovací část na 2 sety do 21 bodů, 3. set do 15 bodů.
 
@@ -33,7 +33,7 @@ Hraje se max. 6 hráčů na tým o 1., 2. a 3. místo. Základní část se hraj
 
 Maximálně 3 hráči v týmu, hraje se na jeden koš a jeden zápas se hraje na 15 bodů. 1 bod = 1 koš, hod na koš spoza trojkové čáry je za 2 body.
 
-### Fotbal (začátek 13:00)
+### Fotbal (začátek 10:30)
 
 Hraje se systémem 4+1 o 1., 2. a 3. místo. Základní hrací čas je 2×7 minut (případně prodloužení 3 minuty, dále rozhodují penalty). Vyřazovací část je 2×10 minut (případné prodloužení o 5 minut, dále rozhodují penalty).
 
