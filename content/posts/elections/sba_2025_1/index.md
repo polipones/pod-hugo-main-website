@@ -26,7 +26,7 @@ layout: post
 
 Ahoj Podolačky a Podoláci,
 
-28.\ 5. 2025 od 20:00 do 22:00 proběhly volby na Správce bloku A. Voleb se zúčastnilo 18 oprávněných voličů, všechny odevzdané hlasy byly platné.
+28\. 5. 2025 od 20:00 do 22:00 proběhly volby na Správce bloku A. Voleb se zúčastnilo 18 oprávněných voličů, všechny odevzdané hlasy byly platné.
 
 Výsledky jsou:
 
@@ -41,7 +41,7 @@ V případě, že máte podezření, že volby na Správce bloku A neproběhly v
 
 Ahoj Podolačky a Podoláci,
 
-23.\ 5. 2025 ve 20:00 večer uplynula lhůta pro podávání kandidátek na Správce bloků A.
+23\. 5. 2025 ve 20:00 večer uplynula lhůta pro podávání kandidátek na Správce bloků A.
 
 Do voleb se přihlásili dva kandidáti, v abecedním pořadí **Karel Mareš** a **Pavel Sillinger**. Oba dva včas dodali podepsaný originál své kandidátky. Jejich kandidátky si můžete prohlédnout [zde](https://cloud.pod.cvut.cz/index.php/s/rqbXS43iWzfQntn).
 
