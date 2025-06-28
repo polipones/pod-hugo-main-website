@@ -188,6 +188,7 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
 - [NP1/2025 Nařízení předsedy - Zřízení projektu Pod-O-Šplouch](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2025.pdf)
 - [NP2/2025 Nařízení předsedy - Zrušení NP1/2025](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_2_2025.pdf)
+- [NP3/2025 Nařízení předsedy - Klubové místnosti na bloku A](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_3_2025.pdf)
 
 ### 2024
 
