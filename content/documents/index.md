@@ -54,10 +54,14 @@ Na konci každého roku je vytvářen dokument shrnující činnost klubu za upl
 
 Interní předpisy jsou upřesňující dokumenty, které momentem svého schválení Představenstvem doplňují Stanovy klubu a mají platnost jako součást Stanov.
 
+### 2025
+
+- [IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)
+
 ### 2024
 
-- [IP 1/2024 Hospodaření](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1-2024_-_hospodareni_klubu_pod-o-lee.docx.pdf)
-- ~~[IP 2/2024 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_2-2024_-_jmenovane_funkce_a_jejich_specifikace.pdf)~~
+- [IP1/2024 Hospodaření](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1-2024_-_hospodareni_klubu_pod-o-lee.docx.pdf)
+- ~~[IP2/2024 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_2-2024_-_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 - [IP3/2024 Pravidla používání počítačové sítě klubu SU Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2024_-_pravidla_pouzivani_pocitacove_site_klubu_su_pod-o-lee.pdf)
 - [IP4/2024 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2024_-_pravidla_pro_udelovani_trestu_za_poruseni_predpisu_banu_.pdf)
 - [IP5/2024 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf)
@@ -76,7 +80,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
   - [Příloha 1 k IP12/2024 Provozní řády místností](https://s3.pod.cvut.cz/common/legislativa/ip/ip_12-2024_-_priloha_1_-_sablona_provozni_rad_mistnosti.pdf)
   - [Příloha 2 k IP12/2024 Provozní řády místností](https://s3.pod.cvut.cz/common/legislativa/ip/ip_12-2024_-_priloha_2_-_sablona_provozni_rad_mistnosti_s_kartovym_systemem.pdf)
 - [IP13/2024 Členství klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf)
-- [IP14/2024 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_14-2024_-_jmenovane_funkce_a_jejich_specifikace.pdf)
+- ~~[IP14/2024 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_14-2024_-_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 - [IP15/2024 Volby správců bloků a správců služeb](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)
 - [IP16/2024 Volby Předsedy klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_16-2024_-_volby_predsedy_klubu_pod-o-lee.pdf)
 
