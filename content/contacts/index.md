@@ -141,6 +141,12 @@ Kontakt: <hry@pod.cvut.cz>
     {{<contact index="ld" role="Lektor Pod-O-Dance">}}
 {{</contact_section>}}
 
+### Pod-O-Šerm
+
+{{<contact_section>}}
+    {{<contact index="vš" role="Vedoucí Pod-O-Šerm">}}
+{{</contact_section>}}
+
 ## Pod-O-Lab
 
 Kontakt: <lab@pod.cvut.cz>

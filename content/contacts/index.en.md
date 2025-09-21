@@ -129,6 +129,13 @@ Contact: <hry@pod.cvut.cz>
     {{<contact index="fot" role="Photographer">}}
 {{</contact_section>}}
 
+### Pod-O-Šerm
+
+{{<contact_section>}}
+    {{<contact index="vš" role="Pod-O-Šerm manager">}}
+{{</contact_section>}}
+
+
 ### Pod-O-Dance
 
 {{<contact_section>}}
