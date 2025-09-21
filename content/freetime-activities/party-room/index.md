@@ -9,8 +9,6 @@ slug: sudovna
 weight: 1
 ---
 
-Místnost vhodná pro pořádání oslav a společenských akcí, která se nachází v suterénu bloku B.
-
 Správci: [Kontakty]({{< ref "/contacts/index.md#sudovna" >}})
 
 <!-- TODO Foto bude, až bude sudovna komplet po rekonstrukci -->
