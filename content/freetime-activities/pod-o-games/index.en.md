@@ -12,7 +12,7 @@ weight: 4
 
 Administrators: [Contacts]({{< ref "/contacts/index.md#pod-o-games" >}})
 
-Pod-O-Games is a room dedicated to gamers and movie projections located in A block ground floor. There is PS4 with VR, Nintendo Switch and Oculus Quest 2. To name a few, for NS we have Mariokart Deluxe, The Legend of Zelda: Breath of the Wild, Pokemon Shield. For PS4 we have the Mafia trilogy, Red Dead Redemption II, Fifa 19 and for VR we have Superhot, Beat Saber or Gran Turismo.
+Pod-O-Games is a room dedicated to gamers and movie projections located in A block ground floor. There is PS5 pro with VR, Nintendo Switch and Oculus Quest 2. To name a few, for NS we have Mariokart Deluxe, The Legend of Zelda: Breath of the Wild, Pokemon Shield. For PS5 we have the Mafia trilogy, Red Dead Redemption II, Fifa 19 and for VR we have Superhot, Beat Saber or Gran Turismo.
 
 Complete list of games is available here: [List of games in Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
@@ -84,10 +84,10 @@ The Pod-O-Games is a room intended primarily for relaxing and usage of your free
 21. The Pod-O-Games Administratoris responsible for the management of the room and for the enforcement of its rules and regulations.
 22. In the event that a user finds an item belonging to another user, the user shall bring the item to the Pod-O-Games Administrator or the his/her representative.
 
-### Part IV - Rules of Usage of PS4, PS4 VR, Nintendo Switch, Oculus Quest 2, Playseat Fanatec and Data Projector
+### Part IV - Rules of Usage of PS5 pro, Nintendo Switch, Oculus Quest 2, Playseat Fanatec and Data Projector
 
 1. When using the projector, the user must ensure that it is turned on for the time required to avoid unnecessary wear and tear on the projector's bulb. 
-2. When using the PS4, PS4 VR, Nintendo Switch, Oculus Quest 2 and Playseat Fanatec (furthermore referred to as game consoles), the user must ensure that they are switched on for the required amount of time and therefore do not wear unnecessarily.
+2. When using the PS5 pro, Nintendo Switch, Oculus Quest 2 and Playseat Fanatec (furthermore referred to as game consoles), the user must ensure that they are switched on for the required amount of time and therefore do not wear unnecessarily.
 3. If handling the game consoles or the data projector is permitted, it is necessary to be careful not to damage them. 
 4. When using the games consoles, the user must obey the rules of the academic network according to the relevant internal regulation of the Rules of Use of the SU Pod-O-Lee Club Computer Network and use the games consoles in a way that does not damage them. 
 5. The user must not interfere with the settings of the game consoles without the consent of the Pod-O-Games administrator or the network administrator. 

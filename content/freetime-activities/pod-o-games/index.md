@@ -12,7 +12,7 @@ weight: 4
 
 Správci: [Kontakty]({{< ref "/contacts/index.md#pod-o-games" >}})
 
-Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 4 s VR, Nintendo Switch a Oculus Quest 2. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
+Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 5, Nintendo Switch a Oculus Quest 2. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
 
 Kompletní seznam her je zde: [Seznam her v Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
@@ -84,10 +84,10 @@ Pod-O-Games je místnost určená především na trávení volného času. Nach
 21. Správce Pod-O-Games nese odpovědnost za provoz místnosti a dodržování jejího řádu.
 22. V případě, že uživatel nalezne věc patřící jinému uživateli, je povinen přinést danou věc správci Pod-O-Games nebo zástupci správce.
 
-### Část IV - Pravidla užívání PS4, PS4 VR, Nintendo Switch, Oculus Quest 2, Playseat Fanatec a dataprojektoru
+### Část IV - Pravidla užívání PS5 pro, Nintendo Switch, Oculus Quest 2, Playseat Fanatec a dataprojektoru
 
 1. Při použití dataprojektoru je uživatel povinen dbát na to, aby byl zapnutý po nezbytně dlouhou dobu, aby se zbytečně neopotřebovávala jeho žárovka. 
-2. Při použití PS4, PS4 VR, Nintendo Switch, Oculus Quest 2 a Playseat Fanatec (dále jen herní konzole) je uživatel povinen dbát na to, aby byly zapnuty po nezbytně dlouhou dobu, a tedy se zbytečně neopotřebovávaly.
+2. Při použití PS5 pro, Nintendo Switch, Oculus Quest 2 a Playseat Fanatec (dále jen herní konzole) je uživatel povinen dbát na to, aby byly zapnuty po nezbytně dlouhou dobu, a tedy se zbytečně neopotřebovávaly.
 3. V případě povolené manipulace s herními konzolemi nebo dataprojektorem je nutno dbát opatrnosti tak, aby nebyly poškozeny. 
 4. Při použití herních konzolí je uživatel povinen dbát pravidel akademické sítě dle příslušného interního předpisu Pravidel používání počítačové sítě klubu SU Pod-O-Lee a užívat herní konzole tak, aby je nepoškodil. 
 5. Uživatel nesmí bez souhlasu správce Pod-O-Games či správce sítě zasahovat do nastavení herních konzolí. 
