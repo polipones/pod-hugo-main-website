@@ -3,7 +3,7 @@
 title: Nástupy 2025 # TODO
 # Short post description
 description: "" # TODO
-author: "Web admin" # TODO
+author: "Kateřina Pilná" # TODO
 tags: [] # TODO
 
 # Other configuration
