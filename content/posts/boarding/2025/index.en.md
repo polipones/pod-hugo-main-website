@@ -38,5 +38,5 @@ Along with this, I invite you to beer and limo, which you can have at our stand 
 
 I wish you a beautiful September and a lot of success with your studies.
 
-Kateřina Pilná
+Kateřina Pilná  
 chairman club Pod-O-Lee
