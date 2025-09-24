@@ -38,5 +38,5 @@ Spolu s tím Vás zvu na pivo a limo, které si můžete u nás na stánku dát 
 
 Přeji Vám krásné září a mnoho úspěchů nejen ve studiu.
 
-Kateřina Pilná 
+Kateřina Pilná  
 předsedkyně klubu Pod-O-Lee
