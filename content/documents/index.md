@@ -235,6 +235,7 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klubu pořízen zápis, dokumentující průběh schůze a přijaté závěry a rozhodnutí.
 
 ### 2025
+
 - [Zápis 31.8.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20250831_zapis.pdf)
 - [Zápis 29.6.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20250629_zapis.pdf)
 - [Zápis 14.4.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20250414_zapis.pdf)
