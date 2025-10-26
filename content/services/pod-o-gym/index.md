@@ -121,6 +121,7 @@ Boulder je rozdělen na 2 části, [Klasické bouldery](#klasické-bouldery) a [
 #### Problémy
 
 V případě problémů nebo nejasností piš na email <j.karban@pod.cvut.cz> nebo <v.janacek@pod.cvut.cz>
+
 ### Sauna
 
 **[Provozní řád sauny](sauna_provozni_rad.pdf)**
