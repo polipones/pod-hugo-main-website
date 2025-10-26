@@ -164,8 +164,8 @@ The PC room is a room intended primarily for studying or holding meetings for th
 2. For violation of any of the points in Parts III, IV and V, the following possible sanctions are introduced according to their severity (each offence will be judged individually):
     1. A warning by email with a deadline for correction,
     2. Alternative punishment as agreed upon by the PC room administrator or the Pod-O-Lee Club Board of Directors,
-    3. blocking the service for a certain period of time, i.e. issuing a BAN to Pod-O-Lee, and thus preventing access to the PC room, i.e. issuing a BAN
-    4. blocking the service permanently, i.e. granting a BAN and thus preventing access to the PC room,
+    3. blocking the benefit for a certain period of time, i.e. issuing a BAN to Pod-O-Lee, and thus preventing access to the PC room, i.e. issuing a BAN
+    4. blocking the benefit permanently, i.e. granting a BAN and thus preventing access to the PC room,
     5. sanction by the disciplinary committees of the faculties of the CTU,
     6. referral to the Police of the Czech Republic,
     7. cancellation of the printer account and loss of all money in the account,

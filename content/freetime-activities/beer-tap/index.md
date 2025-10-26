@@ -43,4 +43,4 @@ Před vrácením pípy je nutno:
 
 Pokud dojde v průběhu zápůjčky k jakémukoliv poškození pípy nebo jejich částí, je nutno toto nahlásit a domluvit se na způsobu náhrady. Pokud se tak neučiní, bude to bráno jako úmyslné poškozování vybavení klubu Pod-O-Lee.
 
-**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání služeb Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**
+**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání výhod Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**

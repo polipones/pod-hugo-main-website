@@ -71,8 +71,8 @@ The Board games room is a room intended primarily for playing board games. It is
 1. For violation of any item in Part III and Part IV, the following potential penalties are established according to their severity (each offence will be judged individually):
     1. warning by email with a deadline for resolution,
     2. alternative punishment agreed with the Board games room administrator or the Pod-O-Lee Club Board of Directors,
-    3. blocking of the service for a certain period of time, i.e. issuing a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Board games room (issuing a BAN on the basic membership of the Pod-O-Lee club),
-    4. blocking the service permanently, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Board games room,
+    3. blocking of the benefit for a certain period of time, i.e. issuing a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Board games room (issuing a BAN on the basic membership of the Pod-O-Lee club),
+    4. blocking the benefit permanently, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Board games room,
     5. punishment by the disciplinary committees of the faculties of CTU,
     6. handing the matter over to the Police of the Czech Republic,
     8. financial compensation to the Pod-O-Lee club for damage caused by the user in the Board games room.

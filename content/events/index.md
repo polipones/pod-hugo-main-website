@@ -20,7 +20,7 @@ weight: 1
 
 Hlavním cílem této akce je seznámení studentů se životem na koleji Podolí. Součástí programu je diskuse se zástupci jednotlivých organizací, a tedy i možnost navázat kontakt s ostatními studenty bydlícími na koleji a „společensky“ se začlenit do nové sociální skupiny, spolu se svými kolegy. Na akci se promítají prezentace, po které následuje diskuze mezi pozvanými hosty a studenty.
 
-Vždy jsou zde nachystány prezentační stánky s hlavními službami klubu, zájmové kolejní kroužky a informační stánek klubu Pod-O-Lee. Jsou pořádány exkurze pro ty, kteří mají zájem podívat se, kde jaké služby najdou.
+Vždy jsou zde nachystány prezentační stánky s hlavními výhodami klubu, zájmové kolejní kroužky a informační stánek klubu Pod-O-Lee. Jsou pořádány exkurze pro ty, kteří mají zájem podívat se, kde jaké výhody najdou.
 
 Večer je obohacen o občerstvení, čepuje se pivo i limonáda.
 

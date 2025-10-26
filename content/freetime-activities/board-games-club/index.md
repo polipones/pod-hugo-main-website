@@ -73,8 +73,8 @@ Deskoherna je místnost určená především ke hraní stolních her nebo ke sk
 1. Za porušení jakéhokoliv bodu z části III se zavádí následující možné sankce podle jejich závažnosti (každý prohřešek bude souzen individuálně):
     1. upozornění e-mailem s termínem nápravy,
     2. alternativní trest po dohodě se správcem deskoherny nebo představenstvem klubu Pod-O-Lee,
-    3. zablokování služby na určitou dobu, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do Deskoherny (udělení BANu na základní členství klubu Pod-O-Lee),
-    4. zablokování služby natrvalo, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do Deskoherny,
+    3. zablokování výhod na určitou dobu, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do Deskoherny (udělení BANu na základní členství klubu Pod-O-Lee),
+    4. zablokování výhod natrvalo, tj. udělení BANu na základní členství klubu Pod-O-Lee, a tím zabránění přístupu do Deskoherny,
     5. postih disciplinárními komisemi fakult ČVUT,
     6. předání k řešení Policii ČR,
     7. vymáhání finančního odškodnění klubu Pod-O-Lee za způsobenou škodu uživatelem v Deskoherně.
