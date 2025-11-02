@@ -6,7 +6,7 @@ url: benefits
 slug: benefits
 
 aliases:
-    - services
+    - /services
 
 HidePublishDate: true
 ---

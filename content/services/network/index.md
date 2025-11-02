@@ -4,7 +4,7 @@ title: Síť
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: vyhody/sit
 aliases:
-  - sluzby/sit
+  - /sluzby/sit
 slug: sit
 weight: 2
 ---

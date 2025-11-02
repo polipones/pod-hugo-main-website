@@ -4,7 +4,7 @@ title: Network
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: benefits/network
 aliases:
-  - services/network
+  - /services/network
 slug: network
 weight: 2
 ---

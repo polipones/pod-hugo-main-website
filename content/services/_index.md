@@ -6,7 +6,7 @@ url: vyhody
 slug: vyhody
 
 aliases:
-    - sluzby
+    - /sluzby
 
 HidePublishDate: true
 ---
