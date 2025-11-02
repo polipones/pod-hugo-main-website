@@ -51,24 +51,153 @@ Unfortunately, we cannot accept non-residents because the music room is inside t
 
 ## Operating rules
 
-1. Access to dormitory Club Pod-O-Lee SU CTU's Music room (furthermore just Music room) is granted only to Pod-O-Lee club members, which pay the Music room club's membership payment. They by the registration agree to Music room's Operating rules and usage of benefit "Music room".
-2. Card system is used to access the room. Every Music room user is obliged to log in his/her card via the card reader upon entering the room. Except for this occasion the Music room door need to be closed at all times! Everyone needs to use his/her own card to access. It is forbidden to access via another member's card. These violations **WILL** be punished by BANning the member from further usage of the room.
-3. Music room **opening hours are from 7:00 to 22:00**. Exception can be made after an agreement with the Music room manager.
-4. User is obliged to keep the Music room clean. Guitars need to be set at their hangers in their packaging, rhythmic drum control's belt needs to be loosen along with the top cymbals, all the cables need to be winded and hanged at the hooks (except for piano cable along with the cinch line-in inputs), amplifier needs to be turned off along with every electrical and electronical device, PC, active speaker and extension cables with switch, microphone and music holder stands and stools need to be cleaned to their original state.
-5. Smoking, eating, drinking and dirty shoes is prohibited in the Music room. The only exception is given to plastic bottles which need to be closed upon finishing drinking. All the litter and packings is needed to be thrown out. User is obliged to keep the floor, table and shelves clean. Violation of these rules will result in BANning the user as well as charging the user with the fees connected to the cleaning or repairing.
-6. User is obliged to turn off the lights, close the window, check the condition described in point 4 and leave the door with card reader closed. Windows can be opened only because of ventilation at the music breaks (due to noise). It is prohibited to manipulate with the air duct controls.
-7. It is prohibited to manipulate with the Music room's equipment outside of the room itself without an agreement with the Music room manager or depute manager. Use the equipment as if it was your own. Short manuals to the equipment is available.
-8. It is prohibited to manipulate with PC in the rack. It is necessary to turn off the PC after your work on PC. It is prohibited to save your data into PC. PC manual is available too.
-9. For the priority access to Music room use the reservation system at <https://olymp.pod.cvut.cz>. Every user can reserve up to 4 hours a week. Reserved user has always a priority upon the non-reserved user. When nobody has a reservation, every user can use the Music room as he/she pleases, but only at the above mentioned opening hours. Only the Music room manager or deputy manager has a priority over reserved users, but only due to justified reasons.
-10. User is responsible to the damage in Music room. If the equipment suffers damage via non-standard usage, the user is obliged to report it to Music room manager or deputy manager and provide new equipment upon his/her own expense, or provide its repair. If the user chooses not to notify, the damage is taken as caused by the latest user before finding out the damage. Guitar picks and drum mallets are considered consumer goods and it is highly suggested to bring your own.
-11. If the user wants to present the Music room to his/her colleague, which would be potentially interested in the benefit and he/she would like to try it out, it is possible, however only with the previous permission given by Music room manager or deputy manager. It can be requested via email at least a day prior taking place - in this situation the user is obliged to make sure his/her colleague is familiar with the Operating rules. Tour can be given to any other registered club member by the Music room's manager or deputy manager.
-12. In justified cases the Club Pod-O-Lee's leadership can grant an exception to these rules.
-13. Any violation of Operating rules will be punished by the below BAN rules, Pod-O-Lee rules, or laws of the Czech Republic.
+### Part I
 
-## BAN rules upon violation of Operating rules
+#### Operator
 
-1. User violating points no. 1, no. 2 and no. 8 listed in Operating rules and lets unauthorized access to Music room will get BANned at least to the end of the ongoing semester. In case a group of users will do the same, all members of the group will get the same punishment. Upon equipment damage done by the unauthorized access the damage is taken as if the user/group was causing it.
-2. User, or users violating points no. 3, no. 4, no. 5 , no. 6 or no. 7 listed in Operating rules will get BANned for at least 30 days.
-3. BANs are granted by the Music room's manager or deputy manager, eventually leadership of Pod-O-Lee club.
-4. In case of repeated violation of any of the points or in case of heavy violation, the Music room's manager or deputy manager can grant a permanent BAN.
-5. Duration of a BAN can be shortened or completely revoked upon carrying out some kind of beneficial activity either for Music room or for the Club Pod-O-Lee only after prior agreement with Music room's manager or deputy manager.
+The operator of the Music room is the CTU Student Union, address Na Lysině 772/12, 147 00 Prague 4-Podolí - IČO
+67981224.
+
+#### Useful contacts
+
+- [Official Music room webpage]({{< ref "/services/music-room/index.md" >}})
+- [Contacts on Music room managers]({{< ref "/contacts/index.md#music-room" >}})
+- [How to pay the membership fee]({{< ref "/payments/index.md" >}})
+- [Olymp reservation system](https://olymp.pod.cvut.cz)
+
+**Any new information and updates can be found on the Official Music room website.**
+
+### Part II
+
+#### General data
+
+The Music room is a room designed primarily for playing musical instruments and also serves as a small recording
+studio. It is located in the basement of B block.
+
+- Room name: Hudebna (Music room)
+- Opening hours: 7:00 - 22:00
+
+#### Phone numbers
+
+- Emergency Medical Service: 155
+- Fire and Rescue Service: 150
+- Police: 158
+- Municipal Police: 156
+- European Emergency Number: 112
+
+#### Room Capacity
+
+- Capacity: 6 people
+
+### Part III
+
+#### Music room operating rules
+
+1.  Entry to the Music room of the Pod-O-Lee club of the CTU Student Union (furthermore referred to as the
+    “Music room”) is only available to members of the Pod-O-Lee club who have a valid basic membership and
+    extended membership of Music room or who have had their membership fee waived by the Board of
+    Directors of the Pod-O-Lee club (further referred to as the Board of Directors) and have added their own chip
+    card to the club's information system Pod-O-Lee. For a description of how to become a member and
+    instructions on how to pay membership fees, please visit the website: https://pod.cvut.cz/platby/.
+2.  A person who has paid the membership fee and uses the facilities of the Music Room is called a User of the
+    Music Room (furthermore referred to as User) and by entering the room agrees to the Operating Rules of
+    the Pod-O-Lee of the CTU Student Union (hereinafter referred to as Operating Rules) and agrees to obey
+    them.
+3.  A card system is used for the Music room entry. Each user of the Music room has to log in with their card on
+    the card reader when entering and exiting the Music room. When leaving the room, the user is required to
+    verify that they have closed the door behind them. This means that the number of users in the Music room
+    has to match the number of logged in cards. The access card is non-transferable, i.e. it is used to enter the
+    Music room only by the card owner.
+4.  In the event of a power outage, the card system has a backup power supply, and a key box is available next
+    to the door in the event of the card system malfunctioning and trapping a Music room User inside the room.
+    The user has to immediately report any problems and use of the emergency keys to the Music room
+    manager and hand over the keys to him.
+5.  **It is strictly forbidden to bring visitors who are not members of the club and do not have an active
+    membership into the Music room without the permission of the Music room manager or the approval of
+    the Pod-O-Lee Board of Directors.** In justified cases, it is possible to request a one-time exception, for
+    example, for showing the musical to another person, always with sufficient advance notice (24 hours) and
+    after prior agreement with the Music room Administrator. This exception can be granted only once and
+    cannot be considered as a long-term authorization.
+6.  The User is obliged to maintain order in the Music room, especially during the rest of the night (which is set
+    at 22:00-7:00), so as not to disturb the residents of the block. It is forbidden to move or remove furniture in
+    the Music room without the consent of the Music room manager or his/her representative or the Pod-O-Lee
+    Club Board of Directors. In addition, any structural alterations as well as drilling or any other structural
+    alterations are prohibited. It is forbidden to post any posters on the walls of the Music room or its
+    furnishings. The user is obliged to treat the equipment of the Music room with respect and to handle it in a
+    way that does not damage it.
+7.  It is forbidden to smoke, consume alcohol, take drugs or enter the room wearing shoes that leave any dirt.
+    Slippers are available in the room if needed. It is allowed to consume and bring in drinks and food that meet
+    the following conditions:    
+
+    a. All beverages must be in any leak-proof container with a resealable lid that is sealed immediately
+    after drinking.    
+    b. All food must be in resealable containers. (In the case of non-packaged food, it must be brought in
+    some sort of leak-proof resealable container.)    
+    c. The food and beverages do not contain addictive or psychotropic substances.    
+    d. The User is obliged to take all food and beverage containers out of the room when leaving.    
+8.  The user is obliged to maintain cleanliness on the floor and other equipment in the Music room. In the event
+    that the User damages the Music room equipment or the wheelhouse itself, it is necessary to immediately
+    address this with the Music room manager, in the case of spreading damage, try to prevent the spread of
+    the problem and then immediately report it to the Music room manager or his representative. If damage is
+    found to the room equipment or the room itself, the User must report it immediately to the Music room
+    Manager or his/her representative.
+9.  When leaving, the User has to check the condition of the space he/she has been using until then and return
+    it to its original state and clean it up. If he/she is the last User in the room, he/she shall return the room to its
+    original condition, i.e. close the windows, turn off the lights, check and clean the rest of the room if
+    necessary. When leaving, each User must sign out with the card they used to enter the room and close the
+    door behind them.
+10. It is forbidden to tamper with the wiring in any way.
+11. The User shall not disturb others, e.g. by loud music, and shall immediately turn it down at the request of
+    the residents or the manager. **In case the User’s actions are disturbing someone else and does not stop
+    these activities when asked, the User carrying out these activities may be punished for breaking the rules
+    under point 20!**
+12. There is a wireless wifi network in the room, when using which the user must follow the rules of use of the
+    academic network and also the IP Rules for the use of the SU Pod-O-Lee Club computer network.
+13. In justified cases, the Pod-O-Lee Club Board of Directors or the Music room manager may grant a one-time
+    exception to these rules.
+14. Users of the Music room have to follow the instructions of the Music room manager, his representative or
+    the board of directors. **Failure to obey or respond to this rule is a violation of the rules of the Music room!**
+15. **Any violation of the Operating rules will be punished according to the restrictive measures listed below or
+    the rules of the Pod-O-Lee Club or according to the applicable laws of the Czech Republic.**
+16. By entering the room, all visitors give consent to the taking of video footage which may be used in the event
+    of a breach of any of the rules. The handling of CCTV footage is regulated in the IP CCTV system.
+17. Neither the manager nor the Pod-O-Lee Club are responsible for damage to items brought in (e.g. money,
+    electronics, clothing, etc.) by Users of the Music room.
+18. Users of the Music room shall use the equipment in the room at their own risk, and before use they shall
+    make sure that all equipment does not exhibit any defects that prevent safe use, and if a defect is found
+    they shall report the defect to the Music room manager or his representative.
+19. The Music room manager is responsible for its operation and compliance with its regulations.
+20. If a User finds an item belonging to another User, he/she is obliged to bring the item to the Music room
+    manager or his representative.
+
+### Part IV
+
+#### Restrictive Measures for Violation of Regulations
+
+1.  Restrictive measures are defined in the IP Rules for imposing penalties for violations (BANs), which is
+    superior to the Operating Rules.
+2.  The following possible sanctions are introduced for breach of any of the points in Part III, according to their
+    severity (each offence will be judged individually):    
+
+    a. email notice with a deadline for correction,    
+    b. alternative punishment in agreement with the Music room manager or the board of directors of
+    the Pod-O-Lee Club,    
+    c. blocking the service for a certain period of time, i.e. issuing a BAN on the basic membership of the
+    Pod-O-Lee club and thus preventing access to the wheelhouse (issuing a BAN on the basic
+    membership of the Pod-O-Lee club),    
+    d. blocking the service permanently, i.e. granting a BAN on the basic membership of the Pod-O-Lee
+    club and thus preventing access to the Music room,    
+    e. řešení se zaměstnanci koleje Podolí,    
+    f. punishment by the disciplinary committees of the faculties of CTU,    
+    g. handing the matter over to the Police of the Czech Republic,    
+    h. financial compensation to the Pod-O-Lee club for damage caused by the User in the Music room.    
+
+3.  The sanction from section 4 point 2 sub point d onwards shall be decided by the Music room Administrator
+    in consultation with the Pod-O-Lee Board of Directors.
+
+### Part V
+
+#### Final provisions
+
+1.  These operating rules shall become effective immediately upon their posting at the Pod-O-Lee official page.
+
