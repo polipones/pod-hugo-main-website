@@ -59,7 +59,7 @@ Sleva na kolejném bude 70 % pro technicky odhlášené. Co přesně znamená te
 ## Co se mění vzhledem ke kolejnímu klubu
 
 1. Vracení příspěvků
-   Ačkoliv nové období placení služeb začíná až 15.10.2020, je možné, že jsi zaplatil/a příspěvky, a následně jsi byl/a donucen/a k odstěhování. Díky Nařízení prezidenta č. 2020-NP7 [2] máme možnost vytvořit interní nařízení, podle kterého se budou příspěvky vracet. Než ho ale vytvoříme, počkáme na statistiky odstěhovaných, podle kterých budeme řešit vracení individuálně nebo hromadně.
+   Ačkoliv nové období placení benefitů začíná až 15.10.2020, je možné, že jsi zaplatil/a příspěvky, a následně jsi byl/a donucen/a k odstěhování. Díky Nařízení prezidenta č. 2020-NP7 [2] máme možnost vytvořit interní nařízení, podle kterého se budou příspěvky vracet. Než ho ale vytvoříme, počkáme na statistiky odstěhovaných, podle kterých budeme řešit vracení individuálně nebo hromadně.
 
 2. Přiřazení zařízení
    Za účelem omezení kontaktu je možné vyřešit přidání zařízení pomocí e-mailu. Dovolené počty zařízení jsou nezměněné. Výjimku může udělit pouze předseda, správce sítě nebo správce systémů.

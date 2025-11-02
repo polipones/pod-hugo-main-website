@@ -2,7 +2,9 @@
 # Will be displayed at top of the page as main heading
 title: Pod-O-Gym
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
-url: sluzby/pod-o-gym
+url: vyhody/pod-o-gym
+aliases:
+    - /sluzby/pod-o-gym
 slug: pod-o-gym
 weight: 3
 
@@ -79,35 +81,48 @@ Boulder je rozdělen na 2 části, [Klasické bouldery](#klasické-bouldery) a [
 
 #### Klasické bouldery
 
-Jedna barva značí boulder. 2 pásky označují startovní chyt (obě ruce v jednom chytu) nebo 2 chyty (každá ruka v jednom chytu). 1 páska označuje konec boulderu – tzv. TOP.
-
-Začneš ze startovního chytu/chytů. Teprve v momentě, kdy máš celé tělo ve vzduchu, můžeš uchopit další chyty. Boulder se počítá za vylezený, když dolezeš po 1 barvě až do topového chytu a toho se dotýkáš oběma rukama cca 3 vteřiny.
+- Jedna barva značí boulder
+- 2 pásky označují startovní chyt (obě ruce v jednom chytu) nebo 2 chyty (každá ruka v jednom chytu)
+- 1 páska označuje konec boulderu – tzv. TOP
+- Začneš ze startovního chytu/chytů. Teprve v momentě, kdy máš celé tělo ve vzduchu, můžeš uchopit další chyty. Boulder se počítá za vylezený, když dolezeš po 1 barvě až do topového chytu a toho se dotýkáš oběma rukama cca 3 vteřiny
 
 #### Spray Wall
 
-Pravidla boulderingu Ideálnív této části jsou stejná, avšak je to část boulderu, kde můžeš ukázat svou kreativitu, vymyslet vlastní boudlery a předat je ostatním lezcům v mobilní aplikaci.
+- Ideální část boulderu, kde můžeš ukázat svou kreativitu, vymyslet vlastní boudlery a předat je ostatním lezcům v mobilní aplikaci
+- Pravidla boulderingu v této části jsou stejné
+- Pro zobrazení boulderů stahuj aplikaci **Boulder Creator** (černo-červená) a v ní vyhledej místnost PodoGym
 
-Pro telefony s operačním systémem Android stahuj aplikaci [Boulder Problems](https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos) a v ní vyhledej místnost **PodoGym**. Pokud máš iOS, musíš bohužel přes prohlížeč na tuto adresu: <https://boulderproblems.tk/boulderroom/2255>. Pro přidání nových boulderů se musíš registrovat.
+##### Co vše můžeš s aplikací Boulder Creator dělat?
 
-#### Aplikace Boulder Problems
+- Prohlížej, přelézej, odškrtávej a hodnoť klasifikaci již vylezených boulderů, co přidali jiní lezci
+- Vytvářej vlastní bouldery -> zveřejni je a zpříjemni ostatním trénink možností přelezu tvých nápadů
 
-Můžeš prohlížet, přelézat a odškrtávat již vylezené bouldery, co přidali jiní lezci. Můžeš i vytvářet vlastní bouldery a tím zpříjemnit ostatním trénink s motžností přelezu tvých nápadů.
+##### Tvorba boulderů
 
-Pro vytvoření nového boulderu vyfoť stěnu a zakroužkuj chyty, které jsou součástí tvého boulderu (každý druh kroužku značí jinou věc – start, top, nohy, ruce atd.). Přidej název, obtížnost, zveřejni a sleduj, kdo tvůj boulder vyleze.
+- Vyfoť stěnu a v aplikaci zakroužkuj (každý druh kroužku značí jinou věc – start, top, nohy, ruce atd.) chyty, které jsou součástí tvého boulderu
+- Přidej název, obtížnost a volitelné charakteristiky boulderu
+- Zveřejni a sleduj, kdo tvůj boulder vyleze
+
+##### Přelez
+
+- Můžeš si v aplikaci odškrtnout, které bouldery si již vylezl a na kolikátý pokus – hodí se to např. pokud si zapomnětlivý a nechceš něco lézt dvakrát
 
 #### Obtížnost
 
-Budeme používat francouzskou stupnici, obtížnost 1 -- 9, a -- c (pravděpodobně se budeme pohybovat mezi 3 -- 7).
+- Budeme používat francouzskou stupnici
+- Obtížnost 1 – 9, a – c (pravděpodobně se budeme pohybovat mezi 3 – 7)
+- Ve zkratce (snad každý pochopí): 
+    - 3<4<5<6…
+    - a<b<c
+    - Tudíž: 5a<5b<5c<6a<6b…
+    - Občas se může vyskytnout znaménko +
+    - 5a<5a+<5b
+- V aplikaci Boulder Creator
+    - Obtížnost je 4,5,5+ a následně již stejná jako francouzská stupnice (5+ tedy reprezentuje cca 5b až 5c+)
 
-Ve zkratce (snad každý pochopí):
+#### Problémy
 
-- 3 < 4 < 5 < 6 …
-- a < b < c
-- tedy -- 5a < 5b < 5c < 6a < 6b …
-
-Občas se může vyskytnout znaménko +, poté platí např.: 5a < 5a+ < 5b.
-
-{{<figure src="images/services/pod-o-gym/boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
+V případě problémů nebo nejasností piš na email <j.karban@pod.cvut.cz> nebo <v.janacek@pod.cvut.cz>
 
 ### Sauna
 

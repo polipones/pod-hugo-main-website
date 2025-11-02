@@ -13,6 +13,12 @@ Pokud si chceš zahrát pingpong, fotbálek, šipky nebo kulečník, informace o
 
 Kontakt a správce najdeš na stránce [Kontakty]({{< ref "/contacts/index.md#herní-místnosti" >}}).
 
+# Chci si zahrát. Co teď?
+
+1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v [rezervačním systému Olymp](https://olymp.pod.cvut.cz). Maximální doba rezervace je 6 hodin.
+2. Poslat mail s nezbytnými informacemi (Datum, Jméno, pokoj, ID, místnost co si chceš půjčit) na adresu: <barovky@pod.cvut.cz>.
+3. Se vstupem do místnosti vypůjčitel souhlasí, že si přečetl a byl srozuměn s Provozním řádem.
+
 # Stolní tenis, fotbálek a šipky
 
 Místnost se nachází v suterénu na bloku A. Od vchodu se dej doleva, sejdi po schodech dolů a jsou to první dveře vpravo.
@@ -89,9 +95,3 @@ TL;DR nic nerozbij a chovej se tam jako člověk.
 16. BANy uděluje správce herních místností nebo jeho zástupce, případně vedení klubu Pod-O-Lee.
 17. V případě opakovaného porušení některého z bodů či ve výjimečně závažných případech, může správce herních místností přikročit k udělení permanentního BANu.
 18. BAN lze anulovat či zkrátit při vykonání takové činnosti, která bude prospěšná buďto pro kulečník či pro klub Pod-O-Lee, to však po předchozí domluvě se správcem herních mísností nebo jeho zástupcem.
-
-# Chci si zahrát. Co teď?
-
-1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v [rezervačním systému Olymp](https://olymp.pod.cvut.cz). Maximální doba rezervace je 6 hodin.
-2. Poslat mail s nezbytnými informacemi (Datum, Jméno, pokoj, ID, místnost co si chceš půjčit) na adresu: <barovky@pod.cvut.cz>.
-3. Se vstupem do místnosti vypůjčitel souhlasí, že si přečetl a byl srozuměn s Provozním řádem.

@@ -13,6 +13,12 @@ If you want to play ping-pong, football, darts or billiards, you can find inform
 
 You can find the contact and administrator on the [Contacts]({{< ref "/contacts/index.md#bar-games-table-tennis-table-football-billiard" >}}) page.
 
+# I want to play. What now?
+1. You must have a reservation made at least 24 hours in advance on the [Olymp reservation system](https://olymp.pod.cvut.cz) before entering the room. The maximum booking time is 6 hours.
+2. Send an email with the necessary information (Date, Name, Room ID, Room you want to rent) to: <barovky@pod.cvut.cz>.
+3. By entering the room, the borrower agrees that he/she has read and understood the Operating Rules.
+
+
 # Table tennis, football and darts
 
 The room is located in the basement on Block A. From the entrance, take a left, go down the stairs and it's the first door on your right.
@@ -89,8 +95,3 @@ TL;DR don't break anything and act like a human being in there.
 16. BANs will be issued by the Game Room Administrator or his/her deputy, or by the administration of the Pod-O-Lee Club.
 17. In case of repeated violation of any of the points or in exceptionally serious cases, the Game Room Administrator may proceed to issue a permanent BAN.
 18. A BAN may be voided or reduced by the performance of an activity that will be beneficial to either Billiards or the Pod-O-Lee Club, but this shall be by prior arrangement with the Gaming Room Administrator or his/her deputy.
-
-# I want to play. What now?
-1. You must have a reservation made at least 24 hours in advance on the [Olymp reservation system](https://olymp.pod.cvut.cz) before entering the room. The maximum booking time is 6 hours.
-2. Send an email with the necessary information (Date, Name, Room ID, Room you want to rent) to: <barovky@pod.cvut.cz>.
-3. By entering the room, the borrower agrees that he/she has read and understood the Operating Rules.

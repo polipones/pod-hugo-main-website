@@ -2,7 +2,9 @@
 # Will be displayed at top of the page as main heading
 title: Pod-O-Gym
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
-url: services/pod-o-gym
+url: benefits/pod-o-gym
+aliase:
+    - services/pod-o-gym
 slug: pod-o-gym
 weight: 3
 
@@ -67,45 +69,60 @@ For calisthenics we have TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR�
 
 ### Boulder
 
-Instructor contact information: [Bouldering section in contacts]({{< ref "/contacts#boulder" >}}).
+Contact instructors: [Boulder section in contacts]({{< ref "/contacts#boulder" >}}).
 
-For those interested in bouldering and climbing, we also have a small bouldering wall in the gym. If you’re new to it and want to try it, feel free to reach out to the instructors -- they’ll help you with the basics and show you how to prevent injuries. All bouldering participants must meet the standard requirements for access to Pod-O-Gym, including familiarizing themselves with the operating rules.
+For those interested in bouldering and climbing, we also have a smaller boulder in the gym. If you don't know how to do it but would like to try bouldering, don't hesitate to contact the instructors, who will help you with the basics and advise you on how to prevent injuries. Everyone who wants to visit the boulder area must meet all the requirements for normal access to Pod-O-Gym, including familiarization with the operating rules.
 
-Our bouldering instructors maintain the wall; contact details are available in [Contacts]({{< ref "/contacts#boulder" >}}). For issues or questions, write to <sportoviste@pod.cvut.cz>.
+Our climbing instructors take care of the bouldering area. You can find their contact details in [Contacts]({{< ref "/contacts#boulder" >}}). If you have any problems or questions, please write to <sportoviste@pod.cvut.cz>.
 
-The boulder is divided into 2 sections: [Classic boulders](#classic-boulders) and [Spray Wall](#spray-wall).
+The boulder area is divided into two parts, [Classic Boulders](#classic-boulders) and [Spray Wall](#spray-wall).
 
-#### Classic Boulders
+#### Classic boulders
 
-One color designates a boulder. Two tapes indicate the starting hold (both hands on one hold) or two holds (one hand on each hold). One tape marks the end of the boulder -- called the TOP.
-
-Start from the initial hold/holds. Once your entire body is in the air, you can reach for additional holds. The boulder is considered climbed when you reach the top hold of the same color and hold it with both hands for about 3 seconds.
+- One color indicates a boulder
+- Two tapes indicate the starting hold (both hands on one hold) or two holds (each hand on one hold)
+- One tape indicates the end of the boulder – the so-called TOP
+- You start from the starting hold(s). Only when your whole body is in the air can you grab the next holds. The boulder is considered climbed when you reach the top hold after climbing along one color and touch it with both hands for about 3 seconds
 
 #### Spray Wall
 
-The rules for bouldering here are the same, but this section allows you to show your creativity by creating your own boulders and sharing them with other climbers through a mobile app.
+- An ideal part of the boulder where you can show your creativity, come up with your own boulders, and share them with other climbers in the mobile app
+- The rules of bouldering in this section are the same
+- To view the boulders, download the **Boulder Creator** app (black and red) and search for the PodoGym room
 
-For Android phones, download the [Boulder Problems](https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos) app and search for the **PodoGym** room. If you have iOS, you’ll need to use this link in your browser: <https://boulderproblems.tk/boulderroom/2255>. You’ll need to register to add new boulders.
 
-#### Boulder Problems App
+##### What can you do with the Boulder Creator app?
 
-You can browse, climb, and check off boulders added by other climbers. You can also create your own boulders to add more fun and challenge to the training.
+- Browse, climb, check off, and rate the classification of boulders already climbed by other climbers
+- Create your own boulders -> publish them and make training more enjoyable for others by giving them the opportunity to climb your ideas
 
-To create a new boulder, take a picture of the wall and circle the holds that are part of your boulder (each type of circle indicates something different -- start, top, feet, hands, etc.). Add a name, difficulty level, publish, and watch who climbs your boulder.
+##### Creating boulders
+
+- Take a photo of the wall and circle the holds that are part of your boulder in the app (each type of circle indicates something different – start, top, feet, hands, etc.)
+- Add a name, difficulty, and optional characteristics of the boulder
+- Publish and see who climbs your boulder
+
+##### Climbing
+
+- You can check off which boulders you have already climbed in the app and on how many attempts – this is useful if you are forgetful and don't want to climb something twice
 
 #### Difficulty
 
-We will use the French scale with difficulty levels from 1 to 9, a to c (we'll likely stay within 3 to 7).
+- We will use the French scale
+- Difficulty 1–9, a–c (we will probably range between 3 and 7)
+- In short (hopefully everyone will understand):
+- 3<4<5<6…
+    - a<b<c
+- Therefore: 5a<5b<5c<6a<6b...
+- Occasionally, a + sign may appear
+- 5a<5a+<5b
+- In the Boulder Creator app
+    - The difficulty is 4,5,5+ and then the same as the French scale (5+ represents approximately 5b to 5c+)
 
-In short (hopefully self-explanatory):
+#### Problems
 
-- 3 < 4 < 5 < 6 …
-- a < b < c
-- so -- 5a < 5b < 5c < 6a < 6b …
+If you have any problems or questions, please email <j.karban@pod.cvut.cz> or <v.janacek@pod.cvut.cz>.
 
-Sometimes a + sign may appear, indicating, for example: 5a < 5a+ < 5b.
-
-{{<figure src="images/services/pod-o-gym/boulder-room-1.jpg" alt="Boulder room photo 1" width="90%" align="center">}}
 
 ### Sauna
 

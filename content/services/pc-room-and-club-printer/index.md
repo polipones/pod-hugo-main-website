@@ -2,7 +2,9 @@
 # Will be displayed at top of the page as main heading
 title: PC učebna a tiskárna
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
-url: sluzby/pc-ucebna-a-tiskarna
+url: vyhody/pc-ucebna-a-tiskarna
+aliases:
+    - /sluzby/pc-ucebna-a-tiskarna
 slug: pc-ucebna-tiskarna
 weight: 5
 
@@ -103,7 +105,7 @@ PC učebna je místnost určená především ke studiu nebo pořádání meetin
 ### Část III - Provozní řád PC učebny
 
 1. Vstup do počítačové učebny klubu Pod-O-Lee Studentské unie ČVUT (dále jen učebna) je umožněn pouze členům klubu Pod-O-Lee, kteří mají platné základní členství nebo je jim tento příspěvek odpuštěn Představenstvem klubu Pod-O-Lee (dále jen představenstvo) a mají přidanou vlastní čipovou kartu do klubového informačního systému Hydra klubu Pod-O-Lee . Popis, jak se stát členem a návod na platbu členských příspěvků naleznete na internetové adrese <https://pod.cvut.cz/platby/>.
-2. Osoba, jež má zaplacený členský příspěvek a využívá možnosti PC učebny, je nazývána uživatelem PC učebny (dále jen uživatel) a vstupem do místnosti souhlasí s Provozním řádem, Pravidly užívání služby tiskárny a Pravidly užívání počítačů a dataprojektorů klubu Pod-O-Lee Studentské unie ČVUT (dále jen Provozní řád) a zavazuje se jej dodržovat.
+2. Osoba, jež má zaplacený členský příspěvek a využívá možnosti PC učebny, je nazývána uživatelem PC učebny (dále jen uživatel) a vstupem do místnosti souhlasí s Provozním řádem, Pravidly užívání výhod tiskárny a Pravidly užívání počítačů a dataprojektorů klubu Pod-O-Lee Studentské unie ČVUT (dále jen Provozní řád) a zavazuje se jej dodržovat.
 3. Učebna se skládá ze dvou místností, přední (v ní se nachází tiskárna) a zadní. Zadní místnost si lze za uvedených pravidel zapůjčit k osobnímu užívání, viz bod 10.
 4. Ke vstupu do učebny slouží kartový systém. Každý uživatel učebny se musí při příchodu do učebny přihlásit svou kartou na čtečce karet. Poslední vstupující uživatel je povinen zavřít za sebou vstupní dveře s čtečkou. Tedy počet uživatelů v učebně musí být shodný s počtem přihlášených karet. Vstupní karta je nepřenosná, tj. slouží ke vstupu do učebny pouze vlastníkovi karty.
 5. Do učebny je přísně zakázáno přivádět návštěvy, které nejsou členy klubu a nemají aktivní členství, bez souhlasu správce učebny, příslušné rezervace zadní místnosti učebny nebo bez souhlasu představenstva klubu Pod-O-Lee.
@@ -165,8 +167,8 @@ PC učebna je místnost určená především ke studiu nebo pořádání meetin
 2. Za porušení jakéhokoliv bodu z částí III, IV a V se zavádí následující možné sankce podle jejich závažnosti (každý prohřešek bude souzen individuálně):
     1. upozornění e-mailem s termínem nápravy,
     2. alternativní trest po dohodě se správcem učebny nebo představenstvem klubu Pod-O-Lee,
-    3. zablokování služby na určitou dobu, tj. udělení BANuPod-O-Lee, a tím zabránění přístupu do PC učebny tj. udělení BANu
-    4. zablokování služby natrvalo, tj. udělení BANu, a tím zabránění přístupu do PC učebny,
+    3. zablokování výhod na určitou dobu, tj. udělení BANuPod-O-Lee, a tím zabránění přístupu do PC učebny tj. udělení BANu
+    4. zablokování výhod natrvalo, tj. udělení BANu, a tím zabránění přístupu do PC učebny,
     5. postih disciplinárními komisemi fakult ČVUT,
     6. předání k řešení Policii ČR,
     7. zrušení účtu na tiskárnu a propadnutí všech peněz, které daný člověk má na účtě,

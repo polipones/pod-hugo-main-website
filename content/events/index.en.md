@@ -19,7 +19,7 @@ weight: 1
 
 Main goal of this event is to familiarize students with the Podolí dormitory life. The event includes a discussion with representatives of respective organisations which makes an opportunity to greet other students living at the dormitory and to include oneself to the new social bubble with ones colleagues. Presentations about the dormitory are being projected and the discussion with invited guests and students follows.
 
-There are multiple tables representing each of the main services, fun activities and the Pod-O-Lee club itself. There is also a tour around the dormitory to show people where to find everything.
+There are multiple tables representing each of the main benefits, fun activities and the Pod-O-Lee club itself. There is also a tour around the dormitory to show people where to find everything.
 
 The evening also includes beer, sweet drink and something to eat aswell.
 

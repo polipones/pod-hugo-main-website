@@ -61,7 +61,7 @@ Součástí krbu **není uhlí ani podpalovač**. Každý si tedy uhlí musí 
 11. Způsobené škody budou opraveny nebo zaplaceny, případný finanční dluh bude vymáhán vedením kolejí.
 12. Po 22. hodině je nutné dodržovat noční klid.
 
-Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž **přijde o možnost** využívání služeb Kolejní Skupinky (sudovna, pípa, gril). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na **ban na základní členství** v klubu Pod-O-Lee.
+Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž **přijde o možnost** využívání výhod Kolejní Skupinky (sudovna, pípa, gril). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na **ban na základní členství** v klubu Pod-O-Lee.
 
 ## GRILL for DUMMIES by Vojta
 

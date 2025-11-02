@@ -45,7 +45,7 @@ Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 11. Damage caused will be repaired or paid for, any financial debt will be recovered by the college management.
 12. After 10 p.m. it is necessary to follow the night peace.
 
-If the rules are broken, the person responsible **will be put on the blacklist**. This will result in the loss of the possibility to use the services of the Dormitory Group (drinking room, beer dispenser, grill). In the case of a more serious (or repeated) violation of the rules, the responsible member **may be banned** in the Pod-O-Lee Club.
+If the rules are broken, the person responsible **will be put on the blacklist**. This will result in the loss of the possibility to use the benefits of the Dormitory Group (drinking room, beer dispenser, grill). In the case of a more serious (or repeated) violation of the rules, the responsible member **may be banned** in the Pod-O-Lee Club.
 
 ## Grill for dummies by Vojta
 

@@ -67,8 +67,8 @@ In case of a trip or internship abroad, individual agreement with the person man
 2. The following possible sanctions are established for violation of any item in Part III, according to their severity (each offense will be judged individually):
    1. a warning by email with a deadline for correction,
    2. alternative punishment as agreed with the Storage room Administrator or the Pod-O-Lee Club Board of Directors,
-   3. blocking of the service for a certain period of time, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Storage room (granting a BAN on the basic membership of the Pod-O-Lee club),
-   4. blocking the service permanently, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Storage room,
+   3. blocking of the benefit for a certain period of time, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Storage room (granting a BAN on the basic membership of the Pod-O-Lee club),
+   4. blocking the benefit permanently, i.e. granting a BAN on the basic membership of the Pod-O-Lee club and thus preventing access to the Storage room,
    5. punishment by the disciplinary committees of the faculties of CTU,
    6. handing the matter over to the Police of the Czech Republic,
    7. enforcement of financial compensation of the Operator for the damage caused by the User in the Storage room.

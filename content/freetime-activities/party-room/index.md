@@ -37,4 +37,4 @@ Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abych
 9. Způsobené škody budou opraveny nebo zaplaceny, případný finanční dluh bude vymáhán vedením kolejí.
 10. Po 22. hodině je nutné dodržovat noční klid (hlavně na chodbě, Sudovna je lehce odhlučněna).
 
-**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání služeb Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**
+**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání výhod Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**

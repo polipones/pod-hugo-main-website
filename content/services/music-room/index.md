@@ -2,7 +2,9 @@
 # Will be displayed at top of the page as main heading
 title: Hudebna
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
-url: sluzby/hudebna
+url: vyhody/hudebna
+aliases:
+    - /sluzby/hudebna
 slug: hudebna
 weight: 4
 ---
@@ -48,24 +50,131 @@ Mimokolejní zájemce bohužel nemůžeme přijímat, jelikož je hudebna uvnit�
 
 ## Provozní řád
 
-1. Vstup do hudebny klubu Pod-O-Lee Studentské unie ČVUT (dále jen hudebna) je umožněn pouze členům klubu Pod-O-Lee, kteří zaplatí členský poplatek za hudebnu. Svou registrací stvrzují souhlas s Provozním řádem a řádem užívání služby hudebna klubu Pod-O-Lee Studentské unie ČVUT (dále jen Provozní řád) a zavazují se jej dodržovat.
-2. Ke vstupu do hudebny slouží kartový systém. Každý uživatel hudebny se musí při příchodu do hudebny přihlásit svou kartou na čtečce karet. Poslední vstupující uživatel je povinen zavřít za sebou vstupní dveře s čtečkou. Tedy počet uživatelů v hudebně musí být shodný s počtem přihlášených karet. Ke vstupu do hudebny uživatel musí používat svou kartu. Není možné vstupovat na kartu jiného člena. **Tato porušení budou trestána BANem!**
-3. **Otevírací hodiny hudebny jsou od 7:00 do 22:00.** Výjimka možná po dohodě se správcem hudebny.
-4. Uživatel je povinen dodržovat pořádek v hudebně. Kytary umístit na věšáky v příslušných obalech, u bicích uvolnit řemínky struníku (páka v levé části rytmického bubnu) a horní činel hi-hat, kabely (od zpěvových mikrofonů a kytar) smotat a zavěsit na příslušné místo (nesmí zůstat zapojené ani v kombu, ani v kytarách, výjimkou je kabel od kláves a cinchové vstupy pro line-lin), vypnout zesilovač a PC v racku, veškeré aktivní bedny, komba a prodlužovací kabely s vypínače, uklidit stojany mikrofonů, stojany na noty a stoličky tak, aby byly opět v původním rozmístění - viz. vzorové foto hudebny.
-5. V hudebně je zakázáno kouřit, konzumovat nápoje i potraviny a vstupovat v obuvi zanechávající jakékoliv nečistoty. Jedinou povolenou výjimkou jsou pet láhve s vodou, které jsou hned po dopití uzavírány. Veškeré obaly a další odpadky (včetně těch vzniklých hraním – přelámané paličky atd.) je uživatel povinen při odchodu odnést mimo prostory hudebny, případně využít koš na směsný odpad v předmístnosti hudebny. Uživatel je povinen udržovat pořádek na podlaze, stole a v poličkách. **Porušení tohoto ustanovení a zašpinění či poničení koberce, stolu či jiných objektů se bude trestat jak BANem, tak povinností vyřešení problému na náklady viníka.**
-6. Při odchodu je uživatel povinen zavřít okna, zhasnout, zkontrolovat stav hudebny popsaný v bodu 4 a zavřít vstupní dveře (s čtečkou). Okna je možno otevírat při nedeštivém počasí pouze za účelem vyvětrání během pauz mezi hraním (kvůli hluku). Je zakázáno manipulovat s ovládáním vzduchotechniky v předmístnosti! V případě nálezu nepořádku či vady je uživatel povinen jej neprodleně nahlásit správci hudebny nebo jeho zástupci.
-7. Je zakázáno přemisťování, manipulace a vynášení vybavení hudebny bez souhlasu správce hudebny či jeho zástupce K nástrojům a aparatuře se chovejte ohleduplně, jako ke svým, s kabely zavěšenými na zdech vedoucími od mixážního pultu k pasivním bednám nemanipulujte. Stručné manuály k aparatuře jsou k nahlédnutí.
-8. Je zakázáno manipulovat s počítačovou skříní v racku. Je možné si přizpůsobit natočení monitoru. Po ukončení práce na PC má návštěvník hudebny povinnost PC řádně vypnout. Je zakázáno v PC uchovávat jakákoliv svá data. Korektní používaní PC je popsáno v manuálu v hudebně.
-9. K přednostnímu vstupu do hudebny funguje rezervační systém (<https://olymp.pod.cvut.cz>). Každý uživatel má v rámci rezervačního systému nárok na zamluvení si 4 hodin v jednom týdnu v hudebně. Rezervovaný uživatel má vždy přednost před nerezervovaným. Není-li právě nikdo v hudebně, má řádný uživatel hudebny právo být v hudebně libovolně dlouho i bez rezervace, ovšem v rámci otevíracích hodin. Přednostní právo ke vstupu do hudebny i v případě rezervace jiným uživatelem má správce hudebny, nebo jeho zástupce, a to v odůvodněných případech. Neférové způsoby rezervací (jako blokování půlhodinových bloků proložených půlhodinovými pauzami) povedou ke smazání rezervací, v případě opakování k BANu.
-10. Uživatel je zodpovědný za škody v hudebně. Pokud dojde k poškození nástroje nebo příslušenství, které nesouvisí s běžným užíváním tohoto vybavení, je uživatel povinen škody nahlásit správci či zástupci správce hudebny a na vlastní náklady pořídit nový nástroj/příslušenství, či zajistit jeho opravu. Při nenahlášení takovéto škody může být za viníka považován poslední uživatel využívající hudebnu před zjištěním této situace. Trsátka a paličky k bicím jsou považovány za spotřební zboží a doporučuje se nosit si vlastní.
-11. Chce-li uživatel hudebny předvést hudebnu kolegovi, který má potenciální zájem o tuto službu, a chtěl by si ji vyzkoušet, je to možné, avšak pouze po předchozím svolení ze strany správce hudebny, nebo jeho zástupce. O to je možné žádat např. formou e-mailu ([kontaktní osoby]({{< ref "/contacts#hudebna" >}})) minimálně s denním předstihem a za podmínky, že schválený host bude před vstupem registrovaným členem seznámen s tímto Provozním řádem. Prohlídky též umožňuje přímo správce či jeho zástupce, a to po domluvě se zájemcem.
-12. V odůvodněných případech může představenstvo klubu Pod-O-Lee nebo správce hudebny udělit jednorázovou výjimku z těchto pravidel.
-13. Jakékoli porušení Řádu provozu bude trestáno podle níže uvedených restriktivních opatření, případně pravidel klubu Pod-O-Lee, nebo dle platných zákonů ČR.
+### Část I
 
-### Restriktivní opatření (BAN) při nedodržení výše uvedeného Řádu provozu
+#### Provozovatel
 
-1. Uživateli, který poruší body č. 1, č. 2 nebo č. 8 uvedené v Řádu provozu a umožní neoprávněnému jedinci vstup do hudebny, bude udělen BAN minimálně do konce aktuálního semestru. V případě, že více oprávněných uživatelů hudebny umožní komukoli vstup neoprávněně (budou se s ním nalézat v hudebně), bude tento BAN udělen všem těmto oprávněným uživatelům. Způsobí-li neoprávněná osoba v hudebně škodu, zodpovědnost za ni ponesou oprávnění uživatelé hudebny, kteří ji do ni vpustili.
-2. Uživateli, či uživatelům, který poruší body č. 3, č. 4, č. 5, č. 6 či č. 7 uvedené v Řádu provozu, bude udělen BAN v rozsahu minimálně 30 dnů.
-3. BANy uděluje správce hudebny, nebo jeho zástupce, případně vedení klubu Pod-O-Lee.
-4. V případě opakovaného porušení některého z bodů či ve výjimečně závažných případech, může správce hudebny přikročit k udělení permanentního BANu.
-5. BAN lze anulovat či zkrátit při vykonání takové činnosti, která bude prospěšná buďto pro hudebnu či pro klub Pod-O-Lee, to však po předchozí domluvě se správcem hudebny, nebo jeho zástupcem.
+Provozovatelem Hudebny je Studentská unie ČVUT, Klub Pod-O-Lee, adresou Na Lysině 772/12, 147 00 Praha 4-Podolí.
+
+#### Užitečné kontakty
+
+- [Oficiální stránka Hudebny]({{< ref "/services/music-room/index.md" >}})
+- [Kontakty na jednotlivé správce Hudebny]({{< ref "/contacts/index.md#hudebna" >}})
+- [Návod, jak zaplatit členský příspěvek]({{< ref "/payments/index.md" >}})
+- [Rezervační systém Olymp](https://olymp.pod.cvut.cz)
+
+### Část II
+
+#### Všeobecné údaje
+
+Hudebna je místnost určená především ke hře na hudební nástroje a také slouží jako malé nahrávací studio. Nachází
+se v suterénu bloku B.
+
+- Název místnosti: Hudebna
+- Provozní doba bez omezení: 7:00 - 22:00
+
+#### Telefonní čísla
+
+- Záchranná služba: 155
+- Požární útvar: 150
+- Policie ČR: 158
+- Městská policie: 156
+- Evropská tísňová linka: 112
+
+#### Mástnost a kapacita
+
+Kapacita: 6 osob
+
+### Část III
+
+#### Provozní řád Hudebny
+
+1.  Vstup do Hudebny klubu Pod-O-Lee Studentské unie ČVUT (dále jen místnost) je umožněn pouze členům
+    klubu Pod-O-Lee, kteří mají platné členství základní a rozšířené členství Hudebny nebo je jim tento
+    příspěvek odpuštěn Představenstvem klubu Pod-O-Lee (dále jen Představenstvo) a mají přidanou vlastní
+    čipovou kartu do informačního systému klubu Pod-O-Lee. Popis, jak se stát členem a návod na platbu
+    členských příspěvků naleznete na internetové adrese zde: https://podolee.cz/platby/.
+2.  Osoba, jež má zaplacený členský příspěvek a využívá možnosti Hudebny, je nazývána uživatelem Hudebny
+    (dále jen uživatel) a vstupem do místnosti souhlasí s Provozním řádem a zavazuje se jej dodržovat.
+3.  Ke vstupu do místnosti slouží kartový systém. Každý uživatel místnosti se musí při příchodu do místnosti
+    přihlásit svou kartou na čtečce karet. Poslední vstupující uživatel je povinen zavřít za sebou vstupní dveře s
+    čtečkou. Tedy počet uživatelů v místnosti musí být shodný s počtem přihlášených karet. Vstupní karta je
+    nepřenosná, tj. slouží ke vstupu do místnosti pouze vlastníkovi karty.
+4.  V případě výpadku napájení má kartový systém záložní zdroj napájení a vedle dveří je k dispozici skříňka s
+    klíči pro případ poruchy kartového systému a uvěznění uživatele Hudební místnosti uvnitř místnosti.
+    Uživatel musí okamžitě nahlásit všechny problémy a použití nouzových klíčů vedoucímu Hudební místnosti
+    a předat mu klíče.
+5.  **Do místnosti je přísně zakázáno přivádět návštěvy, které nejsou členy klubu a nemají aktivní členství, bez
+    souhlasu Představenstva klubu Pod-O-Lee.** V odůvodněných případech je možné požádat o jednorázovou
+    výjimku, například pro ukázání hudebny jiné osobě, a to vždy s dostatečným předstihem (24 hodin) a po
+    předchozí domluvě se Správcem Hudebny. Tato výjimka může být udělena pouze jednorázově a nelze ji
+    považovat za dlouhodobé oprávnění.
+6.  Uživatel je povinen dodržovat pořádek v místnosti, zejména v době nočního klidu (která je stanovena na
+    dobu 22:00-7:00), a to tak, aby nebyli rušeni ostatní. Je zakázáno přemisťování a vynášení nábytku v
+    místnosti bez souhlasu správce místnosti či jeho zástupce nebo Představenstva klubu Pod-O-Lee. K
+    vybavení místnosti je uživatel povinen se chovat ohleduplně a zacházet s ním způsobem, který ho
+    nepoškodí.
+7.  V místnosti je zakázáno kouřit, konzumovat alkohol, brát drogy nebo vstupovat ve znečištěné obuvi. V případě potřeby jsou v místnosti k dispozici přezůvky. Je povolena konzumace a vnášení nápojů a potravin, které splňují následující podmínky:
+
+    a. Všechny nápoje musejí být v jakémkoliv nepropustném balení s uzavíratelným víčkem, které jsou hned po napití uzavírány.  
+    b. Všechny potraviny musí být v uzavíratelných obalech. (V případě bezobalových potravin je nutné je přinést v nějakém nepropustném uzavíratelném balení.)  
+    c. Potraviny ani nápoje neobsahují návykové a psychotropní látky.  
+    d. Veškeré obaly od potravin a nápojů je uživatel povinen při odchodu odnést mimo prostory místnosti.
+8.  Uživatel je povinen udržovat čistotu na podlaze a na ostatním vybavení místnosti. V případě, že uživatel
+    poškodí vybavení místnosti nebo místnost samou, je nutné to okamžitě řešit se správcem místnosti, nebo
+    je-li to možné, pokusit se zamezit rozšíření problému a hned poté ho neprodleně ohlásit správci místnosti. V
+    případě nálezu poškození vybavení místnosti nebo místnost samotné je uživatel povinen jej neprodleně
+    nahlásit správci místnosti nebo jeho zástupci.
+9.  Při odchodu je uživatel povinen zkontrolovat stav prostoru, kterého využíval do té doby, a vrátit jej do
+    původního stavu a uklidit. V případě, že je posledním uživatelem v místnosti, je povinen vrátit místnost do
+    původního stavu, tj. zavřít okno, zhasnout, zkontrolovat a uklidit zbytek místnosti, pokud je to potřeba. Při
+    odchodu je nutné, aby se každý uživatel odhlásil svou vlastní kartou, kterou přišel do místnosti, a zavřel za
+    sebou dveře.
+10. Je zakázáno jakkoliv manipulovat s elektroinstalací.
+11. Uživatel neruší ostatní např. hlasitou hudbou z reproduktorů a na požádání uživatelem nebo správcem
+    Hudebny ji okamžitě ztlumí. **V případě, že jednání dané osoby někoho jiného vyrušuje a na požádání
+    neukončí tuto činnost, může být osoba provádějící tuto činnost potrestána za porušení pravidel!**
+12. V místnosti jsou k dispozici datové zásuvky a bezdrátová síť Wi-Fi, při jejichž použití se uživatel musí řídit
+    pravidly používání akademické sítě a také IP Pravidla používání počítačové sítě klubu SU Pod-O-Lee.
+13. V odůvodněných případech může Představenstvo udělit jednorázovou výjimku z těchto pravidel.
+14. Uživatelé Hudebny musí dbát na pokyny správce místnosti, jeho zástupce nebo Představenstva. **V případě
+    neuposlechnutí nebo nereagování na toto pravidlo se jedná o porušení pravidel místnosti!**
+15. **Jakékoliv porušení Provozního řádu bude trestáno dle níže uvedených restriktivních opatření, případně
+    pravidel klubu Pod-O-Lee nebo dle platných zákonů ČR.**
+16. Vstupem do místnosti všichni návštěvníci souhlasí s pořizováním videozáznamu, který může být použitý v
+    případě porušení některého z pravidel. Nakládání s kamerovými záznamy je upraveno v IP Kamerový
+    systém.
+17. Správci ani Klub Pod-O-Lee neodpovídají za škodu na vnesených věcech (např. peníze, elektronika, oblečení
+    atd.) uživatelů místnosti.
+18. Uživatelé místnosti užívají zařízení v místnosti na vlastní nebezpečí, přičemž se před užitím přesvědčí, zda
+    veškeré zařízení nevykazuje závady bránící bezpečnému užívání, a v případě zjištění závady jsou tuto
+    závadu povinni ohlásit správci místnosti nebo jeho zástupci.
+19. Správce Hudebny nese odpovědnost za její provoz a dodržování jejího řádu.
+20. V případě, že uživatel nalezne věc patřící jinému uživateli, je povinen přinést danou věc správci Hudebny
+    nebo zástupci správce.
+
+### Část IV
+
+#### Restriktivní opatření za porušení řádu
+
+1.  Restriktivní opatření jsou definována v IP Pravidla pro udělování trestů za porušení předpisů (BANů), který je
+    Provoznímu řádu nadřazen.
+2.  Za porušení jakéhokoliv bodu z části III se zavádějí následující možné sankce podle jejich závažnosti (každý prohřešek bude posuzován individuálně):
+
+    a. upozornění e-mailem s termínem nápravy,  
+    b. alternativní trest po dohodě se správcem Hudebny nebo Představenstvem klubu Pod-O-Lee,  
+    c. zablokování členských výhod na určitou dobu, tj. udělení BANu Pod-O-Lee, a tím zabránění přístupu do Hudebny,  
+    d. zablokování členských výhod natrvalo, tj. udělení PERMABANu, a tím zabránění přístupu do Hudebny,  
+    e. řešení se zaměstnanci koleje Podolí,  
+    f. postih disciplinárními komisemi fakult ČVUT,  
+    g. předání k řešení Policii ČR,  
+    h. vymáhání finančního odškodnění klubu Pod-O-Lee za způsobenou škodu uživatelem v Hudebně.
+
+3. O postihu od části 4 bodu 2 podbodu d dále rozhoduje Správce Hudebny po konzultaci s Představenstvem
+klubu Pod-O-Lee.
+
+### Část V
+
+#### Závěrečná ustanovení
+
+1.  Tento provozní řád nabývá platnosti okamžitě po jeho zveřejnění na webových stránkách POD.
