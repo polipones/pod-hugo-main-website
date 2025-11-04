@@ -44,7 +44,8 @@ Dále je nutné řídit se provozním řádem Pod-O-Gym. Veškeré informace ohl
 
 ## Kdy se bude tančit?
 
-**Úterý 20:00 - 21:00**
+- **Úterý 20:00 - 21:00**
+- **Čtvrtek 20:30 - 21:30**
 
 Den a čas konání taneční lekce bude platit vždy po dobu semestru. Se začátkem nového semestru se bude volit nový termín na základě nových rozvrhů a časových možností členů skupiny.
 
