@@ -38,11 +38,11 @@ Hudebna je konstantně monitorována kamerami.
 
 #### Již jsi členem klubu?
 
-Popros televizora, aby ti dal 10 zkušebních dní a pokud nemáš přiřazenou čipovou kartu k účtu, tak postupuj podle postupu pro „nečleny“ klubu (další odstavec). Poté budeš muset platit členský příspěvek ([informace o placení]({{< ref "/payments/index.md" >}})) a tvou povinností je také si přečíst a dodržovat provozní řád ([Provozní řád hudebny]({{< ref "#provozní-řád" >}})).
+Popros televizora, aby Ti dal 10 zkušebních dní a pokud nemáš přiřazenou čipovou kartu k účtu, tak postupuj podle postupu pro „nečleny“ klubu (další odstavec). Poté budeš muset platit členský příspěvek ([informace o placení]({{< ref "/payments/index.md" >}})) a tvou povinností je také si přečíst a dodržovat provozní řád ([Provozní řád hudebny]({{< ref "#provozní-řád" >}})).
 
 #### Pokud nejsi členem klubu
 
-Před samotnou registrací zajdi k hudebně (suterén bloku B), 5x pípni čipovou kartou (ISIC, Lítačka, …) o čtečku a zapamatuj si přesný čas pípání. Tím si zajistíš, že televizor bude vědět, jakou kartu ti má přiřadit k účtu při registraci. Poté vyhledej nějakého televizora, on už tě zbytkem procesu provede.
+Před samotnou registrací zajdi k hudebně (suterén bloku B), 5x pípni čipovou kartou (ISIC, Lítačka, …) o čtečku a zapamatuj si přesný čas pípání. Tím si zajistíš, že televizor bude vědět, jakou kartu Ti má přiřadit k účtu při registraci. Poté vyhledej nějakého televizora, on už tě zbytkem procesu provede.
 
 ### Mimokolejní zájemci
 

@@ -13,7 +13,7 @@ showtoc: true
 
 Ahoj,
 
-na kolejích máme od roku 2020 šermířskou skupinu. Zaměřujeme se převážně na dřevárenské bitvy, ale jsou u nás vítáni všichni vyznavači šermu či larpu. Stejně tak nezáleží, zda jsi veterán nebo úplný nováček. Naše skupina ti může půjčit veškeré vybavení od meče a štítu, kopí, luku či kuše, až po kostým.
+na kolejích máme od roku 2020 šermířskou skupinu. Zaměřujeme se převážně na dřevárenské bitvy, ale jsou u nás vítáni všichni vyznavači šermu či larpu. Stejně tak nezáleží, zda jsi veterán nebo úplný nováček. Naše skupina Ti může půjčit veškeré vybavení od meče a štítu, kopí, luku či kuše, až po kostým.
 
 Můžeš s námi vyrazit na velké bitvy jako Pán Prstenů, Helmáč či Bitva pod Horou, ale jezdíme i na menší akce. Letos opět plánujeme uspořádat víkendové soustředění a účastnit se akcí kolejního klubu Pod-O-Lee.
 

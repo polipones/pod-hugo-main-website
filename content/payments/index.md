@@ -23,7 +23,7 @@ Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 - Za první pololetí se platí od 1. ledna do 30. června s platností členství do 30. září.
 - Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 28. února (příštího roku).
 
-Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny výhody poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do pár minut.
+Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou Ti fungovat všechny výhody poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do pár minut.
 
 ### Formy úhrady
 
@@ -37,7 +37,7 @@ Tradičnější způsoby:
 
 Použití poštovních poukázek **NENÍ** přípustné – všechny takovéto platby nebudou brány v potaz.
 
-**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě vám musíme částku vrátit a stojí nás to čas navíc.**
+**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě Ti musíme částku vrátit a stojí nás to čas navíc.**
 
 ### Náležitosti platby
 

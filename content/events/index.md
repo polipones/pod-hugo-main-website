@@ -113,7 +113,7 @@ Máš nějaký fuckup, o který by ses rád podělil se světem? Tak tohle je pr
 
 ## Poznej svého správce
 
-Jsi nový na koleji? Neznáš tu skoro nikoho? Chtěl bys poznat své sousedy a v neposlední řadě člověka, který ti doslova otevře téměř každé dveře na koleji – svého správce bloku? Pro tento účel se na každém bloku pravidelně v nepravidelných intervalech organizuje akce Poznej svého správce. Pro více informací z tvého bloku sleduj FB skupinu bloku:
+Jsi nový na koleji? Neznáš tu skoro nikoho? Chtěl bys poznat své sousedy a v neposlední řadě člověka, který Ti doslova otevře téměř každé dveře na koleji – svého správce bloku? Pro tento účel se na každém bloku pravidelně v nepravidelných intervalech organizuje akce Poznej svého správce. Pro více informací z tvého bloku sleduj FB skupinu bloku:
 
 - [Blok A](http://www.facebook.com/groups/A.Podolee/)
 - [Blok B](http://www.facebook.com/groups/B.Podolee/)

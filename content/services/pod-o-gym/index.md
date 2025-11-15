@@ -57,7 +57,7 @@ Najdete u nás také různé typy volných vah. Klasické jednoruční monolitic
 
 ### Kardio
 
-2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, elliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Vám mohou rychleji utéct například i díky nainstalované TV.
+2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, elliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Ti mohou rychleji utéct například i díky nainstalované TV.
 
 {{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
@@ -73,7 +73,7 @@ Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla,
 
 Kontakt na instruktory: [Sekce boulder v kontaktech]({{< ref "/contacts#boulder" >}}).
 
-Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder. Pokud nevíš jak na to, ale chtěl by sis boulder vyzkoušet, neváhej kontaktovat instruktory, kteří ti pomohou se základy a poradí jak předcházet zranění. Všichni kdo chtějí boulder navštěvovat musí mít splněny všechny náležitosti pro normální přístup do Pod-O-Gym, včetně seznámení se s provozním řádem.
+Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder. Pokud nevíš jak na to, ale chtěl by sis boulder vyzkoušet, neváhej kontaktovat instruktory, kteří Ti pomohou se základy a poradí jak předcházet zranění. Všichni kdo chtějí boulder navštěvovat musí mít splněny všechny náležitosti pro normální přístup do Pod-O-Gym, včetně seznámení se s provozním řádem.
 
 O boulder se u nás starají instruktoři lezení, kontakty najdeš v [Kontaktech]({{< ref "/contacts#boulder" >}}). V případě problémů či nejasností piš na <sportoviste@pod.cvut.cz>.
 

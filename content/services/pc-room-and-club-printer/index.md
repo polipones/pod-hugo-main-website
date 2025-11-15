@@ -20,7 +20,7 @@ Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavní
 
 Přístup do učebny má každý člen klubu Pod-O-Lee, který má zaplacené základní členství a má přidanou svou kartu s našem systému Hydra.
 
-Pokud se ti nedaří dostat se do PC učebny, zajdi za televizorem nebo přímo za správci PC učebny, kteří ti poradí a pomohou ti problém vyřešit.
+Pokud se Ti nedaří dostat se do PC učebny, zajdi za televizorem nebo přímo za správci PC učebny, kteří Ti poradí a pomohou Ti problém vyřešit.
 
 V počítačové učebně se mimo jiné nachází klubová tiskárna, knihobudka a 3x bílá magnetická tabule.
 

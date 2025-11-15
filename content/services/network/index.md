@@ -21,7 +21,7 @@ weight: 2
 #### Další postup
 
 1. Všechny tyhle věci vezmi a jdi za televizorem ([seznam televizorů v kontaktech]({{< ref "/contacts/index.md" >}})). Televizor je taky jen člověk, proto jeho návštěvu nenechávej na brzké ranní hodiny.
-2. U televizora vyplníš přihlášku do klubu on jí zkontroluje a zařadí tě do naší databáze. Dostaneš od něj kabel a také ti aktivuje internet na 10 dní, které máš na zaplacení členského poplatku. Také ti sdělí tvé ID, které použiješ jako variabilní symbol při platbách a budeš se jím prokazovat při řešení problémů. Dále se mu musíš prokázat platnou ubytovací smlouvu nebo platnou kolejenkou, aby ti mohl aktivovat naše výhody.
+2. U televizora vyplníš přihlášku do klubu on jí zkontroluje a zařadí tě do naší databáze. Dostaneš od něj kabel a také Ti aktivuje internet na 10 dní, které máš na zaplacení členského poplatku. Také Ti sdělí tvé ID, které použiješ jako variabilní symbol při platbách a budeš se jím prokazovat při řešení problémů. Dále se mu musíš prokázat platnou ubytovací smlouvu nebo platnou kolejenkou, aby Ti mohl aktivovat naše výhody.
 
 ### Bezdrátové připojení (WiFi)
 
@@ -37,7 +37,7 @@ Název kolejní WiFi sítě (SSID) je "Pod-O-Lee" (operuje na frekvencích 2.4 G
 
 #### Problém s připojením - Randomizovaná MAC adresa
 
-Tuto funkci si každý výrobce pojmenovává jinak, proto hledejte něco podobného. Pokud je tato funkce zapnutá, nepovede se vám toto zařízení připojit k naší síti, jelikož ověřujeme MAC adresu co máte v Hydře proti té, co má vaše zařízení. Pokud tedy vaše zařízení MAC adresu mění, nepůjde se vám připojit.
+Tuto funkci si každý výrobce pojmenovává jinak, proto hledejte něco podobného. Pokud je tato funkce zapnutá, nepovede se Ti toto zařízení připojit k naší síti, jelikož ověřujeme MAC adresu co máte v Hydře proti té, co má vaše zařízení. Pokud tedy vaše zařízení MAC adresu mění, nepůjde se Ti připojit.
 
 Pokud to nepomohlo, kontaktuj televizora na svém prípadně na vedlejším bloku: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
 
@@ -45,7 +45,7 @@ Pokud to nepomohlo, kontaktuj televizora na svém prípadně na vedlejším blok
 
 Používáme WPA2 Enterprise/802.1x EAP. Ověření certifikátu našeho RADIUS serveru a shody doménového jména (radius.pod.cvut.cz) je zcela nutné, pokud chcete mít jistotu, že jste opravdu připojeni do naší sítě a nikdo vaši komunikaci nezneužívá (např. vytvořením stejného SSID/jména Wifi, vlastního „fake“ RADIUS serveru → ale už jiného certifikátu). 
 
-Využíváme certifikáty od CESNETu (našeho poskytovatele připojení k akademické síti ČVUT), které jsou mimo jiné podepsány společností USERTrust ([informace o certifikátech od CESNETu](https://pki.cesnet.cz/cs/ch-tcs-ssl-ca-4-crt-crl.html)) a tedy obecně přijímány jako bezpečné (jsou součástí většiny systémových repositářů). Z toho plyne, že není nutné certifikát dodatečně stahovat, aby mohlo ověření proběhnout. Televizor vám zařízení k WiFi připojí, takže se nemusíte bát, že věcem v tomto odstavci nerozumíte :).
+Využíváme certifikáty od CESNETu (našeho poskytovatele připojení k akademické síti ČVUT), které jsou mimo jiné podepsány společností USERTrust ([informace o certifikátech od CESNETu](https://pki.cesnet.cz/cs/ch-tcs-ssl-ca-4-crt-crl.html)) a tedy obecně přijímány jako bezpečné (jsou součástí většiny systémových repositářů). Z toho plyne, že není nutné certifikát dodatečně stahovat, aby mohlo ověření proběhnout. Televizor Ti zařízení k WiFi připojí, takže se nemusíte bát, že věcem v tomto odstavci nerozumíte :).
 
 #### Nastavení zařízení
 

@@ -71,8 +71,8 @@ Na emailovou adresu uvedenou [v kontaktech]({{< ref "/contacts/index.md#pod-o-da
 
 ## Chceš si tancování nejdřív jen vyzkoušet, ale nemáš přístup do Pod-O-Gym?
 
-V případě, že jsi členem klubu, můžeme ti dát přístup do Pod-O-Gym na zkoušku!
+V případě, že jsi členem klubu, můžeme Ti dát přístup do Pod-O-Gym na zkoušku!
 
-Zajdi za televizorem, který ti může umožnit vstup do Pod-O-Gym, a přijď si jednu taneční lekci vyzkoušet.
+Zajdi za televizorem, který Ti může umožnit vstup do Pod-O-Gym, a přijď si jednu taneční lekci vyzkoušet.
 
 Pokud se pak rozhodneš pokračovat v tancování, stačí si doplatit členství do Pod-O-Gym.
