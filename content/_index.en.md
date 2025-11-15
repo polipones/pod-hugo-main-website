@@ -32,8 +32,6 @@ Access to Hydra is [here](https://hydra.pod.cvut.cz/). You can find what membier
 
 If you have any kind of problem with paying for club membership, please write email to <platby@pod.cvut.cz>.
 
-[Wiki](https://wiki.pod.cvut.cz/en/start) could be good for you as well
-
 [Freshman's guide](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-en.pdf) could be good for you as well.
 
 Whether you are a student or a self-payer and you need help with anything, or you want to be at every event held at our dorm, or just meet and have fun with other great people, join our facebook group: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).

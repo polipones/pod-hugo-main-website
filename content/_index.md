@@ -27,8 +27,6 @@ Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde nap�
 
 Pokud máte jakékoliv problémy s platbami, pište na <platby@pod.cvut.cz>.
 
-Pro získání informací můžeš použít i naši klubovou [wiki](https://wiki.pod.cvut.cz/).
-
 [Průvodce prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf) Ti může také přijít vhod.
 
 Ať už jsi student, doktorand či samoplátce a potřebuješ s čímkoliv poradit, chceš být u každé akce pořádané na našich kolejích, nebo se jen seznámit a pobavit se s dalšími skvělými lidmi, přidej se do naší facebookové skupiny: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
