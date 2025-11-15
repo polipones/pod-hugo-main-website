@@ -4,7 +4,7 @@ title: Hudebna
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: vyhody/hudebna
 aliases:
-    - sluzby/hudebna
+    - /sluzby/hudebna
 slug: hudebna
 weight: 4
 ---

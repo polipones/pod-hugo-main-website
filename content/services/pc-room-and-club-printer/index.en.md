@@ -4,7 +4,7 @@ title: PC room and club printer
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: benefits/pc-room-and-club-printer
 aliases:
-    - services/pc-room-and-club-printer
+    - /services/pc-room-and-club-printer
 slug: pc-room-printer
 weight: 5
 

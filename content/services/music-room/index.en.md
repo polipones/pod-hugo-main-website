@@ -4,7 +4,7 @@ title: Music Room
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: benefits/music-room
 aliases:
-    - services/music-room
+    - /services/music-room
 slug: music-room
 weight: 4
 ---
