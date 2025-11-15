@@ -110,7 +110,7 @@ languages:
           url: /platby
           weight: 2
         - name: Výhody členství
-          url: sluzby
+          url: vyhody
           weight: 3
         - name: Volný čas
           url: volnocasove-aktivity
@@ -144,7 +144,7 @@ languages:
           url: /payments
           weight: 2
         - name: Membership benefits
-          url: services
+          url: benefits
           weight: 3
         - name: Freetime activities
           url: freetime-activities
