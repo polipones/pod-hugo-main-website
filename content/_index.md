@@ -39,7 +39,7 @@ Přidej se taky do své blokové facebookové skupiny, ať Ti neuniknou důleži
 
 ## Nástupy na kolej
 
-Krátce před začátkem semestru se dělají hromadné nástupy na kolej, kde tě ubytuje SÚZ ČVUT. Při ubytovávání narazíš i na náš stánek, kde tě o fungování klubu informujeme.
+Krátce před začátkem semestru se dělají hromadné nástupy na kolej, kde Tě ubytuje SÚZ ČVUT. Při ubytovávání narazíš i na náš stánek, kde Tě o fungování klubu informujeme.
 
 Nabydlování zabere nějaký čas. Od rána se většinou tvoří velké fronty studentů před ubytovací kanceláří (do ní se dostaneš z vrátnice) a to zpravidla po celý týden. V budově vrátnice je pomocník, který na vyžádání poskytne pořadové číslo. To si radši vezmi, jinak tam budeš čekat až do večera.
 

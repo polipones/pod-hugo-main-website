@@ -88,7 +88,7 @@ gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
     - **Jestli chceš půjčit klíč k zadní místnosti PC učebny k jejímu zamknutí**
 3. Na základě emailu bude Tvá žádost vyřízena.
 
-4. Následně tě kontaktuje jeden ze správců PC učebny a schválí/neschválí tvou rezervaci.
+4. Následně Tě kontaktuje jeden ze správců PC učebny a schválí/neschválí tvou rezervaci.
 
 **Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 

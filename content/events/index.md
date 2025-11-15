@@ -88,7 +88,7 @@ MEZI BLOKY je hudební open air festival. Festival se snaží podporovat začín
 
 Vše se netočí jen okolo hudby. Během celého dne jsou k dispozici různé aktivity jako například body zorbing, skákací boty, dopravní simulátor nebo Pivolezení. Také zde je chillout zóna, kde si můžeš oddechnout na sedacích pytlích. Mezi koncerty se pod hlavním pódiem odehrávají různé soutěže, ve kterých můžeš vyhrát velké množství cen. Po skončení hlavního programu následuje samozřejmě After party.
 
-Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapely, které tě navnadí na MEZI BLOKY.
+Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapely, které Tě navnadí na MEZI BLOKY.
 
 Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
 Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)

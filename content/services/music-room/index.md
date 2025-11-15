@@ -11,7 +11,7 @@ weight: 4
 
 Pro všechny zapálené muzikanty a hudební skupiny tu máme vybavenou a odhlučněnou místnost pro hudební produkce a trénink. Určitě si přijďte procvičit svoje prstíky a hlasy, oddechnout si od učení, nebo práce.
 
-Pokud tě hudebna zaujala, můžeš se také přidat k naší [Facebookové skupině](https://www.facebook.com/groups/135514173251273/?fref=ts).
+Pokud Tě hudebna zaujala, můžeš se také přidat k naší [Facebookové skupině](https://www.facebook.com/groups/135514173251273/?fref=ts).
 
 ## Vybavení hudebny
 
@@ -42,7 +42,7 @@ Popros televizora, aby Ti dal 10 zkušebních dní a pokud nemáš přiřazenou 
 
 #### Pokud nejsi členem klubu
 
-Před samotnou registrací zajdi k hudebně (suterén bloku B), 5x pípni čipovou kartou (ISIC, Lítačka, …) o čtečku a zapamatuj si přesný čas pípání. Tím si zajistíš, že televizor bude vědět, jakou kartu Ti má přiřadit k účtu při registraci. Poté vyhledej nějakého televizora, on už tě zbytkem procesu provede.
+Před samotnou registrací zajdi k hudebně (suterén bloku B), 5x pípni čipovou kartou (ISIC, Lítačka, …) o čtečku a zapamatuj si přesný čas pípání. Tím si zajistíš, že televizor bude vědět, jakou kartu Ti má přiřadit k účtu při registraci. Poté vyhledej nějakého televizora, on už Tě zbytkem procesu provede.
 
 ### Mimokolejní zájemci
 

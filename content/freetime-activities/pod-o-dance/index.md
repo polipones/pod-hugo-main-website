@@ -15,7 +15,7 @@ showtoc: true
 
 ## Kdo povede taneční lekce?
 
-Tanečními lekcemi tě bude provázet jeden z lektorů uvedených na stránce [Kontakty]({{< ref "/contacts/index.md#pod-o-dance" >}}).
+Tanečními lekcemi Tě bude provázet jeden z lektorů uvedených na stránce [Kontakty]({{< ref "/contacts/index.md#pod-o-dance" >}}).
 
 ## Co se bude tančit?
 
@@ -65,7 +65,7 @@ Dále se sebou hodí mít něco k pití a ručník na otření potu.
 
 Pokud máš zájem zúčastnit se taneční lekce, napiš [email lektorovi]({{< ref "/contacts/index.md#pod-o-dance" >}}), ve kterém dáš vědět, že dorazíš.
 
-Pokud se po první lekci rozhodneš pokračovat v tancování, přidáme tě do skupiny na Messengeru, která bude primárním informačním kanálem taneční skupiny Pod-O-Dance.
+Pokud se po první lekci rozhodneš pokračovat v tancování, přidáme Tě do skupiny na Messengeru, která bude primárním informačním kanálem taneční skupiny Pod-O-Dance.
 
 Na emailovou adresu uvedenou [v kontaktech]({{< ref "/contacts/index.md#pod-o-dance" >}}) se obracej i v případě jakýchkoliv dotazů.
 
