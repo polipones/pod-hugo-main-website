@@ -23,7 +23,7 @@ tocopen: true
 
 ## Operating rules
 
-All members who are training in our gym must be acquainted with **[operating rules](pod_o_gym_operating_rules.pdf)**!
+All members who are training in our gym must be acquainted with **[operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf)**!
 
 ## How to register in our Pod-O-Gym
 
@@ -126,9 +126,7 @@ If you have any problems or questions, please email <j.karban@pod.cvut.cz> or <v
 
 ### Sauna
 
-**[Sauna operating rules](sauna_operating_rules.pdf)**
-
-Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to **[read our rules before using sauna](sauna_operating_rules.pdf)**, in which you will also find how to pay for sauna.
+Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to **[read our rules before using sauna](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf)**, in which you will also find how to pay for sauna.
 
 You can reserve sauna from reservation system here: <https://olymp.pod.cvut.cz>. Use same login credentials as to Hydra.
 

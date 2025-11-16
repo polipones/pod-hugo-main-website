@@ -23,7 +23,7 @@ tocopen: true
 
 ## Provozní řád
 
-Všichni členové se musí seznámit s **[provozním řádem](pod_o_gym_provozni_rad.pdf)**!
+Všichni členové se musí seznámit s **[provozním řádem](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf)**!
 
 ## Jak se registrovat do Pod-O-Gym
 
@@ -126,9 +126,7 @@ V případě problémů nebo nejasností piš na email <j.karban@pod.cvut.cz> n
 
 ### Sauna
 
-**[Provozní řád sauny](sauna_provozni_rad.pdf)**
-
-Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst [pravidla pro používaní sauny](sauna_provozni_rad.pdf) a pokyny pro její spuštění.
+Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst [pravidla pro používaní sauny](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf) a pokyny pro její spuštění.
 
 Rezervace sauny se provádí přes rezervační systém na adrese: <https://olymp.pod.cvut.cz>. Přihlašovací údaje jsou shodné s Hydrou.
 
