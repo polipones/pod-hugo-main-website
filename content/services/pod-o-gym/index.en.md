@@ -12,7 +12,7 @@ tocopen: true
 ---
 
 {{<rawhtml>}}
-<h3 id="presence-count" style="font-style: bold; font-size: 1.7rem;">Loading...</h3>
+<strong id="presence-count" style="font-style: bold; font-size: 1.7rem;">Loading...</strong>
 {{</rawhtml>}}
 
 ## News
