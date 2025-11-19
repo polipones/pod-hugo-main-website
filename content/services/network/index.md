@@ -21,7 +21,7 @@ weight: 2
 #### Další postup
 
 1. Všechny tyhle věci vezmi a jdi za televizorem ([seznam televizorů v kontaktech]({{< ref "/contacts/index.md" >}})). Televizor je taky jen člověk, proto jeho návštěvu nenechávej na brzké ranní hodiny.
-2. U televizora vyplníš přihlášku do klubu on jí zkontroluje a zařadí Tě do naší databáze. Dostaneš od něj kabel a také Ti aktivuje internet na 10 dní, které máš na zaplacení členského poplatku. Také Ti sdělí tvé ID, které použiješ jako variabilní symbol při platbách a budeš se jím prokazovat při řešení problémů. Dále se mu musíš prokázat platnou ubytovací smlouvu nebo platnou kolejenkou, aby Ti mohl aktivovat naše výhody.
+2. U televizora vyplníš přihlášku do klubu on jí zkontroluje a pak tě může zařadit do naší databáze. Pokud potřebuješ, dostaneš od něj kabel a také Ti aktivuje internet na 10 dní, které máš na zaplacení členského poplatku. Sdělí Ti tvé ID, které použiješ jako variabilní symbol při platbách a budeš se jím prokazovat při řešení problémů. Dále se mu musíš prokázat platnou ubytovací smlouvu nebo platnou kolejenkou, aby Ti mohl aktivovat naše výhody.
 
 ### Bezdrátové připojení (WiFi)
 
