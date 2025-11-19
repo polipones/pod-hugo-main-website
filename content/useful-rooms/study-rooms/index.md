@@ -11,9 +11,9 @@ weight: 4
 
 Studovny najdeš v místnostech:
 
-- B306, B406
+- A306, A406, B306, B406
 
-Klíče si můžeš vypůjčit na vrátnici **až na 24 hodin** oproti kolejence. Rezervace místnosti se provádí na vrátnici.
+Klíče si můžeš vypůjčit na recepci **až na 24 hodin** (od začátku výpůjčky) oproti kolejence. Rezervace místnosti se provádí na recepci.
 
 {{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
