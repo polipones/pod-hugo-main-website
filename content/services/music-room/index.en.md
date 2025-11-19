@@ -53,4 +53,4 @@ Unfortunately, we cannot accept non-residents because the music room is inside t
 
 ## Operating rules
 
-All members who are training in our gym must be acquainted with **[operating rules](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_en.pdf)**!
+Available here: **[Operating rules Music room](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_en.pdf)**!

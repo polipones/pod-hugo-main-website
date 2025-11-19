@@ -33,4 +33,4 @@ Pro získání přístupu je nutné splnit následující podmínky:
 
 ## Provozní řád
 
-Dostupný zde: [Provozní řád kolárny](https://s3.pod.cvut.cz/common/provozni_rady/kolarna/provozni_rad_kolarna_cz.pdf)
+Dostupný zde: [Provozní řád Kolárna](https://s3.pod.cvut.cz/common/provozni_rady/kolarna/provozni_rad_kolarna_cz.pdf)

@@ -21,4 +21,4 @@ Před uložením věcí je potřeba si přečíst provozní řád a seznámit se
 
 ## Provozní řád
 
-Všichni členové se musí seznámit s **[provozním řádem](https://s3.pod.cvut.cz/common/provozni_rady/storage_room/storage_room_cz.pdf)**!
+Dostupný zde: **[Provozní řád Kufrárna](https://s3.pod.cvut.cz/common/provozni_rady/storage_room/storage_room_cz.pdf)**!

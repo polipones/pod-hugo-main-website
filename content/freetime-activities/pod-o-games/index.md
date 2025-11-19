@@ -47,4 +47,4 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 
 ## Provozní řád
 
-Všichni členové se musí seznámit s **[provozním řádem](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_cz.pdf)**!
+Dostupný zde: **[Provozním řád Pod-O-Games](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_cz.pdf)**!

@@ -13,4 +13,4 @@ If you need to cook/bake something for yourself on block C, D, E or F, you can u
 
 ## Operating rules for the kitchens at Podolí Dormitory
 
-Operating rules are available [here](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek_en.pdf).
+Available here: [Operating rules Kitchens](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek_en.pdf).

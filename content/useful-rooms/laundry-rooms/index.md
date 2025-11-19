@@ -28,4 +28,4 @@ Jakékoli porušování pravidel půjčování prádelen bude řešeno hospodá�
 
 ## Provozní řád
 
-Provozní řád je k nalezení [zde](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_pradelny_a_susarny_na_koleji_podoli.pdf).
+Dostupný zde: [Provozní řád Prádelny a Sušárny](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_pradelny_a_susarny_na_koleji_podoli.pdf).

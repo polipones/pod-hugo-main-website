@@ -50,4 +50,4 @@ Mimokolejní zájemce bohužel nemůžeme přijímat, jelikož je hudebna uvnit�
 
 ## Provozní řád
 
-Všichni členové se musí seznámit s **[provozním řádem](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_cz.pdf)**!
+Dostupný zde: **[Provorní řád Hudebna](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_cz.pdf)**!

@@ -94,4 +94,4 @@ gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
 
 ## Provozní řád
 
-Všichni členové se musí seznámit s **[provozním řádem](https://s3.pod.cvut.cz/common/provozni_rady/pc_room_and_club_printer/pc_room_and_club_printer_cz.pdf)**!
+Dostupný zde: **[Provozní řád PC učebna](https://s3.pod.cvut.cz/common/provozni_rady/pc_room_and_club_printer/pc_room_and_club_printer_cz.pdf)**!

@@ -35,4 +35,4 @@ KDY? Pravidelně v pondělí od 20:00
 
 ## Provozní řád
 
-Všichni členové se musí seznámit s **[provozním řádem](https://s3.pod.cvut.cz/common/provozni_rady/board_games_club/board_games_club_cz.pdf)**!
+Dostupný zde: **[Provozní řád Deskoherna](https://s3.pod.cvut.cz/common/provozni_rady/board_games_club/board_games_club_cz.pdf)**!

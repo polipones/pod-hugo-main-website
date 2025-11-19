@@ -45,6 +45,6 @@ The operating rules are below. Everyone receiving the keys to the room is oblige
 4. Reservation can be made max 14 days in advance.
 5. Entering the room can be max 15 minutes before the start of the reservation.
 
-## Operation Rules
+## Operating Rules
 
-All members who are training in our gym must be acquainted with **[operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_en.pdf)**!
+Available here: **[Operating rules Pod-O-Games](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_en.pdf)**!

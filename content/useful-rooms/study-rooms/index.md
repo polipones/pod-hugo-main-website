@@ -19,4 +19,4 @@ Klíče si můžeš vypůjčit na recepci **až na 24 hodin** (od začátku výp
 
 ## Provozní řád Studoven
 
-Provozní řád je dostupný [zde](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_studoven.pdf).
+Dostupný zde: [Provozní řád Studovna](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_studoven.pdf).
