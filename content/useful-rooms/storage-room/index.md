@@ -11,7 +11,7 @@ weight: 3
 tocopen: true
 ---
 
-Kufrárna je místnost k uložení věcí (lednice, mikrovlnná trouba a malý nábytek) v období letních prázdnin. Otevírá se vždy na začátku a konci prázdnin. Uložení je možné pro členy klubu s platným základním členstvím zdarma.
+Kufrárna je místnost k uložení věcí (lednice, mikrovlnná trouba a malý nábytek) v období letních prázdnin. **Otevírá se vždy na začátku a konci prázdnin.** Uložení je možné pro členy klubu s platným základním členstvím zdarma.
 
 Najdeš ji v přízemí bloku A v místnosti 019.
 
