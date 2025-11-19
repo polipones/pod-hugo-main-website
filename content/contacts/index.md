@@ -26,6 +26,10 @@ DIČ: CZ67981224
     {{<contact index="m" role="Místopředseda">}}
 {{</contact_section>}}
 
+{{<contact_section>}}
+    {{<contact index="fm" role="Finanční manažer">}}
+{{</contact_section>}}
+
 ## Síťaři
 
 Kontakt: <admin@pod.cvut.cz>
@@ -47,13 +51,12 @@ Kontakt: <sportoviste@pod.cvut.cz>
 {{<contact_section>}}
     {{<contact index="sg" role="Správce Pod-O-Gym">}}
     {{<contact index="zsg" role="Zástupce správce Pod-O-Gym">}}
-    {{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
 {{</contact_section>}}
 
 ### Boulder
 
 {{<contact_section>}}
-    {{<contact index="spb" role="Správce boulderu">}}
+    {{<contact index="sgt" role="Člen boulder týmu">}}
 {{</contact_section>}}
 
 ## Hudebna
