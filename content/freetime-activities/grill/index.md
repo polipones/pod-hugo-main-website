@@ -73,7 +73,7 @@ Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listin
 6. **ROZDĚLÁVEJ OHEŇ JEN V GRILU** a **NEPOUŽÍVEJ TEKUTÝ PEPO** ať nepodpálíš celý koleje.
 7. **NEFETUJ MI TADY**, radši si dej pivko a kus masa.
 8. **ZÁCHODY MÁŠ NA BLOCÍCH**, ne v okolí grilu.
-9. Před VRÁCENÍM: UMYJ, CO JSEM Ti PUJČIL, VYNES POPEL a UKLID OKOLO.
+9. Před VRÁCENÍM: UMYJ, CO JSEM TI PUJČIL, VYNES POPEL a UKLID OKOLO.
 10. Když něco rozbiješ, NAHLAS TO ROVNOU, protože na to stejně přijdeme a pak to bude horší.
 11. Co rozbiješ, to OPRAVÍŠ nebo ZAPLATÍŠ. Stát se to může každému, jde o to se jenom dohodnout na řešení.
 12. **PO DESÁTÉ VEČER TROŠKU ZTLUMTE**. Na koleji jsou i další lidi a někteří chtějí spát.
