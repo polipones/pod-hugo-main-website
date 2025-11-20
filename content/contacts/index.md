@@ -51,12 +51,13 @@ Kontakt: <sportoviste@pod.cvut.cz>
 {{<contact_section>}}
     {{<contact index="sg" role="Správce Pod-O-Gym">}}
     {{<contact index="zsg" role="Zástupce správce Pod-O-Gym">}}
+    {{<contact index="sgt" role="Člen Pod-O-Gym týmu">}}
 {{</contact_section>}}
 
 ### Boulder
 
 {{<contact_section>}}
-    {{<contact index="sgt" role="Člen boulder týmu">}}
+    {{<contact index="spb" role="Člen boulder týmu">}}
 {{</contact_section>}}
 
 ## Hudebna
