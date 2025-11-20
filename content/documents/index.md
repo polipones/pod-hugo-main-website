@@ -56,6 +56,8 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 ### 2025
 
+- [IP/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_pravidla_kameroveho_systemu.pdf)
+  - [IP/2025 příloha 1 k IP/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
 - [IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)
 
 ### 2024
@@ -69,8 +71,8 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 - ~~[IP7/2024 Volby předsedy klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_7-2024_-_volby_predsedy.pdf)~~
 - ~~[IP8/2024 Volby správců bloků a správců služeb](https://s3.pod.cvut.cz/common/legislativa/ip/ip_8-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)~~
 - [IP9/2024 Zápisy ze schůzí představenstva](https://s3.pod.cvut.cz/common/legislativa/ip/ip_9-2024_-_zapisy_ze_schuzi_predstavenstva_klubu_pod-o-lee.pdf)
-- [IP10/2024 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/ip_10-2024_-_pravidla_kameroveho_systemu.pdf)
-  - [Příloha 1 k IP10/2024 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/ip_10-2024_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
+- ~~[IP10/2024 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/ip_10-2024_-_pravidla_kameroveho_systemu.pdf)~~
+  - ~~[Příloha 1 k IP10/2024 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/ip_10-2024_-_priloha_1_-_seznam_sledovanych_prostor.pdf)~~
 - [IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_pravidla_pro_predavani_a_spravu_klicu.pdf)
   - [Příloha 1 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_1_-_zadost_o_udeleni_odebrani_statusu_klicnik_mistnosti.pdf)
   - [Příloha 2 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_2_-_cestne_prohlaseni_o_prevzeti_odevzdani_klice.pdf)
@@ -135,6 +137,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
 
 - Rozpočet 2025
+  - Schválená verze z 31. 8. 2025: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_31_8_2025.pdf)
   - Schválená verze z 8. 12. 2024: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_-_schvaleno_8.12.2024.pdf)
   - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1TVrHikEzUFio2UdZN2T7z_2CYo2YtmKTdX5E2aejw3o/edit?usp=sharing)
 - Rozpočet 2024

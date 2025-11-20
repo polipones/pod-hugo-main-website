@@ -23,7 +23,7 @@ Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 - Za první pololetí se platí od 1. ledna do 30. června s platností členství do 30. září.
 - Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 28. února (příštího roku).
 
-Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou ti fungovat všechny výhody poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do pár minut.
+Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou Ti fungovat všechny výhody poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do pár minut.
 
 ### Formy úhrady
 
@@ -37,7 +37,7 @@ Tradičnější způsoby:
 
 Použití poštovních poukázek **NENÍ** přípustné – všechny takovéto platby nebudou brány v potaz.
 
-**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě vám musíme částku vrátit a stojí nás to čas navíc.**
+**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě Ti musíme částku vrátit a stojí nás to čas navíc.**
 
 ### Náležitosti platby
 
@@ -59,7 +59,7 @@ Příklad: Chci mít připojení k internetu a chodit do posilovny Pod-O-Gym, za
 
 ## Podpis členství v klubu
 
-Každý nový člen se seznámí s pravidly a stanovami klubu Pod-O-Lee což stvrdí podpisem. Tímto podpisem zároveň dává klubu souhlas nakládat se svými osobními údaji. Podpisové archy jsou k dispozici u televizorů. Platnost podpisu je 7 let. Až po podpisu můžeš teprve využívat výhod klubu.
+Každý nový člen se seznámí s pravidly a stanovami klubu Pod-O-Lee což stvrdí podpisem při registraci. Tímto podpisem zároveň dává klubu souhlas nakládat se svými osobními údaji. Podpisové archy jsou k dispozici u televizorů. Až po podpisu můžeš teprve využívat výhod klubu.
 
 ## Interní a externí člen klubu
 
@@ -73,13 +73,13 @@ Interní člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov 
 
 ### Externí členství
 
-Externí člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov klubu, **nemá** uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí, ale má schválené externí členství od předsedy klubu Pod-O-Lee a od správce dané klubové výhody.
+Externí člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov klubu, **nemá** uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí, ale má schválené externí členství od Předsedy klubu Pod-O-Lee a od správce daného rozšířeného členství.
 
 Pro více informací o obou členstvích si přečti [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf).
 
 ## Odpuštění členských příspěvků
 
-Představenstvo klubu může odpustit členské příspěvky studentům, jenž jsou členy klubu Pod-O-Lee a to v případě, že vykonávají činnost prospěšnou pro klub.
+Představenstvo klubu může odpustit členské příspěvky osobám, jenž jsou členy klubu Pod-O-Lee a to v případě, že vykonávají činnost prospěšnou pro klub.
 
 Pokud máš nějaký projekt neváhej oslovit Představenstvo. Své návrhy můžeš posílat na adresu <predstavenstvo@pod.cvut.cz>.
 

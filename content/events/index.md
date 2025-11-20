@@ -88,7 +88,7 @@ MEZI BLOKY je hudební open air festival. Festival se snaží podporovat začín
 
 Vše se netočí jen okolo hudby. Během celého dne jsou k dispozici různé aktivity jako například body zorbing, skákací boty, dopravní simulátor nebo Pivolezení. Také zde je chillout zóna, kde si můžeš oddechnout na sedacích pytlích. Mezi koncerty se pod hlavním pódiem odehrávají různé soutěže, ve kterých můžeš vyhrát velké množství cen. Po skončení hlavního programu následuje samozřejmě After party.
 
-Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapely, které tě navnadí na MEZI BLOKY.
+Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapely, které Tě navnadí na MEZI BLOKY.
 
 Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
 Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
@@ -113,7 +113,7 @@ Máš nějaký fuckup, o který by ses rád podělil se světem? Tak tohle je pr
 
 ## Poznej svého správce
 
-Jsi nový na koleji? Neznáš tu skoro nikoho? Chtěl bys poznat své sousedy a v neposlední řadě člověka, který ti doslova otevře téměř každé dveře na koleji – svého správce bloku? Pro tento účel se na každém bloku pravidelně v nepravidelných intervalech organizuje akce Poznej svého správce. Pro více informací z tvého bloku sleduj FB skupinu bloku:
+Jsi nový na koleji? Neznáš tu skoro nikoho? Chtěl bys poznat své sousedy a v neposlední řadě člověka, který Ti doslova otevře téměř každé dveře na koleji – svého správce bloku? Pro tento účel se na každém bloku pravidelně v nepravidelných intervalech organizuje akce Poznej svého správce. Pro více informací z tvého bloku sleduj FB skupinu bloku:
 
 - [Blok A](http://www.facebook.com/groups/A.Podolee/)
 - [Blok B](http://www.facebook.com/groups/B.Podolee/)

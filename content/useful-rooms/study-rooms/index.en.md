@@ -11,7 +11,7 @@ weight: 4
 
 Study rooms can be found in rooms:
 
-- B306, B406
+- A306, A406, B306, B406
 
 Keys can be borrowed for **up to 24 hours** in exchange for the dormitory ID. Reservations can be made at the dormitory's gatehouse.
 

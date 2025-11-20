@@ -42,7 +42,7 @@ Součástí krbu **není uhlí ani podpalovač**. Každý si tedy uhlí musí 
     * Tvoje celé jméno, ID (najdeš v Hydře) a pokoj.
     * Co a kdy chceš půjčit.
 3. Na základě emailu bude tvá žádost vyřízena.
-4. Následně tě kontaktuje Vedoucí Kolejní Skupinky nebo jeden ze zástupců a domluví se s tebou na předání příslušenství.
+4. Následně Tě kontaktuje Vedoucí Kolejní Skupinky nebo jeden ze zástupců a domluví se s tebou na předání příslušenství.
 
 **Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 
@@ -65,9 +65,9 @@ Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listin
 
 ## GRILL for DUMMIES by Vojta
 
-1. Pokud se ti nelíbí řád, tak nelez ke grilu.
+1. Pokud se Ti nelíbí řád, tak nelez ke grilu.
 2. Gril půjčuju pouze **JÁ**. Nemáš rezervaci, nemáš tu co dělat.
-3. Dám ti příslušenství ke grilu -> Jsi **ORGANIZÁTOR AKCE**.
+3. Dám Ti příslušenství ke grilu -> Jsi **ORGANIZÁTOR AKCE**.
 4. Je něco zničený? Řekni mi to rovnou, ne až po akci.
 5. Jsi organizátor -> **Máš to tu na krku se vším všudy**.
 6. **ROZDĚLÁVEJ OHEŇ JEN V GRILU** a **NEPOUŽÍVEJ TEKUTÝ PEPO** ať nepodpálíš celý koleje.
@@ -78,4 +78,4 @@ Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listin
 11. Co rozbiješ, to OPRAVÍŠ nebo ZAPLATÍŠ. Stát se to může každému, jde o to se jenom dohodnout na řešení.
 12. **PO DESÁTÉ VEČER TROŠKU ZTLUMTE**. Na koleji jsou i další lidi a někteří chtějí spát.
 
-*PS: JSME SPRÁVCI, NE UKLÍZEČKY a děláme to zadarmo. Můžeme tě potrestat BANEM nebo tě dát NA ČERNOU LISTINU, ale děláme to neradi, tak nám k tomu nedávej důvod.*
+*PS: JSME SPRÁVCI, NE UKLÍZEČKY a děláme to zadarmo. Můžeme Tě potrestat BANEM nebo Tě dát NA ČERNOU LISTINU, ale děláme to neradi, tak nám k tomu nedávej důvod.*

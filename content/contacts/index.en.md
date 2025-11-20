@@ -50,6 +50,12 @@ Contact: <sportoviste@pod.cvut.cz>
     {{<contact index="sgt" role="Member of Pod-O-Gym team">}}
 {{</contact_section>}}
 
+### Boulder
+
+{{<contact_section>}}
+    {{<contact index="spb" role="Member of Boulder team">}}
+{{</contact_section>}}
+
 ### Music room
 
 Contact: <hudebna@pod.cvut.cz>

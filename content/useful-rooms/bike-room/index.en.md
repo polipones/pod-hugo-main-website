@@ -33,4 +33,4 @@ Club tools are available to Bike room members for basic bicycle maintenance and 
 
 ## Operating rules
 
-Available here: [Bike room operating rules](https://s3.pod.cvut.cz/common/provozni_rady/kolarna/operating_rules_bike_room_en.pdf). If there are differences, the Czech version of the rules is the one that counts.
+Available here: [Operating rules Bike room](https://s3.pod.cvut.cz/common/provozni_rady/kolarna/operating_rules_bike_room_en.pdf). If there are differences, the Czech version of the rules is the one that counts.

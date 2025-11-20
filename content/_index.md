@@ -23,17 +23,15 @@ Koleje Podolí patří [Českému vysokému učení technickému v Praze (ČVUT)
 
 Pokud najdeš závadu na koleji, nahlas to v [závadovém systému](https://web.suz.cvut.cz/KnihaZavad) v ISKAMu (menu Ubytování -> Kniha závad).
 
-Přístup do Hydry najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
+Přístup do našeho informačního systému (Hydry) najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
 
 Pokud máte jakékoliv problémy s platbami, pište na <platby@pod.cvut.cz>.
 
-Pro získání informací můžeš použít i naši klubovou [wiki](https://wiki.pod.cvut.cz/).
-
-[Průvodce prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf) ti může také přijít vhod.
+[Průvodce prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf) Ti může také přijít vhod.
 
 Ať už jsi student, doktorand či samoplátce a potřebuješ s čímkoliv poradit, chceš být u každé akce pořádané na našich kolejích, nebo se jen seznámit a pobavit se s dalšími skvělými lidmi, přidej se do naší facebookové skupiny: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 
-Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důležité blokové informace, např. kdy se koná akce Poznej svého správce: [Blok A](http://www.facebook.com/groups/A.Podolee/), [Blok B](http://www.facebook.com/groups/B.Podolee/), [Blok C](http://www.facebook.com/groups/C.Podolee/), [Blok D](http://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](http://www.facebook.com/groups/F.Podolee/).
+Přidej se taky do své blokové facebookové skupiny, ať Ti neuniknou důležité blokové informace, např. kdy se koná akce Poznej svého správce: [Blok A](http://www.facebook.com/groups/A.Podolee/), [Blok B](http://www.facebook.com/groups/B.Podolee/), [Blok C](http://www.facebook.com/groups/C.Podolee/), [Blok D](http://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](http://www.facebook.com/groups/F.Podolee/).
 
 - [FB stránka klubu](https://www.facebook.com/profile.php?id=100080945754982)
 - [Instagram](https://www.instagram.com/pod_o_lee/)
@@ -41,22 +39,22 @@ Přidej se taky do své blokové facebookové skupiny, ať ti neuniknou důleži
 
 ## Nástupy na kolej
 
-Krátce před začátkem semestru se dělají hromadné nástupy na kolej, kde tě ubytuje SÚZ ČVUT. Při ubytovávání narazíš i na náš stánek, kde tě o fungování klubu informujeme.
+Krátce před začátkem semestru probíhají hromadné nástupy na kolej, kde Tě ubytuje SÚZ ČVUT. Při ubytovávání narazíš i na náš klubový stánek, kde Tě o fungování klubu informujeme.
 
-Nabydlování zabere nějaký čas. Od rána se většinou tvoří velké fronty studentů před ubytovací kanceláří (do ní se dostaneš z vrátnice) a to zpravidla po celý týden. V budově vrátnice je pomocník, který na vyžádání poskytne pořadové číslo. To si radši vezmi, jinak tam budeš čekat až do večera.
+Zabydlování zabere nějaký čas, takže neboj nemusíš si vše přinést první den. Od rána se většinou tvoří velké fronty studentů před ubytovací kanceláří (do ní se dostaneš z recepce) a to zpravidla po celý týden. V budově vrátnice je pomocník, který na vyžádání poskytne pořadové číslo. To si radši vezmi, jinak tam budeš čekat až do večera.
 
 Do ubytovací kanceláře potřebuješ:
 - občanský průkaz nebo pas
 - malou fotku na kolejenku
 - potvrzení o studiu (jen pokud nejsi student ČVUT)
 
-Taktéž si rozmysli, jaké věci chceš pojistit proti krádeži (na vrátnici dostaneš list, kde vyplníš, co chceš pojistit). **Důrazně doporučujeme** nechat si věci pojistit alespoň notebook/PC (plus nějaké další dražší věci). Stojí to pár korun a budeš rád, že to máš pojištěné, kdyby se náhodou něco ztratilo.
+Taktéž si rozmysli, jaké věci chceš pojistit proti krádeži (na vrátnici dostaneš list, kde vyplníš věci nad 10 000 Kč, co chceš pojistit). Seznam můžeš i později doplnit, ale v první den **doporučujeme** na seznam napsat alespoň notebook/PC (plus nějaké další dražší věci).
 
-Jestli se však přistěhováváš mimo obdobé hromadných nástupů, neváhej navštívit nebo kontaktovat členy klubu na svém bloku ([Kontakty]({{< ref "/contacts" >}})).
+Jestli se však přistěhováváš mimo období hromadných nástupů, neváhej navštívit nebo kontaktovat členy klubu na svém bloku ([Kontakty]({{< ref "/contacts" >}})).
 
 ## Kalendář klubových akcí
 
-Pokud si chcete kalendář přidat do svého, stačí vám importovat tento odkaz [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
+Pokud si chceš kalendář přidat do svého, stačí Ti importovat tento odkaz [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
 
 {{<rawhtml>}}
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>

@@ -11,7 +11,7 @@ weight: 3
 tocopen: true
 ---
 
-The Storage room is a room to store things (e.g. fridge, microwave and small furniture) during the summer break. It always opens at the beginning and end of the summer break. Storage is free for club members with a valid basic membership.
+The Storage room is a room to store things (e.g. fridge, microwave and small furniture) during the summer break. **It always opens at the beginning and end of the summer break.** Storage is free for club members with a valid basic membership.
 
 You can find it on the ground floor of block A, room 019.
 

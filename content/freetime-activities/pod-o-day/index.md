@@ -11,13 +11,13 @@ weight: 9
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-## Ročník 2025
+## Ročník 2026
 
-{{<figure src="images/freetime-activities/pod-o-day/pod-o-day-banner.png" alt="Pod-O-Day banner" imgop="rt_fit">}}
+<!--{{<figure src="images/freetime-activities/pod-o-day/pod-o-day-banner.png" alt="Pod-O-Day banner" imgop="rt_fit">}}-->
 
-- Datum konání: **26. 4. 2025**
-- Registrační formulář pro týmy: [https://forms.gle/sEvAuF1JjDHZBUu77](https://forms.gle/sEvAuF1JjDHZBUu77)
-- FB událost: [https://facebook.com/events/s/pod-o-day-2025/1840669893420418/](https://facebook.com/events/s/pod-o-day-2025/1840669893420418/)
+- Datum konání: **25. 4. 2026**
+<!-- Registrační formulář pro týmy: [https://forms.gle/sEvAuF1JjDHZBUu77](https://forms.gle/sEvAuF1JjDHZBUu77)
+- FB událost: [https://facebook.com/events/s/pod-o-day-2025/1840669893420418/](https://facebook.com/events/s/pod-o-day-2025/1840669893420418/)-->
 
 ## Program
 
@@ -50,6 +50,11 @@ Orientační běh vás provede po známých i méně známých historických i t
 ## Galerie
 
 {{<figure_gallery>}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_17.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_18.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_19.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_20.jpg" alt="Pod-O-Day photo">}}
+    {{<figure src="images/freetime-activities/pod-o-day/gallery_21.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_01.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_02.jpg" alt="Pod-O-Day photo">}}
     {{<figure src="images/freetime-activities/pod-o-day/gallery_03.jpg" alt="Pod-O-Day photo">}}
