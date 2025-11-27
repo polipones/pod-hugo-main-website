@@ -56,9 +56,10 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 ### 2025
 
-- [IP/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_pravidla_kameroveho_systemu.pdf)
-  - [IP/2025 příloha 1 k IP/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
-- [IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)
+- [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
+- [IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_pravidla_kameroveho_systemu.pdf)
+  - [Příloha 1 k IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
+- ~~[IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 
 ### 2024
 
@@ -239,6 +240,8 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 ### 2025
 
+- [Zápis 10.11.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20251110_zapis.pdf)
+- [Zápis 26.10.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20251026_zapis.pdf)
 - [Zápis 28.9.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20250928_zapis.pdf)
 - [Zápis 31.8.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20250831_zapis.pdf)
 - [Zápis 29.6.2025](https://s3.pod.cvut.cz/common/legislativa/zapisy/20250629_zapis.pdf)
@@ -368,7 +371,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
-- [Usnesení 28. 9. 2025](https://s3.pod.cvut.cz/common/legislativa/usneseni/20250928_usneseni.pdf)
+- [Usnesení 24.11.2025](https://s3.pod.cvut.cz/common/legislativa/usneseni/20251124_usneseni.pdf)
 
 ## Hlasování per rollam
 
