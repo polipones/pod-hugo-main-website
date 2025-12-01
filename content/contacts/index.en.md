@@ -25,8 +25,7 @@ DIČ: CZ67981224
     {{<contact index="m" role="Vicechairman">}}
 {{</contact_section>}}
 
-## Service managers
-### Network
+## Network
 
 Contact: <admin@pod.cvut.cz>
 
@@ -40,7 +39,13 @@ Contact: <admin@pod.cvut.cz>
     {{<contact index="zsn" role="Deputy network administrator">}}
 {{</contact_section>}}
 
-### Pod-O-Gym
+### Tech team
+
+{{<contact_section>}}
+    {{<contact index="tech" role="Member of tech team">}}
+{{</contact_section>}}
+
+## Pod-O-Gym
 
 Contact: <sportoviste@pod.cvut.cz>
 
@@ -56,7 +61,7 @@ Contact: <sportoviste@pod.cvut.cz>
     {{<contact index="spb" role="Member of Boulder team">}}
 {{</contact_section>}}
 
-### Music room
+## Music room
 
 Contact: <hudebna@pod.cvut.cz>
 

@@ -40,6 +40,12 @@ DIČ: CZ67981224
     {{<contact index="zsn" role="Заместитель администратора сети ">}}
 {{</contact_section>}}
 
+### Tech team
+
+{{<contact_section>}}
+    {{<contact index="tech" role="Member of tech team">}}
+{{</contact_section>}}
+
 ### Pod-O-Gym
 
 Контакт: <sportoviste@pod.cvut.cz>
