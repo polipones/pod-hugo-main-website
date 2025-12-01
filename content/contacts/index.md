@@ -44,6 +44,12 @@ Kontakt: <admin@pod.cvut.cz>
     {{<contact index="zsn" role="Zástupce správce sítě">}}
 {{</contact_section>}}
 
+### Technická skupinka
+
+{{<contact_section>}}
+    {{<contact index="tech" role="Člen technické skupinky">}}
+{{</contact_section>}}
+
 ## Pod-O-Gym
 
 Kontakt: <sportoviste@pod.cvut.cz>
