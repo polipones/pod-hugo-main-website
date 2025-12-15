@@ -141,6 +141,9 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
 
+- Rozpočet 2026
+  - Schválená verze ze 14. 12. 2025: [Rozpočet 2026](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2026.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1CqKZAx7aF7j_PjbNswJMXzE3EzuzVHgyYT4USDGKfGw/edit?usp=sharing)
 - Rozpočet 2025
   - Schválená verze z 31. 8. 2025: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_31_8_2025.pdf)
   - Schválená verze z 8. 12. 2024: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_-_schvaleno_8.12.2024.pdf)
@@ -182,7 +185,7 @@ Aktivním členům klubu Pod-O-Lee může být představenstvem odpuštěn člen
 
 Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
-- [Odpustky 2025 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2025.pdf)
+- [Odpustky 2025 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/Odpustky-II_2025.pdf), [Odpustky 2025 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2025.pdf)
 - [Odpustky 2024 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2024.pdf), [Odpustky 2024 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2024.pdf)
 - [Odpustky 2023 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2023.pdf), [Odpustky 2023 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2023.pdf)
 - [Odpustky 2022 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2022.pdf), [Odpustky 2022 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2022.pdf)
@@ -377,7 +380,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
-*Nic tu není.*
+- [14.12.2025](https://s3.pod.cvut.cz/common/legislativa/usneseni/20251214_usneseni.pdf)
 
 ## Hlasování per rollam
 
