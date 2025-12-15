@@ -1,5 +1,5 @@
 # Local
-FROM hugomods/hugo:std-base-0.144.2 AS hugo
+FROM registry01.in.podolee.cz/cache/hugomods/hugo:std-base-0.144.2 AS hugo
 
 RUN apk update && apk add jq
 

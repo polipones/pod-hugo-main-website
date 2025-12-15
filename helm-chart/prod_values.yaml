@@ -1,6 +1,6 @@
 web:
   container:
-    image: registry.pod.cvut.cz/internal/pod-o-lee/main-web-prod
+    image: registry01.in.podolee.cz/internal/pod-o-lee/main-web-prod
   service:
     ports:
       - name: http

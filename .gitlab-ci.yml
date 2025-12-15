@@ -1,9 +1,9 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  CI_BUILD_IMAGE: registry.pod.cvut.cz/cache/library/docker:25-git
-  CI_DEPLOY_IMAGE: registry.pod.cvut.cz/cache/dtzar/helm-kubectl:3.13
+  CI_BUILD_IMAGE: registry01.in.podolee.cz/cache/library/docker:29
+  CI_DEPLOY_IMAGE: registry01.in.podolee.cz/cache/dtzar/helm-kubectl:3.19
 
-  IMAGE_BASE: registry.pod.cvut.cz/internal/pod-o-lee/main-web
+  IMAGE_BASE: registry01.in.podolee.cz/internal/pod-o-lee/main-web
 
   DEV_IMAGE: ${IMAGE_BASE}-dev
   PROD_IMAGE: ${IMAGE_BASE}-prod
@@ -16,12 +16,13 @@ build:dev:
   stage: build
   image: ${CI_BUILD_IMAGE}
   services:
-    - docker:25.0-dind
+    - name: ${CI_BUILD_IMAGE}-dind
+      alias: docker
   rules:
     - if: $CI_COMMIT_BRANCH == "develop"
       when: always
   script:
-    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry01.in.podolee.cz
     - docker build
       --push
       --target deploy
@@ -59,12 +60,13 @@ build:prod:
   stage: build
   image: ${CI_BUILD_IMAGE}
   services:
-    - docker:25.0-dind
+    - name: ${CI_BUILD_IMAGE}-dind
+      alias: docker
   rules:
     - if: $CI_COMMIT_BRANCH == "main"
       when: always
   script:
-    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry.pod.cvut.cz
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} registry01.in.podolee.cz
     - docker build
       --push
       --target deploy

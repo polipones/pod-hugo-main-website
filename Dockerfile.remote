@@ -1,4 +1,4 @@
-FROM hugomods/hugo:std-git-0.144.2 AS build
+FROM registry01.in.podolee.cz/cache/hugomods/hugo:std-git-0.144.2 AS build
 
 ARG hugo_env=production
 ENV HUGO_ENV=${hugo_env}
@@ -11,6 +11,6 @@ RUN git submodule update --init --recursive && \
     sh scripts/fetch_contacts.sh && \
     hugo
 
-FROM nginx:mainline-alpine AS deploy
+FROM registry01.in.podolee.cz/cache/library/nginx:mainline-alpine AS deploy
 
 COPY --from=build /src/public /usr/share/nginx/html
