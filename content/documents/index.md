@@ -64,7 +64,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 - [IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_pravidla_kameroveho_systemu.pdf)
   - [Příloha 1 k IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
 - [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
-- [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025_-_pravidla_pro_udelovani_trestu_za_poruseni_predpisu_banu_.pdf)
+- [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025.pdf)
 - [IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)
 - [IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)
 - [IP7/2025 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf)
