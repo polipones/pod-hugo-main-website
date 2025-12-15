@@ -15,7 +15,7 @@ services:
 
   # https://docs.imgproxy.net/configuration
   imgproxy:
-    image: registry.pod.cvut.cz/cache/darthsim/imgproxy:v3.27
+    image: registry01.in.podolee.cz/cache/darthsim/imgproxy:v3.27
     environment:
       IMGPROXY_ALLOWED_SOURCES: 'https://plik.pod.cvut.cz/,https://s3.pod.cvut.cz/'
       IMGPROXY_DEVELOPMENT_ERRORS_MODE: true

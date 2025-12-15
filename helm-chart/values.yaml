@@ -13,7 +13,7 @@ global:
 web:
   name: web
   container:
-    image: registry.pod.cvut.cz/internal/pod-o-lee/main-web-dev
+    image: registry01.in.podolee.cz/internal/pod-o-lee/main-web-dev
     ports:
       - name: http
         containerPort: 80
