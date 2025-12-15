@@ -60,35 +60,48 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 ### 2025
 
-- [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
+- ~~[IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 - [IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_pravidla_kameroveho_systemu.pdf)
   - [Příloha 1 k IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
-- ~~[IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)~~
+- [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
+- [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025_-_pravidla_pro_udelovani_trestu_za_poruseni_predpisu_banu_.pdf)
+- [IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)
+- [IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)
+- [IP7/2025 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf)
+- [IP8/2025 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025.pdf)
+  - [Příloha 1 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_1.pdf)
+  - [Příloha 2 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_2.pdf)
+  - [Příloha 3 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_3.pdf)
+  - [Příloha 4 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_4.pdf)
+- [IP9/2025 Zápisy ze schůzí Představenstva klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025.pdf)
+  - [Příloha 1 k IP9/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025_priloha_1.pdf)
+  - [Příloha 2 k IP9/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025_priloha_2.pdf)
+- [IP10/2025 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-10-2025.pdf)
 
 ### 2024
 
 - [IP1/2024 Hospodaření](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1-2024_-_hospodareni_klubu_pod-o-lee.docx.pdf)
 - ~~[IP2/2024 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_2-2024_-_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 - [IP3/2024 Pravidla používání počítačové sítě klubu SU Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2024_-_pravidla_pouzivani_pocitacove_site_klubu_su_pod-o-lee.pdf)
-- [IP4/2024 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2024_-_pravidla_pro_udelovani_trestu_za_poruseni_predpisu_banu_.pdf)
-- [IP5/2024 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf)
+- ~~[IP4/2024 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2024_-_pravidla_pro_udelovani_trestu_za_poruseni_predpisu_banu_.pdf)~~
+- ~~[IP5/2024 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf)~~
 - [IP6/2024 Televizor - statut, práva a povinnosti](https://s3.pod.cvut.cz/common/legislativa/ip/ip_6-2024_-_televizor_-_statut_prava_a_povinnosti.pdf)
 - ~~[IP7/2024 Volby předsedy klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_7-2024_-_volby_predsedy.pdf)~~
 - ~~[IP8/2024 Volby správců bloků a správců služeb](https://s3.pod.cvut.cz/common/legislativa/ip/ip_8-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)~~
-- [IP9/2024 Zápisy ze schůzí představenstva](https://s3.pod.cvut.cz/common/legislativa/ip/ip_9-2024_-_zapisy_ze_schuzi_predstavenstva_klubu_pod-o-lee.pdf)
+- ~~[IP9/2024 Zápisy ze schůzí představenstva](https://s3.pod.cvut.cz/common/legislativa/ip/ip_9-2024_-_zapisy_ze_schuzi_predstavenstva_klubu_pod-o-lee.pdf)~~
 - ~~[IP10/2024 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/ip_10-2024_-_pravidla_kameroveho_systemu.pdf)~~
   - ~~[Příloha 1 k IP10/2024 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/ip_10-2024_-_priloha_1_-_seznam_sledovanych_prostor.pdf)~~
-- [IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_pravidla_pro_predavani_a_spravu_klicu.pdf)
-  - [Příloha 1 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_1_-_zadost_o_udeleni_odebrani_statusu_klicnik_mistnosti.pdf)
-  - [Příloha 2 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_2_-_cestne_prohlaseni_o_prevzeti_odevzdani_klice.pdf)
-  - [Příloha 3 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_3_-_seznam_klicu.pdf)
-  - [Příloha 4 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_4_-_seznam_zajmovych_mistnosti.pdf)
+- ~~[IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_pravidla_pro_predavani_a_spravu_klicu.pdf)~~
+  - ~~[Příloha 1 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_1_-_zadost_o_udeleni_odebrani_statusu_klicnik_mistnosti.pdf)~~
+  - ~~[Příloha 2 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_2_-_cestne_prohlaseni_o_prevzeti_odevzdani_klice.pdf)~~
+  - ~~[Příloha 3 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_3_-_seznam_klicu.pdf)~~
+  - ~~[Příloha 4 k IP11/2024 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/ip_11-2024_-_priloha_4_-_seznam_zajmovych_mistnosti.pdf)~~
 - [IP12/2024 Provozní řády místností](https://s3.pod.cvut.cz/common/legislativa/ip/ip_12-2024_-_provozni_rady_mistnosti.pdf)
   - [Příloha 1 k IP12/2024 Provozní řády místností](https://s3.pod.cvut.cz/common/legislativa/ip/ip_12-2024_-_priloha_1_-_sablona_provozni_rad_mistnosti.pdf)
   - [Příloha 2 k IP12/2024 Provozní řády místností](https://s3.pod.cvut.cz/common/legislativa/ip/ip_12-2024_-_priloha_2_-_sablona_provozni_rad_mistnosti_s_kartovym_systemem.pdf)
-- [IP13/2024 Členství klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf)
+- ~~[IP13/2024 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf)~~
 - ~~[IP14/2024 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_14-2024_-_jmenovane_funkce_a_jejich_specifikace.pdf)~~
-- [IP15/2024 Volby správců bloků a správců služeb](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)
+- ~~[IP15/2024 Volby správců bloků a správců služeb](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)~~
 - [IP16/2024 Volby Předsedy klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/ip_16-2024_-_volby_predsedy_klubu_pod-o-lee.pdf)
 
 ### 2023
@@ -141,6 +154,9 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
 
+- Rozpočet 2026
+  - Schválená verze ze 14. 12. 2025: [Rozpočet 2026](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2026.pdf)
+  - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1CqKZAx7aF7j_PjbNswJMXzE3EzuzVHgyYT4USDGKfGw/edit?usp=sharing)
 - Rozpočet 2025
   - Schválená verze z 31. 8. 2025: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_31_8_2025.pdf)
   - Schválená verze z 8. 12. 2024: [Rozpočet 2025](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2025_-_schvaleno_8.12.2024.pdf)
@@ -182,7 +198,7 @@ Aktivním členům klubu Pod-O-Lee může být představenstvem odpuštěn člen
 
 Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
-- [Odpustky 2025 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2025.pdf)
+- [Odpustky 2025 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/Odpustky-II_2025.pdf), [Odpustky 2025 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2025.pdf)
 - [Odpustky 2024 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2024.pdf), [Odpustky 2024 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2024.pdf)
 - [Odpustky 2023 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2023.pdf), [Odpustky 2023 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2023.pdf)
 - [Odpustky 2022 II](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_ii_2022.pdf), [Odpustky 2022 I](https://s3.pod.cvut.cz/common/legislativa/odpustky/odpustky_i_2022.pdf)
@@ -377,7 +393,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
-*Nic tu není.*
+- [14.12.2025](https://s3.pod.cvut.cz/common/legislativa/usneseni/20251214_usneseni.pdf)
 
 ## Hlasování per rollam
 
