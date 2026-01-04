@@ -47,12 +47,9 @@ Na konci každého roku je vytvářen dokument shrnující činnost klubu za upl
 
 ## Stanovy klubu
 
-- [Stanovy od 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf)
-- ~~[Stanovy od 19. 10. 2016 do 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2016.pdf)~~
-
-### Čekající na schválení PAR
-
 - [Stanovy od 1. 1. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf)
+- ~~[Stanovy od 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf)~~
+- ~~[Stanovy od 19. 10. 2016 do 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2016.pdf)~~
 
 ## Interní předpisy
 
