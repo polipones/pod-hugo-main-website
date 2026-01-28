@@ -55,6 +55,11 @@ Na konci každého roku je vytvářen dokument shrnující činnost klubu za upl
 
 Interní předpisy jsou upřesňující dokumenty, které momentem svého schválení Představenstvem doplňují Stanovy klubu a mají platnost jako součást Stanov.
 
+### 2026
+
+- [IP1/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-1-2026.pdf)
+- [IP2/2026 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-2-2026.pdf)
+
 ### 2025
 
 - ~~[IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)~~
