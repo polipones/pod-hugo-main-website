@@ -157,6 +157,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
 
 - Rozpočet 2026
+  - Schválená verze z 26. 1. 2026: [Rozpočet 2026](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2026_26_1_2026.pdf)
   - Schválená verze ze 14. 12. 2025: [Rozpočet 2026](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2026.pdf)
   - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1CqKZAx7aF7j_PjbNswJMXzE3EzuzVHgyYT4USDGKfGw/edit?usp=sharing)
 - Rozpočet 2025
