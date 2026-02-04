@@ -30,17 +30,6 @@ Pro rezervaci použijte prosím rezervační systém.
 
 Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abychom měli čas na reakci a mohli vše připravit k předání.
 
-### Výpůjční řád pípy
+## Provozní řád
 
-1. Každý, kdo si pípu vypůjčí, za ni bere zodpovědnost (dále jako zodpovědná osoba).
-2. Pípa se půjčuje od Vedoucího kolejní skupinky nebo jednoho z jeho zástupců oproti kolejence a záloze.
-3. Ihned po zapůjčení pípy je zodpovědná osoba povinna nahlásit všechny závady správci.
-
-Před vrácením pípy je nutno:
-
-- Očistit pípu vně.
-- Propláchnout trubky i pípu (pouze části, kde teče pivo tzn. **ne přívod vzduchu**!)
-
-Pokud dojde v průběhu zápůjčky k jakémukoliv poškození pípy nebo jejich částí, je nutno toto nahlásit a domluvit se na způsobu náhrady. Pokud se tak neučiní, bude to bráno jako úmyslné poškozování vybavení klubu Pod-O-Lee.
-
-**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání výhod Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**
+Dostupný zde: **[Provozní řád](https://s3.pod.cvut.cz/common/provozni_rady/beer_tap/beer_tap_cz.pdf)**!

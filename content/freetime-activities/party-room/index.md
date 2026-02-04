@@ -24,17 +24,6 @@ Pro rezervaci použijte prosím rezervační systém.
 
 Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abychom měli čas na reakci a mohli vše připravit k předání.
 
-## Řád sudovny
+## Provozní řád
 
-1. Vstupem do prostoru sudovny jste zavázání k dodržování tohoto provozního řádu. Pokud s těmito pravidly nesouhlasíte, opusťte prostor sudovny.
-2. Sudovnu zapůjčuje POUZE VEDOUCÍ KOLEJNÍ SKUPINKY nebo jeho zástupce na základě předchozí rezervace na webu klubu Pod-O-Lee a jenom aktivním členům klubu. Vrátný nemá pravomoc půjčovat klíče a VSTUP BEZ SVOLENÍ VEDOUCÍHO KOLEJNÍ SKUPINKY je klasifikován jako PORUŠENÍ PROVOZNÍHO ŘÁDU.
-3. PŘEDÁNÍM KLÍČŮ je osoba klíče přijímající definována jako ORGANIZÁTOR AKCE.
-4. Při prvním vstupu do sudovny je organizátor akce povinný nahlásit veškeré závady a poškozené vybavení.
-5. Organizátor akce je zodpovědný za účastníky akce (tj. všechny osoby v prostorách sudovny a chodby před sudovnou), zároveň zodpovídá za hluk, poškození vybavení a stav chodby před sudovnou (včetně hasících přístrojů).
-6. KOUŘENÍ, ROZDĚLÁVÁNÍ OHNĚ a KONZUMACE DROG nebo jiných zákonem nepovolených látek je v sudovně ZAKÁZÁNO.
-7. Před rozvázáním statusu organizátor akce (navrácení klíčů vedoucímu kolejní skupiny nebo jeho zástupci) je nutno ZAMÉST a VYTŘÍT podlahu, UKLIDIT a UTŘÍT STOLY, VYNÉST KOŠE, UKLIDIT WC a CHODBU, ZAJISTIT OKNA a ZAMKNOUT DVEŘE.
-8. Pokud dojde v průběhu akce k jakémukoliv poškození vybavení, je nutno tuto skutečnost nahlásit a domluvit se na způsobu náhrady. V opačném případě, je to bráno jako úmyslné poškozování vybavení koleje. Postihy jsou jasně stanoveny v kolejním řádu.
-9. Způsobené škody budou opraveny nebo zaplaceny, případný finanční dluh bude vymáhán vedením kolejí.
-10. Po 22. hodině je nutné dodržovat noční klid (hlavně na chodbě, Sudovna je lehce odhlučněna).
-
-**Při porušení pravidel bude zodpovědná osoba zapsána na tzv. černou listinu. Čímž přijde o možnost využívání výhod Kolejní skupinky (sudovna, pípa, grill). V případě závažnějšího (nebo opakovaného) porušení pravidel může být zodpovědný člen navržen na tříměsíční ban na základní členství v klubu Pod-O-Lee.**
+Dostupný zde: **[Provozní řád Sudovna](https://s3.pod.cvut.cz/common/provozni_rady/party_room/party_room_cz.pdf)**!
