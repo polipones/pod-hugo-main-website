@@ -67,9 +67,9 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
   - [Příloha 1 k IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
 - [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
 - [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025.pdf)
-- [IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)
+- ~~[IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)~~
 - [IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)
-- [IP7/2025 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf)
+- ~~[IP7/2025 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf)~~
 - [IP8/2025 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025.pdf)
   - [Příloha 1 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_1.pdf)
   - [Příloha 2 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_2.pdf)
@@ -261,6 +261,10 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 ## Zápisy ze schůzí
 
 Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klubu pořízen zápis, dokumentující průběh schůze a přijaté závěry a rozhodnutí.
+
+### 2026
+
+- [Zápis 26.1.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260126_zapis.pdf)
 
 ### 2025
 
