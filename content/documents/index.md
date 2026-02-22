@@ -58,8 +58,9 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 ### 2026
 
-- [IP1/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-1-2026.pdf)
+- ~~[IP1/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-1-2026.pdf)~~
 - [IP2/2026 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-2-2026.pdf)
+- [IP3/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-3-2026.pdf)
 
 ### 2025
 
