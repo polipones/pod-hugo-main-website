@@ -26,6 +26,7 @@ tocopen: true
 
 Na konci každého roku je vytvářen dokument shrnující činnost klubu za uplynulé období. Na základě rozhodnutí Gremia SU ze dne 12. 12. 2002 mají kluby za povinnost vytvářet na konci roku dokument nazvaný Výroční zpráva.
 
+- [Výroční zpráva 2025](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2025.pdf)
 - [Výroční zpráva 2024](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2024.pdf)
 - [Výroční zpráva 2023](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2023.pdf)
 - [Výroční zpráva 2022](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2022.pdf)
