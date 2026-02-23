@@ -404,7 +404,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
-- [26.1.2026](https://s3.pod.cvut.cz/common/legislativa/usneseni/20260126_usneseni.pdf)
+- [22.2.2026](https://s3.pod.cvut.cz/common/legislativa/usneseni/20260222_usneseni.pdf)
 
 ## Hlasování per rollam
 
