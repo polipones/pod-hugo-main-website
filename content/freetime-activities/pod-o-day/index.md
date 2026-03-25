@@ -16,8 +16,8 @@ weight: 9
 <!--{{<figure src="images/freetime-activities/pod-o-day/pod-o-day-banner.png" alt="Pod-O-Day banner" imgop="rt_fit">}}-->
 
 - Datum konání: **25. 4. 2026**
-<!-- Registrační formulář pro týmy: [https://forms.gle/sEvAuF1JjDHZBUu77](https://forms.gle/sEvAuF1JjDHZBUu77)
-- FB událost: [https://facebook.com/events/s/pod-o-day-2025/1840669893420418/](https://facebook.com/events/s/pod-o-day-2025/1840669893420418/)-->
+ Registrační formulář pro týmy: [https://forms.gle/VHJHov55GM7nHuzQ8](https://forms.gle/VHJHov55GM7nHuzQ8)
+<!--- FB událost: [https://facebook.com/events/s/pod-o-day-2025/1840669893420418/](https://facebook.com/events/s/pod-o-day-2025/1840669893420418/)-->
 
 ## Program
 
