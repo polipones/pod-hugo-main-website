@@ -52,9 +52,18 @@ Na konci každého roku je vytvářen dokument shrnující činnost klubu za upl
 - ~~[Stanovy od 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf)~~
 - ~~[Stanovy od 19. 10. 2016 do 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2016.pdf)~~
 
+### S budoucí platností
+
+- [Stanovy od 1. 7. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2026.pdf)
+
 ## Interní předpisy
 
 Interní předpisy jsou upřesňující dokumenty, které momentem svého schválení Představenstvem doplňují Stanovy klubu a mají platnost jako součást Stanov.
+
+### S budoucí platností
+
+- [IP4/2026 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-4-2026.pdf)
+- [IP5/2026 Členství klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2026.pdf)
 
 ### 2026
 
