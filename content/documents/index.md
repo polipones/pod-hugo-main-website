@@ -48,28 +48,22 @@ Na konci každého roku je vytvářen dokument shrnující činnost klubu za upl
 
 ## Stanovy klubu
 
-- [Stanovy od 1. 1. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf)
+- [Stanovy od 1. 7. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2026.pdf)
+~~- [Stanovy od 1. 1. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf)~~
 - ~~[Stanovy od 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf)~~
 - ~~[Stanovy od 19. 10. 2016 do 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2016.pdf)~~
-
-### S budoucí platností
-
-- [Stanovy od 1. 7. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2026.pdf)
 
 ## Interní předpisy
 
 Interní předpisy jsou upřesňující dokumenty, které momentem svého schválení Představenstvem doplňují Stanovy klubu a mají platnost jako součást Stanov.
-
-### S budoucí platností
-
-- [IP4/2026 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-4-2026.pdf)
-- [IP5/2026 Členství klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2026.pdf)
 
 ### 2026
 
 - ~~[IP1/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-1-2026.pdf)~~
 - [IP2/2026 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-2-2026.pdf)
 - [IP3/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-3-2026.pdf)
+- [IP4/2026 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-4-2026.pdf)
+- [IP5/2026 Členství klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2026.pdf)
 
 ### 2025
 
@@ -79,7 +73,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 - [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
 - [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025.pdf)
 - ~~[IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)~~
-- [IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)
+~~- [IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)~~
 - ~~[IP7/2025 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf)~~
 - [IP8/2025 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025.pdf)
   - [Příloha 1 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_1.pdf)
@@ -89,7 +83,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 - [IP9/2025 Zápisy ze schůzí Představenstva klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025.pdf)
   - [Příloha 1 k IP9/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025_priloha_1.pdf)
   - [Příloha 2 k IP9/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025_priloha_2.pdf)
-- [IP10/2025 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-10-2025.pdf)
+~~- [IP10/2025 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-10-2025.pdf)~~
 
 ### 2024
 
