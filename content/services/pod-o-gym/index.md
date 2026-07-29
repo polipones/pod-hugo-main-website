@@ -15,12 +15,6 @@ tocopen: true
 <strong id="presence-count" style="font-style: bold; font-size: 1.7rem;">Načítání...</strong>
 {{</rawhtml>}}
 
-## Aktuality
-
-- Zavedli jsme nový rezervační systém na saunu, <https://olymp.pod.cvut.cz>, více info [v sekci o sauně](#sauna).
-- Do týmu se k nám přidali dva instruktoři lezení na boulderu a aktualizovali jsme [sekci o boulderu](#boulder).
-- 16\. 11. 2024 se bude konat akce Benchpress, více info a přihlášky na [Facebook události](https://www.facebook.com/events/1249072136219616).
-
 ## Provozní řád
 
 Dostupný zne **[Provozní řád Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf)**!
@@ -128,7 +122,7 @@ V případě problémů nebo nejasností piš na email <j.karban@pod.cvut.cz> n
 
 Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst pravidla pro používaní sauny a pokyny pro její spuštění.
 
-Rezervace sauny se provádí přes rezervační systém na adrese: <https://olymp.pod.cvut.cz>. Přihlašovací údaje jsou shodné s Hydrou.
+Rezervace sauny se provádí přes rezervační systém na adrese: <https://hydra.pod.cvut.cz/reservations/>.
 
 #### Provozní řád
 

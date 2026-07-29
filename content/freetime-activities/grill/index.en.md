@@ -17,11 +17,7 @@ Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 
 ## Instructions for lending a grill
 
-1. Create a reservation in the Olymp reservation system.
-    * Enter [olymp.pod.cvut.cz](https://olymp.pod.cvut.cz) into your browser.
-    * Log in is the same as in the Hydra system.
-    * Check the **Rooms** tab to see if the grill is available for that date.
-    * If so, make a reservation in the **Reservations** tab.
+1. Create a reservation in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
 2. Send an email with important details to <party@pod.cvut.cz>.
     * Your full name, ID (can be found in the Hydra) and room.
     * What do you want to rent and when do you want to rent it.
@@ -33,7 +29,7 @@ Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 ## Operating rules for the grill
 
 1. By entering the grill area you are obliged to follow these operating rules. If you do not agree with these rules, leave the grill area.
-2. The grill is **ONLY** to be rented by the **DORM GROUP LEADER** or his/her deputy with the approval of the college administration upon prior reservation in the [Olymp](https://olymp.pod.cvut.cz) system and only to club members. **ENTRY WITHOUT THE COLLEGE GROUP LEADER'S CONSENT** is classified as a **VIOLATION OF THE RULES OF ORDER**.
+2. The grill is **ONLY** to be rented by the **DORM GROUP LEADER** or his/her deputy with the approval of the college administration upon prior reservation in the [reservation system](https://hydra.pod.cvut.cz/reservations/) system and only to club members. **ENTRY WITHOUT THE COLLEGE GROUP LEADER'S CONSENT** is classified as a **VIOLATION OF THE RULES OF ORDER**.
 3. With **transfer of grill accessories** is the person receiving the accessories defined as the **organizer of the event**.
 4. The **event organizer** shall report any defects or damaged equipment when first entering the grill area.
 5. The event organizer is responsible for all the people present at the event (i.e. all people in and around the grill area), and is also responsible for noise, equipment damage, and the condition of the grill area.

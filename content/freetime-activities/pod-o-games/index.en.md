@@ -33,7 +33,7 @@ The operating rules are below. Everyone receiving the keys to the room is oblige
 
 ### 1. Steps to borrow the room
 
-1. Before entering the room is necessary to have a reservation at least 24 hours before in the [Olymp reservation system](https://olymp.pod.cvut.cz).
+1. Before entering the room is necessary to have a reservation at least 24 hours before in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
 2. Send an e-mail with important info (date, name, room, ID) to <games@pod.cvut.cz>.
 3. Upon entering the room, the Borrower states that he/she has read and understands the Operating rules.
 

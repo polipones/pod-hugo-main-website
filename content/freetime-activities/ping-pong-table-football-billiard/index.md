@@ -15,7 +15,7 @@ Kontakt a správce najdeš na stránce [Kontakty]({{< ref "/contacts/index.md#he
 
 # Chci si zahrát. Co teď?
 
-1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v [rezervačním systému Olymp](https://olymp.pod.cvut.cz). Maximální doba rezervace je 6 hodin.
+1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/). Maximální doba rezervace je 6 hodin.
 2. Poslat mail s nezbytnými informacemi (Datum, Jméno, pokoj, ID, místnost co si chceš půjčit) na adresu: <barovky@pod.cvut.cz>.
 3. Se vstupem do místnosti vypůjčitel souhlasí, že si přečetl a byl srozuměn s Provozním řádem.
 

@@ -13,7 +13,7 @@ Administrators: [Contacts]({{< ref "/contacts/index.md#party-room" >}})
 
 ## How to make a reservation
 
-1. Make a reservation in our [reservation system Olymp](https://olymp.pod.cvut.cz).
+1. Make a reservation in our [reservation system](https://hydra.pod.cvut.cz/reservations/).
 2. Send an e-mail with crucial info (name, date, ID, room) to <party@pod.cvut.cz>.
 3. Based on this email the Head of dormitory group will contact you and you will agree on lending of keys and other accessories.
 4. Amount of **500 CZK is collected as a returnable deposit**.

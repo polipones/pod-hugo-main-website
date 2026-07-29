@@ -75,11 +75,7 @@ Paper details: weight 80 g/m2, whiteness 146 CIE, opacity 92%.
 
 ## Room Reservation
 
-1. Create a reservation in the Olymp reservation system.
-    - Enter <olymp.pod.cvut.cz> into your browser.
-    - Login details are the same as for Hydra.
-    - In the **Rooms** tab, check if the back room of the PC classroom is available on the given date.
-    - If so, make a reservation in the **Reservations** tab.
+1. Create a reservation in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
 2. Send an email with important details to <ucebna@pod.cvut.cz>
     - **That you want to confirm your reservation**
     - **Your name**

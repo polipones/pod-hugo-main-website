@@ -129,7 +129,6 @@ Všechno, co má na našich kolejích nějakou souvislost s počítači spravuje
     - Frontend: Bootstrap 3 (AdminLTE) + JS (cílem je přepsat frontend pomocí nějakého frameworku - help needed -> [Kontakt na správce systémů]({{< ref "/contacts/index.md#síťaři" >}}))
   - Konkrétní webové stránky/aplikace
     - Oficiální webové stránky klubu ([Hugo](https://gohugo.io/)) - [pod.cvut.cz](https://pod.cvut.cz)
-    - Rezervační systém ve vývoji - [olymp.pod.cvut.cz](https://olymp.pod.cvut.cz)
     - Cloudové úložiště pro aktivní členy klubu ([Nextcloud](https://nextcloud.com/)) - [cloud.pod.cvut.cz](https://cloud.pod.cvut.cz)
     - Webmail pro aktivní členy klubu - [webmail.pod.cvut.cz](https://webmail.pod.cvut.cz)
 - Kartový systém (momentálně od firmy IMA, hledáme náhradu za moderní řešení)

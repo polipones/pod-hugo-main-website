@@ -221,6 +221,10 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
 ## Nařízení předsedy
 
+### 2026
+
+- [NP1/2025 Nařízení předsedy - Kamerové záznamy a fungování místností](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2026.pdf)
+
 ### 2025
 
 - [NP1/2025 Nařízení předsedy - Zřízení projektu Pod-O-Šplouch](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2025.pdf)

@@ -15,12 +15,6 @@ tocopen: true
 <strong id="presence-count" style="font-style: bold; font-size: 1.7rem;">Loading...</strong>
 {{</rawhtml>}}
 
-## News
-
-- We have introduced a new booking system for the sauna, available at <https://olymp.pod.cvut.cz>. More info can be found in the [sauna section](#sauna).
-- Two new bouldering instructors have joined our team, and we've updated the [bouldering section](#boulder).
-- On 16. November 2024, the Benchpress event will take place. More info and registration on the [Facebook event page](https://www.facebook.com/events/1249072136219616).
-
 ## Operating rules
 
 Available here: **[Operating rules Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf)**!
@@ -128,7 +122,7 @@ If you have any problems or questions, please email <j.karban@pod.cvut.cz> or <v
 
 Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to read our rules before using sauna, in which you will also find how to pay for sauna.
 
-You can reserve sauna from reservation system here: <https://olymp.pod.cvut.cz>. Use same login credentials as to Hydra.
+You can reserve sauna from reservation system here: <https://hydra.pod.cvut.cz/reservations/>.
 
 #### Operation rules
 

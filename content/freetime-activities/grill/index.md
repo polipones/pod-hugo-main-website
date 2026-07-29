@@ -33,11 +33,7 @@ Součástí krbu **není uhlí ani podpalovač**. Každý si tedy uhlí musí 
 
 ## Návod na půjčení grilu
 
-1. Vytvoř si rezervaci v rezervačním systému Olymp.
-    * Do prohlížeče zadej stránku [olymp.pod.cvut.cz](https://olymp.pod.cvut.cz).
-    * Přihlas se stejně jako v Hydře.
-    * V záložce **Rooms** si zjisti, zda je gril v daný termín volný.
-    * Pokud ano, vytvoř si rezervaci v záložce **Reservations**.
+1. Vytvoř si rezervaci v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
 2. Pošli email s důležitými údaji na <party@pod.cvut.cz>.
     * Tvoje celé jméno, ID (najdeš v Hydře) a pokoj.
     * Co a kdy chceš půjčit.

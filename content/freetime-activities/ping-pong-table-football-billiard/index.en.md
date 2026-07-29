@@ -14,7 +14,7 @@ If you want to play ping-pong, football, darts or billiards, you can find inform
 You can find the contact and administrator on the [Contacts]({{< ref "/contacts/index.md#bar-games-table-tennis-table-football-billiard" >}}) page.
 
 # I want to play. What now?
-1. You must have a reservation made at least 24 hours in advance on the [Olymp reservation system](https://olymp.pod.cvut.cz) before entering the room. The maximum booking time is 6 hours.
+1. You must have a reservation made at least 24 hours in advance on the [reservation system](https://hydra.pod.cvut.cz/reservations/) before entering the room. The maximum booking time is 6 hours.
 2. Send an email with the necessary information (Date, Name, Room ID, Room you want to rent) to: <barovky@pod.cvut.cz>.
 3. By entering the room, the borrower agrees that he/she has read and understood the Operating Rules.
 
@@ -40,7 +40,7 @@ TL;DR don't break anything and act like a human being in there.
 
 1. Access to the football and ping-pong room of the Pod-O-Lee club of the CTU Student Union (furthermore referred to as the football room) is allowed only to members of the Pod-O-Lee club. By entering the room, they confirm their acceptance of the Operating Rules and Regulations for the use of the football room of the Pod-O-Lee Club of the CTU Student Union (furthermore referred to as the Operating Rules) and agree to follow by them.
 2. User means any person who is present in the football room.
-3. Borrower means a member of the Pod-O-Lee club who makes a reservation using the [Olymp reservation system](https://olymp.pod.cvut.cz). The football tables and the ping-pong table are the property of the Administration of Purpose-built Facilities of the CTU in Prague (furthermore referred to as the SU).
+3. Borrower means a member of the Pod-O-Lee club who makes a reservation using the [reservation system](https://hydra.pod.cvut.cz/reservations/). The football tables and the ping-pong table are the property of the Administration of Purpose-built Facilities of the CTU in Prague (furthermore referred to as the SU).
 4. A key is used to enter the football room. Each borrower of the football room must make a reservation in the reservation system before coming to the football room, then contact the administrator of the game rooms (furthermore referred to as the administrator) in order to borrow the keys. By accepting the keys to the room, the borrower agrees to comply with all the provisions of these Operating Regulations and agrees with all the obligations set out in these Operating Regulations. By entering the room, all visitors agree to the making of a video recording which may be used in the event of a breach of any of the rules. The handling of CCTV footage is covered in IP5/2022 CCTV.
 5. The opening hours of the football room are 7:00am to 10:00pm. Exceptions may be made by agreement with the administrator.
 6. The user is obliged to keep order in the football room.
@@ -76,7 +76,7 @@ TL;DR don't break anything and act like a human being in there.
 
 1. Access to the billiard room of the Pod-O-Lee club of the CTU Student Union (furthermore referred to as the billiard room) is allowed only to members of the Pod-O-Lee club. By entering the room they confirm their agreement with the Operating Rules and Rules of Use of the Billiard Room of the Pod-O-Lee Club of the CTU Student Union (furthermore referred to as the Operating Rules) and undertake to comply with them.
 2. User means any person who is present in the billiard room.
-3. Borrower means a member of the Pod-O-Lee Club who makes a reservation using the [Olymp reservation system](https://olymp.pod.cvut.cz). Billiard tables are the property of the Administration of Purpose-built Facilities of the CTU in Prague (hereinafter referred to as the CTU SÚZ).
+3. Borrower means a member of the Pod-O-Lee Club who makes a reservation using the [reservation system](https://hydra.pod.cvut.cz/reservations/). Billiard tables are the property of the Administration of Purpose-built Facilities of the CTU in Prague (hereinafter referred to as the CTU SÚZ).
 4. A key is used to enter the billiard room. Each billiard borrower must make a reservation in the reservation system before entering the billiard room, then contact the administrator of the game rooms (hereinafter referred to as the administrator) in order to borrow the keys. By accepting the keys to the room, the borrower agrees to follow all the rules of these Operating Rules and assumes all the obligations set out in these Operating Rules. By entering the room, all visitors agree to the making of a video recording which may be used in the event of a breach of any of the rules. The handling of CCTV footage is covered in IP5/2022 CCTV.
 5. The opening hours of the pool room are from 7:00am to 10:00pm. Exceptions may be made by agreement with the administrator.
 6. The user is obliged to maintain order in the billiard room. At the end of the game to put the balls in the appropriate box, cues to stand.

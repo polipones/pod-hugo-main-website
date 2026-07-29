@@ -75,11 +75,7 @@ gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
 
 ## Rezervace zadní místnosti
 
-1. Vytvoř si rezervaci v rezervačním systému Olymp.
-    - Do prohlížeče zadej stránku <olymp.pod.cvut.cz>.
-    - Přihlašovací údaje jsou stejné jako k Hydře.
-    - V záložce **Rooms** si zjisti, zda je zadní místnost PC učebny v daný termín volná.
-    - Pokud ano, vytvoř si rezervaci v záložce **Reservations**
+1. Vytvoř si rezervaci v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
 2. Pošli email s důležitými údaji na <ucebna@pod.cvut.cz>
     - **Že chceš potvrdit rezervaci**
     - **Své jméno**

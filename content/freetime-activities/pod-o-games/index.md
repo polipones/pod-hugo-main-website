@@ -33,7 +33,7 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 
 ### 1. Krok pro zapůjčení místnosti
 
-1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v rezervačním systému [Olymp](https://olymp.pod.cvut.cz).
+1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
 2. Poslat mail s nezbytnými informacemi (Datum, Jméno, pokoj, ID) na adresu: <games@pod.cvut.cz>.
 3. Se vstupem do místnosti vypůjčitel souhlasí, že si přečetl a byl srozuměn s Provozním řádem.
 
