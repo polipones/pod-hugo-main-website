@@ -7,9 +7,6 @@ url: freetime-activities/pod-o-film
 slug: pod-o-film
 # Defines sorting of pages in parent list
 weight: 4
-aliases:
-    - /freetime-activities/movie-club
-
 showtoc: false
 ---
 The film club introduces Podolí residents to the diversity of cinema. Every Tuesday, we screen films from a wide range of genres, from cult series such as The Godfather to black-and-white classics, comedies, and westerns. Each film is followed by a discussion about what people enjoyed and what made the film interesting.

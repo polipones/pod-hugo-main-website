@@ -6,10 +6,8 @@ url: payments
 slug: payments
 
 aliases:
-    - /en/services/membership-fees
-    - /en/membership
     - /membership
-    - /payments
+    - /services/membership-fees
 ---
 
 If you have any problems with a membership payment, email <platby@pod.cvut.cz>.

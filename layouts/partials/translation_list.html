@@ -1,0 +1,21 @@
+{{- if .IsTranslated -}}
+{{- if and (ne .Layout "search") (ne .Layout "post-category") }}
+{{- if or .Params.author $.Site.Params.author (.Param "ShowReadingTime") (and (not .Date.IsZero) (not (.Param "HidePublishDate"))) }}&nbsp;|&nbsp;{{- end -}}
+{{- end }}
+<ul class="i18n_list">
+    {{- i18n "translations" | default "Translations" }}:
+    {{- range .Translations }}
+    {{ if (not (.Param "HideThisTranslation")) }}
+    <li>
+        <a href="{{ .Permalink }}">
+            {{- if (and $.Site.Params.displayFullLangName (.Language.Label)) }}
+            {{- .Language.Label | emojify -}}
+            {{- else }}
+            {{- .Lang | title -}}
+            {{- end -}}
+        </a>
+    </li>
+    {{ end }}
+    {{- end }}
+</ul>
+{{- end -}}

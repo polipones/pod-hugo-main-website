@@ -98,7 +98,7 @@ outputs:
 defaultContentLanguage: cs
 languages:
   cs:
-    languageName: ":cs:"
+    label: ":cs:"
     languageAltTitle: Čeština
     weight: 1
     menu:
@@ -132,7 +132,7 @@ languages:
           url: hledat
           weight: 9
   en:
-    languageName: ":en:"
+    label: ":en:"
     languageAltTitle: English
     weight: 2
     menu:
@@ -166,7 +166,7 @@ languages:
           url: search
           weight: 9
   ru:
-    languageName: ":ru:"
+    label: ":ru:"
     languageAltTitle: русский
     weight: 3
     menu:

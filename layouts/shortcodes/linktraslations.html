@@ -1,0 +1,30 @@
+{{- if $.Page.IsTranslated -}}
+    <h2>Sorry, this page is not translated to this language yet</h2>
+    <p>You can use any of existing translations listed below.</p>
+
+
+    {{- range $index, $page := $.Page.Translations }}
+
+    {{ if not $page.Params.HideThisTranslation }}
+
+    {{- $class := "post-entry translated-option" }}
+
+    <article class="{{ $class }}">
+    {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList)}}
+    {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    <header class="entry-header">
+        <h3>
+            {{ .Title }}
+            {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
+            {{- if (and $.Page.Site.Params.displayFullLangName (.Language.Label)) }}
+                ({{- .Language.Label | emojify | humanize -}})
+            {{- else }}
+                ({{- .Lang | humanize -}})
+            {{- end -}}
+        </h3>
+    </header>
+    <a class="entry-link" aria-label="page link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+    </article>
+    {{ end }}
+    {{- end }}
+{{- end }}

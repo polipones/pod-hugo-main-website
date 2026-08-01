@@ -21,16 +21,25 @@ git submodule add https://github.com/polipones/hugo-PaperMod-POD.git themes/POD 
 git submodule update --init --recursive
 ```
 
-3. Nainstalovat Hugo: https://gohugo.io/getting-started/installing/
-4. Ve složce projektu spustit server
+3. Ve složce projektu spustit lokální server
 
 ```bash
-npm run dev
+docker compose up --build
+```
+
+Web bude dostupný na http://localhost:1313.
+
+Před odesláním změn spusť produkční sestavení včetně kontroly varování,
+interních odkazů, obrázků a fragmentů:
+
+```bash
+docker compose run --rm --no-deps web sh scripts/validate_site.sh
 ```
 
 ## Úpravy nasazeného webu
 
-Pro provedení úprav na produkční serveru (na adrese https://pod.cvut.cz) je nutné lokální změny commitnout a pushnout na Gitlab větev _main_. Zbytek nasazení je automatický.
+Push do větve _develop_ nasadí změny na staging https://new.podolee.cz.
+Push do větve _main_ nasadí produkční web https://podolee.cz. Zbytek nasazení je automatický.
 
 Je dobré testovat změny s puštěným lokálním serverem, aby se zamezilo zbytečným chybám při nasazení.
 

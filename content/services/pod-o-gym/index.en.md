@@ -3,8 +3,6 @@
 title: Pod-O-Gym
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: benefits/pod-o-gym
-aliases:
-    - /services/pod-o-gym
 slug: pod-o-gym
 weight: 3
 

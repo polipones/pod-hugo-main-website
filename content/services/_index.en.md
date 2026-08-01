@@ -5,9 +5,5 @@ title: Membership benefits
 url: benefits
 slug: benefits
 
-aliases:
-    - /services
-
 HidePublishDate: true
 ---
-
