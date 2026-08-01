@@ -18,4 +18,4 @@ we have had a fencing group at the dorms since 2020. We focus mainly on wooden s
 You can join us for large battles such as Lord of the Rings, Helm's Deep, or The Battle Under the Mountain, but we also attend smaller events. This year, we are planning to organize a weekend training camp again and participate in events organized by the Pod-O-Lee dormitory club.
 
 
-If you want to join us or just try fencing, don't hesitate to join our [Discord server](https://discord.gg/vPBM8qSgX7) via the link, where we discuss regular training sessions, events, and how to get there.
+If you want to join us or just try fencing, don't hesitate to join our [Discord server](https://discord.gg/J8eXmNGBhE) via the link, where we discuss regular training sessions, events, and how to get there.

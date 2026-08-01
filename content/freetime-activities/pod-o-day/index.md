@@ -17,7 +17,7 @@ weight: 9
 
 - Datum konání: **25. 4. 2026**
 - Registrační formulář pro týmy: [https://forms.gle/VHJHov55GM7nHuzQ8](https://forms.gle/VHJHov55GM7nHuzQ8)
-- Discord: [https://discord.gg/kvA4Mu3T?event=1486285282721529876](https://discord.gg/kvA4Mu3T?event=1486285282721529876)
+- Discord: [https://discord.gg/J8eXmNGBhE?event=1486285282721529876](https://discord.gg/J8eXmNGBhE?event=1486285282721529876)
 <!--- - FB událost: [https://facebook.com/events/s/pod-o-day-2025/1840669893420418/](https://facebook.com/events/s/pod-o-day-2025/1840669893420418/)-->
 
 ## Program

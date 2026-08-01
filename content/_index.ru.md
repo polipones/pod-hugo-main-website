@@ -34,7 +34,7 @@ HidePublishDate: true
 Также присоединяйтесь к группе Facebook своего блока, чтобы не пропустить важную информацию о блоке, например, когда будет проходить мероприятие "Познакомьтесь с администратором": [Блок A](http://www.facebook.com/groups/A.Podolee/), [Блок B](http://www.facebook.com/groups/B.Podolee/), [Блок C](http://www.facebook.com/groups/C.Podolee/), [Блок D](http://www.facebook.com/groups/D.Podolee/), [Блок E](https://www.facebook.com/groups/E.Podolee/), [Блок F](http://www.facebook.com/groups/F.Podolee/).
 
 - [Instagram](https://www.instagram.com/pod_o_lee/)
-- [Discord](https://discord.gg/bSP7qnZY5y)
+- [Discord](https://discord.gg/J8eXmNGBhE)
 
 ## Календарь событий клуба
 

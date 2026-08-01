@@ -40,7 +40,7 @@ Join your block facebook group too, so you don’t miss informations regarding b
 
 - [Facebook page](https://www.facebook.com/profile.php?id=100080945754982)
 - [Instagram](https://www.instagram.com/pod_o_lee/)
-- [Discord](https://discord.gg/bSP7qnZY5y)
+- [Discord](https://discord.gg/J8eXmNGBhE)
 
 ## First day
 
