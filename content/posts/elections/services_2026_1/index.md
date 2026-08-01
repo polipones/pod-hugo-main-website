@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na Správce sítě, Správce systémů, Správce projektů a Správce Pod-O-Gym # TODO
+title: Volby na správce sítě, systémů, projektů a Pod-O-Gym
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace a výsledky voleb správců klubových služeb."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -34,7 +34,7 @@ V řádných volbách se na post Správce Pod-O-Gym přihlásili 2 kandidáti:
 
 Kandidátky jednotlivých kandidátů naleznete na odkazech výše.
 
-Volby proběhnou elektronickou formou od **02.05.2026 12:00 do 07.05.2026 20:00**. Pro přihlášení do volebního systému využijte [tento odkaz](https://hydra.pod.cvut.cz/elections/3). Volit může každý člen klubu Pod-O-Lee s alespoň Základním členstvím.
+Volby proběhnou elektronicky od **2. 5. 2026 12:00 do 7. 5. 2026 20:00**. Do volebního systému se přihlaste pomocí [tohoto odkazu](https://hydra.pod.cvut.cz/elections/3). Volit může každý člen klubu Pod-O-Lee s alespoň základním členstvím.
 
 V případě problémů nás kontaktujte na e-mail <volby@pod.cvut.cz>.
 
@@ -69,7 +69,7 @@ Volby se řídí [IP2/2026](https://s3.pod.cvut.cz/common/legislativa/ip/IP-2-2
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".

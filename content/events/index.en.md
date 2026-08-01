@@ -15,13 +15,13 @@ weight: 1
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
 {{</rawhtml>}}
 
-## Event for newcomers/firstgraders
+## Newcomers’ event
 
-Main goal of this event is to familiarize students with the Podolí dormitory life. The event includes a discussion with representatives of respective organisations which makes an opportunity to greet other students living at the dormitory and to include oneself to the new social bubble with ones colleagues. Presentations about the dormitory are being projected and the discussion with invited guests and students follows.
+This event introduces new students to life at the Podolí dormitory. Representatives of local organisations present their activities and answer questions. It is also an opportunity to meet other residents.
 
-There are multiple tables representing each of the main benefits, fun activities and the Pod-O-Lee club itself. There is also a tour around the dormitory to show people where to find everything.
+Information stands introduce the club’s benefits, activity groups, and Pod-O-Lee itself. Guided tours show newcomers where to find the different facilities and services.
 
-The evening also includes beer, sweet drink and something to eat aswell.
+Refreshments, beer, and soft drinks are also available.
 
 [Freshman’s guide to Podolí](../AP_EN.pdf)
 
@@ -32,7 +32,7 @@ The evening also includes beer, sweet drink and something to eat aswell.
 
 ## Halloween party
 
-A competition for the best disguise, beerpong, photo booth and a lot of fun with fun people. That is what the Halloween party is all about.
+The Halloween party features a costume competition, beer pong, a photo booth, and a lively crowd.
 
 {{<figure_gallery>}}
     {{<figure src="images/events/halloween_02.jpg" alt="Halloween photo">}}
@@ -41,36 +41,36 @@ A competition for the best disguise, beerpong, photo booth and a lot of fun with
 
 ## Podolí Christmas
 
-The annual event has a goal to set the atmosphere for upcoming holidays. Grilled sausages, hot griot, tea, tea with rum and mulled wine can be grabbed there. The czech tradition of christmas biscuts and smaller pieces of gingerbread is also being respected.
+This annual event gets residents into the holiday spirit. Food and drinks include grilled sausages, hot griotte, tea, tea with rum, mulled wine, and homemade Christmas gingerbread.
 
-The christmas atmosphere is also boosted by a bit of a copmetition element. The main goal is to make peace, greet new people and have fun.
+Christmas carols, friendly competitions, and a relaxed atmosphere give residents a chance to meet and enjoy the evening together.
 
 {{<figure_gallery>}}
     {{<figure src="images/events/christmas_01.jpg" alt="POD Christmas 1">}}
     {{<figure src="images/events/christmas_02.jpg" alt="POD Christmas 2">}}
 {{</figure_gallery>}}
 
-## Podolí Velentine's day
+## Podolí Valentine’s Day
 
-Event not only for those without their significant other to spend the evennig unalone.
+An event for everyone, including those who do not want to spend Valentine’s evening alone.
 
 {{<figure_gallery>}}
-    {{<figure src="images/events/valentyn_01.jpg" alt="Velentine photo">}}
-    {{<figure src="images/events/valentyn_02.jpg" alt="Velentine photo">}}
+    {{<figure src="images/events/valentyn_01.jpg" alt="Valentine's Day photo">}}
+    {{<figure src="images/events/valentyn_02.jpg" alt="Valentine's Day photo">}}
 {{</figure_gallery>}}
 
 ## MEZI BLOKY
 
-MEZI BLOKY is a music open air festival which tries to support less known and starting bands and creativity of students. It also promotes student associations and the culture of Prague.
+MEZI BLOKY is an open-air music festival supporting emerging bands, student creativity, associations, and culture in Prague 4.
 
-Everything isn't about music. Throughout the whole day there are various activities, such as body zorbing, jumping boots, simulators and drinking games. There is also a chillout zone and plenty of competitions taking place in front of the main stage. Afterparty is also taking place.
+The programme is not limited to music. Activities, simulators, competitions, and a chill-out zone run throughout the day, followed by an afterparty.
 
-### From last year
+### Festival in 2022
 
-Last year 15th event took place on 15th May 2022. Main stage was occupied by Amazing Whores, Popcorn, Forgot It's Monday, Ventolin and Circus Brothers. The other stage held the Hellway and Koja performance. There was also a possibility to try the F1 simulator, visit the Girl zone or try various competitions.
+The 15th festival took place on 15 May 2022. Amazing Whores, Popcorn, Forgot It’s Monday, Ventolin, and Circus Brothers performed on the main stage, while Hellway and Koja appeared on the second stage. Visitors could also try an F1 simulator, visit the Girl Zone, and take part in competitions.
 
-Facebook page: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
-Mezibloky webpage: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
+- Facebook: [MEZI BLOKY](https://www.facebook.com/mezibloky)
+- Website: [mezibloky.pod.cvut.cz](https://mezibloky.pod.cvut.cz/)
 
 {{<figure_gallery>}}
     {{<figure src="images/events/mb_01.jpg" alt="Mezibloky photo">}}
@@ -83,7 +83,7 @@ Mezibloky webpage: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.c
 
 ## Meet the block administrators
 
-Are you new at the dorm? Do you want to know more people including the people who can unlock your doors for you or give you access to various things such as internet or gym? For this very purpose this event takes place at every block. For more info including the date of next meet your admin event:
+Are you new to the dormitory and interested in meeting your neighbours and block administrators? Each block holds this event several times a year. Check your block’s Facebook group for the next date:
 
 - [Block A](http://www.facebook.com/groups/A.Podolee/)
 - [Block B](http://www.facebook.com/groups/B.Podolee/)

@@ -9,24 +9,24 @@ slug: music-room
 weight: 4
 ---
 
-A fully equipped and with noise cancellation installed music room is available for every music enthusiast or band for music production and practice. You are sure welcome to enjoy yourself, have some rest from school or work or just practice.
+A fully equipped, soundproofed music room is available to musicians and bands for rehearsals and music production. Come and play, sing, or simply take a break from school or work.
 
-It is available at the B block basement.
+It is located in the basement of block B.
 
 If you are interested, you can join the [Music room's Facebook group](https://www.facebook.com/groups/135514173251273/).
 
 ## Equipment
 
-- Electric piano KAWAI, high quality mechanics (sample: 9x piano, 4x electric piano) + USB & MIDI output
-- Drumset + cajon + set of microphones to record the drumset
-- Dynamic microphones Shure SM57 and omnidirectional condensator microphone AT-2035
-- Bass + Marshall combo
-- Electric guitar + Fender combo + digital effect
-- 12 channel mix table PHANTOM 24/48 (delay effects, condensator mics, etc.)
-- Amplifier + 2 high quality PA speakers MACKIE S512M
-- Digital sound interface TASCAM for recording
+- Kawai electric piano with weighted keys, multiple sounds, and USB and MIDI outputs
+- drum kit, cajon, and a set of drum microphones
+- Shure SM57 dynamic microphones and an Audio-Technica AT2035 condenser microphone
+- bass guitar and Marshall amplifier
+- electric guitar, Fender amplifier, and digital effects unit
+- 12-channel mixing console with phantom power and effects
+- amplifier and two Mackie S512M PA speakers
+- Tascam digital audio interface for recording
 
-The room has constant camera surveillance.
+The room is under continuous video surveillance.
 
 {{<figure_gallery>}}
     {{<figure src="images/services/music-room/music-room-1.jpg" alt="Music room photo 1">}}
@@ -39,18 +39,18 @@ The room has constant camera surveillance.
 
 #### Already a club member?
 
-Ask a televizor to give you the 10 day free access trial. If you do not have your card connected to your Hydra account, go to the Music room and scan it 5 times via the scanner and remember the scanning time. Then visit any televizor to finish the process.
+Ask a televizor for a ten-day free trial. If your card is not yet linked to your Hydra account, go to the music room, scan the card five times, and remember the exact time. Then visit a televizor to complete the process.
 
-If you already have your card connected to your Hydra account, you only need to go through the [Music room Operating rules]({{< ref "#operating-rules" >}}) and enjoy your stay at the Music room. Just do not forget to make the [Music room payment]({{< ref "/payments/index.md" >}}) after your free trial and keep enjoying!
+If your card is already linked to your Hydra account, read the [music-room operating rules]({{< ref "#operating-rules" >}}) before using the room. After the trial, pay the relevant [membership fee]({{< ref "/payments/index.en.md" >}}) to retain access.
 
 #### Not a club member just yet?
 
-Before the club registration process itself visit the Music room and scan the card 5 times via the card reader next to the door and remember the scanning time. Seek a televizor afterwards and he or she will guide you through the rest of the process.
+Before registering with the club, visit the music room, scan your card five times using the reader by the door, and remember the exact time. A televizor will then guide you through the rest of the process.
 
 ### Not a dormitory resident
 
-Unfortunately, we cannot accept non-residents because the music room is inside the dorm block without external access.
+Unfortunately, the music room is not available to non-residents because it does not have a separate external entrance.
 
 ## Operating rules
 
-Available here: **[Operating rules Music room](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_en.pdf)**!
+Read the [music-room operating rules](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_en.pdf).

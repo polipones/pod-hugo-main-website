@@ -9,7 +9,7 @@ tocopen: true
 ---
 {{<load_contacts>}}
 
-If you have problems with payment, email us at <platby@pod.cvut.cz>.
+If you have a problem with a membership payment, email <platby@pod.cvut.cz>.
 
 ## Official contact
 
@@ -180,13 +180,13 @@ Contact: <party@pod.cvut.cz>
     {{<contact index="vks" role="Head of dormitory group">}}
 {{</contact_section>}}
 
-### Bar games (Table tennis, table football, billiard)
+### Games rooms (table tennis, table football and billiards)
 
 Contact: <barovky@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="shm" role="Bar games rooms manager">}}
-    {{<contact index="zshm" role="Deputy bar games rooms manager">}}
+    {{<contact index="shm" role="Games-room manager">}}
+    {{<contact index="zshm" role="Deputy games-room manager">}}
 {{</contact_section>}}
 
 ### Party room

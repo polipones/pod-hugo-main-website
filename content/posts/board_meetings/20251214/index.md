@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Schůze představenstva 14. 12. 2025 # TODO
+title: Schůze představenstva 14. 12. 2025
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: ["schůze představenstva"] # TODO
+description: "Program schůze představenstva klubu Pod-O-Lee dne 14. 12. 2025."
+author: "Web admin"
+tags: ["schůze představenstva"]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -28,14 +28,14 @@ Předběžný program:
 
 - Schválení programu (vede: Kateřina Pilná)
 - Kolečko (vede: Kateřina Pilná)
-- Schválení zápisu ze schůze Představenstva konané 8.12.2025 (vede: Kateřina Pilná)
+- Schválení zápisu ze schůze představenstva konané 8. 12. 2025 (vede: Kateřina Pilná)
 - Schválení rozpočtu 2026 (vede: Kateřina Pilná)
 - Názvy interních předpisů (vede: Kateřina Pilná)
 - IP 4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů) (vede: Kateřina Pilná)
-- IP 5/2025 Specifikace postů v Představenstvu (vede: Kateřina Pilná)
+- IP 5/2025 Specifikace postů v představenstvu (vede: Kateřina Pilná)
 - IP 6/2025 Členství klubu Pod-O-Lee (vede: Kateřina Pilná)
-- IP 7/2025 Volby Správců bloků a Správců provozu (vede: Kateřina Pilná)
+- IP 7/2025 Volby správců bloků a správců provozu (vede: Kateřina Pilná)
 - IP 8/2025 Pravidla pro předávání a správu klíčů (vede: Kateřina Pilná)
-- IP 9/2025 Zápisy ze schůzí Představenstva (vede: Kateřina Pilná)
+- IP 9/2025 Zápisy ze schůzí představenstva (vede: Kateřina Pilná)
 - IP 10/2025 Jednací řád (vede: Kateřina Pilná)
 - Různé (vede: Kateřina Pilná)

@@ -17,15 +17,15 @@ tocopen: true
 
 ## Provozní řád
 
-Dostupný zne **[Provozní řád Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf)**!
+Přečti si [provozní řád Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf).
 
 ## Jak se registrovat do Pod-O-Gym
 
 Registrace do Pod-O-Gym probíhá následovně:
 
-1. Najdeš si kartu, která obsahuje čip. Toto může být jakákoliv karta s čipem např. ISIC karta, karta Tesco, samotný čip, který máš pro vstup do jiného zařízení (např. jídelna) apod. Platební kartu použít nelze.
-2. Vezmi si tuto kartu, 5x ji přilož na čtečku karet u vstupu do Pod-O-Gym a zapamatuj si datum a čas kdy jsi tak učinil.
-3. Pošli mail kterémukoliv televizorovi (<https://pod.cvut.cz/kontakty/>) nebo do emailové konference <admins@pod.cvut.cz>. Ve zprávě uveď čas pípnutí karty, datum a ID z Hydry.
+1. Vyber si čipovou kartu, například ISIC, věrnostní kartu nebo čip používaný ke vstupu do jiného zařízení. Platební kartu použít nelze.
+2. Pětkrát ji přilož ke čtečce u vstupu do Pod-O-Gym a zapamatuj si datum a přesný čas.
+3. Napiš kterémukoli televizorovi ze seznamu v [kontaktech]({{< ref "/contacts/index.md" >}}) nebo na <admins@pod.cvut.cz>. Ve zprávě uveď datum a čas přiložení karty a své ID z Hydry.
 
 ## Popis
 
@@ -33,7 +33,7 @@ Registrace do Pod-O-Gym probíhá následovně:
 
 Pod-O-Gym je otevřený každý den od 05:00 do 23:00.
 
-Pod-O-Gym je druhá největší tělocvična [Studentské unie ČVUT](https://su.cvut.cz/) s plochou 340 m². Nachází se v areálu kolejí Podolí ve stejné budově jako sídlí menza Podolí. Vchod do tělocvičny se nachází z pravé strany budovy. Všechny informace spojené s placením za členství najdete na našich stránkách na adrese: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
+Pod-O-Gym je s plochou 340 m² druhou největší posilovnou [Studentské unie ČVUT](https://su.cvut.cz/). Nachází se v areálu kolejí Podolí ve stejné budově jako menza; vchod je z pravé strany budovy. Informace o členských příspěvcích najdeš na stránce [Platby]({{< ref "/payments" >}}).
 
 **Hlavním pravidlem členství je, že musíte bydlet na kolejích Podolí. Externí členy tudíž nepřijímáme.**
 
@@ -47,11 +47,11 @@ Používáme různé typy posilovacích strojů značky HBP.
     {{<figure src="images/services/pod-o-gym/leg-room-1.jpg" alt="Leg room photo 1">}}
 {{</figure_gallery>}}
 
-Najdete u nás také různé typy volných vah. Klasické jednoruční monolitické činky od 0,5 kg do 55 kg. Kettlebelly od 6 kg do 32kg. 6 velkých tyčí, 6 malých specializovaných tyčí a přes jednu tunu závaží. Kotouče které používáme, jsou zejména od firmy Ivanko a StrongGear.
+K dispozici jsou jednoruční činky od 0,5 do 55 kg, kettlebelly od 6 do 32 kg, šest velkých a šest menších specializovaných os a více než tuna závaží. Kotouče jsou převážně od značek Ivanko a StrongGear.
 
 ### Kardio
 
-2 spinnery NXT, profesionální motorový i bezmotorový běžecký pás, elliptical (cross trenažér) či veslovací trenažér Concept2D – to vše je připraveno pro vaše kardio tréninky, které Ti mohou rychleji utéct například i díky nainstalované TV.
+Pro kardio trénink jsou k dispozici dva spinningové trenažéry NXT, motorový i bezmotorový běžecký pás, eliptický trenažér a veslovací trenažér Concept2. V místnosti je také televize.
 
 {{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
@@ -67,11 +67,11 @@ Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla,
 
 Kontakt na instruktory: [Sekce boulder v kontaktech]({{< ref "/contacts#boulder" >}}).
 
-Pro zájemce o bouldering a lezení máme v tělocvičně i menší boulder. Pokud nevíš jak na to, ale chtěl by sis boulder vyzkoušet, neváhej kontaktovat instruktory, kteří Ti pomohou se základy a poradí jak předcházet zranění. Všichni kdo chtějí boulder navštěvovat musí mít splněny všechny náležitosti pro normální přístup do Pod-O-Gym, včetně seznámení se s provozním řádem.
+Pro zájemce o bouldering a lezení máme v tělocvičně menší boulderovou stěnu. Pokud si ji chceš vyzkoušet, kontaktuj instruktory, kteří ti vysvětlí základy a poradí, jak předcházet zraněním. Pro vstup platí stejné podmínky jako pro celý Pod-O-Gym, včetně seznámení s provozním řádem.
 
 O boulder se u nás starají instruktoři lezení, kontakty najdeš v [Kontaktech]({{< ref "/contacts#boulder" >}}). V případě problémů či nejasností piš na <sportoviste@pod.cvut.cz>.
 
-Boulder je rozdělen na 2 části, [Klasické bouldery](#klasické-bouldery) a [Spray Wall](#spray-wall).
+Boulder je rozdělen na dvě části: [klasické bouldery](#klasické-bouldery) a [Spray Wall](#spray-wall).
 
 #### Klasické bouldery
 
@@ -83,13 +83,13 @@ Boulder je rozdělen na 2 části, [Klasické bouldery](#klasické-bouldery) a [
 #### Spray Wall
 
 - Ideální část boulderu, kde můžeš ukázat svou kreativitu, vymyslet vlastní boudlery a předat je ostatním lezcům v mobilní aplikaci
-- Pravidla boulderingu v této části jsou stejné
+- Pravidla boulderingu jsou v této části stejná
 - Pro zobrazení boulderů stahuj aplikaci **Boulder Creator** (černo-červená) a v ní vyhledej místnost PodoGym
 
 ##### Co vše můžeš s aplikací Boulder Creator dělat?
 
 - Prohlížej, přelézej, odškrtávej a hodnoť klasifikaci již vylezených boulderů, co přidali jiní lezci
-- Vytvářej vlastní bouldery -> zveřejni je a zpříjemni ostatním trénink možností přelezu tvých nápadů
+- Vytvářej vlastní bouldery, zveřejni je a umožni ostatním vyzkoušet tvé nápady
 
 ##### Tvorba boulderů
 
@@ -99,40 +99,40 @@ Boulder je rozdělen na 2 části, [Klasické bouldery](#klasické-bouldery) a [
 
 ##### Přelez
 
-- Můžeš si v aplikaci odškrtnout, které bouldery si již vylezl a na kolikátý pokus – hodí se to např. pokud si zapomnětlivý a nechceš něco lézt dvakrát
+- V aplikaci si můžeš označit, které bouldery jsi už vylezl a na kolikátý pokus
 
 #### Obtížnost
 
 - Budeme používat francouzskou stupnici
 - Obtížnost 1 – 9, a – c (pravděpodobně se budeme pohybovat mezi 3 – 7)
-- Ve zkratce (snad každý pochopí): 
-    - 3<4<5<6…
-    - a<b<c
-    - Tudíž: 5a<5b<5c<6a<6b…
+- Ve zkratce:
+    - `3 < 4 < 5 < 6…`
+    - `a < b < c`
+    - Tedy: `5a < 5b < 5c < 6a < 6b…`
     - Občas se může vyskytnout znaménko +
-    - 5a<5a+<5b
+    - `5a < 5a+ < 5b`
 - V aplikaci Boulder Creator
-    - Obtížnost je 4,5,5+ a následně již stejná jako francouzská stupnice (5+ tedy reprezentuje cca 5b až 5c+)
+    - Obtížnost je 4, 5 a 5+ a dále pokračuje stejně jako francouzská stupnice (5+ tedy odpovídá přibližně 5b až 5c+)
 
 #### Problémy
 
-V případě problémů nebo nejasností piš na email <j.karban@pod.cvut.cz> nebo <v.janacek@pod.cvut.cz>
+V případě problémů nebo nejasností napiš na <j.karban@pod.cvut.cz> nebo <v.janacek@pod.cvut.cz>.
 
 ### Sauna
 
-Disponujeme suchou saunou (pouze teplo) pro 2 až 4 osoby. Je nutné si přečíst pravidla pro používaní sauny a pokyny pro její spuštění.
+K dispozici je suchá sauna pro dvě až čtyři osoby. Před použitím si přečti pravidla a pokyny ke spuštění.
 
 Rezervace sauny se provádí přes rezervační systém na adrese: <https://hydra.pod.cvut.cz/reservations/>.
 
 #### Provozní řád
 
-Dostupný zde: [Provozní řád Sauna](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf)
+Přečti si [provozní řád sauny](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf).
 
 #### Zapnutí a používání sauny
 
-- Rezervace je minimálně na 1h a maximálně na 3h.
-- Sauna funguje pomocí automatu na mince hodnoty 20 a 50 Kč. Automat se nachází na pravé straně od vstupních dveří sauny.
-- Jedna hodina saunování stojí asi 90Kč. Po vhození mincí trvá asi 45 minut než se sauna nahřeje na teplotu 80-90°C.
+- Rezervace musí trvat nejméně jednu a nejvýše tři hodiny.
+- Sauna se spouští mincovním automatem napravo od vstupních dveří, který přijímá mince v hodnotě 20 a 50 Kč.
+- Jedna hodina provozu stojí přibližně 90 Kč. Po vhození mincí trvá asi 45 minut, než se sauna vyhřeje na 80–90 °C.
 - V sauně **není dovoleno** sedět, nebo se **přímo dotýkat** dřeva. Laviček a lehátek se tělem dotýkat nesmí. Laviček a lehátek je možno se dotýkat jen přes ručník, nebo prostěradlo.
 - Je zakázáno saunování pod vlivem alkoholických nápojů a jiných omamných látek.
 
@@ -141,7 +141,7 @@ Dostupný zde: [Provozní řád Sauna](https://s3.pod.cvut.cz/common/provozni_ra
 - Po skončení saunování je nutno pečlivě očistit všechny povrchy, na kterých jste seděli, ubrousky a přiloženým čistícím prostředkem, uloženým na pravé straně vedle hlavních dveří.
 - Podlahu je nutno vytřít mopem.
 
-Při nalezení problému např. poškození, je nutno tento problém nahlásit e-mailem správci Pod-O-Gym ([kontakt]({{< ref "/contacts#pod-o-gym" >}})) hned na začátku vašeho rezervovaného času!
+Jakýkoli problém nebo poškození nahlas [správci Pod-O-Gym]({{< ref "/contacts#pod-o-gym" >}}) hned na začátku rezervace.
 
 {{<figure_gallery>}}
     {{<figure src="images/services/pod-o-gym/sauna-1.jpg" alt="Sauna photo 1">}}
@@ -150,7 +150,7 @@ Při nalezení problému např. poškození, je nutno tento problém nahlásit e
 
 ### Pravidelné a občasné kurzy
 
-Každým semestrem nějaké přibudou a jiné zmizí. Kurzy vedou nadšenci z řad členů v naší tělocvičně.
+Nabídka kurzů se každý semestr mění. Vedou je dobrovolníci z řad členů klubu.
 
 #### Pod-O-Dance
 
@@ -158,7 +158,7 @@ Taneční skupina Pod-O-Dance vznikla pro to, abychom se bavili, hýbali a hlavn
 
 Hodina je koncipovaná jako kondiční/kardio cvičení. Cílem tedy není umět perfektně techniku kroků, ale pořádně se zapotit a rozproudit krev v žilách.
 
-Více informací naleznete zde: [Pod-O-Dance]({{< ref "/freetime-activities/pod-o-dance/index.md" >}})
+Více informací najdeš na stránce [Pod-O-Dance]({{< ref "/freetime-activities/pod-o-dance/index.md" >}}).
 
 {{<rawhtml>}}
 <script>

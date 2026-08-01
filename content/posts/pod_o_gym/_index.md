@@ -1,8 +1,8 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Pod-O-Gym # TODO
+title: Pod-O-Gym
 # Short post category description
-description: "Příspěvky týkající se Pod-O-Gym, naší klubové posilovny." # TODO
+description: "Novinky a informace z klubového sportoviště Pod-O-Gym."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

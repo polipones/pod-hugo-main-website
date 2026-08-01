@@ -24,29 +24,33 @@ weight: 9
 
 ### Podolská 3K (začátek 9:30)
 
-Běžecký závod, při kterém se beží 3 kola kolem areálu kolejí Podolí (cca 2100m).
+Běžecký závod na tři kola kolem areálu kolejí Podolí o celkové délce přibližně 2 100 m.
 
 ### Volejbal (začátek 13:00)
 
-Hraje se max. 6 hráčů na tým o 1., 2. a 3. místo. Základní část se hraje na 2 vítězné sety do 15 bodů. Vyřazovací část na 2 sety do 21 bodů, 3. set do 15 bodů.
+Tým může mít nejvýše šest hráčů. Základní část se hraje na dva vítězné sety do 15 bodů. Ve vyřazovací části se první dva sety hrají do 21 bodů a případný třetí do 15 bodů.
+
+Soutěží se o první tři místa.
 
 ### Streetball (začátek 10:30)
 
-Maximálně 3 hráči v týmu, hraje se na jeden koš a jeden zápas se hraje na 15 bodů. 1 bod = 1 koš, hod na koš spoza trojkové čáry je za 2 body.
+Tým může mít nejvýše tři hráče. Hraje se na jeden koš do 15 bodů. Běžný koš je za jeden bod, koš zpoza trojkové čáry za dva body.
 
 ### Fotbal (začátek 10:30)
 
-Hraje se systémem 4+1 o 1., 2. a 3. místo. Základní hrací čas je 2×7 minut (případně prodloužení 3 minuty, dále rozhodují penalty). Vyřazovací část je 2×10 minut (případné prodloužení o 5 minut, dále rozhodují penalty).
+Hraje se systémem 4 + 1. Základní hrací doba je 2 × 7 minut, případné prodloužení trvá tři minuty a poté rozhodují penalty. Ve vyřazovací části se hraje 2 × 10 minut, případné prodloužení trvá pět minut a poté rozhodují penalty.
+
+Soutěží se o první tři místa.
 
 ### Orientační běh (začátek 14:00)
 
-Orientační běh vás provede po známých i méně známých historických i technických památkách Prahy 4 a užijete si tak dost dobrodružství i bez toho abyste si ucourali nohy k smrti.
+Orientační běh tě provede po známých i méně známých historických a technických památkách Prahy 4.
 
 ## Ceny občerstvení
 
-- klobása s chlebem - 80 Kč
-- nealko 0,5l - 30 Kč
-- pivo 0,5l - 40 Kč
+- klobása s chlebem – 80 Kč
+- nealkoholický nápoj 0,5 l – 30 Kč
+- pivo 0,5 l – 40 Kč
 
 ## Galerie
 

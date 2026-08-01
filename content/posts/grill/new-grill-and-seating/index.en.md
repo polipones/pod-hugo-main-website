@@ -23,6 +23,6 @@ To keep everything in this condition for as long as possible (ideally for severa
 
 Come and try out the new space right away – join us for the Summer Party on 8 August 2026! We look forward to seeing you at the barbecue.
 
-Have a great summer,  
-Katka  
-chair of the Pod-O-Lee club
+Have a great summer,
+
+Katka, chair of the Pod-O-Lee club

@@ -9,8 +9,8 @@ slug: kitchens
 weight: 5
 ---
 
-If you need to cook/bake something for yourself on block C, D, E or F, you can use kitchen on each floor of the block equipped with oven and stove.
+If you live in block C, D, E, or F, you can use the kitchen on each floor. Each kitchen has an oven and a hob.
 
 ## Operating rules for the kitchens at Podolí Dormitory
 
-Available here: [Operating rules Kitchens](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek_en.pdf).
+Read the [kitchen operating rules](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek_en.pdf).

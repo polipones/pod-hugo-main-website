@@ -11,21 +11,20 @@ weight: 1
 showtoc: false
 ---
 
-Pokud si potřebuješ na koleji vyprat slouží k tomu prádelny. Najdeš je v suterénu bloků A, B, C, F, v 1. patře bloku E a 2. patře bloku D. Rezervace prádelny je možná v rezervačním archu na recepci, kde v čase rezervace zároveň dostaneš i klíč.
+Prádelny najdeš v suterénu bloků A, B, C a F, v prvním patře bloku E a ve druhém patře bloku D. Termín si rezervuj v rezervačním archu na recepci, kde si na začátku rezervace vyzvedneš také klíč.
 
-## Důležité informace:
+## Důležité informace
 
-Je nutné dodržovat noční klid, proto je na blocích D, E od 22h do 6h ZÁKAZ PRANÍ! Využívat sušárnu ovšem lze až do 24h.
-Poplatek za jeden cyklus praní v pračce je ve výši 30,- Kč/hodinu, za sušení v sušičce se platí 20 Kč/hod. Účtuje se každá započatá půlhodina do vrácení klíčů na recepci.
-Prát je dovoleno pouze na pračce, kterou má student zapůjčenou.
-Prádelnu je možné si rezervovat. Rezervace se provádí zapsáním jména a čísla pokoje do příslušné kolonky na jednotlivou pračku a interval praní.
-Rezervační arch je rozdělen na dvouhodinové intervaly, denně je možné si rezervovat maximálně 4 hodiny (tj. 2 dvouhodinové intervaly). Za pračku se platí do doby vrácení klíčů.
-Klíče od pračky je nutné si vyzvednout do 30 minut od počátku rezervovaného intervalu. V případě, že si klíče nevyzvednete včas, rezervace Ti propadá a pračku si může půjčit někdo jiný.
-Zrušení rezervace se provádí na vrátnici a to odepsáním se z rezervace na tento den. Vrátný/á zabělí toto políčko a pračku je možné si rezervovat někým jiným.
-Pračku je nutno po sobě očistit, zejména zásobník na prášek a aviváž. Očistit je nutné i použitou sušičku.
-Jakékoli porušování pravidel půjčování prádelen bude řešeno hospodářkou/hospodářem koleje.
-
+- Dodržuj noční klid. Na blocích D a E je praní od 22:00 do 6:00 zakázáno; sušárnu lze využívat do 24:00.
+- Praní stojí 30 Kč za hodinu a sušení 20 Kč za hodinu. Každá započatá půlhodina se účtuje až do vrácení klíčů na recepci.
+- Používej pouze pračku, kterou máš zapůjčenou.
+- Rezervaci vytvoříš zapsáním jména a čísla pokoje k příslušné pračce a časovému intervalu.
+- Rezervační arch je rozdělen na dvouhodinové intervaly. Na jeden den si můžeš rezervovat nejvýše čtyři hodiny.
+- Klíče si vyzvedni nejpozději 30 minut po začátku rezervace. Poté rezervace propadá a pračku může využít někdo jiný.
+- Rezervaci zruš na recepci, kde příslušné políčko uvolní pro dalšího zájemce.
+- Po použití očisti pračku, zejména zásobník na prací prostředek a aviváž, a případně také sušičku.
+- Porušení pravidel řeší hospodář nebo hospodářka koleje.
 
 ## Provozní řád
 
-Dostupný zde: [Provozní řád Prádelny a Sušárny](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_pradelny_a_susarny_na_koleji_podoli.pdf).
+Přečti si [provozní řád prádelen a sušáren](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_pradelny_a_susarny_na_koleji_podoli.pdf).

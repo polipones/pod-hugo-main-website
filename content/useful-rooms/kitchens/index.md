@@ -10,8 +10,8 @@ weight: 5
 
 ---
 
-Pokud si potřeboješ na bloku C, D, E a nebo F uvařit, tak na každém patře daného bloku nalezneš kuchyňku s troubou a ploténkou.
+Pokud si potřebuješ na bloku C, D, E nebo F uvařit, na každém patře najdeš kuchyňku s troubou a varnou deskou.
 
 ## Provozní řád kuchyněk na koleji Podolí
 
-Dostupný zde: [Provozní řád Kuchyňky](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek.pdf).
+Přečti si [provozní řád kuchyněk](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek.pdf).

@@ -2,11 +2,10 @@
 # Will be displayed at top of the page as main heading
 title: Volby na Správce projektů
 # Short post description
-description: ""
+description: "Vyhlášení voleb správce projektů v roce 2022."
 author: "Jan Picka"
 tags: ["elections"]
 
-# draft: true # TODO - Remove when ready to publish the post (post will be hidden with this set to true)
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
 # Other configuration
@@ -38,13 +37,13 @@ Volby se řídí [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-202
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím.".
 
-Vzor kandidátky naleznete na [tomto odkazu](https://cloud.pod.cvut.cz/index.php/s/KjMXfWz4JfyS7bs). Vyplněnou a podepsanou kandidátku zašlete na <volby@pod.cvut.cz> ve formátu PDF. Podepsanou kandidátku je nutno předsat předsedovi volební komise (Vítek Zapletal, C504, <v.zapletal@pod.cvut.cz>).
+Vzor kandidátky naleznete na [tomto odkazu](https://cloud.pod.cvut.cz/index.php/s/KjMXfWz4JfyS7bs). Vyplněnou a podepsanou kandidátku zašlete na <volby@pod.cvut.cz> ve formátu PDF. Podepsanou kandidátku je nutné předat předsedovi volební komise (Vítek Zapletal, C504, <v.zapletal@pod.cvut.cz>).
 
 Časový harmonogram voleb:
 
 - termín pro podávání kandidátek: 24. 2. 2022 20:00
 - termín pro předání podepsaných kandidátek předsedovi volební komise: 27. 2. 20:00
-- termín voleb: 28. 2. 19:00 - 20:30 v budově menzy
+- termín voleb: 28. 2. 2022 od 19:00 do 20:30 v budově menzy
 
 V případě dotazů nás kontaktujte na <volby@pod.cvut.cz>.
 

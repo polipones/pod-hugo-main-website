@@ -2,7 +2,7 @@
 # Will be displayed at top of the page as main heading
 title: Nařízení předsedy 1/2022
 # Short post description
-description: ""
+description: "Omezení přístupu do klubových místností kvůli riziku nákazy koronavirem."
 author: "Jan Picka"
 tags: ["Nařízení předsedy"]
 

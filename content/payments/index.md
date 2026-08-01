@@ -12,62 +12,62 @@ aliases:
     - /clenstvi
 ---
 
-Interním členem se může stát jakýkoliv student bydlící na koleji Podolí. Externím členem může být osoba, která na koleji Podolí nebydlí. Více informací o členství je níže ([Interní a externí člen klubu](#interní-a-externí-člen-klubu)). Ověřit, jestli jsi členem a jaké máš ID, můžeš v [Hydře](https://hydra.pod.cvut.cz).
+Interním členem se může stát každý student bydlící na koleji Podolí. Externím členem může být člověk, který na koleji Podolí nebydlí. Podrobnosti najdeš níže v části [Interní a externí členství](#interní-a-externí-členství). Stav členství a své ID si můžeš ověřit v [Hydře](https://hydra.pod.cvut.cz/).
 
 Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 
-## Způsob placení
+## Platební období
 
 Členské příspěvky do klubu Pod-O-Lee se platí na jednotlivé pololetí každého kalendářního roku.
 
 - Za první pololetí se platí od 1. ledna do 30. června s platností členství do 30. září.
 - Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 28. února (příštího roku).
 
-Upozorňujeme, že mezibankovní převod může trvat až tři dny, je třeba podat příkaz s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne daného platebního období, přestanou Ti fungovat všechny výhody poskytované klubem. V případě okamžitého převodu se správně poslaná platba v Hydře objeví do pár minut.
+Mezibankovní převod může trvat až tři dny, proto platbu odešli s dostatečným předstihem. Pokud platba nepřijde na účet do posledního dne platebního období, přestanou ti klubové výhody fungovat až do jejího zpracování. Správně zadaná okamžitá platba se v Hydře obvykle objeví během několika minut.
 
 ### Formy úhrady
 
-**Doporučujeme použít funkci generování platebního QR kódu v Hydře, dostupné po přihlášení [ZDE](https://hydra.pod.cvut.cz/membership/payments).**
+**Doporučujeme použít generátor platebního QR kódu, který je po přihlášení dostupný v [Hydře](https://hydra.pod.cvut.cz/membership/payments).**
 
 Tradičnější způsoby:
 
-- bezhotovostním převodem na účet
+- bezhotovostní převod na účet
 - složením hotovosti na pobočce Fio Banky (poplatek 90 Kč)
 - složením hotovosti na pokladně jakékoliv jiné banky (tomuto způsobu se vyhýbej – zbytečné poplatky za převod)
 
-Použití poštovních poukázek **NENÍ** přípustné – všechny takovéto platby nebudou brány v potaz.
+Platba poštovní poukázkou **není možná** a nebude zpracována.
 
-**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě Ti musíme částku vrátit a stojí nás to čas navíc.**
+**Můžeme přijímat pouze platby v českých korunách a jen na přesnou částku. V jiném případě ti musíme částku vrátit a stojí nás to čas navíc.**
 
 ### Náležitosti platby
 
-Číslo účtu je **99919040 /2010**.
+Číslo účtu: **99919040/2010**
 
 Částka za členství a specifický symbol:
 
-- základní členství – 1000,- specifický symbol 1 (nutné i pro další členství, samo o sobě přináší přístup k akademické síti, přístup do PC učebny, možnost výpujčky grilu nebo pípy, ...)
-- přístup do Pod-O-Gym – 1000,- specifický symbol 2 (přístup do Pod-O-Gym a sauny)
-- přístup do hudebny – 500,- specifický symbol 3 (přístup do hudebny)
+- základní členství – 1 000 Kč, specifický symbol 1 (je nutné i pro další výhody; samo o sobě poskytuje přístup k akademické síti a do PC učebny nebo možnost zapůjčení grilu či pípy)
+- přístup do Pod-O-Gym – 1 000 Kč, specifický symbol 2 (zahrnuje přístup do Pod-O-Gym a sauny)
+- přístup do hudebny – 500 Kč, specifický symbol 3
 
 Variabilní symbol je tvoje identifikační číslo (zjistíš v [Hydře](https://hydra.pod.cvut.cz), je to tvé ID).
 
-**Využívání jakékoliv výhody je podmíněno Základním členstvím a aktivním členstvím v klubu.**
+**Využívání každé výhody je podmíněno základním a aktivním členstvím v klubu.**
 
-Pokud budeš chtít využívat více výhod, sečti patřičné částky a seřaď vzestupně příslušné Specifické symboly.
+Pokud chceš využívat více výhod, sečti příslušné částky a jejich specifické symboly napiš za sebe ve vzestupném pořadí.
 
-Příklad: Chci mít připojení k internetu a chodit do posilovny Pod-O-Gym, zaplatím 2000 Kč (1000+1000 Kč) a jako Specifický symbol uvedu číslo 12.
+Příklad: Chceš využívat internet a Pod-O-Gym. Zaplatíš 2 000 Kč (1 000 + 1 000 Kč) a jako specifický symbol uvedeš 12.
 
 ## Podpis členství v klubu
 
-Každý nový člen se seznámí s pravidly a stanovami klubu Pod-O-Lee což stvrdí podpisem při registraci. Tímto podpisem zároveň dává klubu souhlas nakládat se svými osobními údaji. Podpisové archy jsou k dispozici u televizorů. Až po podpisu můžeš teprve využívat výhod klubu.
+Každý nový člen se při registraci seznámí s pravidly a stanovami klubu Pod-O-Lee a potvrdí to svým podpisem. Podpisem zároveň souhlasí se zpracováním osobních údajů klubem Pod-O-Lee. Podpisové archy jsou k dispozici u televizorů. Klubové výhody můžeš začít využívat až po podpisu.
 
-## Interní a externí člen klubu
+## Interní a externí členství
 
 Podle [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf) má klub Pod-O-Lee interní a externí členství.
 
 ### Interní členství
 
-Interní člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov klubu a má uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí. Pro získání interního členství se osoba musí prokázat platnou ubytovací smlouvu, případně platnou kolejenkou.
+Interní člen je osoba, která je členem klubu Pod-O-Lee podle platných stanov klubu a má uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí. Pro získání interního členství se musí prokázat platnou ubytovací smlouvou nebo kolejenkou.
 
 **Členství je platné pouze na jedno období a je nutné ho na každé období obnovit.**
 
@@ -79,16 +79,16 @@ Pro více informací o obou členstvích si přečti [IP13/2024](https://wiki.po
 
 ## Odpuštění členských příspěvků
 
-Představenstvo klubu může odpustit členské příspěvky osobám, jenž jsou členy klubu Pod-O-Lee a to v případě, že vykonávají činnost prospěšnou pro klub.
+Představenstvo klubu může odpustit členské příspěvky členům klubu Pod-O-Lee, kteří vykonávají činnost prospěšnou pro klub.
 
-Pokud máš nějaký projekt neváhej oslovit Představenstvo. Své návrhy můžeš posílat na adresu <predstavenstvo@pod.cvut.cz>.
+Pokud máš nápad na projekt, neváhej oslovit představenstvo na adrese <predstavenstvo@pod.cvut.cz>.
 
 ## Příklady
 
-### Mám přístup k Internetu a chtěl bych začít chodit do posilovny
+### Mám přístup k internetu a chci začít chodit do posilovny
 
-Musíš navíc zaplatit členský poplatek za Pod-O-Gym. Pošleš platbu se specifickým symbolem 2 a částkou 1000 Kč.
+Musíš navíc zaplatit členský příspěvek za Pod-O-Gym: 1 000 Kč se specifickým symbolem 2.
 
 ### Jsem externista. Chodím jen do Pod-O-Gym a chci si prodloužit členství.
 
-Podmínkou pro přístup do Pod-O-Gym je aktivní základní členství a přístup do Pod-O-Gym. Musíš také mít platné externí členství ( viz výše - [Interní a externí člen klubu](#interní-a-externí-člen-klubu)). Pokud to splňuješ, pošli platbu se specifickým symbolem 12 a částkou 2000 Kč.
+Podmínkou pro přístup do Pod-O-Gym je aktivní základní členství, zaplacený přístup do Pod-O-Gym a platné externí členství (viz [Interní a externí členství](#interní-a-externí-členství)). Pokud tyto podmínky splňuješ, pošli 2 000 Kč se specifickým symbolem 12.

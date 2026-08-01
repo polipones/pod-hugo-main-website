@@ -1,8 +1,8 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Posts # TODO
+title: Posts
 # Short post category description
-description: "" # TODO
+description: "News, announcements and information from the Pod-O-Lee club."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

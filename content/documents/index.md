@@ -24,7 +24,7 @@ tocopen: true
 
 ## Výroční zprávy
 
-Na konci každého roku je vytvářen dokument shrnující činnost klubu za uplynulé období. Na základě rozhodnutí Gremia SU ze dne 12. 12. 2002 mají kluby za povinnost vytvářet na konci roku dokument nazvaný Výroční zpráva.
+Na konci každého roku vzniká dokument shrnující činnost klubu za uplynulé období. Podle rozhodnutí Grémia SU ze dne 12. 12. 2002 mají kluby povinnost zpracovat výroční zprávu.
 
 - [Výroční zpráva 2025](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2025.pdf)
 - [Výroční zpráva 2024](https://s3.pod.cvut.cz/common/legislativa/vyrocni_zpravy/vyrocni_zprava_pod-o-lee_2024.pdf)
@@ -49,13 +49,13 @@ Na konci každého roku je vytvářen dokument shrnující činnost klubu za upl
 ## Stanovy klubu
 
 - [Stanovy od 1. 7. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2026.pdf)
-~~- [Stanovy od 1. 1. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf)~~
+- ~~[Stanovy od 1. 1. 2026](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf)~~
 - ~~[Stanovy od 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf)~~
 - ~~[Stanovy od 19. 10. 2016 do 26. 6. 2024](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2016.pdf)~~
 
 ## Interní předpisy
 
-Interní předpisy jsou upřesňující dokumenty, které momentem svého schválení Představenstvem doplňují Stanovy klubu a mají platnost jako součást Stanov.
+Interní předpisy jsou upřesňující dokumenty, které od okamžiku schválení představenstvem doplňují stanovy klubu a platí jako jejich součást.
 
 ### 2026
 
@@ -73,7 +73,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 - [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
 - [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025.pdf)
 - ~~[IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)~~
-~~- [IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)~~
+- ~~[IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)~~
 - ~~[IP7/2025 Volby Správců bloků a Správců provozu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf)~~
 - [IP8/2025 Pravidla pro předávání a správu klíčů](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025.pdf)
   - [Příloha 1 k IP8/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-8-2025_priloha_1.pdf)
@@ -83,7 +83,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 - [IP9/2025 Zápisy ze schůzí Představenstva klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025.pdf)
   - [Příloha 1 k IP9/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025_priloha_1.pdf)
   - [Příloha 2 k IP9/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-9-2025_priloha_2.pdf)
-~~- [IP10/2025 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-10-2025.pdf)~~
+- ~~[IP10/2025 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-10-2025.pdf)~~
 
 ### 2024
 
@@ -159,7 +159,7 @@ Interní předpisy jsou upřesňující dokumenty, které momentem svého schvá
 
 ### Rozpočty po roce 2019
 
-Na schůzi představenstva ze dne 19.11.2019 (odkaz na zápis: [19.11.2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf)) předseda avizoval, že bude mít klub rozpočet na celý rok, ne jen na půl roku. Dne 9.12.2019 představenstvo první celoroční rozpočet (na rok 2020) schválilo.
+Na schůzi představenstva dne 19. 11. 2019 předseda oznámil, že klub bude sestavovat rozpočet na celý rok, ne pouze na pololetí. První celoroční rozpočet, určený na rok 2020, představenstvo schválilo 9. 12. 2019. Viz [zápis z 19. 11. 2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf).
 
 - Rozpočet 2026
   - Schválená verze z 26. 1. 2026: [Rozpočet 2026](https://s3.pod.cvut.cz/common/legislativa/rozpocty/rozpocet_2026_26_1_2026.pdf)
@@ -223,7 +223,7 @@ Přehled členů s odpuštěnými příspěvky za jednotlivá období:
 
 ### 2026
 
-- [NP1/2025 Nařízení předsedy - Kamerové záznamy a fungování místností](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2026.pdf)
+- [NP1/2026 Nařízení předsedy - Kamerové záznamy a fungování místností](https://s3.pod.cvut.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_1_2026.pdf)
 
 ### 2025
 

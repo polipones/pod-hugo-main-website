@@ -14,7 +14,7 @@ aliases:
 
 Správci: [Kontakty]({{< ref "/contacts/index.md#kolejní-skupinka" >}})
 
-Na grilování je určen krb, který se nachází v jiho-západním rohu areálu kolejí (tzn. vedle menzy). Zapůjčení krbu je pro členy klubu zdarma.
+Ke grilování slouží krb v jihozápadním rohu areálu kolejí, vedle menzy. Jeho zapůjčení je pro členy klubu zdarma.
 
 ## Součásti krbu
 
@@ -27,21 +27,21 @@ Na grilování je určen krb, který se nachází v jiho-západním rohu areálu
 - Pohrabáč
 - Rozpalovací válec na uhlí
 
-Součástí krbu **není uhlí ani podpalovač**. Každý si tedy uhlí musí zakoupit vlastní.
+Součástí vybavení **není uhlí ani podpalovač**. Obojí si musíš přinést vlastní.
 
 {{<figure src="images/freetime-activities/grill/grill.jpg" alt="Grill" imgop="rt_fit">}}
 
 ## Návod na půjčení grilu
 
 1. Vytvoř si rezervaci v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
-2. Pošli email s důležitými údaji na <party@pod.cvut.cz>.
+2. Pošli e-mail s důležitými údaji na <party@pod.cvut.cz>:
     * Tvoje celé jméno, ID (najdeš v Hydře) a pokoj.
     * Co a kdy chceš půjčit.
-3. Na základě emailu bude tvá žádost vyřízena.
-4. Následně Tě kontaktuje Vedoucí Kolejní Skupinky nebo jeden ze zástupců a domluví se s tebou na předání příslušenství.
+3. Na základě e-mailu bude tvá žádost vyřízena.
+4. Vedoucí kolejní skupinky nebo jeho zástupce tě následně kontaktuje a domluví s tebou předání příslušenství.
 
 **Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 
 ## Provozní řád
 
-Dostupný zde: **[Provozní řád](https://s3.pod.cvut.cz/common/provozni_rady/grill/grill_cz.pdf)**!
+Přečti si [provozní řád grilu](https://s3.pod.cvut.cz/common/provozni_rady/grill/grill_cz.pdf).

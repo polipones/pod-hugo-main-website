@@ -10,7 +10,7 @@ tocopen: true
 
 {{<load_contacts>}}
 
-Pokud máš problémy s platbou za členství, piš na <platby@pod.cvut.cz>.
+Pokud máš problém s platbou za členství, napiš na <platby@pod.cvut.cz>.
 
 ## Oficiální kontakt
 

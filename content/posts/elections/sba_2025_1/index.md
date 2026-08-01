@@ -1,12 +1,11 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Výsledky voleb na správce bloků A # TODO
+title: Výsledky voleb na správce bloku A
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace a výsledky voleb správce bloku A."
+author: "Web admin"
+tags: [Volby]
 
-#draft: true # TODO - Remove when ready to publish the post (post will be hidden with this set to true)
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
 # Other configuration
@@ -41,9 +40,9 @@ V případě, že máte podezření, že volby na Správce bloku A neproběhly v
 
 Ahoj Podolačky a Podoláci,
 
-23\. 5. 2025 ve 20:00 večer uplynula lhůta pro podávání kandidátek na Správce bloků A.
+23\. 5. 2025 ve 20:00 uplynula lhůta pro podávání kandidátek na správce bloku A.
 
-Do voleb se přihlásili dva kandidáti, v abecedním pořadí **Karel Mareš** a **Pavel Sillinger**. Oba dva včas dodali podepsaný originál své kandidátky. Jejich kandidátky si můžete prohlédnout [zde](https://cloud.pod.cvut.cz/index.php/s/rqbXS43iWzfQntn).
+Do voleb se přihlásili dva kandidáti, v abecedním pořadí **Karel Mareš** a **Pavel Sillinger**. Oba včas dodali podepsaný originál své kandidátky. Jejich kandidátky si můžete prohlédnout [zde](https://cloud.pod.cvut.cz/index.php/s/rqbXS43iWzfQntn).
 
 Na pozici Správce bloku A proběhnou volby prezenční formou, a sice ve **středu 28. 5. 2025**. Z organizačních důvodů musíme jejich konání o hodinu posunout oproti předchozím informacím - proběhnou až **od 20:00 do 22:00**. Budou se konat v klubovně v suterénu bloku A. Volit může každý obyvatel bloku A, který se prokáže platnou kolejenkou, případně ukáže svůj přehled ubytování v ISKAMu a libovolný doklad s fotkou.
 

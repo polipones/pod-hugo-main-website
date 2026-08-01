@@ -9,7 +9,7 @@ tocopen: true
 ---
 {{<load_contacts>}}
 
-Если у тебя проблемы с платежом за членство, обращайся на <platby@pod.cvut.cz>.
+Если у вас возникли проблемы с оплатой членства, напишите на <platby@pod.cvut.cz>.
 
 ## Официальный контакт
 
@@ -25,8 +25,7 @@ DIČ: CZ67981224
         {{<contact index="m" role="Заместитель председателя">}}
 {{</contact_section>}}
 
-## Администратор услуг
-### Администраторы сети
+## Администраторы сети
 
 Контакт: <admin@pod.cvut.cz>
 
@@ -37,13 +36,13 @@ DIČ: CZ67981224
 
 {{<contact_section>}}
     {{<contact index="sn" role="Администратор сети">}}
-    {{<contact index="zsn" role="Заместитель администратора сети ">}}
+    {{<contact index="zsn" role="Заместитель администратора сети">}}
 {{</contact_section>}}
 
-### Tech team
+### Техническая команда
 
 {{<contact_section>}}
-    {{<contact index="tech" role="Member of tech team">}}
+    {{<contact index="tech" role="Член технической команды">}}
 {{</contact_section>}}
 
 ### Pod-O-Gym
@@ -124,8 +123,8 @@ DIČ: CZ67981224
 Контакт: <hry@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="sdh" role="менеджер комнаты настольных игр">}}
-    {{<contact index="zsdh" role="Заместитель менеджер комнаты настольных игр">}}
+    {{<contact index="sdh" role="Менеджер комнаты настольных игр">}}
+    {{<contact index="zsdh" role="Заместитель менеджера комнаты настольных игр">}}
 {{</contact_section>}}
 
 ### Фотографы
@@ -141,7 +140,7 @@ DIČ: CZ67981224
     {{<contact index="ld" role="Преподаватель Pod-O-Dance">}}
 {{</contact_section>}}
 
-## Председательская
+## Pod-O-Lab
 
 Контакт: <lab@pod.cvut.cz>
 
@@ -157,15 +156,15 @@ DIČ: CZ67981224
 
 {{<contact_section>}}
     {{<contact index="pc" role="Администратор компьютерного класса">}}
-    {{<contact index="zpc" role="Заместитель aдминистратор компьютерного класса">}}
+    {{<contact index="zpc" role="Заместитель администратора компьютерного класса">}}
 {{</contact_section>}}
 
-## Группка общежития
+## Группа общежития
 
 Контакт: <party@pod.cvut.cz>
 
 {{<contact_section>}}
-    {{<contact index="vks" role="Ведущий группкы общежития">}}
+    {{<contact index="vks" role="Руководитель группы общежития">}}
 {{</contact_section>}}
 
 ### Барные игры (Настольный теннис, настольный футбол, бильярд)

@@ -146,7 +146,7 @@ languages:
         - name: Membership benefits
           url: benefits
           weight: 3
-        - name: Freetime activities
+        - name: Free-time activities
           url: freetime-activities
           weight: 4
         - name: Useful rooms

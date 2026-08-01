@@ -3,8 +3,8 @@
 title: Pod-O-Gym
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: benefits/pod-o-gym
-aliase:
-    - services/pod-o-gym
+aliases:
+    - /services/pod-o-gym
 slug: pod-o-gym
 weight: 3
 
@@ -17,13 +17,13 @@ tocopen: true
 
 ## Operating rules
 
-Available here: **[Operating rules Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf)**!
+Read the [Pod-O-Gym operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf).
 
-## How to register in our Pod-O-Gym
+## How to register for Pod-O-Gym
 
-1. Find any card with a chip. It can be any card with a chip such as your ISIC, or TESCO card, or just a chip you have for accessing to another facility e.g. canteen. You cannot use your credit card.
-2. After you picked your card take it to the entrance and put it 5 times on the card reader right next to the door. Remember the date and the time when you did this.
-3. Send mail to person responsible for registration ("televizors" - <https://pod.cvut.cz/en/contacts/>) or to mailing list <admins@pod.cvut.cz>. In message body specify time, date and your Hydra ID.
+1. Choose a chip card, such as an ISIC, loyalty card, or access token used for another facility. Payment cards cannot be used.
+2. Scan it five times using the reader by the Pod-O-Gym entrance and remember the exact date and time.
+3. Email a televizor listed in [Contacts]({{< ref "/contacts/index.en.md" >}}) or write to <admins@pod.cvut.cz>. Include the date and time of the scans and your Hydra ID.
 
 ## Pod-O-Gym
 
@@ -31,13 +31,13 @@ Available here: **[Operating rules Pod-O-Gym](https://s3.pod.cvut.cz/common/prov
 
 Pod-O-Gym is open every day from 05:00 to 23:00.
 
-Pod-O-Gym is the second biggest Gym of [CTU Student Union](https://su.cvut.cz/) with area of 340 m². It is located in the same building as canteen of Podolí and the entrance is from the right side of the building. All the information regarding payment can be found on our website here: [{{< ref "/payments" >}}]({{< ref "/payments" >}}).
+At 340 m², Pod-O-Gym is the second-largest gym in the [CTU Student Union](https://su.cvut.cz/). It is in the same building as the Podolí canteen; the entrance is on the right-hand side. See [Payments]({{< ref "/payments" >}}) for membership-fee information.
 
-**Main rule for becoming member of our gym is that you must live in our dormitory Podolí. That means we are not registering new external members now.**
+**You must live at the Podolí dormitory to become a new Pod-O-Gym member. We are not currently registering new external members.**
 
-### Exercise machines & free weights
+### Exercise machines and free weights
 
-We use various machines from company HBP.
+The gym contains various HBP exercise machines.
 
 {{<figure_gallery>}}
     {{<figure src="images/services/pod-o-gym/main-room-2.jpg" alt="Main room photo 2">}}
@@ -45,19 +45,19 @@ We use various machines from company HBP.
     {{<figure src="images/services/pod-o-gym/leg-room-1.jpg" alt="Leg room photo 1">}}
 {{</figure_gallery>}}
 
-We have at our disposal dumbbells ranging from 0,5kg to 55kg. Kettlebells from 6kg to 32kg. 6 Barbells, 6 smaller specialized barbells and over 1 ton of weights. Weight plates we use are mainly from companies Ivanko and StrongGear.
+Free weights include dumbbells from 0.5 to 55 kg, kettlebells from 6 to 32 kg, six full-size bars, six smaller specialised bars, and more than one tonne of weights. Most plates are made by Ivanko and StrongGear.
 
 ### Cardio
 
-Two spinners NXT, two treadmills, elliptical, rowing machine Concept2D, stationary bicycles and everything is ready for your training. We even have TV so you can watch your bellowed show while getting in better shape.
+Cardio equipment includes two NXT spin bikes, two treadmills, an elliptical trainer, a Concept2 rowing machine, and stationary bikes. The room also has a television.
 
 {{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
 
 ### Tatami room
 
-In this room (72 m²) as name suggest are tatami – foam floor. The room is tailored for training in martial arts. We have boxing mitts, boxing blocks, heavy bags, teardrop heavy bag, speed bag and double end bag. We even have some boxing gloves and some body protection prepared for you (you need to bring your own bandages).
+This 72 m² room has a tatami floor and is equipped for martial-arts training. Equipment includes focus mitts, striking pads, several types of punching bag, boxing gloves, and protective gear. Bring your own hand wraps.
 
-For calisthenics we have TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR®, medicine balls, cardio MMA ropes and a lot of other equipment. You can also find equipment for relaxations of muscles and basic small therapeutic equipment.
+For bodyweight training, the room offers TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR®, medicine balls, battle ropes, and other equipment. Basic recovery and therapeutic aids are also available.
 
 {{<figure src="images/services/pod-o-gym/aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
 
@@ -65,18 +65,18 @@ For calisthenics we have TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR�
 
 Contact instructors: [Boulder section in contacts]({{< ref "/contacts#boulder" >}}).
 
-For those interested in bouldering and climbing, we also have a smaller boulder in the gym. If you don't know how to do it but would like to try bouldering, don't hesitate to contact the instructors, who will help you with the basics and advise you on how to prevent injuries. Everyone who wants to visit the boulder area must meet all the requirements for normal access to Pod-O-Gym, including familiarization with the operating rules.
+The gym also has a small bouldering wall. If you would like to try it, contact the instructors for an introduction and advice on preventing injuries. The same access requirements apply as for the rest of Pod-O-Gym, including reading the operating rules.
 
 Our climbing instructors take care of the bouldering area. You can find their contact details in [Contacts]({{< ref "/contacts#boulder" >}}). If you have any problems or questions, please write to <sportoviste@pod.cvut.cz>.
 
-The boulder area is divided into two parts, [Classic Boulders](#classic-boulders) and [Spray Wall](#spray-wall).
+The bouldering area has two parts: [classic boulders](#classic-boulders) and the [spray wall](#spray-wall).
 
 #### Classic boulders
 
-- One color indicates a boulder
+- One colour indicates a boulder
 - Two tapes indicate the starting hold (both hands on one hold) or two holds (each hand on one hold)
 - One tape indicates the end of the boulder – the so-called TOP
-- You start from the starting hold(s). Only when your whole body is in the air can you grab the next holds. The boulder is considered climbed when you reach the top hold after climbing along one color and touch it with both hands for about 3 seconds
+- Start on the marked hold or holds. You may use the next holds once your whole body is off the ground. A boulder is complete when you follow one colour to the top hold and control it with both hands for about three seconds
 
 #### Spray Wall
 
@@ -88,7 +88,7 @@ The boulder area is divided into two parts, [Classic Boulders](#classic-boulders
 ##### What can you do with the Boulder Creator app?
 
 - Browse, climb, check off, and rate the classification of boulders already climbed by other climbers
-- Create your own boulders -> publish them and make training more enjoyable for others by giving them the opportunity to climb your ideas
+- Create and publish your own boulders so that other climbers can try them
 
 ##### Creating boulders
 
@@ -98,20 +98,19 @@ The boulder area is divided into two parts, [Classic Boulders](#classic-boulders
 
 ##### Climbing
 
-- You can check off which boulders you have already climbed in the app and on how many attempts – this is useful if you are forgetful and don't want to climb something twice
+- Record which boulders you have completed and how many attempts each took
 
 #### Difficulty
 
 - We will use the French scale
 - Difficulty 1–9, a–c (we will probably range between 3 and 7)
-- In short (hopefully everyone will understand):
-- 3<4<5<6…
-    - a<b<c
-- Therefore: 5a<5b<5c<6a<6b...
-- Occasionally, a + sign may appear
-- 5a<5a+<5b
+- In short:
+    - `3 < 4 < 5 < 6…`
+    - `a < b < c`
+    - Therefore: `5a < 5b < 5c < 6a < 6b…`
+    - A `+` may appear between grades: `5a < 5a+ < 5b`
 - In the Boulder Creator app
-    - The difficulty is 4,5,5+ and then the same as the French scale (5+ represents approximately 5b to 5c+)
+    - Grades start at 4, 5, and 5+, then continue like the French scale (5+ corresponds approximately to 5b–5c+)
 
 #### Problems
 
@@ -120,28 +119,28 @@ If you have any problems or questions, please email <j.karban@pod.cvut.cz> or <v
 
 ### Sauna
 
-Sauna room is a dry type of sauna (only heat) for 2 to 4 people. It is imperative to read our rules before using sauna, in which you will also find how to pay for sauna.
+The dry sauna accommodates two to four people. Read the rules and operating instructions before using it.
 
-You can reserve sauna from reservation system here: <https://hydra.pod.cvut.cz/reservations/>.
+Reserve the sauna through the [reservation system](https://hydra.pod.cvut.cz/reservations/).
 
-#### Operation rules
+#### Operating rules
 
-Available here: [Operation rules Sauna](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf)
+Read the [sauna operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf).
 
-#### How to turn on and use sauna room
+#### Starting and using the sauna
 
-- You can choose the duration of reservation from minimum 1h to maximum 3h.
-- Sauna works with automat for coins located next to main entrance to sauna room on the right side. It accepts coins with value of 20 and 50 Kč.
-- One hour of sauna costs approx. 90 Kč. After inserting money to the automat, it takes sauna room approximately 45 minutes until it is heated to 80-90°C.
+- Reservations must last between one and three hours.
+- The sauna is started using the coin-operated machine to the right of the entrance. It accepts 20 Kč and 50 Kč coins.
+- One hour costs approximately 90 Kč. After inserting the coins, allow about 45 minutes for the sauna to reach 80–90 °C.
 - You are **not allowed to directly touch wood in sauna room with any part of your body** (applies also to the bottom of your feet). You can only touch wood indirectly through towel or sheet.
-- You cannot use sauna under influence of alcohol or any other narcotics.
+- Do not use the sauna under the influence of alcohol or other intoxicating substances.
 
-#### Cleaning sauna
+#### Cleaning the sauna
 
 - After finishing sauna, you must carefully clean all used surfaces with paper towels and disinfectant located on right side of the main entrance door.
 - Floor is to be wiped with mop.
 
-If you encounter any problems with sauna room regarding damage, or other, you must e-mail these to Pod-O-Gym manager ([contact]({{< ref "/contacts#pod-o-gym" >}})) in the beginning of your reserved time!
+Report any problem or damage to the [Pod-O-Gym manager]({{< ref "/contacts#pod-o-gym" >}}) at the beginning of your reservation.
 
 {{<figure_gallery>}}
     {{<figure src="images/services/pod-o-gym/sauna-1.jpg" alt="Sauna photo 1">}}
@@ -150,9 +149,9 @@ If you encounter any problems with sauna room regarding damage, or other, you mu
 
 ### Regular and occasional courses
 
-Every semester there are some courses in our gym. Courses are free and conducted by enthusiasts from our gym.
+The selection of free courses changes each semester. They are led by volunteers from among the club’s members.
 
-The most important one from occasional courses is "How to train". This one hour course is usually held on the start of every new academic year. So if you are not sure how to start in the gym, or you do not have partner for training, you might just find answers to both in this course.
+One occasional course, “How to Train”, is usually held at the beginning of the academic year. It is intended for people who are unsure how to get started or are looking for a training partner.
 
 {{<rawhtml>}}
 <script>

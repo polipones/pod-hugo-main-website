@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na správce bloku D # TODO
+title: Volby na správce bloku D
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace a výsledky voleb správce bloku D."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -42,7 +42,7 @@ V případě, že máte podezření, že volby na Správce bloku D neproběhly v
 Do voleb se přihlásili tři kandidáti, v abecedním pořadí [Mário Alexy](https://wiki.pod.cvut.cz/_media/legislativa/kandidatky/alexy_mario.pdf), [Michal Pechník](https://wiki.pod.cvut.cz/_media/legislativa/kandidatky/pechnik_michal.pdf) a [Jakub Pohl](https://wiki.pod.cvut.cz/_media/legislativa/kandidatky/pohl_jakub.pdf).
 Všichni kandidáti včas dodali podepsaný originál kandidátky předsedovi volební komise.
 
-Volby samotné proběhnou prezenční formou. Budou se konat v zasedací místnosti klubu (vejdete dovnitř do budovy lukostřelby (bývalé menzy), dáte se po schodech nahoru, a následně vlevo na konci chodby) **11.11.2024 od 19:00 do 22:00**. Volit mohou všichni ubytovaní na bloku D, a každý volič je povinen prokázat, že je oprávněn volit (například ukázat v ISKAMu přehled ubytování, a libovolný doklad se jménem a fotkou). Každý volič má právě jeden hlas, a hlasování je tajné.
+Volby samotné proběhnou prezenční formou. Budou se konat v zasedací místnosti klubu (vejdete dovnitř do budovy lukostřelby (bývalé menzy), dáte se po schodech nahoru, a následně vlevo na konci chodby) **11. 11. 2024 od 19:00 do 22:00**. Volit mohou všichni ubytovaní na bloku D, a každý volič je povinen prokázat, že je oprávněn volit (například ukázat v ISKAMu přehled ubytování, a libovolný doklad se jménem a fotkou). Každý volič má právě jeden hlas, a hlasování je tajné.
 
 V případě dotazů nás kontaktujte na <volby@pod.cvut.cz>.
 
@@ -59,7 +59,7 @@ Volby se řídí [IP8/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_8-20
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".

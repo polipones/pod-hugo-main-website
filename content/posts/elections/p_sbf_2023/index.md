@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na Předsedu klubu a správce bloku F # TODO
+title: Volby na předsedu klubu a správce bloku F
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace k volbám předsedy klubu a správce bloku F."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -29,9 +29,9 @@ V sobotu 11. 2. 2023 ve 20:00 uplynula lhůta pro podávání kandidátek na Spr
 
 Proto komise dle [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf), čl. IV bod 3), prodlužuje lhůtu na podávání kandidátek do **čtvrtka 16. 2. 2023 do 20:00**. To má za následek posunutí zbylých termínů o stejný počet dní - nový časový harmonogram je tedy následující:​​​
 
-- termín pro podávání kandidátek: do **16.2.2023 20:00**
-- termín pro předání podepsaných kandidátek předsedovi volební komise: do **19.2.2023 20:00**
-- termín voleb: **od 20.2.2023 20:00 do 24.2.2023 20:00**, volby proběhnou elektronickou formou
+- termín pro podávání kandidátek: do **16. 2. 2023 20:00**
+- termín pro předání podepsaných kandidátek předsedovi volební komise: do **19. 2. 2023 20:00**
+- termín voleb: **od 20. 2. 2023 20:00 do 24. 2. 2023 20:00**, volby proběhnou elektronickou formou
 
 V případě libovolných dotazů, neváhejte se na nás prosím obrátit :)
 
@@ -39,19 +39,19 @@ V případě libovolných dotazů, neváhejte se na nás prosím obrátit :)
 
 Ahoj Podolačky a Podoláci,
 
-na středeční (25.1.2023) schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda volby na předsedu klubu Pod-O-Lee a doplňující volby na Správce bloku F.
+na středeční schůzi představenstva klubu Pod-O-Lee dne 25. 1. 2023 vyhlásil předseda volby na předsedu klubu Pod-O-Lee a doplňující volby na správce bloku F.
 
 ## Volby na předsedu klubu Pod-O-Lee
 
 Pravomoci a povinnosti Předsedy jsou upraveny v [IP1/2018](https://wiki.pod.cvut.cz/_media/legislativa/ip_pozice.pdf) a ve [Stanovách klubu](https://pod.cvut.cz/dokumenty/stanovy/stanovy_2017.pdf).
 
-Volby se řídí [IP2/2023](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2023.pdf). Předsedu bude volit Představestvo klubu Pod-O-Lee. Kandidovat může **každý, kdo je členem Studentské Unie ČVUT a nebyl v posledních 365 dnech před konáním voleb potrestán** za porušení předpisů. Kandidátka musí obsahovat:
+Volby se řídí [IP2/2023](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2023.pdf). Předsedu bude volit představenstvo klubu Pod-O-Lee. Kandidovat může **každý, kdo je členem Studentské unie ČVUT a nebyl v posledních 365 dnech před konáním voleb potrestán** za porušení předpisů. Kandidátka musí obsahovat:
 
 - jméno a příjmení kandidáta
 - kontaktní e-mail
 - fotografii odpovídající kandidátově současné podobě
 - tezi volebního programu
-- formulaci "Kandiduji na Předsedu klubu Pod-O-Lee a s kandidaturou souhlasím."
+- formulaci „Kandiduji na správce bloku F a s kandidaturou souhlasím.“
 
 Vzor kandidátky je [zde](https://cloud.pod.cvut.cz/index.php/s/YKr64iPjZ9CbXRS). Vyplněnou a podepsanou kandidátku zašlete na e-mail <volby@pod.cvut.cz> ve formátu PDF. Vlastnoručně podepsanou vytištěnou kandidátku je nutno předat předsedovi volební komise (Vítek Zapletal, C504).
 
@@ -72,7 +72,7 @@ Ve volbách na správce bloku F **volí pouze ubytovaní na bloku F**.
 Volby se řídí [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může pouze **člen klubu Pod-O-Lee ubytovaný na bloku F, který nebyl v posledních 365 dnech potrestán** za porušení předpisů. Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".
@@ -81,9 +81,9 @@ Vzor kandidátky naleznete [zde](https://link.pod.cvut.cz/kandidatky-spravce). V
 
 Časový harmonogram voleb:
 
-- termín pro podávání kandidátek: do **11.2.2023 20:00**
-- termín pro předání podepsaných kandidátek předsedovi volební komise: do **14.2.2023 20:00**
-- termín voleb: **od 15.2.2023 20:00 do 19.2.2023 20:00**, volby proběhnou elektronickou formou. 
+- termín pro podávání kandidátek: do **11. 2. 2023 20:00**
+- termín pro předání podepsaných kandidátek předsedovi volební komise: do **14. 2. 2023 20:00**
+- termín voleb: **od 15. 2. 2023 20:00 do 19. 2. 2023 20:00**, volby proběhnou elektronickou formou.
 
 V případě dotazů nás kontaktujte na <volby@pod.cvut.cz>.
 

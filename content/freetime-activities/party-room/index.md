@@ -15,15 +15,13 @@ Správci: [Kontakty]({{< ref "/contacts/index.md#sudovna" >}})
 
 ## Rezervace
 
-Pro rezervaci použijte prosím rezervační systém.
-
-1. Vytvořte rezervaci v [**rezervačním systému**](https://hydra.pod.cvut.cz/reservations/).
-2. **Pošli email** s podstatnými informacemi (datum, jméno, pokoj, ID) na adresu <party@pod.cvut.cz>
-3. Na základě rezervace a tohoto emailu Tě kontaktuje Vedoucí kolejní skupinky nebo jeden z jeho zástupců a domluví se s tebou na předání klíčů, čistících pomůcek atd.
-4. Při předání je nutno složit **vratnou zálohu 500 Kč**.
+1. Vytvoř rezervaci v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
+2. Pošli e-mail s podstatnými informacemi (datum, jméno, pokoj a ID) na <party@pod.cvut.cz>.
+3. Vedoucí kolejní skupinky nebo jeho zástupce tě následně kontaktuje a domluví s tebou předání klíčů a úklidových pomůcek.
+4. Při předání je nutné složit **vratnou zálohu 500 Kč**.
 
 Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abychom měli čas na reakci a mohli vše připravit k předání.
 
 ## Provozní řád
 
-Dostupný zde: **[Provozní řád Sudovna](https://s3.pod.cvut.cz/common/provozni_rady/party_room/party_room_cz.pdf)**!
+Přečti si [provozní řád sudovny](https://s3.pod.cvut.cz/common/provozni_rady/party_room/party_room_cz.pdf).

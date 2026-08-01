@@ -12,21 +12,21 @@ tocopen: true
 ---
 Email for printer registration: <ucebna@pod.cvut.cz>
 
-Managers: [Contacts]({{< ref "/contacts#pc-room-and-printer" >}})
+Managers: [Contacts]({{< ref "/contacts/index.en.md#pc-room" >}})
 
 ## Basic information
 
-The computer room is located in the basement of Block C. Enter through the main door to the left, down the stairs and the first door on the left.
+The computer room is in the basement of block C. From the main entrance, turn left, go downstairs, and use the first door on the left.
 
-Access to the computer room is available to any Pod-O-Lee Club member who has paid their basic membership and has added their card with our Hydra system.
+The computer room is available to every Pod-O-Lee member with paid basic membership and a card linked in Hydra.
 
-If you are unable to get into the PC classroom, go to the televisor or directly to the PC classroom administrators who will advise you and help you solve the problem.
+If you cannot enter the room, ask a televizor or contact one of the computer-room administrators.
 
-The computer lab contains, among other things, a club printer, a bookcase and a 3x white magnetic whiteboard.
+The room also contains the club printer, a book exchange, and three magnetic whiteboards.
 
-There are 2 data projectors available for borrowing in the room. Just email the administrator.
+Two projectors are available to borrow. Email the administrator to arrange a loan.
 
-The back room of the PC classroom can also be reserved for group or private study. How to book the room is described in the instructions below.
+The back room can be reserved for group or individual study. Instructions are provided below.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 
@@ -34,31 +34,31 @@ The back room of the PC classroom can also be reserved for group or private stud
 
 ## Library
 
-There is a small club library in the PC classroom. Here you will find bookshelves of both scholarly books and novels and works of other genres such as fantasy, science fiction, horror and crime fiction.
+The computer room contains a small book exchange with academic books, novels, fantasy, science fiction, horror, and crime fiction.
 
-You can borrow or take the books on your own, without permission. But you can also leave some of your own books here for someone else to pick up.
+You may borrow or keep a book without asking first. You can also leave your own books for other readers.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Printer
 
-In order to use the printer, you must open an account and charge your printing credit in cash. Registration and charging of credit is only possible with the administrator and the deputy administrator of the PC classroom, and only by prior arrangement via email <ucebna@pod.cvut.cz>.
+To use the printer, you need an account and printing credit. Registration and cash credit top-ups are handled by the administrator or deputy after prior arrangement at <ucebna@pod.cvut.cz>.
 
 **Credit can only be charged by cash payment in CZK.**
 
-The administrator will create an account for you in printer web interface. The login details will be provided to you after registration. These details are the same for your virtual wallet.
+The administrator will create an account for you in the printer’s web interface. The same login details are used for your virtual wallet.
 
-You can then check your credit balance in your virtual wallet on address <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
+You can check your balance in the [virtual wallet](https://payments.printer.pod.cvut.cz/payment-system/customer/login).
 
-If you do not know how to use the printer, there are [instructions for using the printer here](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing).
+If you need help, read the [printer instructions](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing).
 
 ### Important reminder
 
-Sending a scanned document by email is not working yet. So if you want to scan, you have to scan to a USB drive.
+Sending scanned documents by email does not currently work. Save scans to a USB drive instead.
 
-Don't forget that the printer prints in colour, if you only want black and white printing you need to set it up correctly.
+The printer uses colour by default. Select black-and-white printing before submitting your job if needed.
 
-**Photography print is prohibited.**
+**Printing photographs is prohibited.**
 
 **Printing prices in crowns:**
 
@@ -67,25 +67,24 @@ Don't forget that the printer prints in colour, if you only want black and white
 | **A4** | **0.9 CZK**         | **4.0 CZK** |
 | **A3** | **1.8 CZK**         | **8.0 CZK** |
 
-(Paper is included in the printing price).
+(Paper is included in the printing price.)
 
-Paper details: weight 80 g/m2, whiteness 146 CIE, opacity 92%.
+Paper details: weight 80 g/m², whiteness 146 CIE, opacity 92%.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
-## Room Reservation
+## Room reservation
 
 1. Create a reservation in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
-2. Send an email with important details to <ucebna@pod.cvut.cz>
-    - **That you want to confirm your reservation**
-    - **Your name**
-    - **When you plan to have the reservation**
-    - **Purpose**
-    - **If you want to borrow the key to the back room of the PC classroom to lock it**
-3. Your request will be processed based on your email.
-4. You will then be contacted by one of the PC classroom administrators to approve/disapprove your booking.
+2. Email <ucebna@pod.cvut.cz> and include:
+    - a request to confirm the reservation;
+    - your name;
+    - the reservation date and time;
+    - its purpose;
+    - whether you would like to borrow the key to lock the back room.
+3. An administrator will contact you to approve or decline the reservation.
 
-**Reservations must be made in advance (ideally a week in advance) to allow time for us to respond and to prepare everything for handover**.
+**Make reservations in advance, ideally one week beforehand, so that we have time to respond and prepare everything for handover.**
 
 ## Operation rules
 

@@ -11,26 +11,25 @@ weight: 10
 showtoc: true
 ---
 
-*Tato skupina vznikla pro to, abychom se bavili, hýbali, naučili se něco nového a hlavně tančili.*
+*Tato skupina vznikla proto, abychom se bavili, hýbali, naučili se něco nového a hlavně tančili.*
 
 ## Kdo povede taneční lekce?
 
-Tanečními lekcemi Tě bude provázet jeden z lektorů uvedených na stránce [Kontakty]({{< ref "/contacts/index.md#pod-o-dance" >}}).
+Tanečními lekcemi tě provede jeden z lektorů uvedených na stránce [Kontakty]({{< ref "/contacts/index.md#pod-o-dance" >}}).
 
 ## Co se bude tančit?
 
-### Kondiční latinskoamerické tance - single
+### Kondiční latinskoamerické tance – single
 
-Pod tímto dlouhým názvem se skrývá hodina, během které se naučíme základní kroky některého z tanců chacha, jive, samba, rumba, salsa 
-či bachata.
+Na lekci se naučíme základní kroky tanců, jako jsou cha-cha, jive, samba, rumba, salsa nebo bachata.
 
-Kroky se naučíme jak pánské tak dámské.
+Naučíme se pánské i dámské kroky.
 
-Z kombinace těchto kroků na každé hodině postavíme jednoduchou krátkou sestavu, kterou pak budeme tančit na různě rychlou hudbu.
+Na každé hodině z nich vytvoříme krátkou sestavu, kterou budeme tančit na různě rychlou hudbu.
 
 Netančíme v páru, ale každý sám za sebe.
 
-Cílem není naučit se perfektní techniku kroků, ale spíše rozproudit krev v těle a pořádně se u toho zapotit.
+Cílem není dokonalá technika, ale pohyb, zábava a pořádný trénink.
 
 ## Kde se bude tančit?
 
@@ -40,7 +39,7 @@ S tím souvisí podmínka, že všichni, kteří se lekcí budou účastnit, mus
 
 Není možné, aby na cizí kartu byl vpuštěn do prostor Pod-O-Gym někdo jiný.
 
-Dále je nutné řídit se provozním řádem Pod-O-Gym. Veškeré informace ohledně pravidel Pod-O-Gym jsou dostupné zde: [Provozní řád]({{< ref "/services/pod-o-gym/index.md#provozní-řád" >}})
+Je také nutné dodržovat [provozní řád Pod-O-Gym]({{< ref "/services/pod-o-gym/index.md#provozní-řád" >}}).
 
 ## Kdy se bude tančit?
 
@@ -53,7 +52,7 @@ Den a čas konání taneční lekce bude platit vždy po dobu semestru. Se zač�
 
 Pohodlné sportovní oblečení. Tančit budeme na tatami bez bot, pouze v ponožkách.
 
-Dále se sebou hodí mít něco k pití a ručník na otření potu.
+Hodí se také láhev s pitím a ručník.
 
 ## Podmínky pro vstup na lekce
 
@@ -63,16 +62,16 @@ Dále se sebou hodí mít něco k pití a ručník na otření potu.
 
 ## Jak se přihlásit na taneční lekci?
 
-Pokud máš zájem zúčastnit se taneční lekce, napiš [email lektorovi]({{< ref "/contacts/index.md#pod-o-dance" >}}), ve kterém dáš vědět, že dorazíš.
+Pokud se chceš lekce zúčastnit, napiš [e-mail lektorovi]({{< ref "/contacts/index.md#pod-o-dance" >}}) a potvrď svou účast.
 
-Pokud se po první lekci rozhodneš pokračovat v tancování, přidáme Tě do skupiny na Messengeru, která bude primárním informačním kanálem taneční skupiny Pod-O-Dance.
+Pokud se po první lekci rozhodneš pokračovat, přidáme tě do skupiny na Messengeru, která slouží jako hlavní informační kanál Pod-O-Dance.
 
-Na emailovou adresu uvedenou [v kontaktech]({{< ref "/contacts/index.md#pod-o-dance" >}}) se obracej i v případě jakýchkoliv dotazů.
+Na e-mail uvedený [v kontaktech]({{< ref "/contacts/index.md#pod-o-dance" >}}) se obracej také s případnými dotazy.
 
 ## Chceš si tancování nejdřív jen vyzkoušet, ale nemáš přístup do Pod-O-Gym?
 
-V případě, že jsi členem klubu, můžeme Ti dát přístup do Pod-O-Gym na zkoušku!
+Pokud jsi členem klubu, můžeme ti dát zkušební přístup do Pod-O-Gym.
 
-Zajdi za televizorem, který Ti může umožnit vstup do Pod-O-Gym, a přijď si jednu taneční lekci vyzkoušet.
+Zajdi za televizorem, který ti může zkušební vstup aktivovat, a přijď si jednu lekci vyzkoušet.
 
 Pokud se pak rozhodneš pokračovat v tancování, stačí si doplatit členství do Pod-O-Gym.

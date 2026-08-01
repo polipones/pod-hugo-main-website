@@ -2,11 +2,10 @@
 # Will be displayed at top of the page as main heading
 title: Nařízení předsedy 2/2022
 # Short post description
-description: ""
+description: "Zrušení omezení přístupu do klubových místností."
 author: "Jan Picka"
 tags: ["Nařízení předsedy"]
 
-# draft: true # TODO - Remove when ready to publish the post (post will be hidden with this set to true)
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
 # Other configuration

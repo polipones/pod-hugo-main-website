@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na předsedu klubu POD # TODO
+title: Volby na předsedu klubu Pod-O-Lee
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace k volbě předsedy klubu Pod-O-Lee."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -29,7 +29,7 @@ dne 10. 12. 2024 ve 23:59 uplynula lhůta pro podávání kandidátek na Předse
 
 Do voleb se přihlásil pouze jeden kandidát, Kateřina Pilná, přičemž včas dodala podepsaný originál kandidátky předsedovi volební komise. Kandidátka je k dispozici ke stažení zde: [katerina_pilna.pdf](https://s3.pod.cvut.cz/common/volby/2024/predseda/katerina_pilna_predseda.pdf).
 
-Na žádost volební komise byla vyhlášena volební schůze Představenstva, a sice na **24. 1. 2025 od 19:00** v zasedací místnosti klubu Pod-O-Lee. Schůze je veřejná, nicméně volit Předsedu mohou pouze členové Představenstva. V případě dotazů k volbám prosím neváhejte se na nás obrátit na email <volby@lists.pod.cvut.cz>.
+Na žádost volební komise byla vyhlášena volební schůze představenstva na **24. 1. 2025 od 19:00** v zasedací místnosti klubu Pod-O-Lee. Schůze je veřejná, předsedu však mohou volit pouze členové představenstva. S dotazy k volbám se obracejte na <volby@lists.pod.cvut.cz>.
 
 Volební komise: Vítek Zapletal, Vojtěch Halamka, Luboš Jánský, Jakub Pohl, Pavel Sillinger
 
@@ -41,7 +41,7 @@ Předseda klubu Pod-O-Lee (dále jen Předseda) vyhlásil dne 24. listopadu 2024
 
 Pravomoci a povinnosti Předsedy jsou upraveny v [IP5/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve Stanovách klubu.
 
-Volby se řídí [IP16/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_16-2024_-_volby_predsedy_klubu_pod-o-lee.pdf). Předsedu bude volit Představestvo klubu Pod-O-Lee. Kandidovat může každý, kdo je členem Studentské Unie ČVUT a nebyl v posledních 365 dnech před konáním voleb potrestán za porušení předpisů.
+Volby se řídí [IP16/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_16-2024_-_volby_predsedy_klubu_pod-o-lee.pdf). Předsedu bude volit představenstvo klubu Pod-O-Lee. Kandidovat může každý, kdo je členem Studentské unie ČVUT a nebyl v posledních 365 dnech před konáním voleb potrestán za porušení předpisů.
 
 Kandidátka musí obsahovat:
 
@@ -66,6 +66,6 @@ Vzor kandidátky je zde. Vyplněnou a podepsanou kandidátku zašlete na e-mail�
 - termín pro podávání kandidátek je nejpozději **do 10. prosince 2024 23:59**
 - termín pro předání vlastnoručně podepsané kandidátky předsedovi volební komise je nejpozději **do 13. prosince 2024 23:59**
 
-V případě dotazů nás kontaktujte na <volby@pod.cvut.cz>. Těšíme se na vaše kanidátky.
+V případě dotazů nás kontaktujte na <volby@pod.cvut.cz>. Těšíme se na vaše kandidátky.
 
 Volební komise: Vojtěch Halamka, Luboš Jánský, Jakub Pohl, Pavel Sillinger, Vítek Zapletal

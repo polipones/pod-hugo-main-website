@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Schůze představenstva 12. 4. 2026 # TODO
+title: Schůze představenstva 12. 4. 2026
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: ["schůze představenstva"] # TODO
+description: "Program schůze představenstva klubu Pod-O-Lee dne 12. 4. 2026."
+author: "Web admin"
+tags: ["schůze představenstva"]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -28,8 +28,8 @@ Předběžný program:
 
 - Schválení programu (vede: Kateřina Pilná)
 - Kolečko (vede: Kateřina Pilná)
-- Schválení zápisu ze schůze Představenstva konané 12.3.2026 (vede: Kateřina Pilná)
+- Schválení zápisu ze schůze představenstva konané 12. 3. 2026 (vede: Kateřina Pilná)
 - Výjimky SU100 klubu Pod-O-Lee (vede: Kateřina Pilná)
-- Informace o postupu s jednacím řádem a ve stanovami POD (vede: Kateřina Pilná)
+- Informace o postupu s jednacím řádem a stanovami Pod-O-Lee (vede: Kateřina Pilná)
 - Informace o nadcházejících akcích (vede: Kateřina Pilná a Pavel Pavlů)
 - Různé (vede: Kateřina Pilná)

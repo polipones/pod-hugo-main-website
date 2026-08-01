@@ -9,25 +9,25 @@ slug: network
 weight: 2
 ---
 
-## How to connect to the Internet
+## How to connect to the internet
 
 #### You will need:
 
-- citizen ID or ISIC
-- valid accommodation agreement or accommodation card
+- identity card or ISIC
+- valid accommodation contract or dormitory card
 - room number
 - all devices you want to connect to our network
 
 #### Next steps
 
-1. Now you need to go to the televizor (a person handling registrations and problems dealing with internet connection). List of the televizors is available here: [List of televizors in contacts]({{< ref "/contacts/index.en.md" >}}).
-2. Televizor will register and create account on our system Hydra. You will then receive an email with password which you can change. The ID from this account will serve as the variable symbol (VS) for payment. He will give you short explanation about the rules of the academical net. You will receive free internet for 10 days. In a span of these 10 days you should pay for it, otherwise it will stop working until you pay. You also have to present valid accommodation agreement or accommodation card for valid membership.
+1. Visit a televizor, a volunteer who handles registration and internet-related problems. See the current [list of televizors]({{< ref "/contacts/index.en.md" >}}).
+2. The televizor will register you in Hydra. You will receive an email containing a password that you can change. Your Hydra ID is also the variable symbol used for payments. The televizor will explain the academic-network rules and activate internet access for ten days. You must pay the membership fee during this period or access will stop until payment is processed. You must also present a valid accommodation contract or dormitory card.
 
 #### Device settings
 
 ##### Windows
 
-Randomized mac address should already be disabled. So just select the network and connect using the club email and network password set in [Hydra](https://hydra.pod.cvut.cz/).
+The randomised MAC-address option should be disabled. Select the network and connect using your club email address and the network password set in [Hydra](https://hydra.pod.cvut.cz/).
 
 ##### Android
 
@@ -35,7 +35,7 @@ The first time you try to connect to the Pod-O-Lee network you will be prompted 
 
 - EAP method: PEAP (if you don't see this option, click Advanced options)
 - Phase-2 authentication: MSCHAPV2 (for older Androids, you can select None)
-- CA certificate: Use system certificates, you must select certificate authentication if you want your connection to be secure
+- CA certificate: Use system certificates (certificate validation is required for a secure connection)
 - Domain: radius.pod.cvut.cz
 - Identity: your club email, e.g. p.novak@pod.cvut.cz
 - Password: network password set in [Hydra](https://hydra.pod.cvut.cz/)
@@ -44,74 +44,73 @@ The first time you try to connect to the Pod-O-Lee network you will be prompted 
 
 ##### iOS
 
-Before you try to log in, click on the wifi network information called "Pod-O-Lee" to see the mac address/phone address settings. There you will have a choice where you have to select "Use phone address".
+Before connecting, open the details for the “Pod-O-Lee” Wi‑Fi network and configure it to use the device address rather than a random private address.
 
-You can then log in using your club email and the network password set in [Hydra](https://hydra.pod.cvut.cz/). You will then be asked if you trust the radius certificate, click trust there. After that there should be no problem with connecting to the network.
+Log in using your club email and the network password set in [Hydra](https://hydra.pod.cvut.cz/). When prompted, verify and trust the RADIUS certificate.
 
 ##### Linux
 
-In linux it depends on the distribution, but the settings are the same as android. Certificates are usually stored in this location: '/etc/ca-certificates/extracted/', you will usually find the file '/etc/ca-certificates/extracted/ca-bundle.trust.crt' there.
+The exact steps in Linux depend on the distribution, but the connection parameters are the same as on Android. Certificates are often stored under `/etc/ca-certificates/extracted/`, for example in `/etc/ca-certificates/extracted/ca-bundle.trust.crt`.
 
 
-### Connection to the net via cable (Ethernet)
+### Wired connection (Ethernet)
 
-No other steps are needed. Just put the cable in already registered device. You can only connect one device on cable. If you want more than one device, you need to write email to televizor.
+No additional setup is required: connect the cable to a registered device. Each member may connect one wired device. Ask a televizor if you need an exception.
 
-### WiFi
+### Wi‑Fi
 
-Currently working on all blocks, in Pod-O-Gym and around our Menza (canteen)
+Wi‑Fi is available in all blocks, in Pod-O-Gym, and around the canteen.
 
-It is possible to register up to three devices one for every category. Categories are PC, smartphone, tablet etc. It is possible to ask Network Administrator for an exception if you have good reason.
+You may register up to three wireless devices, one in each category: computer, phone, and tablet. You can ask the network administrator for a justified exception.
 
-Registration process is same as the registration for a cable.
+The registration process is the same as for a wired connection.
 
-#### Password for WiFi
+#### Wi‑Fi password
 
-To set password used for WiFi connection, follow these steps:
+To set your Wi‑Fi password:
 
-1. Open [https://hydra.pod.cvut.cz/services/network](https://hydra.pod.cvut.cz/services/network). Use your username and generated password to log in (you can find it in the email you received after registration with televizor).
-2. Find red button with “Set new password” label and username above (This is your WiFi password, different from the one from email)
+1. Open [Hydra’s network settings](https://hydra.pod.cvut.cz/services/network) and log in using the details from your registration email.
+2. Find the red “Set new password” button below your username. This network password is different from your Hydra login password.
 
-{{<figure src="images/services/network/hydra_wifi_password.png" alt="WiFi password setup Hydra" imgop="rt_fit">}}
+{{<figure src="images/services/network/hydra_wifi_password.png" alt="Setting a Wi-Fi password in Hydra" imgop="rt_fit">}}
 
-Try to log in with the username (case-sensitive!) and the newly set password. If it doesn’t work, wait for cca 10 minutes and try again.
+Connect using the case-sensitive username and your new password. If it does not work immediately, wait about ten minutes and try again.
 
-#### Connection troubleshooting - Randomized MAC address
+#### Troubleshooting – randomised MAC address
 
-Every manufacturer names this function differently, try to search for something similar. If enabled, device cannot be connected to our network, because we are verifying known devices based on MAC addresses. So disable this function if you want to connect to our network.
+Manufacturers use different names for this feature. If it is enabled, the device may not connect because our network checks its MAC address against the one registered in Hydra. Configure the device to use a fixed MAC address for the Pod-O-Lee network.
 
-If you don't know how, contact admin of your or any other block: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
+If you need help, contact an administrator on your block or a neighbouring block. See [Contacts]({{< ref "/contacts/index.en.md" >}}).
 
-## Email conferences
+## Mailing lists
 
-Every newly registered member is automatically registered to recieve emails from kolej-info@pod.cvut.cz. It is email conference, where campus manager notifies about important information (like revisions of appliances, outages, etc.) or active members of Pod-O-Lee (admins) notify about other important activities, network outages, elections, etc.
+Every newly registered member is automatically subscribed to kolej-info@pod.cvut.cz. Dormitory management uses this list for important information such as inspections and outages, while active Pod-O-Lee members announce events, elections, network outages, and other news.
 
-You also should subscribe to your block email conference, info-x@pod.cvut.cz, where x is letter of your block. Block admins notify here about block oriented stuff, like meetings, block outages, etc.
+You should also subscribe to your block’s list at info-x@pod.cvut.cz, replacing `x` with the letter of your block. Administrators use it for block-specific meetings, outages, and other information.
 
-These conferences are moderated, if you want to send some important information, let us now at admins@pod.cvut.cz. This also blocks any unwanted mail.
+The lists are moderated to prevent spam. To distribute important information through them, email <admins@pod.cvut.cz>.
 
-You can subscribe and unsubscribe these conferences in your Hydra account: https://hydra.pod.cvut.cz/mailing.
+You can manage your subscriptions in [Hydra](https://hydra.pod.cvut.cz/mailing).
 
 {{<figure src="images/services/network/hydra_mailing.png" alt="Email conferences in Hydra" imgop="rt_fit">}}
 
 ## Computer network rules
 
-Each user of a computer network has rights and obligations. Everything is defined in the internal rules on the rules of the computer network usage rules. 
-By using the academic network you agree to follow the rules defined not only in our statutes, but also the rules of the SU, CTU and CESNET.
+Every network user has rights and responsibilities set out in the internal regulations. By using the academic network, you agree to follow the rules of the club, the CTU Student Union, CTU, and CESNET.
 
 ### How it is in practice
 
-This section is only intended to give an overview of the rules of computer networking, it is not complete and may not be up to date!
-For the exact wording of the rules, please read the internal regulation related to this topic in [Documents]({{< ref "/documents#interní-předpisy" >}}).
+This section provides only a brief overview of the network rules. It is not complete and may not be current.
+For the exact wording of the rules, please read the relevant internal regulation in [Documents](/dokumenty/#interní-předpisy) (Czech only).
 
 - You must not use the network for commercial purposes.
 - You must not use the network for illegal purposes.
-  - For example: hacking networks and servers, downloading and distributing illegal stuff (torrents are the most common analogy).
+  - Examples include attacking networks and servers or downloading and distributing illegal content.
 - If we receive a report that your device is infected with a virus, we will disconnect your device from the network until you prove to us that the device is virus-free.
 - You can only use a device on the network that is registered in our system.
   - Related to this is that you must not give access to the network to others.
   - For this reason, you must not extend the network (for example, by using your own router).
 
-The network is monitored and therefore violations of these rules can be detected. Violations are then dealt with and punished not only on the basis of severity. These penalties may, for example, be a ban. 
+The network is monitored, so violations can be detected. Penalties depend on the severity of the violation and may include suspension of network access.
 
-If you have a specific request, contact the TV on your case on the next block or one of the networkers: [{{< ref "/contacts/index.md" >}}]({{< ref "/contacts/index.md" >}}).
+For a specific request, contact a televizor on your block or a neighbouring block, or one of the network administrators. See [Contacts]({{< ref "/contacts/index.en.md" >}}).

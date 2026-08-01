@@ -12,13 +12,13 @@ weight: 4
 
 Správci: [Kontakty]({{< ref "/contacts/index.md#pod-o-games" >}})
 
-Pod-O-Games je místnost, kterou každý hráč videoher, jistě ocení. Nachází se na bloku A v přízemí. Najdete zde PlayStation 5, Nintendo Switch a Oculus Quest 2. V aktuální době máme na Nintendo to nejlepší, co Switch nabízí a to: Mariokart Delux, The Legend of Zelda: Breath of the Wild, Pokemon Shield. Na PlayStation máme např. Mafie trilogy, Red Dead Redemption II, Fifa 19 a ve virtuální realitě lze hrát Superhot, Beat Saber nebo Gran Turismo.
+Pod-O-Games je místnost pro hráče videoher a filmové projekce. Nachází se v přízemí bloku A a je vybavena konzolemi PlayStation 5, Nintendo Switch a Oculus Quest 2. Zahrát si můžeš například Mario Kart 8 Deluxe, The Legend of Zelda: Breath of the Wild, Pokémon Shield, trilogii Mafia, Red Dead Redemption II, FIFA 19, Superhot, Beat Saber nebo Gran Turismo.
 
 Kompletní seznam her je zde: [Seznam her v Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
 {{<figure src="images/freetime-activities/pod-o-games/games_02.jpg" alt="Games 02" imgop="rt_fit">}}
 
-Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní PC a koukat na film, ozvučení je zajištěno repráky Bose, takže se případně omlouváme všem nad herní místností. Najde zde i rozkládací gauč a několik fatboyů. Máme také závodní sedačku Playseat Fanatec, na které si můžeš užít závodní hry.
+Místnost je vybavena také 4K projektorem, ke kterému můžeš připojit vlastní počítač, a reproduktory Bose. K posezení slouží rozkládací gauč a několik sedacích vaků. Závodní hry si můžeš užít v sedačce Playseat s vybavením Fanatec.
 
 {{<figure_gallery>}}
     {{<figure src="images/freetime-activities/pod-o-games/games_01.jpg" alt="Games 01" imgop="rt_fit">}}
@@ -27,17 +27,17 @@ Místnost je dále vybavena 4K projektorem, ke kterému lze připojit i vlastní
     {{<figure src="images/freetime-activities/pod-o-games/games_05.jpg" alt="Games 05" imgop="rt_fit">}}
 {{</figure_gallery>}}
 
-Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento řád podepisuje a potvrzuje tím že je s ním srozuměn nejen on, ale i lidé, kteří se v místnosti nacházejí. Porušení jakéhokoliv z bodů bude potrestáno zákazem navštěvování Pod-O-Games.
+Při převzetí klíčů vypůjčitel podpisem potvrzuje, že seznámil sebe i ostatní návštěvníky s provozním řádem. Porušení pravidel může vést k zákazu vstupu do Pod-O-Games.
 
 ## Rychlé info k rezervaci
 
-### 1. Krok pro zapůjčení místnosti
+### Postup zapůjčení místnosti
 
 1. Před vstupem do místnosti je nezbytné mít vytvořenou rezervaci alespoň 24 hodin dopředu v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
-2. Poslat mail s nezbytnými informacemi (Datum, Jméno, pokoj, ID) na adresu: <games@pod.cvut.cz>.
-3. Se vstupem do místnosti vypůjčitel souhlasí, že si přečetl a byl srozuměn s Provozním řádem.
+2. Pošli e-mail s datem, jménem, číslem pokoje a ID na <games@pod.cvut.cz>.
+3. Vstupem do místnosti vypůjčitel potvrzuje, že si přečetl provozní řád a rozumí mu.
 
-### 2. Pravidla rezervace
+### Pravidla rezervace
 
 1. Vypůjčitel potvrzuje rezervaci přebráním klíčů a vstupem do místnosti.
 2. Maximální délka rezervace je 6 hodin.
@@ -47,4 +47,4 @@ Provozní řád je k nahlédnutí níže. Každý při obdržení klíčů tento
 
 ## Provozní řád
 
-Dostupný zde: **[Provozním řád Pod-O-Games](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_cz.pdf)**!
+Přečti si [provozní řád Pod-O-Games](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_cz.pdf).

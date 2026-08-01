@@ -1,12 +1,11 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Výsledky voleb na správce bloků # TODO
+title: Výsledky voleb na správce bloků
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Kandidáti a výsledky voleb správců bloků."
+author: "Web admin"
+tags: [Volby]
 
-#draft: true # TODO - Remove when ready to publish the post (post will be hidden with this set to true)
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
 # Other configuration
@@ -26,7 +25,7 @@ layout: post
 
 Ahoj Podolačky a Podoláci,
 
-7. 5. 2025 ve 20:00 večer uplynula lhůta pro podávání kandidátek na Správce bloků A, B, C, D, E a F. 
+7. 5. 2025 ve 20:00 uplynula lhůta pro podávání kandidátek na správce bloků A, B, C, D, E a F.
 
 ---
 
@@ -36,7 +35,7 @@ Kandidátky na pozici Správce bloku A je možné v prodloužené lhůtě podat 
 Podepsaný originál kandidátky předsedovi volební komise je nutno doručit do 25. 5. 2025 do 20:00.
 Volby na Správce bloku A proběhnou prezenční formou 28. 5. 2025 od 19:00 do 21:00.
 
-Bohužel musím připomenout, že v případě, že blok nemá správce, může v krajním případě dojít až k odpojení bloku od akademické sítě. Je tedy v zájmu všech ubytovaných na bloku A, aby se nějaký vhodný kandidát našel. 
+Bohužel musím připomenout, že pokud blok nemá správce, může v krajním případě dojít až k jeho odpojení od akademické sítě. Je tedy v zájmu všech ubytovaných na bloku A, aby se vhodný kandidát našel.
 
 ---
 

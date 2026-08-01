@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Schůze představenstva 12. 3. 2026 # TODO
+title: Schůze představenstva 12. 3. 2026
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: ["schůze představenstva"] # TODO
+description: "Program schůze představenstva klubu Pod-O-Lee dne 12. 3. 2026."
+author: "Web admin"
+tags: ["schůze představenstva"]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -29,10 +29,10 @@ Předběžný program:
 - Schválení programu (vede: Kateřina Pilná)
 - Představení nové vedoucí kolejí Podolí (vede: Kateřina Pilná)
 - Kolečko (vede: Kateřina Pilná)
-- Schválení zápisu ze schůze Představenstva konané 22.2.2026 (vede: Kateřina Pilná)
-- 2x zaplacené stejné členství v jednom období (vede: Luboš Jánský)
+- Schválení zápisu ze schůze představenstva konané 22. 2. 2026 (vede: Kateřina Pilná)
+- Dvakrát zaplacené stejné členství v jednom období (vede: Luboš Jánský)
 - FP MEZI BLOKY 2026 (vede: Luboš Jánský a Kateřina Pilná)
 - EČ MEZI BLOKY 2026 (vede: Luboš Jánský a Kateřina Pilná)
-- Diskuse změn v Jenacím řádu a ve stanovách (vede: Kateřina Pilná)
-- 4 Kč fond diskuse (vede: Kateřina Pilná)
+- Diskuse o změnách jednacího řádu a stanov (vede: Kateřina Pilná)
+- Diskuse o fondu 4 Kč (vede: Kateřina Pilná)
 - Různé (vede: Kateřina Pilná)

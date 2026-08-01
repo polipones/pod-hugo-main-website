@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Boarding 2025 # TODO
+title: Check-in 2025
 # Short post description
-description: "" # TODO
-author: "Kateřina Pilná" # TODO
-tags: [] # TODO
+description: "Information about 2025 check-in and residence verification at the Podolí dormitory."
+author: "Kateřina Pilná"
+tags: [Check-in]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -26,17 +26,17 @@ layout: post
 
 Hi,
 
-I would like to wish you good luck in the new academic year 2025/2026, I believe that in addition to staying together in the same dormitory we will create many memories and experience many good events :)
+I wish you good luck in the 2025/2026 academic year. I hope that, besides studying and living in the same dormitory, we will create many memories and enjoy plenty of successful events together. :)
 
-Together with the beginning of the year I would like to remind you of the necessity of confirmation that you are a resident of Podolí Dormitory.
+At the beginning of the year, you must confirm that you are a resident of the Podolí dormitory.
 
-To do so is at the club stand, which we will have at the entrance to the campus every working day from 8:00 to 14:00 at the time of regular boarding to the campus (i.e. until 19.9.2025). To present yourself, you only need a dormcard or an accommodation contract for AR 2025/2026. Alternatively, you can arrange verification at our televisions, you can find their contacts here: https://podolee.cz/en/contacts/ 
+You can do so at the club stand by the entrance. During the main check-in period, until 19 September 2025, the stand will be open every working day from 8:00 to 14:00. Bring your dormitory card or accommodation contract for the 2025/2026 academic year. You can also arrange verification with a televizor; see [Contacts](https://podolee.cz/en/contacts/).
 
-If you have registered for the club this September (9/2025) or you have already done so, the obligation to prove it does not apply to you. If you are not currently at the campus, we can solve everything when you return with our televisions :)
+If you registered with the club in September 2025 or have already completed verification, this requirement does not apply to you. If you are away from the dormitory, a televizor can help when you return. :)
 
-Along with this, I invite you to beer and limo, which you can have at our stand (again on weekdays from 8:00 to 14:00). Either bring your own cup or you can get our returnable cup Pod-O-Lee for 50 CZK (in cash).
+You are also invited to have a beer or soft drink at our stand on weekdays from 8:00 to 14:00. Bring your own cup or borrow a Pod-O-Lee cup for a refundable cash deposit of 50 CZK.
 
 I wish you a beautiful September and a lot of success with your studies.
 
 Kateřina Pilná  
-chairman club Pod-O-Lee
+chair of the Pod-O-Lee club

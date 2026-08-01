@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Schůze představenstva 8. 12. 2025 # TODO
+title: Schůze představenstva 8. 12. 2025
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: ["schůze představenstva"] # TODO
+description: "Program schůze představenstva klubu Pod-O-Lee dne 8. 12. 2025."
+author: "Web admin"
+tags: ["schůze představenstva"]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -27,6 +27,6 @@ Zasedací místnost klubu Pod-O-Lee
 Program:
 
 - Schválení programu (vede: Kateřina Pilná)
-- Schválení zápisu ze schůze Představenstva konané 24.11.2025 (vede: Kateřina Pilná)
+- Schválení zápisu ze schůze představenstva konané 24. 11. 2025 (vede: Kateřina Pilná)
 - Stanovy klubu Pod-O-Lee (vede: Kateřina Pilná)
 - Různé (vede: Kateřina Pilná)

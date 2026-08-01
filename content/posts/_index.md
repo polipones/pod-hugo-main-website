@@ -1,8 +1,8 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Příspěvky # TODO
+title: Příspěvky
 # Short post category description
-description: "" # TODO
+description: "Novinky, oznámení a informace z klubu Pod-O-Lee."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

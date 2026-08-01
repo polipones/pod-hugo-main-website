@@ -9,28 +9,28 @@ slug: party-room
 weight: 1
 ---
 
-Administrators: [Contacts]({{< ref "/contacts/index.md#party-room" >}})
+Administrators: [Contacts]({{< ref "/contacts/index.en.md#party-room" >}})
 
 ## How to make a reservation
 
 1. Make a reservation in our [reservation system](https://hydra.pod.cvut.cz/reservations/).
-2. Send an e-mail with crucial info (name, date, ID, room) to <party@pod.cvut.cz>.
-3. Based on this email the Head of dormitory group will contact you and you will agree on lending of keys and other accessories.
-4. Amount of **500 CZK is collected as a returnable deposit**.
+2. Email your name, date, ID, and room number to <party@pod.cvut.cz>.
+3. The dormitory group leader or a deputy will contact you to arrange collection of the keys and other equipment.
+4. You must pay a **refundable deposit of 500 CZK** when collecting the keys.
 
-Reservation has to be made **IN ADVANCE** (a week prior is ideal), so we can have reaction and preparation time.
+Make your reservation **in advance, ideally one week beforehand**, so that we have enough time to prepare.
 
 ## Party room operating rules
 
 1. You are obliged to follow the operating rules upon entering the room. If you do not agree with the rules, leave the room immediately.
 2. Access to the party room is granted ONLY BY THE ADMINS based on a prior agreement and only to the active members of the Pod-O-Lee club. The gatekeeper does not have the authority to lend keys and ENTRANCE WITHOUT PRIOR AGREEMENT WITH THE ADMINS IS CLASSIFIED AS VIOLATION OF OPERATING RULES.
-3. Upon lending the keys the recieving person is defined as an EVENT ORGANIZER.
-4. Upon entering the party room for the first time is the event organizer obliged to report all the damages and malfunctions.
-5. Event organizer is responsible for the event participants (all the people in the party room and in front of the party room), also for the noice, damage to the equipment and the state of the corridor in front of the party room including the fire extinguishers.
-6. Smoking, starting fire and usage of drugs or other law prohibited substances is FORBIDDEN inside the party room.
-7. Before losing the status of event organiser (key returnal to the admins) it is COMPULSARY to SWEEP the floor, MOP the floor, CLEAN and WIPE the tables, EMPTY THE BINS, CLEAN THE TOILETS and CORRIDOR, CLOSE WINDOWS and LOCK THE DOORS.
-8. If the equipment suffers damage during the event, the event organizer is obliged to report it and make an agreement on the form of compensation. In other case it will be recognised as a intentional damaging of the dormitory equipment. Punishments are clearly stated in the dormitory rules.
+3. The person who receives the keys becomes the event organiser.
+4. The event organiser must report all existing damage and malfunctions when first entering the room.
+5. The event organiser is responsible for everyone in and immediately outside the room, as well as for noise, equipment damage, and the condition of the corridor and fire extinguishers.
+6. Smoking, lighting fires, and using illegal drugs or substances are forbidden inside the party room.
+7. Before returning the keys, the organiser must sweep and mop the floor, wipe the tables, empty the bins, clean the toilets and corridor, close the windows, and lock the doors.
+8. The organiser must report any damage and agree on compensation. Unreported damage may be treated as deliberate damage to dormitory equipment.
 9. Damages will be repaired or paid for, financial debt will be enforced by the head of dormitory.
-10. It is necessary to respect the night peace after 10 PM (especially in the corridor, the party room has only a poor noice insulation).
+10. Observe quiet hours after 22:00, especially in the corridor, because the room has limited soundproofing.
 
 **The person responsible will be put on the blacklist upon breaking the rules. If a person is put on the blacklist, the usage of party room, grill and the beer tap will be unavailable. Upon worse or repeated violation of the rules the person responsible can be suggested to a three month long ban to the basic membership in the Pod-O-Lee club.**

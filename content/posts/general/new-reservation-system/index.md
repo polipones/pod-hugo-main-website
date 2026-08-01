@@ -22,9 +22,9 @@ s novým měsícem přecházíme na nový rezervační systém, který najdete p
 Co je dobré vědět?
 
 - **Stávající rezervace:** Všechny dosud nerealizované rezervace jsme vám již úspěšně přesunuli.
-- **Nová funkce:** Na své rezervace můžete nově zvát i hosty – další členy klubu Pod-O-Lee. Některé místnosti navíc vám i hostům po dobu výpůjčky automaticky umožní přístup na kartu, kterou máte v Hydře (jsou označené „Access“).
+- **Nová funkce:** Na své rezervace můžete nově zvát i hosty – další členy klubu Pod-O-Lee. Některé místnosti vám i hostům navíc po dobu výpůjčky automaticky umožní přístup kartou uloženou v Hydře. Tyto místnosti jsou označené „Access“.
 - **Předávání:** Klíče a detaily výpůjček řešte prosím i nadále přes e-mailové konference.
 
 Hezké léto,
-Katka
-předsedkyně klubu Pod-O-Lee
+
+Katka, předsedkyně klubu Pod-O-Lee

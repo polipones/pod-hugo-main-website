@@ -11,14 +11,14 @@ weight: 3
 tocopen: true
 ---
 
-Kufrárna je místnost k uložení věcí (lednice, mikrovlnná trouba a malý nábytek) v období letních prázdnin. **Otevírá se vždy na začátku a konci prázdnin.** Uložení je možné pro členy klubu s platným základním členstvím zdarma.
+Kufrárna slouží k uložení věcí, například lednice, mikrovlnné trouby nebo menšího nábytku, během letních prázdnin. **Otevírá se vždy na začátku a na konci prázdnin.** Uložení je zdarma pro členy klubu s platným základním členstvím.
 
-Najdeš ji v přízemí bloku A v místnosti 019.
+Najdeš ji v místnosti 019 v přízemí bloku A.
 
-Otevírání kufrárny řeší pověřená osoba a to správce kufrárny (<kufrarna@pod.cvut.cz>) Termíny otevření jsou vždy vypisovány postupně. Není možné individuální otevírání kufrárny. Pokud v uvedených termínech nemáš čas, zašli návrhy termínů (alespoň 3 pracovní dny předem) a pokud se sejde více zájemců, otevře se i v jiný termín.
+Otevírání zajišťuje správce kufrárny (<kufrarna@pod.cvut.cz>) a termíny oznamuje s předstihem. Individuální otevření není možné. Pokud ti vypsané termíny nevyhovují, pošli alespoň tři pracovní dny předem návrhy jiných termínů. Když se sejde více zájemců, může správce vypsat další termín.
 
-Před uložením věcí je potřeba si přečíst provozní řád a seznámit se s pravidly uložení věcí.
+Před uložením věcí si přečti provozní řád.
 
 ## Provozní řád
 
-Dostupný zde: **[Provozní řád Kufrárna](https://s3.pod.cvut.cz/common/provozni_rady/storage_room/storage_room_cz.pdf)**!
+Přečti si [provozní řád kufrárny](https://s3.pod.cvut.cz/common/provozni_rady/storage_room/storage_room_cz.pdf).

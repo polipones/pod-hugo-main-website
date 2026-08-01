@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: "Pod-O-Gym: Úprava provozního řádu a čištění tatami" # TODO
+title: "Pod-O-Gym: Úprava provozního řádu a čištění tatami"
 # Short post description
-description: "" # TODO
-# author: "Matúš Priščák" # TODO
-tags: [Pod-O-Gym] # TODO
+description: "Aktualizace provozního řádu a čištění tatami v Pod-O-Gym."
+author: "Matúš Priščák"
+tags: [Pod-O-Gym]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -23,4 +23,4 @@ date: 2022-08-18T20:30:00+02:00
 layout: post
 ---
 
-Dne 18. 8. 2022 proběhla úprava provozního řádu Pod-O-Gym. Aktuální verzi je možné stáhnout zde: [Provozní řád Pod-O-Gym](/sluzby/pod-o-gym/pod_o_gym_provozni_rad.pdf). Nezapomeňte si nový řád prostudovat před vaší další návštěvou Pod-O-Gym. Správce a jeho tým také během minulého víkendu vyčistili tatami vapkou.
+Dne 18. 8. 2022 byl aktualizován provozní řád Pod-O-Gym. [Aktuální provozní řád Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf) si prostudujte před další návštěvou. Správce a jeho tým také během předchozího víkendu vyčistili tatami tlakovou myčkou.

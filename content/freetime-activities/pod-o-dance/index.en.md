@@ -11,6 +11,6 @@ weight: 10
 showtoc: false
 ---
 
-## Lectures will be held in Czech language only for some time.
+## Lessons are currently held in Czech only
 
-{{<linktraslations>}} <!-- TODO: remove before publishing draft -->
+See the Czech version of this page for complete information.

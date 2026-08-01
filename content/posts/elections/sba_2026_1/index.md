@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na správce bloku A # TODO
+title: Volby na správce bloku A
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace a výsledek doplňujících voleb správce bloku A."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -25,7 +25,7 @@ layout: post
 
 Ahoj Podolačky a Podoláci,
 
-včera ve 13. 2. 2026 ve 20 hodin uplynula lhůta pro podávání kandidátek v doplňujících volbách na Správce bloku A. Vzhledem k tomu, že se na pozici přihlásil pouze jeden kandidát a již dodal volební komisi podepsaný originál kandidátky, tak se volby na tuto pozici neuskuteční.
+dne 13. 2. 2026 ve 20:00 uplynula lhůta pro podávání kandidátek v doplňujících volbách na správce bloku A. Protože se přihlásil pouze jeden kandidát a volební komisi včas dodal podepsaný originál kandidátky, volby se neuskuteční.
 
 Správcem bloku A se svým vlastním hlasem stává **Pavel Sillinger** (ID 7092).
 
@@ -46,7 +46,7 @@ Volby se řídí [IP7/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-20
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".

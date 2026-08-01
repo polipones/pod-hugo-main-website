@@ -11,18 +11,18 @@ weight: 6
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
+Managers: [Contacts]({{< ref "/contacts/index.en.md#dormitory-group" >}})
 
 {{<figure src="images/freetime-activities/grill/grill.jpg" alt="Grill" imgop="rt_fit">}}
 
-## Instructions for lending a grill
+## How to borrow the grill
 
 1. Create a reservation in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
 2. Send an email with important details to <party@pod.cvut.cz>.
-    * Your full name, ID (can be found in the Hydra) and room.
-    * What do you want to rent and when do you want to rent it.
+    - your full name, Hydra ID, and room number;
+    - what you want to borrow and when.
 3. Based on your email, your request will be processed.
-4. You will then be contacted by the Dorm Group Leader or one of the representatives to arrange to hand over the equipment.
+4. The dormitory group leader or a deputy will contact you to arrange collection of the equipment.
 
 **Bookings must be made in advance (ideally a week in advance) for us to have time to respond and prepare everything for handover.**
 
@@ -30,16 +30,16 @@ Managers: [Contacts]({{< ref "/contacts/index.md#dormitory-group" >}})
 
 1. By entering the grill area you are obliged to follow these operating rules. If you do not agree with these rules, leave the grill area.
 2. The grill is **ONLY** to be rented by the **DORM GROUP LEADER** or his/her deputy with the approval of the college administration upon prior reservation in the [reservation system](https://hydra.pod.cvut.cz/reservations/) system and only to club members. **ENTRY WITHOUT THE COLLEGE GROUP LEADER'S CONSENT** is classified as a **VIOLATION OF THE RULES OF ORDER**.
-3. With **transfer of grill accessories** is the person receiving the accessories defined as the **organizer of the event**.
+3. The person who receives the grill accessories becomes the **event organiser**.
 4. The **event organizer** shall report any defects or damaged equipment when first entering the grill area.
 5. The event organizer is responsible for all the people present at the event (i.e. all people in and around the grill area), and is also responsible for noise, equipment damage, and the condition of the grill area.
-6. Starting the fire outside the designated area and the use of liquid lighter is **FORBIDDEN** for fire protection reasons.
-7. CONSUMPTION OF MIND ALTERING or other substances not permitted by law and is **PROHIBITED** in the grill area. Except for alcohol.
+6. For fire-safety reasons, lighting a fire outside the designated area and using liquid firelighter are **forbidden**.
+7. Consuming illegal or mind-altering substances other than alcohol is **prohibited** in the grill area.
 8. **PEEING OR POOPING is PROHIBITED** in the grill area.
 9. Prior to termination of the event organizer status (returning the grill accessories to the college group leader or his/her deputy) **MUST CLEAN OUT ALL ACCESSORIES** (especially the meat rack), **REMOVE ASHES FROM THE GRILL**, and **PROPERLY CLEAN UP THE GRILL** and surrounding area.
 10. Any damage to the grill or items around it must be reported and arrangements made for replacement. Not doing so will be treated as deliberate damage to college equipment. The penalties are clearly set out in the college regulations.
 11. Damage caused will be repaired or paid for, any financial debt will be recovered by the college management.
-12. After 10 p.m. it is necessary to follow the night peace.
+12. Observe quiet hours after 22:00.
 
 If the rules are broken, the person responsible **will be put on the blacklist**. This will result in the loss of the possibility to use the benefits of the Dormitory Group (drinking room, beer dispenser, grill). In the case of a more serious (or repeated) violation of the rules, the responsible member **may be banned** in the Pod-O-Lee Club.
 

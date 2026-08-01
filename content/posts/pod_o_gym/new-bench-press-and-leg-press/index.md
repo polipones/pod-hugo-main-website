@@ -1,6 +1,6 @@
 ---
 title: "Nové vybavení v Pod-O-Gym"
-description: "V Pod-O-Gym na vás čeká nový benchpress i legpress."
+description: "V Pod-O-Gym na vás čeká nový bench press i leg press."
 author: "Kateřina Pilná"
 tags: [Pod-O-Gym]
 
@@ -17,12 +17,12 @@ layout: post
 
 Ahoj Podoláci,
 
-chcete hodit formu, nebo prostě jen pořádně odpálit trénink? V naší posilovně Pod-O-Gym na vás čeká nový benchpress i legpress! 🏋️‍♂️
+chcete se dostat do formy nebo si jen pořádně zacvičit? V naší posilovně Pod-O-Gym na vás čeká nový bench press i leg press! 🏋️‍♂️
 
-Legpress už sice v gymu nějakou dobu věrně slouží, ale bench je čerstvá posila, tak ho přijďte pořádně otestovat. Ať už plánujete zvedat nové osobáky na prsa, nebo pořádně naložit nohám, máte k tomu ideální podmínky.
+Leg press už v posilovně nějakou dobu věrně slouží, ale lavice na bench press je novým přírůstkem, tak ji přijďte otestovat. Ať už chcete překonat svůj osobní rekord v bench pressu, nebo pořádně procvičit nohy, máte k tomu ideální podmínky.
 
 Stavte se si zacvičit – Pod-O-Gym je vám plně k dispozici!
 
-Hezké léto,  
-Katka  
-předsedkyně klubu Pod-O-Lee
+Hezké léto,
+
+Katka, předsedkyně klubu Pod-O-Lee

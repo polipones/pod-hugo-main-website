@@ -10,9 +10,7 @@ weight: 5
 showtoc: false
 ---
 
-Chceš si zasportovat?
-Chceš si zahrát fotbal, volejbal, tenis nebo něco jiného?
-Více informací [zde](https://www.suz.cvut.cz/cz/komercni-sluzby/pronajem-sportovist).
+Chceš si zahrát fotbal, volejbal, tenis nebo jiný sport? Využít můžeš sportoviště v areálu kolejí. Podrobnosti najdeš na stránce [Pronájem sportovišť](https://www.suz.cvut.cz/cz/komercni-sluzby/pronajem-sportovist).
 
 {{<figure_gallery>}}
     {{<figure src="images/freetime-activities/playgrounds/pg_01.jpg" alt="Playgrounds 01">}}

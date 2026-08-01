@@ -17,21 +17,21 @@ HidePublishDate: true
 
 Studentský klub Pod-O-Lee funguje na koleji již od roku 1998 a je druhým největším klubem [Studentské unie ČVUT](https://su.cvut.cz/). Správu klubu dobrovolně zajišťují sami studenti.
 
-Naší náplní je správa počítačové sítě na kolejích a zprostředkování volnočasových aktivit pro ubytované. Zajišťujeme například provoz hudebny, sportoviště Pod-O-Gym a také provoz dílny Pod-O-Lab a mnoho dalších. Také zde organizujeme různé společenské, kulturní a sportovní akce. V klubu Pod-O-Lee se určitě nudit nebudete, každý si najde zábavu přímo pro sebe.
+Spravujeme počítačovou síť na kolejích a zajišťujeme volnočasové aktivity pro ubytované. Provozujeme například hudebnu, sportoviště Pod-O-Gym a dílnu Pod-O-Lab. Pořádáme také společenské, kulturní a sportovní akce. V klubu Pod-O-Lee si zkrátka každý může najít něco pro sebe.
 
 Koleje Podolí patří [Českému vysokému učení technickému v Praze (ČVUT)](https://cvut.cz/). O správu kolejí se stará [Správa účelových zařízení ČVUT](https://www.suz.cvut.cz/cz/dlouhodobe-ubytovani/koleje-podoli).
 
-Pokud najdeš závadu na koleji, nahlas to v [závadovém systému](https://web.suz.cvut.cz/KnihaZavad) v ISKAMu (menu Ubytování -> Kniha závad).
+Pokud najdeš závadu na koleji, nahlas ji v [závadovém systému](https://web.suz.cvut.cz/KnihaZavad) v ISKAMu (Ubytování → Kniha závad).
 
-Přístup do našeho informačního systému (Hydry) najdeš [zde](https://hydra.pod.cvut.cz/). Zjistíš zde například jaké členské příspěvky máš zaplacené a jaká zařízení mají povolené připojení k naší síti.
+V našem informačním systému [Hydra](https://hydra.pod.cvut.cz/) zjistíš například, jaké členské příspěvky máš zaplacené a která zařízení mají povolené připojení k naší síti.
 
-Pokud máte jakékoliv problémy s platbami, pište na <platby@pod.cvut.cz>.
+Pokud máš problém s platbou, napiš na <platby@pod.cvut.cz>.
 
-[Průvodce prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf) Ti může také přijít vhod.
+Hodit se ti může také [průvodce prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf).
 
-Ať už jsi student, doktorand či samoplátce a potřebuješ s čímkoliv poradit, chceš být u každé akce pořádané na našich kolejích, nebo se jen seznámit a pobavit se s dalšími skvělými lidmi, přidej se do naší facebookové skupiny: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
+Ať už potřebuješ s něčím poradit, chceš mít přehled o akcích na kolejích, nebo se jen seznámit s dalšími lidmi, přidej se do naší facebookové skupiny [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 
-Přidej se taky do své blokové facebookové skupiny, ať Ti neuniknou důležité blokové informace, např. kdy se koná akce Poznej svého správce: [Blok A](http://www.facebook.com/groups/A.Podolee/), [Blok B](http://www.facebook.com/groups/B.Podolee/), [Blok C](http://www.facebook.com/groups/C.Podolee/), [Blok D](http://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](http://www.facebook.com/groups/F.Podolee/).
+Přidej se také do facebookové skupiny svého bloku, ať ti neuniknou důležité informace a blokové akce: [blok A](http://www.facebook.com/groups/A.Podolee/), [blok B](http://www.facebook.com/groups/B.Podolee/), [blok C](http://www.facebook.com/groups/C.Podolee/), [blok D](http://www.facebook.com/groups/D.Podolee/), [blok E](https://www.facebook.com/groups/E.Podolee/), [blok F](http://www.facebook.com/groups/F.Podolee/).
 
 - [FB stránka klubu](https://www.facebook.com/profile.php?id=100080945754982)
 - [Instagram](https://www.instagram.com/pod_o_lee/)
@@ -39,22 +39,23 @@ Přidej se taky do své blokové facebookové skupiny, ať Ti neuniknou důleži
 
 ## Nástupy na kolej
 
-Krátce před začátkem semestru probíhají hromadné nástupy na kolej, kde Tě ubytuje SÚZ ČVUT. Při ubytovávání narazíš i na náš klubový stánek, kde Tě o fungování klubu informujeme.
+Krátce před začátkem semestru probíhají hromadné nástupy na kolej, které zajišťuje SÚZ ČVUT. Při ubytování narazíš i na náš klubový stánek, kde ti vysvětlíme, jak klub funguje.
 
-Zabydlování zabere nějaký čas, takže neboj nemusíš si vše přinést první den. Od rána se většinou tvoří velké fronty studentů před ubytovací kanceláří (do ní se dostaneš z recepce) a to zpravidla po celý týden. V budově vrátnice je pomocník, který na vyžádání poskytne pořadové číslo. To si radši vezmi, jinak tam budeš čekat až do večera.
+Ubytování zabere nějaký čas, ale nemusíš si všechno přinést hned první den. Před ubytovací kanceláří, do které se dostaneš z recepce, se během nástupního týdne obvykle tvoří dlouhé fronty. U pomocníka na recepci si proto raději vyzvedni pořadové číslo.
 
-Do ubytovací kanceláře potřebuješ:
+Do ubytovací kanceláře si vezmi:
+
 - občanský průkaz nebo pas
 - malou fotku na kolejenku
 - potvrzení o studiu (jen pokud nejsi student ČVUT)
 
-Taktéž si rozmysli, jaké věci chceš pojistit proti krádeži (na vrátnici dostaneš list, kde vyplníš věci nad 10 000 Kč, co chceš pojistit). Seznam můžeš i později doplnit, ale v první den **doporučujeme** na seznam napsat alespoň notebook/PC (plus nějaké další dražší věci).
+Rozmysli si také, které věci chceš pojistit proti krádeži. Na recepci dostaneš formulář, do kterého uvedeš věci v hodnotě nad 10 000 Kč. Seznam můžeš doplnit i později, ale hned první den **doporučujeme** uvést alespoň notebook nebo počítač a další dražší věci.
 
 Jestli se však přistěhováváš mimo období hromadných nástupů, neváhej navštívit nebo kontaktovat členy klubu na svém bloku ([Kontakty]({{< ref "/contacts" >}})).
 
 ## Kalendář klubových akcí
 
-Pokud si chceš kalendář přidat do svého, stačí Ti importovat tento odkaz [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
+Pokud si chceš naše akce přidat do svého kalendáře, importuj [kalendář akcí Pod-O-Lee](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
 
 {{<rawhtml>}}
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>

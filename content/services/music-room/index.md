@@ -9,23 +9,22 @@ slug: hudebna
 weight: 4
 ---
 
-Pro všechny zapálené muzikanty a hudební skupiny tu máme vybavenou a odhlučněnou místnost pro hudební produkce a trénink. Určitě si přijďte procvičit svoje prstíky a hlasy, oddechnout si od učení, nebo práce.
+Pro muzikanty a hudební skupiny máme vybavenou a odhlučněnou místnost ke zkoušení i hudební produkci. Přijď si zahrát, zazpívat nebo odpočinout od školy či práce.
 
-Pokud Tě hudebna zaujala, můžeš se také přidat k naší [Facebookové skupině](https://www.facebook.com/groups/135514173251273/?fref=ts).
+Pokud tě hudebna zaujala, přidej se také do naší [facebookové skupiny](https://www.facebook.com/groups/135514173251273/).
 
 ## Vybavení hudebny
 
-- El. piano KAWAI s kvalitní kladívkovou mechanikou (sample: 8x piano, 4x el.p.) + výstup USB, MIDI
-- Bicí souprava (viz foto) + cajon
-- dynamické mikrofony, Shure SM57, všestranný kondenzátorový mikrofon AT-2035
-- Baskytara + Marshall kombo
-- El. kytara + Fender kombo + digit. efekt
-- Mixážní pult – 12 kanálů, phantom 24/48 pro kond. mikrofony, delay efekty..
-- Zesilovač + 2 kvalitní PA reproduktory (Mackie S512m)
-- Digitální zvuková karta Tascam pro nahrávání
-- Sada mikrofonů pro nahrávání bicích
+- elektrické piano Kawai s kvalitní kladívkovou mechanikou, zvukovými rejstříky a výstupy USB a MIDI
+- bicí souprava, cajon a sada mikrofonů k nahrávání bicích
+- dynamické mikrofony Shure SM57 a kondenzátorový mikrofon Audio-Technica AT2035
+- baskytara a kombo Marshall
+- elektrická kytara, kombo Fender a digitální efekt
+- dvanáctikanálový mixážní pult s fantomovým napájením a efekty
+- zesilovač a dva PA reproduktory Mackie S512M
+- digitální zvukové rozhraní Tascam k nahrávání
 
-Hudebna je konstantně monitorována kamerami.
+Hudebna je nepřetržitě monitorována kamerami.
 
 {{<figure_gallery>}}
     {{<figure src="images/services/music-room/music-room-1.jpg" alt="Music room photo 1">}}
@@ -38,16 +37,16 @@ Hudebna je konstantně monitorována kamerami.
 
 #### Již jsi členem klubu?
 
-Popros televizora, aby Ti dal 10 zkušebních dní a pokud nemáš přiřazenou čipovou kartu k účtu, tak postupuj podle postupu pro „nečleny“ klubu (další odstavec). Poté budeš muset platit členský příspěvek ([informace o placení]({{< ref "/payments/index.md" >}})) a tvou povinností je také si přečíst a dodržovat provozní řád ([Provozní řád hudebny]({{< ref "#provozní-řád" >}})).
+Požádej televizora o desetidenní zkušební přístup. Pokud ještě nemáš čipovou kartu přiřazenou ke svému účtu, postupuj podle návodu pro nečleny v následujícím odstavci. Po skončení zkušební doby musíš zaplatit příslušný [členský příspěvek]({{< ref "/payments/index.md" >}}). Nezapomeň si také přečíst a dodržovat [provozní řád hudebny]({{< ref "#provozní-řád" >}}).
 
 #### Pokud nejsi členem klubu
 
-Před samotnou registrací zajdi k hudebně (suterén bloku B), 5x pípni čipovou kartou (ISIC, Lítačka, …) o čtečku a zapamatuj si přesný čas pípání. Tím si zajistíš, že televizor bude vědět, jakou kartu Ti má přiřadit k účtu při registraci. Poté vyhledej nějakého televizora, on už Tě zbytkem procesu provede.
+Před registrací zajdi k hudebně v suterénu bloku B, pětkrát přilož čipovou kartu (například ISIC nebo Lítačku) ke čtečce a zapamatuj si přesný čas. Televizor pak pozná, kterou kartu má při registraci přiřadit k tvému účtu, a provede tě zbytkem procesu.
 
 ### Mimokolejní zájemci
 
-Mimokolejní zájemce bohužel nemůžeme přijímat, jelikož je hudebna uvnitř kolejního bloku bez externího vstupu.
+Zájemce, kteří nebydlí na koleji, bohužel nemůžeme přijímat, protože hudebna nemá samostatný vchod zvenčí.
 
 ## Provozní řád
 
-Dostupný zde: **[Provorní řád Hudebna](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_cz.pdf)**!
+Přečti si [provozní řád hudebny](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_cz.pdf).

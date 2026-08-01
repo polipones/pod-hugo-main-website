@@ -17,12 +17,12 @@ layout: post
 
 Hi Podoláci,
 
-do you want to get in shape or simply smash a great workout? A new bench press and leg press are waiting for you at our Pod-O-Gym! 🏋️‍♂️
+do you want to get in shape or simply have a great workout? A new bench press and leg press are waiting for you at Pod-O-Gym! 🏋️‍♂️
 
 The leg press has already been serving the gym faithfully for a while, but the bench is a brand-new addition, so come and put it to the test. Whether you are aiming for a new bench press personal best or want to give your legs a serious workout, you now have the perfect setup.
 
 Drop by for a workout – Pod-O-Gym is ready for you!
 
-Have a great summer,  
-Katka  
-chair of the Pod-O-Lee club
+Have a great summer,
+
+Katka, chair of the Pod-O-Lee club

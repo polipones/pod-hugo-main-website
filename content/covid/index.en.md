@@ -6,4 +6,7 @@ url: covid
 slug: covid
 showtoc: false
 ---
-If you are not from Czech Republic, current executive orders about high school dormitories are not applied for you. Other executive orders must be followed.
+
+> **Archived information:** This page describes measures from 2020 and is not a source of current guidance.
+
+If you are not a Czech citizen, the measures concerning university dormitories described on the Czech version of this page do not apply to you. You must still follow all other applicable government measures.

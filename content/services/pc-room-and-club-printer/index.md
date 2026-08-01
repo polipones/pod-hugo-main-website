@@ -10,81 +10,78 @@ weight: 5
 
 tocopen: true
 ---
-Email pro registraci k tiskárně: <ucebna@pod.cvut.cz>
+E-mail pro registraci k tiskárně: <ucebna@pod.cvut.cz>
 
-Správci: [Kontakty]({{< ref "/contacts#pc-učebna-a-tiskárna" >}})
+Správci: [Kontakty]({{< ref "/contacts/index.md#pc-učebna" >}})
 
 ## Základní informace
 
-Počítačová učebna je umístěna v suterénu na bloku C. Při vstupu hlavními dveřmi doleva, po schodech dolů a první dveře vlevo.
+Počítačová učebna se nachází v suterénu bloku C. Od hlavního vchodu se vydej doleva, sejdi po schodech a projdi prvními dveřmi vlevo.
 
-Přístup do učebny má každý člen klubu Pod-O-Lee, který má zaplacené základní členství a má přidanou svou kartu s našem systému Hydra.
+Přístup do učebny má každý člen klubu Pod-O-Lee se zaplaceným základním členstvím a kartou přiřazenou v Hydře.
 
-Pokud se Ti nedaří dostat se do PC učebny, zajdi za televizorem nebo přímo za správci PC učebny, kteří Ti poradí a pomohou Ti problém vyřešit.
+Pokud se ti nedaří dostat do PC učebny, obrať se na televizora nebo přímo na správce učebny.
 
-V počítačové učebně se mimo jiné nachází klubová tiskárna, knihobudka a 3x bílá magnetická tabule.
+V počítačové učebně najdeš také klubovou tiskárnu, knihobudku a tři bílé magnetické tabule.
 
-V místnosti jsou k dispozici k zapůjčení 2 dataprojektory. Stačí napsat správci na email.
+K zapůjčení jsou také dva dataprojektory. Stačí napsat správci e-mail.
 
-Lze si také rezervovat zadní místnost PC učebny pro skupinové či soukromé učení. Jak si rezervovat místnost je popsáno v návodu níže.
+Zadní místnost PC učebny si můžeš rezervovat ke skupinovému nebo samostatnému studiu. Postup najdeš níže.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_01.jpg" alt="PC room: Main room" imgop="rt_fit">}}
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_02.jpg" alt="PC room: Second room with whiteboards" imgop="rt_fit">}}
 
 ## Knihobudka
 
-V prostorách PC učebny se nachází klubová knihobudka. Nalezneš zde na poličkách knihy jak odborné knihy, tak romány a díla jiných žánrů jako je fantasy, sci-fi, horror či krimi.
+V PC učebně se nachází klubová knihobudka s odbornými knihami, romány, fantasy, sci-fi, horory i detektivkami.
 
-Knížky si můžeš brát sám (není potřeba se s někým domlouvat) vypůjčit nebo i natrvalo vzít. Stejně tak ale zde můžeš i nějaké vlastní knížky nechat, aby se jich mohl ujmout někdo jiný.
+Knihy si můžeš bez předchozí domluvy vypůjčit nebo ponechat. Stejně tak zde můžeš nechat vlastní knihy pro další čtenáře.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
 ## Tiskárna
 
-Abyste mohli tiskárnu využívat, je nutné si nechat založit účet a v hotovosti si nabít kredit na tisk. Registrace a nabití kreditu je možné výlučně u správce a zástupce správce PC učebny, a to pouze po předchozí domluvě přes email <ucebna@pod.cvut.cz>.
+Abys mohl tiskárnu používat, musíš si nechat založit účet a v hotovosti nabít kredit. Registraci a dobití kreditu vyřizuje správce nebo jeho zástupce po předchozí domluvě na adrese <ucebna@pod.cvut.cz>.
 
 **Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
 
-Správce Ti vytvoří účet ve webovém rozhraní k tiskárně. Přihlašovací údaje Ti sdělí po registraci. Tyto údaje jsou jednotné i pro Vaši virtuální peněženku.
+Správce ti vytvoří účet ve webovém rozhraní tiskárny a po registraci sdělí přihlašovací údaje. Stejné údaje použiješ i pro virtuální peněženku.
 
-Zjistit si stav svého kreditu můžeš následně ve virtuální peněžence na adrese <https://payments.printer.pod.cvut.cz/payment-system/customer/login>.
+Stav kreditu si můžeš zkontrolovat ve [virtuální peněžence](https://payments.printer.pod.cvut.cz/payment-system/customer/login).
 
-Pokud si nevíš rady s tiskárnou existuje pro její ovládání návod: [Návod jak pracovat s tiskárnou](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing)
+Pokud si s tiskárnou nevíš rady, přečti si [návod k jejímu použití](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing).
 
 ### Důležitá upozornění
 
-Zatím nám nefunguje odesílání naskenovaného dokumentu e-mailem. Pokud chcete tedy skenovat, musíte skenovat na USB disk.
+Odesílání naskenovaných dokumentů e-mailem zatím nefunguje. Skeny proto ukládej na USB disk.
 
-Nezapomínejte na to, že tiskárna tiskne barevně, pokud chcete jen černobílý tisk, musíte jej správně nastavit.
+Tiskárna je ve výchozím nastavení barevná. Pokud chceš tisknout černobíle, změň nastavení před odesláním úlohy.
 
 Platí **zákaz tisku fotografií.**
 
-**Ceny za tisk v korunách:**
+**Ceny tisku:**
 
 |        | **Černobílý** | **Barevný** |
 |--------|---------------|-------------|
-| **A4** | **0.9 Kč**    | **4.0 Kč**  |
-| **A3** | **1.8 Kč**    | **8.0 Kč**  |
+| **A4** | **0,90 Kč**   | **4,00 Kč** |
+| **A3** | **1,80 Kč**   | **8,00 Kč** |
 
-(V ceně tisku je zahrnut i papír).
+(Papír je zahrnut v ceně tisku.)
 
-Detaily o papíru:
-gramáž 80 g/m2, bělost 146 CIE, neprůsvitnost 92%
+Parametry papíru: gramáž 80 g/m², bělost 146 CIE, neprůsvitnost 92 %.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
 ## Rezervace zadní místnosti
 
 1. Vytvoř si rezervaci v [rezervačním systému](https://hydra.pod.cvut.cz/reservations/).
-2. Pošli email s důležitými údaji na <ucebna@pod.cvut.cz>
-    - **Že chceš potvrdit rezervaci**
-    - **Své jméno**
-    - **Čas kdy plánuješ mít rezervaci**
-    - **Účel**
-    - **Jestli chceš půjčit klíč k zadní místnosti PC učebny k jejímu zamknutí**
-3. Na základě emailu bude Tvá žádost vyřízena.
-
-4. Následně Tě kontaktuje jeden ze správců PC učebny a schválí/neschválí tvou rezervaci.
+2. Pošli e-mail na <ucebna@pod.cvut.cz> a uveď:
+    - že žádáš o potvrzení rezervace;
+    - své jméno;
+    - datum a čas rezervace;
+    - účel rezervace;
+    - zda si chceš půjčit klíč k zamknutí zadní místnosti.
+3. Jeden ze správců PC učebny tě následně kontaktuje a rezervaci potvrdí nebo zamítne.
 
 **Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 

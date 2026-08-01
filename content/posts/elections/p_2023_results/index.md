@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na Předsedu klubu Pod-O-Lee  # TODO
+title: Volby na předsedu klubu Pod-O-Lee
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Kandidáti a termín volby předsedy klubu Pod-O-Lee."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -23,6 +23,6 @@ date: 2023-02-06T18:15:40+00:00
 layout: post
 ---
 
-Včera 5. 2. 2023 ve 20:00 uplynula lhůta pro podávání kandidátek na Předsedu klubu Pod-O-Lee. Do voleb se přihlásili 2 kandidáti - **Jiří Novotný** a **Kateřina Pilná**. Jejich kandidátky naleznete [zde](https://cloud.pod.cvut.cz/index.php/s/bDGHSggC8g3snMG).
+Dne 5. 2. 2023 ve 20:00 uplynula lhůta pro podávání kandidátek na předsedu klubu Pod-O-Lee. Do voleb se přihlásili dva kandidáti – **Jiří Novotný** a **Kateřina Pilná**. Jejich kandidátky naleznete [zde](https://cloud.pod.cvut.cz/index.php/s/bDGHSggC8g3snMG).
 
 Volby proběhnou na volební schůzi Představenstva klubu Pod-O-Lee ve **středu 8. 2. 2023 od 20:00** v zasedací místnosti klubu (budova menzy, nahoře nad schody vlevo). Předsedu volí pouze Představenstvo, přesto jsou všichni členové klubu srdečně zváni.

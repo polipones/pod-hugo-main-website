@@ -1,8 +1,8 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Pod-O-Gym # TODO
+title: Pod-O-Gym
 # Short post category description
-description: "Posts concerning Pod-O-Gym" # TODO
+description: "News and information from the Pod-O-Gym club sports facility."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

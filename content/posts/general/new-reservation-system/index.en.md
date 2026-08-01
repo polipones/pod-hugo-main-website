@@ -25,6 +25,6 @@ What should you know?
 - **New feature:** You can now invite guests – other members of the Pod-O-Lee club – to your reservations. Some rooms will also automatically grant you and your guests card access for the duration of the booking, using the card registered in Hydra (these rooms are marked “Access”).
 - **Handover:** Please continue to arrange key handovers and borrowing details through the mailing lists.
 
-Have a great summer,  
-Katka
-chair of the Pod-O-Lee club
+Have a great summer,
+
+Katka, chair of the Pod-O-Lee club

@@ -15,28 +15,27 @@ HidePublishDate: true
 
 ## About our club
 
-Student’s club Pod-O-Lee was established in 1998 and currently is the second largest club of the [CTU Student Union](https://su.cvut.cz/). The club is completely run by student volunteers, who decided to grab this wonderful opportunity to enhance their work experience.
+The Pod-O-Lee dormitory club was established in 1998 and is currently the second-largest club in the [CTU Student Union](https://su.cvut.cz/). It is run entirely by student volunteers who gain valuable experience while improving life at the dormitory.
 
-We will be happy to welcome foreign students among us as well, thus feel free to contact us. You can join our club management, IT team, Gym administration, PR department, HR department and many others.
+International students are welcome too, so feel free to contact us. You can join the club management, IT team, Pod-O-Gym team, PR or HR team, and many other groups.
 
-We do not just provide the internet connection, we also take care of providing enough opportunities for you to enjoy free time activities. You can visit our music rehearsal studio, our famous Pod-O-Gym, our new workroom Pod-O-Lab and many others.
+Besides providing an internet connection, we offer plenty of ways to enjoy your free time. You can visit our music rehearsal room, Pod-O-Gym, Pod-O-Lab workshop, and many other club facilities.
 
-On top of that, we organise various social, cultural and sports events.
-However, the Podolí dormitory is property of [Czech Technical University in Prague (CTU)](https://cvut.cz/). It is being administered by [SUZ ČVUT (The Service Facilities Administration of the Czech Technical University in Prague)](https://www.suz.cvut.cz/koleje/koleje-podoli) throughout the whole year.
+We also organise various social, cultural, and sporting events.
 
-Please, if you find a defect anywhere in the Podolí dormitory, use the [defect reporting system](https://web.suz.cvut.cz/KnihaZavad) in ISKAM (menu Accommodation -> Defect log).
+The Podolí dormitory is owned by the [Czech Technical University in Prague (CTU)](https://cvut.cz/) and managed by the [CTU Service Facilities Administration (SÚZ ČVUT)](https://www.suz.cvut.cz/koleje/koleje-podoli).
 
-Access to Hydra is [here](https://hydra.pod.cvut.cz/). You can find what membiership you have paid and for how long or which of your devices are registered to our network.
+If you find a defect anywhere in the Podolí dormitory, report it through the [defect reporting system](https://web.suz.cvut.cz/KnihaZavad) in ISKAM (Accommodation → Defect log).
 
-[Here](https://hydra.pod.cvut.cz/) you can access the Hydra. There you can find for example list of paid memberships and which of your devices have enabled network access.
+In [Hydra](https://hydra.pod.cvut.cz/), you can check your paid memberships and see which of your devices have network access.
 
-If you have any kind of problem with paying for club membership, please write email to <platby@pod.cvut.cz>.
+If you have a problem paying for club membership, email <platby@pod.cvut.cz>.
 
-[Freshman's guide](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-en.pdf) could be good for you as well.
+You may also find the [freshman’s guide](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-en.pdf) useful.
 
-Whether you are a student or a self-payer and you need help with anything, or you want to be at every event held at our dorm, or just meet and have fun with other great people, join our facebook group: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
+Whether you need advice, want to keep up with dormitory events, or would simply like to meet new people, join our Facebook group: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 
-Join your block facebook group too, so you don’t miss informations regarding block activities: [Blok A](https://www.facebook.com/groups/A.Podolee/), [Blok B](https://www.facebook.com/groups/B.Podolee/), [Blok C](https://www.facebook.com/groups/C.Podolee/), [Blok D](https://www.facebook.com/groups/D.Podolee/), [Blok E](https://www.facebook.com/groups/E.Podolee/), [Blok F](https://www.facebook.com/groups/F.Podolee/).
+Join your block’s Facebook group too, so you do not miss information about block activities: [Block A](https://www.facebook.com/groups/A.Podolee/), [Block B](https://www.facebook.com/groups/B.Podolee/), [Block C](https://www.facebook.com/groups/C.Podolee/), [Block D](https://www.facebook.com/groups/D.Podolee/), [Block E](https://www.facebook.com/groups/E.Podolee/), [Block F](https://www.facebook.com/groups/F.Podolee/).
 
 - [Facebook page](https://www.facebook.com/profile.php?id=100080945754982)
 - [Instagram](https://www.instagram.com/pod_o_lee/)
@@ -44,22 +43,23 @@ Join your block facebook group too, so you don’t miss informations regarding b
 
 ## First day
 
-Shortly before the start of the semester, there are mass arrivals to the dormitory where you will be accommodated by the CTU SÚZ. When you check in, you will also come across our information booth where we will inform you about the club's operations.
+Shortly before the start of each semester, SÚZ ČVUT organises the main dormitory check-in period. You will also find our information booth there, where we can explain how the club works.
 
-It will take some time to complete the check-in process. From the morning, there are usually large queues of students outside the accommodation office (you can get to it from the reception), and this is usually the case throughout the week. There is an assistant in the reception who will provide a serial number on request. You'd better take this or you'll be waiting there until the evening.
+Check-in can take some time. Long queues usually form outside the accommodation office, which is accessible from reception. Ask the reception assistant for a queue number when you arrive.
 
-For the accommodation office you need:
+Bring the following to the accommodation office:
+
 - ID or passport
 - a small photo for your dorm card
-- proof of studies (only if you are not a student at the CTU)
+- proof of enrolment (only if you are not a CTU student)
 
-Also think about what things you want to insure against theft (at the reception you will get a sheet where you fill in what you want to insure). We **highly recommend** that you get at least a laptop/PC (plus some other more expensive items) insured. It costs a few crowns and you'll be glad you have it insured in case something gets lost.
+You can also insure valuable belongings against theft. Reception will provide a form on which to list the items. We **strongly recommend** insuring at least your laptop or computer and any other valuable belongings.
 
-However, if you're moving in outside of the mass boarding period, feel free to visit or contact club members on your block ([Contacts]({{< ref "/contacts">}})).
+If you move in outside the main check-in period, feel free to visit or contact the club members on your block ([Contacts]({{< ref "/contacts" >}})).
 
 ## Club events calendar
 
-If you want to add our calendar to yours, you can import this link [Pod-O-Lee akce](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
+To add our events to your calendar, import the [Pod-O-Lee events calendar](https://cloud.pod.cvut.cz/remote.php/dav/public-calendars/666q8eA7DaPq6K6e?export).
 
 {{<rawhtml>}}
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>

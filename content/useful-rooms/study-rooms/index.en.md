@@ -13,22 +13,22 @@ Study rooms can be found in rooms:
 
 - A306, A406, B306, B406
 
-Keys can be borrowed for **up to 24 hours** in exchange for the dormitory ID. Reservations can be made at the dormitory's gatehouse.
+Keys can be borrowed from reception for **up to 24 hours** in exchange for your dormitory ID. Reservations are also made at reception.
 
 {{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
-## Operation rules
+## Operating rules
 
-1. Study rooms are dedicated to study purposes, any other activities are prohibited.
-2. Study room can be borrowed for up to 24 hours. Rental time is counted from the time of pick up.
-3. Keep calm and be clean in the study room in order not to disturb any other studying people.
-4. It is prohibited to damage rooms or its equipment.
-5. For the whole rental time of the study room the student takes full responsibility over the room.
-6. Responsible person can allow other people the access to the study room, but is responsible for their behavior and respecting the operation rules.
-7. If there is any damage found on the equipment or the study room itself, its obligatory to report the damage at the gatehouse and write the current state into the book of faults. It is understood as a responsible person's fault if this does not happen.
-8. There is no responsibility from The Service Facilities Administration (SUZ) over not properly stored and secured objects such as mobile phones, laptops etc.
-9. In the study rooms smoking is prohibited.
-10. In the study rooms sleepovers of people are prohibited.
-11. It is prohibited to sit on the radiator, window frames and other things not dedicated to sitting.
-12. The room has to be put in the original state and the windows need to be closed.
-13. If the Operation rules of the study rooms are broken in any way the student will get BANned from further use of study rooms for a certain time period by the dormitory leadership.
+1. The rooms are intended for studying; other activities are prohibited.
+2. A study room may be borrowed for up to 24 hours, counted from the time the key is collected.
+3. Keep quiet and leave the room clean so that you do not disturb other students.
+4. Do not damage the room or its equipment.
+5. The borrower is responsible for the room throughout the loan period.
+6. The borrower may allow other people to enter but remains responsible for their behaviour and compliance with these rules.
+7. Report any damage to the room or its equipment at reception and record it in the defect log. Unreported damage may be attributed to the borrower.
+8. The Service Facilities Administration (SÚZ) is not responsible for improperly stored or unsecured belongings such as phones and laptops.
+9. Smoking is prohibited.
+10. Sleeping in the study rooms is prohibited.
+11. Do not sit on radiators, window frames, or other objects not intended as seating.
+12. Restore the room to its original condition and close the windows before leaving.
+13. Breaking these rules may result in a temporary ban imposed by the dormitory management.

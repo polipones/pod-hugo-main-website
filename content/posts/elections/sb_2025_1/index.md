@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na správce bloků A, B, C, D, E a F # TODO
+title: Volby na správce bloků A, B, C, D, E a F
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace k volbám správců bloků A až F."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -52,7 +52,7 @@ Volby se řídí [IP15/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".

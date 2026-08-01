@@ -17,6 +17,6 @@ Klíče si můžeš vypůjčit na recepci **až na 24 hodin** (od začátku výp
 
 {{<figure src="images/useful-rooms/study-rooms/study_room.jpg" alt="Study room">}}
 
-## Provozní řád Studoven
+## Provozní řád studoven
 
-Dostupný zde: [Provozní řád Studovna](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_studoven.pdf).
+Přečti si [provozní řád studoven](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_studoven.pdf).

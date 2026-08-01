@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Schůze představenstva 22. 2. 2026 # TODO
+title: Schůze představenstva 22. 2. 2026
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: ["schůze představenstva"] # TODO
+description: "Program schůze představenstva klubu Pod-O-Lee dne 22. 2. 2026."
+author: "Web admin"
+tags: ["schůze představenstva"]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -28,7 +28,7 @@ Předběžný program:
 
 - Schválení programu (vede: Kateřina Pilná)
 - Kolečko (vede: Kateřina Pilná)
-- Schválení zápisu ze schůze Představenstva konané 26.1.2026 (vede: Kateřina Pilná)
-- Schválení Výroční zprávy klubu Pod-O-Lee 2025 (vede: Kateřina Pilná)
-- IP 3-2026 Jendací řád (vede: Kateřina Pilná)
+- Schválení zápisu ze schůze představenstva konané 26. 1. 2026 (vede: Kateřina Pilná)
+- Schválení výroční zprávy klubu Pod-O-Lee za rok 2025 (vede: Kateřina Pilná)
+- IP 3/2026 Jednací řád (vede: Kateřina Pilná)
 - Různé (vede: Kateřina Pilná)

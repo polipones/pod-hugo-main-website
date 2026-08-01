@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Nástupy 2025 # TODO
+title: Nástupy 2025
 # Short post description
-description: "" # TODO
-author: "Kateřina Pilná" # TODO
-tags: [] # TODO
+description: "Informace k nástupům a ověření ubytování na koleji Podolí v roce 2025."
+author: "Kateřina Pilná"
+tags: [Nástupy]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -24,19 +24,19 @@ layout: post
 <!-- Write page contents here -->
 <!-- Use Markdown syntax: https://www.markdownguide.org/basic-syntax -->
 
-Ahoj, 
+Ahoj,
 
-ráda bych Vám popřála mnoho štěstí v novém akademickém roce 2025/2026, věřím že vedle studia si společně vytvoříme mnoho vzpomínek a prožijeme mnoho povedených akcí.
+ráda bych vám popřála mnoho štěstí v novém akademickém roce 2025/2026. Věřím, že si vedle studia společně vytvoříme mnoho vzpomínek a zažijeme spoustu povedených akcí.
 
-Spolu se začátkem roku bych Vám chtěla připomenout nutnost potvrzení, že jste obyvatelem koleje Podolí.
+Se začátkem roku bych vám chtěla připomenout nutnost potvrdit, že jste ubytovaní na koleji Podolí.
 
-Udělat tak jde na stánku klubu, který budeme mít u vstupu do areálu každý pracovní den od 8:00 do 14:00 v době řádných nástupů na kolej (tedy do 19.9.2025). K tomu abyste se prokázali Vám stačí kolejenka, nebo ubytovací smlouva na AR 2025/2026. Případně můžete ověření zajistit u našich televizorů, kontakty na ně najdete zde: https://podolee.cz/kontakty/ 
+Potvrzení vyřídíte u klubového stánku při vstupu do areálu. V době řádných nástupů, tedy do 19. 9. 2025, bude otevřen každý pracovní den od 8:00 do 14:00. Stačí předložit kolejenku nebo ubytovací smlouvu na akademický rok 2025/2026. Ověření můžete vyřídit také u našich televizorů; jejich kontakty najdete na stránce [Kontakty](https://podolee.cz/kontakty/).
 
-Pokud jste se registrovali do klubu toto září (9/2025) nebo jste tak již učinili, povinnost se prokázat se Vás netýká. Pokud na koleji aktuálně nejste, můžeme vše vyřešit až se vrátíte u našich televizorů 🙂 
+Pokud jste se do klubu registrovali v září 2025 nebo jste potvrzení už vyřídili, tato povinnost se vás netýká. Jestli na koleji právě nejste, vše můžeme vyřešit u televizorů po vašem návratu. 🙂
 
-Spolu s tím Vás zvu na pivo a limo, které si můžete u nás na stánku dát (opět ve všedních dnech od 8:00 do 14:00). Buď si doneste vlastní kelímek/hrneček, nebo si můžete obstarat náš vratný kelímek Pod-O-Lee za 50 Kč (v hotovosti). 
+Zároveň vás zvu na pivo nebo limonádu, které si můžete dát u našeho stánku ve všední dny od 8:00 do 14:00. Přineste si vlastní kelímek či hrnek, nebo si za vratnou zálohu 50 Kč v hotovosti půjčte kelímek Pod-O-Lee.
 
-Přeji Vám krásné září a mnoho úspěchů nejen ve studiu.
+Přeji vám krásné září a mnoho úspěchů nejen ve studiu.
 
 Kateřina Pilná  
 předsedkyně klubu Pod-O-Lee

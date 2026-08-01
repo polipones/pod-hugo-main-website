@@ -1,10 +1,13 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na správce Pod-O-Gym # TODO
+title: Volby na správce Pod-O-Gym
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace k doplňujícím volbám správce Pod-O-Gym."
+author: "Web admin"
+tags: [Volby]
+
+aliases:
+    - /posts/elections/sg_2026_1-
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -35,7 +38,7 @@ V doplňujících volbách se na post Správce Pod-O-Gym přihlásili 3 kandidá
 
 Kandidátky jednotlivých kandidátů naleznete v příloze nebo na odkazech výše.
 
-Volby proběhnou elektronickou formou od **28.02.2026 12:00 do 05.03.2026 12:00**. Pro přihlášení do volebního systému využijte [tento odkaz](https://elections.pod.cvut.cz/elections/5). Přihlašovací údaje jsou shodné s přihlašovacími údaji do Hydry. Volit může každý člen klubu Pod-O-Lee s alespoň Základním členstvím.
+Volby proběhnou elektronicky **od 28. 2. 2026 12:00 do 5. 3. 2026 12:00**. Do volebního systému se přihlaste pomocí [tohoto odkazu](https://elections.pod.cvut.cz/elections/5) a údajů shodných s Hydrou. Volit může každý člen klubu Pod-O-Lee s alespoň základním členstvím.
 
 V případě problémů nás kontaktujte na e-mail <volby@pod.cvut.cz>.
 
@@ -47,7 +50,7 @@ Výsledky vyhlásíme po jejich skončení.
 
 Ahoj Podolačky a Podoláci,
 
-v rámci probíhajících voleb na Správce Pod-O-Gym byla volební komise upozorněna na chybějící kontaktní e-mail v jedné z kandidátek. Tato kandidátka je tedy v rozporu s požadavky, které stanovuje čl. 5 IP7/2025. Volební komise si však chybějícího údaje při kontrole kandidátky nevšimla, potvrdila kandidátovi její správnost a zařadila jej mezi kandidáty na volenou pozici, čímž došlo k narušení průběhu voleb. Za vzniklou situaci se všem zúčastněným hluboce omlouváme.
+v rámci probíhajících voleb na správce Pod-O-Gym byla volební komise upozorněna na chybějící kontaktní e-mail v jedné z kandidátek. Tato kandidátka je tedy v rozporu s požadavky, které stanovuje čl. 5 IP7/2025. Volební komise si však chybějícího údaje při kontrole kandidátky nevšimla, potvrdila kandidátovi její správnost a zařadila jej mezi kandidáty na volenou pozici, čímž došlo k narušení průběhu voleb. Za vzniklou situaci se všem zúčastněným hluboce omlouváme.
 
 V souladu s čl. 3, body 8 a 9 IP7/2025 tímto momentem volební komise stanovuje:
 - že se ruší aktuálně probíhající hlasování a anulují se všechny udělené/obdržené hlasy jednotlivým kandidátům;
@@ -78,7 +81,7 @@ Kandidátky jednotlivých kandidátů naleznete na odkazech výše.
 
 Všichni kandidáti již dodali své podepsané kandidátky, a tedy splnili všechny podmínky pro účast ve volbách.
 
-Volby proběhnou elektronickou formou **od 17.02.2026 20:00 do 22.02.2026 20:00**. Pro přihlášení do volebního systému využijte [tento odkaz](https://elections.pod.cvut.cz/elections/4). Přihlašovací údaje jsou shodné s přihlašovacími údaji do Hydry. Volit může každý člen klubu Pod-O-Lee s alespoň Základním členstvím.
+Volby proběhnou elektronicky **od 17. 2. 2026 20:00 do 22. 2. 2026 20:00**. Do volebního systému se přihlaste pomocí [tohoto odkazu](https://elections.pod.cvut.cz/elections/4) a údajů shodných s Hydrou. Volit může každý člen klubu Pod-O-Lee s alespoň základním členstvím.
 
 V případě problémů nás kontaktujte na e-mail volby@pod.cvut.cz.
 
@@ -99,7 +102,7 @@ Volby se řídí [IP7/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-20
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".

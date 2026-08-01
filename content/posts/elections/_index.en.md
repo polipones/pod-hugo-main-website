@@ -2,7 +2,7 @@
 # Will be displayed at top of the page as main heading
 title: Elections
 # Short post category description
-description: "Elections to various positions in club Pod-O-Lee"
+description: "Elections for positions in the Pod-O-Lee club."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

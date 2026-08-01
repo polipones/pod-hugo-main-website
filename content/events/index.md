@@ -16,13 +16,13 @@ weight: 1
 <iframe id="pod-events-calendar" loading="lazy" width="100%" allowfullscreen=true src="https://cloud.pod.cvut.cz/index.php/apps/calendar/embed/666q8eA7DaPq6K6e"></iframe>
 {{</rawhtml>}}
 
-## Akce prvák
+## Akce Prvák
 
-Hlavním cílem této akce je seznámení studentů se životem na koleji Podolí. Součástí programu je diskuse se zástupci jednotlivých organizací, a tedy i možnost navázat kontakt s ostatními studenty bydlícími na koleji a „společensky“ se začlenit do nové sociální skupiny, spolu se svými kolegy. Na akci se promítají prezentace, po které následuje diskuze mezi pozvanými hosty a studenty.
+Akce seznamuje nové studenty se životem na koleji Podolí. Zástupci místních organizací představí své aktivity a odpoví na dotazy. Je to také příležitost poznat další obyvatele koleje.
 
-Vždy jsou zde nachystány prezentační stánky s hlavními výhodami klubu, zájmové kolejní kroužky a informační stánek klubu Pod-O-Lee. Jsou pořádány exkurze pro ty, kteří mají zájem podívat se, kde jaké výhody najdou.
+Na místě najdeš stánky věnované klubovým výhodám, zájmovým skupinám a klubu Pod-O-Lee. Pořádáme také prohlídky prostor, při kterých se dozvíš, kde jednotlivé služby najdeš.
 
-Večer je obohacen o občerstvení, čepuje se pivo i limonáda.
+Součástí večera je občerstvení, pivo a limonáda.
 
 [Příručka prváka](../AP_CZ.pdf)
 
@@ -42,16 +42,15 @@ Soutěž o nejlepší masku, beerpong, fotokoutek a super parta lidí, to všech
 
 ## Podolský benchpress
 
-Soutěž pořádána aktivními členy Pod-O-Gym, která je určena studentům vysokých škol, obyvatelům kolejí a členům posilovny Pod-O-Gym studentského klubu Pod-O-Lee.
-Soutěž probíhá v několika kategoriích, do kterých jsou účastníci rozdělení dle Wilksovy tabulky.
+Soutěž pořádají aktivní členové Pod-O-Gym pro vysokoškolské studenty, obyvatele kolejí a členy Pod-O-Gym. Účastníci soutěží v několika kategoriích rozdělených podle Wilksovy tabulky.
 
 {{<figure src="images/events/benchpress.jpg" alt="Benchpress">}}
 
 ## Podolské Vánoce
 
-Podolské Vánoce je každoroční akce, která má účastníky naladit na nadcházející Vánoce. Návštěvníci se zde mohou občerstvit grilovanými klobásami, horkou griotkou, čajem, čajem s rumem a samozřejmě svařákem. Také zde nechybí něco sladkého na zub, v podobě domácích vánočních perníčků.
+Podolské Vánoce jsou každoroční akcí, která má účastníky naladit na nadcházející svátky. Nabízíme grilované klobásy, horkou griotku, čaj, čaj s rumem, svařené víno a domácí perníčky.
 
-Na zúčastněné zde dýchá vánoční atmosféra díky, koledám a přátelskému, až rodinnému prostředí. Nechybí zde ani zábava. Tradičně probíhá běh s jablkem pro páry, ale také vkládáme nové soutěže, jako například soutěž o nejhezčí vánoční básničku. Je to akce, kde se mohou obyvatelé kolejí v klidu sejít a pobavit se.
+Vánoční atmosféru dotvářejí koledy, přátelské prostředí a soutěže. Tradičně se pořádá běh s jablkem pro dvojice, program ale doplňujeme i novými disciplínami. Obyvatelé koleje se tu mohou v klidu sejít a pobavit.
 
 {{<figure_gallery>}}
     {{<figure src="images/events/christmas_01.jpg" alt="POD Vánoce 1">}}
@@ -69,13 +68,13 @@ Akce nejen pro ty, kteří svou drahou polovičku ještě nenašli a rádi by te
 
 ## Blokové hry
 
-Jelikož nám nestačí poznávačky bloků, tak jsme připravili sérii akcí, do kterých se mohou zapojit členové klubu a zasoutěžit si ve třech aktivitách (beer pong turnaj, sportovní turnaj a pubquiz).
+Blokové hry jsou série akcí, ve kterých členové klubu soutěží v beer pongu, sportovním turnaji a pub kvízu.
 
 ## Pod-O-Day (Sportovní den)
 
-Sportovní den, kde se můžete zúčastnit jedné nebo více z disciplín. Na začátku probíhá běžecký závod „Podolská 3K“, kdy se běží 3 kola kolem areálu kolejí (cca 2100 m). Poté probíhá turnaj ve fotbalu (systém 3 hráči + 1 brankář) a ve volejbalu (maximálně 6 hráčů v týmu). V případě zájmu se k těmto přidává ještě turnaj ve streetballu (hraje se na jeden koš na 15 bodů, maximálně 3 hráči v týmu). Vše je potom zakončeno orienťákem po okolí kolejí, který je proložen několika úkoly.
+Na sportovním dni se můžeš zúčastnit jedné nebo více disciplín. Program začíná běžeckým závodem Podolská 3K: třemi koly kolem areálu kolejí o celkové délce přibližně 2 100 m. Následují turnaje ve fotbalu, volejbalu a podle zájmu také ve streetballu. Den zakončuje orientační běh po okolí kolejí doplněný několika úkoly.
 
-Odkaz na instrukce: [Pod-O-Day]({{< ref "/freetime-activities/pod-o-day/index.md" >}})
+Podrobnosti najdeš na stránce [Pod-O-Day]({{< ref "/freetime-activities/pod-o-day/index.md" >}}).
 
 {{<figure_gallery>}}
     {{<figure src="images/events/pod_o_day_01.jpg" alt="Pod-O-Day photo">}}
@@ -84,14 +83,14 @@ Odkaz na instrukce: [Pod-O-Day]({{< ref "/freetime-activities/pod-o-day/index.md
 
 ## MEZI BLOKY
 
-MEZI BLOKY je hudební open air festival. Festival se snaží podporovat začínající kapely a tvůrčí schopnosti studentů. Festival také propaguje studentské spolky a kulturu v Městské části Praha 4. Můžeš se zde odreagovat od zkouškového období nebo práce.
+MEZI BLOKY je open-air hudební festival, který podporuje začínající kapely, studentskou tvorbu, spolky a kulturu v městské části Praha 4. Nabízí příležitost odpočinout si od zkoušek nebo práce.
 
-Vše se netočí jen okolo hudby. Během celého dne jsou k dispozici různé aktivity jako například body zorbing, skákací boty, dopravní simulátor nebo Pivolezení. Také zde je chillout zóna, kde si můžeš oddechnout na sedacích pytlích. Mezi koncerty se pod hlavním pódiem odehrávají různé soutěže, ve kterých můžeš vyhrát velké množství cen. Po skončení hlavního programu následuje samozřejmě After party.
+Program není jen o hudbě. Během dne můžeš vyzkoušet různé aktivity, od body zorbingu a skákacích bot po simulátory a Pivolezení. K odpočinku slouží chill-out zóna se sedacími vaky a mezi koncerty probíhají soutěže. Po hlavním programu následuje afterparty.
 
-Před festivalem je několik warm-up party, kde můžeš vidět zajímavé kapely, které Tě navnadí na MEZI BLOKY.
+Festivalu předchází několik warm-up akcí s dalšími kapelami.
 
-Facebooková stránka: [www.facebook.com/mezibloky](https://www.facebook.com/mezibloky)  
-Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.pod.cvut.cz/)
+- Facebook: [MEZI BLOKY](https://www.facebook.com/mezibloky)
+- Web: [mezibloky.pod.cvut.cz](https://mezibloky.pod.cvut.cz/)
 
 {{<figure_gallery>}}
     {{<figure src="images/events/mb_01.jpg" alt="Mezibloky photo">}}
@@ -104,7 +103,7 @@ Webové stránky Mezibloků: [https://mezibloky.pod.cvut.cz/](https://mezibloky.
 
 ## Fuckup night
 
-Máš nějaký fuckup, o který by ses rád podělil se světem? Tak tohle je právě akce pro tebe! Můžeš tím někomu pomoci do budoucna a nebo se nad tím společně zasmějeme. Pokud máš s fuckupy dlouholetou zkušenost, tak určitě doraz a dej radu ostatním. Určitě se rádi dozví, jak se jim v budoucnu vyvarovat.
+Máš zkušenost s nezdarem, o kterou se chceš podělit? Na Fuckup Night můžeš svým příběhem někomu pomoci, poradit ostatním nebo se nad ním společně zasmát.
 
 {{<figure_gallery>}}
     {{<figure src="images/events/fun_01.jpg" alt="Fuckup night photo">}}
@@ -113,7 +112,7 @@ Máš nějaký fuckup, o který by ses rád podělil se světem? Tak tohle je pr
 
 ## Poznej svého správce
 
-Jsi nový na koleji? Neznáš tu skoro nikoho? Chtěl bys poznat své sousedy a v neposlední řadě člověka, který Ti doslova otevře téměř každé dveře na koleji – svého správce bloku? Pro tento účel se na každém bloku pravidelně v nepravidelných intervalech organizuje akce Poznej svého správce. Pro více informací z tvého bloku sleduj FB skupinu bloku:
+Jsi na koleji nový a chceš poznat sousedy i správce svého bloku? Právě k tomu slouží akce Poznej svého správce, kterou jednotlivé bloky pořádají několikrát do roka. Aktuální termín najdeš ve facebookové skupině svého bloku:
 
 - [Blok A](http://www.facebook.com/groups/A.Podolee/)
 - [Blok B](http://www.facebook.com/groups/B.Podolee/)

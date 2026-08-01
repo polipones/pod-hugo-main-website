@@ -17,12 +17,12 @@ layout: post
 
 Ahoj Podoláci,
 
-jak už jste si možná všimli, přes prázdniny jsme nelenili a trošku jsme to u nás vylepšili. Máme pro vás nový gril i celé posezení kolem něj!
+jak už jste si možná všimli, přes prázdniny jsme nelenili a areál trochu vylepšili. Máme pro vás nový gril i celé posezení kolem něj!
 
 Aby nám to v tomto stavu vydrželo co nejdéle (ideálně dalších pár let), moc vás prosíme, abyste se k vybavení chovali ohleduplně a nepřemisťovali lavičky, stoly ani samotný gril.
 
-Přijďte nový plac rovnou vyzkoušet – zveme vás na Summer Party už 8. 8. 2026! Těšíme se na vás u společného grilování.
+Přijďte nový prostor rovnou vyzkoušet – zveme vás na Summer Party už 8. 8. 2026! Těšíme se na vás u společného grilování.
 
-Hezké léto,  
-Katka  
-předsedkyně klubu Pod-O-Lee
+Hezké léto,
+
+Katka, předsedkyně klubu Pod-O-Lee

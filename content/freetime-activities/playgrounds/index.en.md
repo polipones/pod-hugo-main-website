@@ -10,9 +10,7 @@ weight: 5
 showtoc: false
 ---
 
-Do you want to play some sport?
-Do you want to play footbal, voleyball, tennis or something else?
-You can use dorm playgrounds, more info [here](https://www.suz.cvut.cz/en/commercial-services/lease-sports-facilities).
+Would you like to play football, volleyball, tennis, or another sport? You can use the sports facilities on the dormitory grounds. See [Sports facilities rental](https://www.suz.cvut.cz/en/commercial-services/lease-sports-facilities) for details.
 
 {{<figure_gallery>}}
     {{<figure src="images/freetime-activities/playgrounds/pg_01.jpg" alt="Playgrounds 01">}}

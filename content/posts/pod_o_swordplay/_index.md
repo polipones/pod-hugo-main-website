@@ -1,8 +1,8 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Pod-O-Šerm # TODO
+title: Pod-O-Šerm
 # Short post category description
-description: "Příspěvky týkající se Pod-O-Šerm" # TODO
+description: "Novinky a informace ze skupiny Pod-O-Šerm."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

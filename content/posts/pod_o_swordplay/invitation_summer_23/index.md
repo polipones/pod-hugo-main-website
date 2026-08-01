@@ -2,9 +2,9 @@
 # Will be displayed at top of the page as main heading
 title: "Pozvánka na Pod-O-Šerm"
 # Short post description
-description: "" # TODO
-# author: "Web admin" # TODO
-tags: [Pod-O-Šerm] # TODO
+description: "Pozvánka na tréninky a akce skupiny Pod-O-Šerm."
+author: "Web admin"
+tags: [Pod-O-Šerm]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -23,7 +23,7 @@ date: 2023-07-06T17:16:15+02:00
 layout: post
 ---
 
-Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každý týden, momentálně máme cca 20 aktivních členů a stále rosteme. Každý si u nám může vyzkoušet boj v hradbě se štítem, kopím či střelbu z luku nebo kuše, zároveň nabízíme možnost s námi jezdit na bitvy a LARPové světy po celé republice.
+Ahoj, na kolejích máme už rok a půl šermířskou skupinu. Trénujeme každý týden, máme přibližně 20 aktivních členů a stále rosteme. Každý si u nás může vyzkoušet boj v hradbě se štítem či kopím nebo střelbu z luku a kuše. Nabízíme také možnost jezdit s námi na bitvy a larpové akce po celé republice.
 {{<figure_gallery>}}
     {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/03.jpg" alt="Pod-O-Šerm 3">}}
     {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/07.jpg" alt="Pod-O-Šerm 7">}}
@@ -31,10 +31,11 @@ Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každ
     {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/06.jpg" alt="Pod-O-Šerm">}}
 {{</figure_gallery>}}
 
-## V roce 2022:
-1. Zúčastnili jsem se 2 bitev
-2. LARPového světa
-3. Pořádali jsme víkendové soustředění
+## V roce 2022
+
+1. Zúčastnili jsme se dvou bitev.
+2. Navštívili jsme larpový svět.
+3. Uspořádali jsme víkendové soustředění.
 
 {{<figure_gallery>}}
     {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/02.jpg" alt="Pod-O-Šerm">}}
@@ -42,7 +43,8 @@ Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každ
 {{</figure_gallery>}}
 
 ## Plány na rok 2023
-### bitvy:
+### Bitvy
+
 1. Vidlácké války
 2. Za Středozem!
 3. Bitva pod horou
@@ -58,7 +60,7 @@ Ahoj, na kolejích máme již rok a půl šermířskou skupinu. Trénujeme každ
 
 Opět máme v plánu pořádat víkendové soustředění a účastnit se akcí kolejního klubu Pod-O-Lee.
 
-Pokud se k nám budete chtít přidat, nebo si jen šerm vyzkoušet, neváhejte se pes odkaz připojit do naší [fb skupiny](https://www.facebook.com/groups/993731364773111/), kde se dozvíte kdy trénujeme, případně kdy jsou jaké akce a jak se na ně dostat.
+Pokud se k nám chcete přidat nebo si šerm jen vyzkoušet, připojte se do naší [facebookové skupiny](https://www.facebook.com/groups/993731364773111/). Dozvíte se tam, kdy trénujeme, jaké akce plánujeme a jak se na ně dostat.
 
 {{<figure src="images/posts/pod_o_swordplay/invitation_summer_23/set1/03.jpg" alt="Pod-O-Šerm">}}
 

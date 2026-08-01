@@ -1,12 +1,11 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Doplňující volby na správce projektů # TODO
+title: Doplňující volby na správce projektů
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace a výsledky doplňujících voleb správce projektů."
+author: "Web admin"
+tags: [Volby]
 
-#draft: true # TODO - Remove when ready to publish the post (post will be hidden with this set to true)
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
 # Other configuration
@@ -65,7 +64,7 @@ Volby se řídí [IP15/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".
@@ -78,7 +77,7 @@ Kandidátka musí být:
 - napsána jedním typem písma
 - prosta vložených obrázků, vyjma fotografie kandidáta.
 
-Vzor kandidátky naleznete [zde](https://link.pod.cvut.cz/kandidatky-spravce). Vyplněnou a podepsanou kandidátku zašlete na <volby@pod.cvut.cz>ß ve formátu PDF. Podepsanou kandidátku je nutno předat předsedovi volební komise (Vojtěch Halamka, C504) nebo jeho zástupci (Luboš Jánský, B502b).
+Vzor kandidátky naleznete [zde](https://link.pod.cvut.cz/kandidatky-spravce). Vyplněnou a podepsanou kandidátku zašlete na <volby@pod.cvut.cz> ve formátu PDF. Podepsanou kandidátku je nutno předat předsedovi volební komise (Vojtěch Halamka, C504) nebo jeho zástupci (Luboš Jánský, B502b).
 
 Časový harmonogram voleb:
 

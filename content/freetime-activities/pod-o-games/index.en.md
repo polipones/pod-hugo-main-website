@@ -10,15 +10,15 @@ weight: 4
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 ---
 
-Administrators: [Contacts]({{< ref "/contacts/index.md#pod-o-games" >}})
+Administrators: [Contacts]({{< ref "/contacts/index.en.md#pod-o-games" >}})
 
-Pod-O-Games is a room dedicated to gamers and movie projections located in A block ground floor. There is PS5 pro with VR, Nintendo Switch and Oculus Quest 2. To name a few, for NS we have Mariokart Deluxe, The Legend of Zelda: Breath of the Wild, Pokemon Shield. For PS5 we have the Mafia trilogy, Red Dead Redemption II, Fifa 19 and for VR we have Superhot, Beat Saber or Gran Turismo.
+Pod-O-Games is a gaming and screening room on the ground floor of block A. It is equipped with a PlayStation 5, Nintendo Switch, and Oculus Quest 2. Games include Mario Kart 8 Deluxe, The Legend of Zelda: Breath of the Wild, Pokémon Shield, the Mafia trilogy, Red Dead Redemption II, FIFA 19, Superhot, Beat Saber, and Gran Turismo.
 
-Complete list of games is available here: [List of games in Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
+See the [complete list of games available in Pod-O-Games](https://docs.google.com/spreadsheets/d/1phOHMROVxxTxeW7Mb42GiSauZvgN8igJ/edit?usp=sharing&ouid=117724603632223801997&rtpof=true&sd=true).
 
 {{<figure src="images/freetime-activities/pod-o-games/games_02.jpg" alt="Games 02" imgop="rt_fit">}}
 
-The room is equipped with a 4K projector to which you can also connect your own PC and watch a movie. Sound is delivered by Bose speakers, so we apologize to everyone above the gaming room. There are also a handful of fatboys and a convertible couch. We also have racing seat Playseat Fanatec, in which you can enjoy racing games.
+The room also has a 4K projector to which you can connect your own computer, as well as Bose speakers. A sofa bed and several beanbags provide seating. Racing games can be enjoyed in a Playseat fitted with Fanatec equipment.
 
 {{<figure_gallery>}}
     {{<figure src="images/freetime-activities/pod-o-games/games_01.jpg" alt="Games 01" imgop="rt_fit">}}
@@ -27,24 +27,24 @@ The room is equipped with a 4K projector to which you can also connect your own 
     {{<figure src="images/freetime-activities/pod-o-games/games_05.jpg" alt="Games 05" imgop="rt_fit">}}
 {{</figure_gallery>}}
 
-The operating rules are below. Everyone receiving the keys to the room is obliged to leave a signature indicating an agreement with the rules and agrees that not only him/herself, but also everyone visiting the room understands the rules. Breaking any of the rules will be punished by further ban from using the room.
+When collecting the keys, the borrower confirms by signing that they and all other visitors understand the operating rules. Breaking the rules may result in being barred from Pod-O-Games.
 
 ## Quick info
 
-### 1. Steps to borrow the room
+### How to borrow the room
 
-1. Before entering the room is necessary to have a reservation at least 24 hours before in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
-2. Send an e-mail with important info (date, name, room, ID) to <games@pod.cvut.cz>.
-3. Upon entering the room, the Borrower states that he/she has read and understands the Operating rules.
+1. Create a reservation at least 24 hours in advance in the [reservation system](https://hydra.pod.cvut.cz/reservations/).
+2. Email the date, your name, room number, and ID to <games@pod.cvut.cz>.
+3. By entering the room, the borrower confirms that they have read and understood the operating rules.
 
-### 2. Rules of reservation
+### Reservation rules
 
 1. The Borrower confirms the reservation upon taking over the keys and entering the room.
-2. Max duration of reservation is 6 hours.
-3. Reservation can be modifiet 24 hours before its begining.
-4. Reservation can be made max 14 days in advance.
-5. Entering the room can be max 15 minutes before the start of the reservation.
+2. A reservation may last no more than six hours.
+3. A reservation may be changed up to 24 hours before it begins.
+4. A reservation may be created no more than 14 days in advance.
+5. You may enter the room no more than 15 minutes before your reservation begins.
 
-## Operating Rules
+## Operating rules
 
-Available here: **[Operating rules Pod-O-Games](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_en.pdf)**!
+Read the [Pod-O-Games operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_en.pdf).

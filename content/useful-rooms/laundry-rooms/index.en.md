@@ -11,19 +11,19 @@ weight: 1
 showtoc: false
 ---
 
-If you need to wash your clothes you can make use of our laundries. They can be found in the basements of blocks A, B, C & F, on the first floor of block E and on the second floor of block D. Laundry room reservation is possible in the reservation sheet at the gatehouse, where at the time of reservation you will also receive a key from the room.
+Laundry rooms are in the basements of blocks A, B, C, and F, on the first floor of block E, and on the second floor of block D. Reserve a time using the sheet at reception, where you can also collect the key when your reservation begins.
 
-## Operating rules:
+## Important information
 
-1. Respecting the night piece is mandatory, thats why washing is from 22:00 to 6:00 probibited at blocks D & E. Drying room can be used to 24:00.
-2. One cycle of washing in the washing machine is priced at 30 CZK/hour, drying in the dryer is priced at 20 CZK/hour. For every following hour the charge remains the same.
-3. The laundry can be borrowed only once a week.
-4. Washing is allowed only on the washing machine borrowed by the person.
-5. Laundry can be reserved. It is done by writing name and room number in the corresponding line for the corresponding washing interval and washing machine.
-6. The book of reservations is divided into two hour intervals, only 4 hours can be reserved for one day (That means two two-hour-long-intervals.) The charge for the washing machine is counted until the time of return.
-7. Keys from the washing machine need to be taken at least 30 minutes after the start of reserved interval. Otherwise the reservation cancels and the washing machine can be borrowed by someone else.
-8. After washing the clothing is either put into the dryer or hanged at the drying room and the key is returned. For pick up the key needs to be borrowed again at the gatehouse and returned in 30 minutes or there will be a fee as large as the price for washing.
-9. Reservation cancel is being done at the gatehouse, the corresponding line is whited out and another person can reserve the time & the washing machine.
-10. If someone crosses someone else out and writes himself/herself in the corresponding line in the book of reservations that person is no longer allowed to reserve the laundry.
-11. The washing machine needs to be cleaned after each use. Especially the container for powder and fabric softener.
-12. Violation of operating rules will be tackled by the dormitory group.
+1. Observe quiet hours. Washing in blocks D and E is prohibited from 22:00 to 6:00; drying rooms may be used until midnight.
+2. Washing costs 30 CZK per hour and tumble-drying costs 20 CZK per hour. Charges continue until the key is returned to reception.
+3. You may borrow a laundry room only once per week.
+4. Use only the washing machine assigned to you.
+5. Reserve a machine by writing your name and room number in the appropriate time slot.
+6. The reservation sheet uses two-hour slots. You may reserve no more than four hours per day.
+7. Collect the key no later than 30 minutes after your reservation begins. Otherwise, the reservation is cancelled and someone else may use the machine.
+8. After washing, place your clothes in the dryer or drying room and return the key. To collect them later, borrow the key again and return it within 30 minutes; otherwise, an additional washing fee will be charged.
+9. Cancel a reservation at reception so that the slot can be made available to someone else.
+10. Do not remove another person’s reservation from the sheet.
+11. Clean the washing machine after use, especially the detergent and fabric-softener drawer. Clean the dryer too if you used it.
+12. Violations of these rules are handled by the dormitory management.

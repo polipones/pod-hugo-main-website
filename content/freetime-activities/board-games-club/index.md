@@ -13,11 +13,11 @@ showtoc: true
 
 Kontakt na správce je možné najít na stránce [Kontakty]({{< ref "/contacts/index.md#deskoherna" >}}).
 
-Podolské deskovky mají už dlouholetou tradici, díky čemuž jsme posbírali velkou spoustu nejrůznějších her. Ať už na večer hledáš relax, chceš poznat nové lidi nebo máš chuť si zasoutěžit v našich turnajích, jsme tu pro tebe!
+Podolské deskovky mají dlouholetou tradici a za tu dobu jsme shromáždili pestrou sbírku her. Ať už si chceš odpočinout, poznat nové lidi, nebo zasoutěžit na turnaji, jsi vítán.
 
-Do naší krásné herny můžeš dorazit v týdnu vždy v hrací den, nebo po domluvě kdykoliv třeba s partou kamarádů. Některé hry je také možnost z herny vypůjčit na pokoj / do čajovny. Najdi nás na [Facebooku](https://www.facebook.com/groups/hrypodolee), ať víš, co se u nás děje.
+Do herny můžeš přijít v pravidelný hrací den nebo po předchozí domluvě s partou přátel. Některé hry si lze půjčit na pokoj nebo do čajovny. Aktuální informace najdeš v naší [facebookové skupině](https://www.facebook.com/groups/hrypodolee).
 
-Seznam her dostupných v deskoherně nalezneš [zde](https://docs.google.com/spreadsheets/d/1Ocg36A2OPQALA3ums7OLA13KTKw1npZr3auANkEogjc/edit?usp=sharing).
+Prohlédni si [seznam her dostupných v deskoherně](https://docs.google.com/spreadsheets/d/1Ocg36A2OPQALA3ums7OLA13KTKw1npZr3auANkEogjc/edit?usp=sharing).
 
 ## Hrací den
 
@@ -35,4 +35,4 @@ KDY? Pravidelně v pondělí od 20:00
 
 ## Provozní řád
 
-Dostupný zde: **[Provozní řád Deskoherna](https://s3.pod.cvut.cz/common/provozni_rady/board_games_club/board_games_club_cz.pdf)**!
+Přečti si [provozní řád deskoherny](https://s3.pod.cvut.cz/common/provozni_rady/board_games_club/board_games_club_cz.pdf).

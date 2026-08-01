@@ -12,9 +12,9 @@ aliases:
 
 showtoc: false
 ---
-The Film Club was founded to show the diversity of the film world to the residents of Podolí dormitory. Every Tuesday we show films of various genres, from cult series like Godfather to black and white classics including comedies and westerns. Each film is followed by a discussion of what everyone liked and what they think was interesting in the movie.
+The film club introduces Podolí residents to the diversity of cinema. Every Tuesday, we screen films from a wide range of genres, from cult series such as The Godfather to black-and-white classics, comedies, and westerns. Each film is followed by a discussion about what people enjoyed and what made the film interesting.
 
-We also held a weekend marathon of Harry Potter, Lord of the Rings and Star Wars, which were accompanied by refreshments. The programme for the semester is always posted on the bulletin boards of the dormitory blocks. For current news and information please visit [Pod-O-Film FB page](https://www.facebook.com/Filmov%C3%BD-Klub-Pod-O-Lee-133619003377044/timeline).
+We also organise weekend film marathons with refreshments, such as Harry Potter, The Lord of the Rings, and Star Wars. The programme for each semester is posted on the noticeboards in the dormitory blocks. For current news, visit the [Pod-O-Film Facebook page](https://www.facebook.com/Filmov%C3%BD-Klub-Pod-O-Lee-133619003377044/timeline).
 
 ## Program
 

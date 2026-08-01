@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Schůze představenstva 25. 5. 2026 # TODO
+title: Schůze představenstva 25. 5. 2026
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: ["schůze představenstva"] # TODO
+description: "Program schůze představenstva klubu Pod-O-Lee dne 25. 5. 2026."
+author: "Web admin"
+tags: ["schůze představenstva"]
 
 # Other configuration
 ## Set to true to show Table of Contents for this post
@@ -28,12 +28,12 @@ Předběžný program:
 
 - Schválení programu (vede: Kateřina Pilná)
 - Kolečko (vede: Kateřina Pilná)
-- Schválení zápisu ze schůze Představenstva konané 12.4.2026 (vede: Kateřina Pilná)
+- Schválení zápisu ze schůze představenstva konané 12. 4. 2026 (vede: Kateřina Pilná)
 - Komunitní zahrada (vede: Kateřina Pilná)
-- 4Kč fond (vede: Kateřina Pilná)
+- Fond 4 Kč (vede: Kateřina Pilná)
 - Stanovy klubu Pod-O-Lee (vede: Kateřina Pilná)
 - IP Jednací řád (vede: Kateřina Pilná)
 - IP Členství klubu Pod-O-Lee (vede: Kateřina Pilná)
-- IP Jmenované funkce a jejich specifikace (vede: Kateřina Pilná))
+- IP Jmenované funkce a jejich specifikace (vede: Kateřina Pilná)
 - EČ Narozeniny a léto na Podolí (vede: Kateřina Pilná a Pavel Pavlů)
 - Různé (vede: Kateřina Pilná)

@@ -1,10 +1,10 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Volby na správce projektů # TODO
+title: Volby na správce projektů
 # Short post description
-description: "" # TODO
-author: "Web admin" # TODO
-tags: [] # TODO
+description: "Informace k doplňujícím volbám správce projektů."
+author: "Web admin"
+tags: [Volby]
 
 # HideThisTranslation: true # Uncomment this if you don't want to link this translation of page in translations
 
@@ -23,7 +23,7 @@ date: 2024-11-04T19:00:00+02:00
 layout: post
 ---
 
-30\. 10. 2024 ve 20:00 uplynula lhůta pro podávání kandidátek a 2.11.2024 ve 23:59 uběhla lhůta pro podávání připomínek k doplňujícím volbám na Správce projektů.
+30\. 10. 2024 ve 20:00 uplynula lhůta pro podávání kandidátek a 2. 11. 2024 ve 23:59 lhůta pro podávání připomínek k doplňujícím volbám na správce projektů.
 
 Vzhledem k tomu, že d​o voleb na Správce projektů se přihlásil pouze jeden kandidát, volby na tuto pozici se neuskuteční.
 Novým Správcem projektů se svým vlastním hlasem stává Marcela Pethöová.
@@ -41,7 +41,7 @@ Volby se řídí [IP8/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_8-20
 Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
-- kontaktní email,
+- kontaktní e-mail,
 - fotografii odpovídající kandidátově současné podobě,
 - tezi volebního programu,
 - formulaci "Kandiduji do Představenstva klubu Pod-O-Lee a s kandidaturou souhlasím".

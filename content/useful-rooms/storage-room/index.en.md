@@ -11,13 +11,13 @@ weight: 3
 tocopen: true
 ---
 
-The Storage room is a room to store things (e.g. fridge, microwave and small furniture) during the summer break. **It always opens at the beginning and end of the summer break.** Storage is free for club members with a valid basic membership.
+The storage room is for keeping belongings such as fridges, microwave ovens, and small furniture during the summer break. **It opens at the beginning and end of the summer break.** Storage is free for club members with valid basic membership.
 
 You can find it on the ground floor of block A, room 019.
 
-The Storage room opening is managed by the Storage room Administrator (<kufrarna@pod.cvut.cz>) The opening dates are always announced in advance. It is not possible to open the Storage room individually. If you are not able to come during the dates listed, please send us your suggestions for dates (at least 3 workdays in advance) and if more people are interested, we will open at another date.
+The storage-room administrator (<kufrarna@pod.cvut.cz>) announces opening dates in advance. Individual opening is not possible. If none of the announced dates suits you, suggest alternatives at least three working days in advance. The administrator may add another date if enough people are interested.
 
-Before storing your belongings, it is necessary to read the Operation rules and understand the rules for the storage of your belongings.
+Read the operating rules before storing your belongings.
 
 ## Operation rules
 
@@ -31,7 +31,7 @@ The Operator has borrowed room No. 019 located on the ground floor of Block A fr
 
 In case of a trip or internship abroad, individual agreement with the person managing the Storage Room (hereinafter referred to as the Storage Room Administrator) is necessary. The Storage Room is only for members of the Pod-O-Lee Club with a valid basic membership. Service Facilities Administration of the CTU in connection with the Contract shall not be responsible for the activities of the Club in this room.
 
-### Part III - Storage room Operating Rules
+### Part III - Storage-room operating rules
 
 1. Access to the Storage room of the Pod-O-Lee Club of the CTU Student Union (hereinafter referred to as the Storage room) is only available to members of the Pod-O-Lee Club who have a valid basic membership and paid their fees, or whose fees have been waived by the Board of Directors of the Pod-O-Lee Club (hereinafter referred to as the Board of Directors). For a description of how to become a member and instructions on how to pay fees, please visit the website: https://pod.cvut.cz/platby/.
 2. A person who has paid the membership fee and uses the facilities of the Storage room is called a user of the Storage room (hereinafter referred to as the User) and by entering the room agrees to the Operating Rules of the Pod-O-Lee of the CTU Student Union (hereinafter referred to as the Operating Rules) and agrees to follow them.
@@ -45,14 +45,14 @@ In case of a trip or internship abroad, individual agreement with the person man
 10. A one-time exception to these rules may be granted by the Board of Directors or the Storage room Administrator in justified cases.
 11. The Storage room Users must follow the instructions of the Storage room administrator or the Board of Directors. Failure to comply is a violation of the Storage room Operation rules!
 12. Any violation of the Operating rules will be punished according to the restrictive measures listed below, or the rules of the Pod-O-Lee Club, or according to the applicable laws of the Czech Republic.
-13. By entering the room, all visitors agree to the recording of video footage that may be used in the event of a violation of any of the Operating rules. The handling of CCTV footage is regulated in the Internal regulation redgarding CCTV system.
+13. By entering the room, all visitors agree to the recording of video footage that may be used in the event of a violation of any of the operating rules. The handling of CCTV footage is regulated by the internal regulation regarding the CCTV system.
 14. If a user voluntarily chooses to store his/her belongings in the Storage room, he/she declares that he/she has read and understood the state of the Storage room and considers the premises suitable for leaving his/her belongings there.
 15. The stored items must meet the following conditions:
     1. the items are in a condition which does not pose a risk of causing any damage to other items left in the Storage room or to the Storage room itself,
     2. the items are not of a nondurable nature and are not perishable,
     3. the items are properly packed and properly labelled. The description must be legible, and must include the owner's name and surname or ID (Hydra).
 16. The user understands that:
-    1. other users will store items in the suitcase,
+    1. other users will store items in the storage room,
     2. in the event of a phone call or e-mail order, the user must immediately remove the items from the Storage room, even before the end of the agreed period of time, if the items are in a condition threatening to cause damage to other people's belongings or the Storage room. If the User fails to do so, the CTU Student Union (represented by the Pod-O-Lee Club, hereinafter referred to as SU) is entitled to dispose of the items as waste, to which the User agrees without compensation and will not claim any damages against SU arising from this agreed procedure,
     3. in the event of damage to the room or to the belongings of other Users caused by the User's belongings, the User is obliged to pay the full amount of the damage to the entitled parties.
 17. Neither the Storage room Administrator nor the Pod-O-Lee Club shall be obliged to care for, inspect, or in any way maintain or check the state of the Storage room.

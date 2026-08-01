@@ -2,7 +2,7 @@
 # Will be displayed at top of the page as main heading
 title: Nařízení předsedy
 # Short post category description
-description: ""
+description: "Nařízení předsedy klubu Pod-O-Lee."
 
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

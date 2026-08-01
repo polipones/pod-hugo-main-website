@@ -1,6 +1,6 @@
 ---
 # Will be displayed at top of the page as main heading
-title: Ping pong table, football, billiard
+title: Table tennis, table football and billiards
 # Has to be in format <parent-site/current-site>, e.g. services/network (notice missing slash at the beginning)
 url: freetime-activities/ping-pong-table-football-billiard
 # https://en.wikipedia.org/wiki/Clean_URL#Slug
@@ -9,30 +9,31 @@ slug: ping-pong-table-football-billiard
 weight: 8
 ---
 
-If you want to play ping-pong, football, darts or billiards, you can find information on how to rent rooms with the necessary equipment on this page.
+This page explains how to reserve rooms for table tennis, table football, darts, and billiards.
 
-You can find the contact and administrator on the [Contacts]({{< ref "/contacts/index.md#bar-games-table-tennis-table-football-billiard" >}}) page.
+Contact details for the administrator are available on the [Contacts page]({{< ref "/contacts/index.en.md#games-rooms-table-tennis-table-football-and-billiards" >}}).
 
-# I want to play. What now?
-1. You must have a reservation made at least 24 hours in advance on the [reservation system](https://hydra.pod.cvut.cz/reservations/) before entering the room. The maximum booking time is 6 hours.
-2. Send an email with the necessary information (Date, Name, Room ID, Room you want to rent) to: <barovky@pod.cvut.cz>.
-3. By entering the room, the borrower agrees that he/she has read and understood the Operating Rules.
+## How to make a reservation
+
+1. Create a reservation at least 24 hours in advance in the [reservation system](https://hydra.pod.cvut.cz/reservations/). A reservation may last no more than six hours.
+2. Email the date, your name, room number, ID, and the room you want to reserve to <barovky@pod.cvut.cz>.
+3. By entering the room, the borrower confirms that they have read and understood the operating rules.
 
 
-# Table tennis, football and darts
+## Table tennis, table football and darts
 
-The room is located in the basement on Block A. From the entrance, take a left, go down the stairs and it's the first door on your right.
+The room is in the basement of block A. From the entrance, turn left, go downstairs, and use the first door on the right.
 
-We have a ping-pong table - Cornilleau Sport 500 indoor - designed for 2 or more players to play, if you fold down one half of the table (see in [table tennis instructions](pingpong_table_guide.pdf)) the table can be used for singles.
+The Cornilleau Sport 500 Indoor table-tennis table is intended for two or more players. Fold up one half to practise alone; see the [table-tennis instructions](pingpong_table_guide.pdf).
 
-There are also two football tables in the room. An older, "Italian" table (you know, for example, from Strahov Block 10) and a new Rosengart training table, which is used in most amateur tournaments in the Czech Republic.
+The room also contains two table-football tables: an older Italian-style table and a Rosengart training table commonly used in Czech amateur tournaments.
 
-There is also a foam dartboard for darts with a metal tip on the wall next to the door.
+A sisal dartboard for steel-tip darts hangs on the wall next to the door.
 
 {{<figure src="images/freetime-activities/ping-pong-table-football-billiard/football.jpg" alt="Football" imgop="rt_fit">}}
 {{<figure src="images/freetime-activities/ping-pong-table-football-billiard/pingpong.jpg" alt="Ping pong" imgop="rt_fit">}}
 
-The operating rules for the room can be viewed below. By receiving the keys, everyone confirms that they and the people in the room are aware of the rules. Violation of any of the points will be punished by being banned from the room under the Restrictive Measures section.
+By accepting the keys, the borrower confirms that they and all other visitors understand the operating rules. Breaking the rules may result in being barred from the room.
 
 TL;DR don't break anything and act like a human being in there.
 
@@ -44,7 +45,7 @@ TL;DR don't break anything and act like a human being in there.
 4. A key is used to enter the football room. Each borrower of the football room must make a reservation in the reservation system before coming to the football room, then contact the administrator of the game rooms (furthermore referred to as the administrator) in order to borrow the keys. By accepting the keys to the room, the borrower agrees to comply with all the provisions of these Operating Regulations and agrees with all the obligations set out in these Operating Regulations. By entering the room, all visitors agree to the making of a video recording which may be used in the event of a breach of any of the rules. The handling of CCTV footage is covered in IP5/2022 CCTV.
 5. The opening hours of the football room are 7:00am to 10:00pm. Exceptions may be made by agreement with the administrator.
 6. The user is obliged to keep order in the football room.
-7.It is forbidden to smoke, consume food and enter the football room wearing shoes that leave dirt. Drinks are only allowed in closable bottles. All packaging and other rubbish must be removed by the user when leaving the room. The user is obliged to keep the floor, tables and parapets tidy.
+7. It is forbidden to smoke, consume food and enter the football room wearing shoes that leave dirt. Drinks are only allowed in closable bottles. All packaging and other rubbish must be removed by the user when leaving the room. The user is obliged to keep the floor, tables and parapets tidy.
 8. It is forbidden to place anything on the football and ping-pong tables, sit on the edges or otherwise use the tables for a purpose for which they are not intended. Violation of this regulation and soiling or damaging the playing surface, table or other objects will be punishable by both a BAN for the borrower and an obligation to fix the problem at the expense of the guilty party.
 9. When leaving, the borrower is obliged to close the windows, turn off the lights, check the condition of the football room - described in point 4 and lock the entrance door. In case of disorder or defect, the user is obliged to report it immediately to the administrator or his deputy. Damage to the property of the SU should be reported immediately to the doorman and the administrator.
 10. It is forbidden to move, manipulate or remove the equipment of the football room without the consent of the administrator or deputy. Treat the tables with respect, as if they were your own.
@@ -60,15 +61,15 @@ TL;DR don't break anything and act like a human being in there.
 17. In case of repeated violation of any of the points or in exceptionally serious cases, the Game Room Administrator may proceed to issue a permanent BAN.
 18. The BAN may be cancelled or reduced by performing such action that will be beneficial to either the football room or the Pod-O-Lee Club, but this must be agreed with the games room administrator or his/her deputy.
 
-# Billiards
+## Billiards
 
-The room is located on block D on the ground floor. From the entrance, go right and it is the door on the left in front of the staircase.
+The room is on the ground floor of block D. From the entrance, turn right; the door is on the left before the staircase.
 
-In the room there is a billiard table and a pool table with everything you need to play. Cues (longer for pool, shorter for carom) are in the rack, chalk on the tables and balls in boxes on the windows.
+The room contains a billiard table and all the necessary equipment. Cues—longer for pool and shorter for carom—are in the rack, chalk is on the tables, and balls are stored in boxes by the windows.
 
 {{<figure src="images/freetime-activities/ping-pong-table-football-billiard/pool.jpg" alt="Kulečník" imgop="rt_fit">}}
 
-The operating rules of the room can be found below. By receiving the keys, everyone confirms that they and the people in the room are aware of the rules. Violation of any of the points will be punished by being banned from the room under the Restrictive Measures section.
+By accepting the keys, the borrower confirms that they and all other visitors understand the operating rules. Breaking the rules may result in being barred from the room.
 
 TL;DR don't break anything and act like a human being in there.
 
