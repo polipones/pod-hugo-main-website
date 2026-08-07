@@ -42,9 +42,12 @@ Pod-O-Gym je s plochou 340 m² druhou největší posilovnou [Studentské unie �
 Používáme různé typy posilovacích strojů značky HBP.
 
 {{<figure_gallery>}}
-    {{<figure src="images/services/pod-o-gym/main-room-2.jpg" alt="Main room photo 2">}}
-    {{<figure src="images/services/pod-o-gym/main-room-1.jpg" alt="Main room photo 1">}}
-    {{<figure src="images/services/pod-o-gym/leg-room-1.jpg" alt="Leg room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/hlavni_1.jpg" alt="Main room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/hlavni_2.jpg" alt="Main room photo 2">}}
+    {{<figure src="images/services/pod-o-gym/noharna_1.jpg" alt="Leg room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/noharna_2.jpg" alt="Leg room photo 2">}}
+    {{<figure src="images/services/pod-o-gym/lifterna_1.jpg" alt="Lifting room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/lifterna_2.jpg" alt="Lifting room photo 2">}}
 {{</figure_gallery>}}
 
 K dispozici jsou jednoruční činky od 0,5 do 55 kg, kettlebelly od 6 do 32 kg, šest velkých a šest menších specializovaných os a více než tuna závaží. Kotouče jsou převážně od značek Ivanko a StrongGear.
@@ -53,7 +56,10 @@ K dispozici jsou jednoruční činky od 0,5 do 55 kg, kettlebelly od 6 do 32 kg,
 
 Pro kardio trénink jsou k dispozici dva spinningové trenažéry NXT, motorový i bezmotorový běžecký pás, eliptický trenažér a veslovací trenažér Concept2. V místnosti je také televize.
 
-{{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="images/services/pod-o-gym/kardio_1.jpg" alt="Cardio room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/kardio_2.jpg" alt="Cardio room photo 2">}}
+{{</figure_gallery>}}
 
 ### Tělocvična
 
@@ -61,7 +67,10 @@ V tělocvičně (72 m²) je položeno tatami. Místnost je vybavena pro trénink
 
 Pro trénink s vlastní vahou tu máme například TRX®, BOSU®, kruhy, bradla, FLEXI-BAR®, Bulgarian bags, medicinbaly, kardio MMA lana a další vybavení. Naleznete zde také pomůcky pro relaxační a zdravotní cvičení.
 
-{{<figure src="images/services/pod-o-gym/aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="images/services/pod-o-gym/tatami_1.jpg" alt="Aerobic room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/tatami_2.jpg" alt="Aerobic room photo 2">}}
+{{</figure_gallery>}}
 
 ### Boulder
 
@@ -72,6 +81,8 @@ Pro zájemce o bouldering a lezení máme v tělocvičně menší boulderovou st
 O boulder se u nás starají instruktoři lezení, kontakty najdeš v [Kontaktech]({{< ref "/contacts#boulder" >}}). V případě problémů či nejasností piš na <sportoviste@pod.cvut.cz>.
 
 Boulder je rozdělen na dvě části: [klasické bouldery](#klasické-bouldery) a [Spray Wall](#spray-wall).
+
+{{<figure src="images/services/pod-o-gym/boulder_1.jpg" alt="Boulder photo 1" width="90%" align="center">}}
 
 #### Klasické bouldery
 
@@ -144,8 +155,8 @@ Přečti si [provozní řád sauny](https://s3.pod.cvut.cz/common/provozni_rady/
 Jakýkoli problém nebo poškození nahlas [správci Pod-O-Gym]({{< ref "/contacts#pod-o-gym" >}}) hned na začátku rezervace.
 
 {{<figure_gallery>}}
-    {{<figure src="images/services/pod-o-gym/sauna-1.jpg" alt="Sauna photo 1">}}
-    {{<figure src="images/services/pod-o-gym/sauna-2.jpg" alt="Sauna photo 2">}}
+    {{<figure src="images/services/pod-o-gym/sauna_1.jpg" alt="Sauna photo 1">}}
+    {{<figure src="images/services/pod-o-gym/sauna_2.jpg" alt="Sauna photo 2">}}
 {{</figure_gallery>}}
 
 ### Pravidelné a občasné kurzy
