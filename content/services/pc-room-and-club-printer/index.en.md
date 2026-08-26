@@ -44,15 +44,15 @@ To use the printer, you need an account and printing credit. Registration and ca
 
 **Credit can only be charged by cash payment in CZK.**
 
-The administrator will create an account for you in the printer’s web interface. The same login details are used for your virtual wallet.
+The administrator will create an account for you in the printer’s web interface.
 
-You can check your balance in the [virtual wallet](https://payments.printer.pod.cvut.cz/payment-system/customer/login).
+Printer account management: <https://myq.pod.cvut.cz/en>.
 
-If you need help, read the [printer instructions](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing).
+If you need help, read the [printer instructions](https://drive.google.com/file/d/1DRo-V2dP76kt0kxeBo8ibf6Cenql4_xi/view?usp=sharing).
 
 ### Important reminder
 
-Sending scanned documents by email does not currently work. Save scans to a USB drive instead.
+Scanned document will sent to you by email.
 
 The printer uses colour by default. Select black-and-white printing before submitting your job if needed.
 
@@ -62,8 +62,8 @@ The printer uses colour by default. Select black-and-white printing before submi
 
 |        | **Black and white** | **Colour**  |
 |--------|---------------------|-------------|
-| **A4** | **0.9 CZK**         | **4.0 CZK** |
-| **A3** | **1.8 CZK**         | **8.0 CZK** |
+| **A4** | **0.8 CZK**         | **2.0 CZK** |
+| **A3** | **1.6 CZK**         | **4.0 CZK** |
 
 (Paper is included in the printing price.)
 

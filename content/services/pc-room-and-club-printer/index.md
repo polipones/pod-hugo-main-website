@@ -45,15 +45,15 @@ Abys mohl tiskárnu používat, musíš si nechat založit účet a v hotovosti 
 
 **Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
 
-Správce ti vytvoří účet ve webovém rozhraní tiskárny a po registraci sdělí přihlašovací údaje. Stejné údaje použiješ i pro virtuální peněženku.
+Správce ti vytvoří účet ve webovém rozhraní tiskárny a po registraci sdělí přihlašovací údaje.
 
-Stav kreditu si můžeš zkontrolovat ve [virtuální peněžence](https://payments.printer.pod.cvut.cz/payment-system/customer/login).
+Účet k tiskárně: <https://myq.pod.cvut.cz/cs/>.
 
-Pokud si s tiskárnou nevíš rady, přečti si [návod k jejímu použití](https://drive.google.com/file/d/1gdQppjXb6q3VtSIxNzGFHGVmmKZFZRWl/view?usp=sharing).
+Pokud si s tiskárnou nevíš rady, přečti si [návod k jejímu použití](https://drive.google.com/file/d/1BYZU8NaCnvMhwZ52e_iN3Ea8fdjCfjN-/view?usp=sharing).
 
 ### Důležitá upozornění
 
-Odesílání naskenovaných dokumentů e-mailem zatím nefunguje. Skeny proto ukládej na USB disk.
+Naskenovaný dokument se ti pošle na email.
 
 Tiskárna je ve výchozím nastavení barevná. Pokud chceš tisknout černobíle, změň nastavení před odesláním úlohy.
 
@@ -63,8 +63,8 @@ Platí **zákaz tisku fotografií.**
 
 |        | **Černobílý** | **Barevný** |
 |--------|---------------|-------------|
-| **A4** | **0,90 Kč**   | **4,00 Kč** |
-| **A3** | **1,80 Kč**   | **8,00 Kč** |
+| **A4** | **0,80 Kč**   | **2,00 Kč** |
+| **A3** | **1,60 Kč**   | **4,00 Kč** |
 
 (Papír je zahrnut v ceně tisku.)
 
