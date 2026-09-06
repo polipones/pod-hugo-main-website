@@ -198,6 +198,15 @@ Contact: <party@pod.cvut.cz>
     {{<contact index="zsps" role="Deputy party room manager">}}
 {{</contact_section>}}
 
+### Storage room
+
+Kontakt: <kufrarna@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="skuf" role="Storage room manager">}}
+    {{<contact index="zskuf" role="Deputy storage room manager">}}
+{{</contact_section>}}
+
 ## Block A
 
 Contact: <admins-a@pod.cvut.cz>

@@ -202,6 +202,15 @@ Kontakt: <party@pod.cvut.cz>
     {{<contact index="zsps" role="Zástupce správce sudovny">}}
 {{</contact_section>}}
 
+### Kufrárna
+
+Kontakt: <kufrarna@pod.cvut.cz>
+
+{{<contact_section>}}
+    {{<contact index="skuf" role="Správce kufrárny">}}
+    {{<contact index="zskuf" role="Zástupce správce kufrárny">}}
+{{</contact_section>}}
+
 ## Blok A
 
 Kontakt: <admins-a@pod.cvut.cz>
