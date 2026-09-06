@@ -18,7 +18,7 @@ Pokud máš problémy s platbou, napiš na <platby@pod.cvut.cz>.
 
 ## Platební období
 
-Členské příspěvky do klubu Pod-O-Lee se platí na jednotlivé pololetí každého kalendářního roku.
+Členské příspěvky do klubu Pod-O-Lee se platí na jednotlivé pololetí každého kalendářního roku. **Není možné zaplatit jen část členství.**
 
 - Za první pololetí se platí od 1. ledna do 30. června s platností členství do 30. září.
 - Za druhé pololetí se platí od 1. července do 31. prosince s platností členství do 28. února (příštího roku).

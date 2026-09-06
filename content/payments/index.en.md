@@ -14,7 +14,7 @@ If you have any problems with a membership payment, email <platby@pod.cvut.cz>.
 
 ## Payment information
 
-To use the benefits offered by the Pod-O-Lee club, you must have active membership and pay the relevant fees for each half of the calendar year. See [Internal and external membership](#internal-and-external-membership) below.
+To use the benefits offered by the Pod-O-Lee club, you must have active membership and pay the relevant fees for each half of the calendar year. See [Internal and external membership](#internal-and-external-membership) below. **It is not possible to pay only part of the membership.**
 
 - Payments for the first half of the year can be made from 1 January to 30 June. Membership remains valid until 30 September.
 - Payments for the second half of the year can be made from 1 July to 31 December. Membership remains valid until 28 February of the following year.
