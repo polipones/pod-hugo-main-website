@@ -273,6 +273,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 ### 2026
 
+- [Zápis 7.6.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260607_zapis.pdf)
 - [Zápis 25.5.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260525_zapis.pdf)
 - [Zápis 12.4.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260412_zapis.pdf)
 - [Zápis 12.3.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260312_zapis.pdf)
@@ -414,8 +415,6 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 ## Usnesení ze schůzí
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
-
-- [7.6.2026](https://s3.pod.cvut.cz/common/legislativa/usneseni/20260607_usneseni.pdf)
 
 ## Hlasování per rollam
 
