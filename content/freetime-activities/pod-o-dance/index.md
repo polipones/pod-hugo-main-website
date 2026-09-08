@@ -43,8 +43,10 @@ Je také nutné dodržovat [provozní řád Pod-O-Gym]({{< ref "/services/pod-o-
 
 ## Kdy se bude tančit?
 
-- **Pondělí 20:00 - 21:00**
-- **Čtvrtek 20:30 - 21:30**
+Pro zimní semestr 2026 jsou vybrané časy:
+
+- **Spíše pokročilí - pondělí 20:00 - 21:00**
+- **Spíše začátečníci - čtvrtek 20:00 - 21:00**
 
 Den a čas konání taneční lekce bude platit vždy po dobu semestru. Se začátkem nového semestru se bude volit nový termín na základě nových rozvrhů a časových možností členů skupiny.
 
