@@ -416,6 +416,8 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
+- [6. 9. 2026](https://s3.pod.cvut.cz/common/legislativa/usneseni/20260906_usneseni.pdf)
+
 ## Hlasování per rollam
 
 Hlasování per rollam se řídí důležitým Interním předpisem Studentské unie ČVUT 2020-P1 [Hlasování per rollam](https://wiki.su.cvut.cz/_media/group/dokumenty/interni_predpisy/ip_2020_p1_hlasovani_per_rollam.pdf).
