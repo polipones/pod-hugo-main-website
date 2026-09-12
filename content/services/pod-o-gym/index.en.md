@@ -123,7 +123,10 @@ Reserve the sauna through the [reservation system](https://hydra.pod.cvut.cz/res
 
 #### Operating rules
 
-Read the [sauna operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf).
+Read:
+
+- [sauna operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf)
+- [sauna price (Czech only)](https://s3.pod.cvut.cz/common/legislativa/ekonomicke_cinnosti/ec_sauna.pdf)
 
 #### Starting and using the sauna
 

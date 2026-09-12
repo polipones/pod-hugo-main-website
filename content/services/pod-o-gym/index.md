@@ -137,7 +137,10 @@ Rezervace sauny se provádí přes rezervační systém na adrese: <https://hydr
 
 #### Provozní řád
 
-Přečti si [provozní řád sauny](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf).
+Přečti si:
+
+- [provozní řád sauny](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf)
+- [ceník sauny](https://s3.pod.cvut.cz/common/legislativa/ekonomicke_cinnosti/ec_sauna.pdf)
 
 #### Zapnutí a používání sauny
 
