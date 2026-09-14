@@ -23,7 +23,7 @@ Information stands introduce the club’s benefits, activity groups, and Pod-O-L
 
 Refreshments, beer, and soft drinks are also available.
 
-[Freshman’s guide to Podolí](/AP_EN.pdf)
+[Freshman’s guide to Podolí](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-en.pdf)
 
 {{<figure_gallery>}}
     {{<figure src="images/events/akce_prvak_01.jpg" alt="Event for newcomers/firstgraders photo">}}

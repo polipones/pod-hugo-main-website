@@ -24,7 +24,7 @@ Na místě najdeš stánky věnované klubovým výhodám, zájmovým skupinám 
 
 Součástí večera je občerstvení, pivo a limonáda.
 
-[Příručka prváka](../AP_CZ.pdf)
+[Příručka prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf)
 
 {{<figure_gallery>}}
     {{<figure src="images/events/akce_prvak_01.jpg" alt="Akce prvák photo">}}
