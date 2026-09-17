@@ -38,9 +38,12 @@ At 340 m², Pod-O-Gym is the second-largest gym in the [CTU Student Union](https
 The gym contains various HBP exercise machines.
 
 {{<figure_gallery>}}
-    {{<figure src="images/services/pod-o-gym/main-room-2.jpg" alt="Main room photo 2">}}
-    {{<figure src="images/services/pod-o-gym/main-room-1.jpg" alt="Main room photo 1">}}
-    {{<figure src="images/services/pod-o-gym/leg-room-1.jpg" alt="Leg room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/hlavni_1.jpg" alt="Main room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/hlavni_2.jpg" alt="Main room photo 2">}}
+    {{<figure src="images/services/pod-o-gym/noharna_1.jpg" alt="Leg room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/noharna_2.jpg" alt="Leg room photo 2">}}
+    {{<figure src="images/services/pod-o-gym/lifterna_1.jpg" alt="Lifting room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/lifterna_2.jpg" alt="Lifting room photo 2">}}
 {{</figure_gallery>}}
 
 Free weights include dumbbells from 0.5 to 55 kg, kettlebells from 6 to 32 kg, six full-size bars, six smaller specialised bars, and more than one tonne of weights. Most plates are made by Ivanko and StrongGear.
@@ -49,7 +52,10 @@ Free weights include dumbbells from 0.5 to 55 kg, kettlebells from 6 to 32 kg, s
 
 Cardio equipment includes two NXT spin bikes, two treadmills, an elliptical trainer, a Concept2 rowing machine, and stationary bikes. The room also has a television.
 
-{{<figure src="images/services/pod-o-gym/cardio-room-1.jpg" alt="Cardio room photo 1" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="images/services/pod-o-gym/kardio_1.jpg" alt="Cardio room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/kardio_2.jpg" alt="Cardio room photo 2">}}
+{{</figure_gallery>}}
 
 ### Tatami room
 
@@ -57,7 +63,10 @@ This 72 m² room has a tatami floor and is equipped for martial-arts training. E
 
 For bodyweight training, the room offers TRX®, BOSU®, Olympic rings, parallel bars, FLEXI-BAR®, medicine balls, battle ropes, and other equipment. Basic recovery and therapeutic aids are also available.
 
-{{<figure src="images/services/pod-o-gym/aerobic-room-1.jpg" alt="Aerobic room photo 1" width="90%" align="center">}}
+{{<figure_gallery>}}
+    {{<figure src="images/services/pod-o-gym/tatami_1.jpg" alt="Aerobic room photo 1">}}
+    {{<figure src="images/services/pod-o-gym/tatami_2.jpg" alt="Aerobic room photo 2">}}
+{{</figure_gallery>}}
 
 ### Boulder
 
@@ -68,6 +77,8 @@ The gym also has a small bouldering wall. If you would like to try it, contact t
 Our climbing instructors take care of the bouldering area. You can find their contact details in [Contacts]({{< ref "/contacts#boulder" >}}). If you have any problems or questions, please write to <sportoviste@pod.cvut.cz>.
 
 The bouldering area has two parts: [classic boulders](#classic-boulders) and the [spray wall](#spray-wall).
+
+{{<figure src="images/services/pod-o-gym/boulder_1.jpg" alt="Boulder photo 1" width="90%" align="center">}}
 
 #### Classic boulders
 
@@ -144,8 +155,8 @@ Read:
 Report any problem or damage to the [Pod-O-Gym manager]({{< ref "/contacts#pod-o-gym" >}}) at the beginning of your reservation.
 
 {{<figure_gallery>}}
-    {{<figure src="images/services/pod-o-gym/sauna-1.jpg" alt="Sauna photo 1">}}
-    {{<figure src="images/services/pod-o-gym/sauna-2.jpg" alt="Sauna photo 2">}}
+    {{<figure src="images/services/pod-o-gym/sauna_1.jpg" alt="Sauna photo 1">}}
+    {{<figure src="images/services/pod-o-gym/sauna_2.jpg" alt="Sauna photo 2">}}
 {{</figure_gallery>}}
 
 ### Regular and occasional courses
