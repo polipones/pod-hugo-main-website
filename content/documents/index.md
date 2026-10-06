@@ -64,13 +64,14 @@ Interní předpisy jsou upřesňující dokumenty, které od okamžiku schválen
 - [IP3/2026 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-3-2026.pdf)
 - [IP4/2026 Jednací řád](https://s3.pod.cvut.cz/common/legislativa/ip/IP-4-2026.pdf)
 - [IP5/2026 Členství klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2026.pdf)
+- [IP6/2026 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2026.pdf)
 
 ### 2025
 
 - ~~[IP1/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_1_2025_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 - [IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_pravidla_kameroveho_systemu.pdf)
   - [Příloha 1 k IP2/2025 Pravidla kamerového systému](https://s3.pod.cvut.cz/common/legislativa/ip/IP_2-2025_-_priloha_1_-_seznam_sledovanych_prostor.pdf)
-- [IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)
+- ~~[IP3/2025 Jmenované funkce a jejich specifikace](https://s3.pod.cvut.cz/common/legislativa/ip/ip_3-2025_-_jmenovane_funkce_a_jejich_specifikace.pdf)~~
 - [IP4/2025 Pravidla pro udělování trestů za porušení předpisů (BANů)](https://s3.pod.cvut.cz/common/legislativa/ip/ip_4-2025.pdf)
 - ~~[IP5/2025 Specifikace postů v Představenstvu](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf)~~
 - ~~[IP6/2025 Členství v klubu Pod-O-Lee](https://s3.pod.cvut.cz/common/legislativa/ip/IP-6-2025.pdf)~~
@@ -273,6 +274,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 ### 2026
 
+- [Zápis 6.9.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260906_zapis.pdf)
 - [Zápis 7.6.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260607_zapis.pdf)
 - [Zápis 25.5.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260525_zapis.pdf)
 - [Zápis 12.4.2026](https://s3.pod.cvut.cz/common/legislativa/zapisy/20260412_zapis.pdf)
@@ -416,7 +418,7 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 Tato sekce obsahuje usnesení ze schůzí představenstva klubu, ze kterých ještě nebyl schválen zápis.
 
-- [6. 9. 2026](https://s3.pod.cvut.cz/common/legislativa/usneseni/20260906_usneseni.pdf)
+- [4. 10. 2026](https://s3.pod.cvut.cz/common/legislativa/usneseni/20261004_usneseni.pdf)
 
 ## Hlasování per rollam
 
