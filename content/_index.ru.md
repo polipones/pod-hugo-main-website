@@ -32,7 +32,7 @@ HidePublishDate: true
 Присоединяйтесь и к группе своего блока, чтобы не пропустить важную информацию и местные мероприятия: [блок A](http://www.facebook.com/groups/A.Podolee/), [блок B](http://www.facebook.com/groups/B.Podolee/), [блок C](http://www.facebook.com/groups/C.Podolee/), [блок D](http://www.facebook.com/groups/D.Podolee/), [блок E](https://www.facebook.com/groups/E.Podolee/), [блок F](http://www.facebook.com/groups/F.Podolee/).
 
 - [Instagram](https://www.instagram.com/pod_o_lee/)
-- [Discord](https://discord.gg/J8eXmNGBhE)
+- [Discord](https://discord.gg/8VjdUW2s3T)
 
 ## Календарь событий клуба
 

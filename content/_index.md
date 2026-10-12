@@ -35,7 +35,7 @@ Přidej se také do facebookové skupiny svého bloku, ať ti neuniknou důleži
 
 - [FB stránka klubu](https://www.facebook.com/profile.php?id=100080945754982)
 - [Instagram](https://www.instagram.com/pod_o_lee/)
-- [Discord](https://discord.gg/J8eXmNGBhE)
+- [Discord](https://discord.gg/8VjdUW2s3T)
 
 ## Nástupy na kolej
 

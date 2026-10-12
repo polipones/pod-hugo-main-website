@@ -17,4 +17,4 @@ na kolejích máme od roku 2020 šermířskou skupinu. Zaměřujeme se převáž
 
 Můžeš s námi vyrazit na velké bitvy, jako jsou Pán prstenů, Helmáč nebo Bitva pod Horou, ale jezdíme i na menší akce. Plánujeme také víkendová soustředění a účastníme se akcí kolejního klubu Pod-O-Lee.
 
-Pokud se k nám chceš přidat nebo si šerm jen vyzkoušet, připoj se na náš [Discord server](https://discord.gg/J8eXmNGBhE). Domlouváme tam pravidelné tréninky, akce i společnou dopravu.
+Pokud se k nám chceš přidat nebo si šerm jen vyzkoušet, připoj se na náš [Discord server](https://discord.gg/8VjdUW2s3T). Domlouváme tam pravidelné tréninky, akce i společnou dopravu.
