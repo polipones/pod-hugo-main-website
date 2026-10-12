@@ -186,9 +186,6 @@ languages:
         # - name: Мероприятия
         #   url: events
         #   weight: 6
-        - name: Контакты
-          url: contacts
-          weight: 7
         - name: Поиск
           url: search
           weight: 8
