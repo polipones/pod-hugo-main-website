@@ -98,12 +98,7 @@ Contact: <hr@pod.cvut.cz>
 {{<contact_section>}}
     {{<contact index="hr" role="HR manager">}}
     {{<contact index="zhr" role="Deputy HR manager">}}
-{{</contact_section>}}
-
-### Pod-O-Film
-
-{{<contact_section>}}
-    {{<contact index="sf" role="Pod-O-Film manager">}}
+    {{<contact index="hrt" role="Member of HR team">}}
 {{</contact_section>}}
 
 ### Pod-O-Games

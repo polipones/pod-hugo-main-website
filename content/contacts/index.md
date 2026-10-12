@@ -103,12 +103,7 @@ Kontakt: <hr@pod.cvut.cz>
 {{<contact_section>}}
     {{<contact index="hr" role="HR manažer">}}
     {{<contact index="zhr" role="Zástupce HR manažera">}}
-{{</contact_section>}}
-
-### Pod-O-Film
-
-{{<contact_section>}}
-    {{<contact index="sf" role="Správce Pod-O-Film">}}
+    {{<contact index="hrt" role="Člen HR týmu">}}
 {{</contact_section>}}
 
 ### Pod-O-Games
