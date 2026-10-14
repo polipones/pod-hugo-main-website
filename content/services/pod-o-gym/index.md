@@ -127,7 +127,7 @@ Boulder je rozdělen na dvě části: [klasické bouldery](#klasické-bouldery) 
 
 #### Problémy
 
-V případě problémů nebo nejasností napiš na <j.karban@pod.cvut.cz> nebo <v.janacek@pod.cvut.cz>.
+V případě problémů nebo nejasností napiš [jednomu z instruktorů]({{< ref "/contacts#boulder" >}}).
 
 ### Sauna
 

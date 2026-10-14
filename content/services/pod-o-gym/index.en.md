@@ -123,7 +123,7 @@ The bouldering area has two parts: [classic boulders](#classic-boulders) and the
 
 #### Problems
 
-If you have any problems or questions, please email <j.karban@pod.cvut.cz> or <v.janacek@pod.cvut.cz>.
+If you have any problems or questions, please email one of [instructors]({{< ref "/contacts#boulder" >}}).
 
 
 ### Sauna
