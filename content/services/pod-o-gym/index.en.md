@@ -74,9 +74,9 @@ Contact instructors: [Boulder section in contacts]({{< ref "/contacts#boulder" >
 
 The gym also has a small bouldering wall. If you would like to try it, contact the instructors for an introduction and advice on preventing injuries. The same access requirements apply as for the rest of Pod-O-Gym, including reading the operating rules.
 
-Our climbing instructors take care of the bouldering area. You can find their contact details in [Contacts]({{< ref "/contacts#boulder" >}}). If you have any problems or questions, please write to <sportoviste@pod.cvut.cz>.
+The bouldering wall is divided into several sectors. Their boundaries are marked with silver tape labelled “předěl sektorů” (sector boundary), with arrows pointing in both directions. When climbing a problem, do not use holds of the same colour from another sector.
 
-The bouldering area has two parts: [classic boulders](#classic-boulders) and the [spray wall](#spray-wall).
+In most sectors, one hold colour is reserved for the [spray wall](#spray-wall) to fill the sector with as many holds as possible. Some sectors may consist entirely of a spray wall, without any [classic boulders](#classic-boulders).
 
 {{<figure src="images/services/pod-o-gym/boulder_1.jpg" alt="Boulder photo 1" width="90%" align="center">}}
 
@@ -89,42 +89,27 @@ The bouldering area has two parts: [classic boulders](#classic-boulders) and the
 
 #### Spray Wall
 
-- An ideal part of the boulder where you can show your creativity, come up with your own boulders, and share them with other climbers in the mobile app
-- The rules of bouldering in this section are the same
-- To view the boulders, download the **Boulder Creator** app (black and red) and search for the PodoGym room
-
-
-##### What can you do with the Boulder Creator app?
-
-- Browse, climb, check off, and rate the classification of boulders already climbed by other climbers
-- Create and publish your own boulders so that other climbers can try them
-
-##### Creating boulders
-
-- Take a photo of the wall and circle the holds that are part of your boulder in the app (each type of circle indicates something different – start, top, feet, hands, etc.)
-- Add a name, difficulty, and optional characteristics of the boulder
-- Publish and see who climbs your boulder
-
-##### Climbing
-
-- Record which boulders you have completed and how many attempts each took
+A spray wall has a dense arrangement of holds, offering as many options as possible for training and creating your own problems. You can invent your own problems, climb continuous endurance circuits, and train however you like.
 
 #### Difficulty
 
-- We will use the French scale
-- Difficulty 1–9, a–c (we will probably range between 3 and 7)
-- In short:
+- We use the French grading scale.
+- Grades use numbers 1–9 and letters a–c. Expect mainly grades 3–7 here.
+- Difficulty increases in this order:
     - `3 < 4 < 5 < 6…`
     - `a < b < c`
     - Therefore: `5a < 5b < 5c < 6a < 6b…`
-    - A `+` may appear between grades: `5a < 5a+ < 5b`
-- In the Boulder Creator app
-    - Grades start at 4, 5, and 5+, then continue like the French scale (5+ corresponds approximately to 5b–5c+)
+- A `+` may appear between grades: `5a < 5a+ < 5b`.
 
 #### Problems
 
-If you have any problems or questions, please email one of [instructors]({{< ref "/contacts#boulder" >}}).
+- If a hold spins because it is not tight enough, you can tighten it with the Allen key available by the entrance to the bouldering area.
+- For any other problems or questions, contact the [Boulder team listed in Contacts]({{< ref "/contacts#boulder" >}}).
 
+#### Equipment to borrow
+
+- Club climbing shoes are available on the rack. You must disinfect them after use. The disinfectant is in the container below the shoes.
+- Chalk, climbing tape, and a brush are available to all climbers by the entrance to the bouldering area.
 
 ### Sauna
 

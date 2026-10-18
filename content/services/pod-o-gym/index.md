@@ -78,9 +78,9 @@ Kontakt na instruktory: [Sekce boulder v kontaktech]({{< ref "/contacts#boulder"
 
 Pro zájemce o bouldering a lezení máme v tělocvičně menší boulderovou stěnu. Pokud si ji chceš vyzkoušet, kontaktuj instruktory, kteří ti vysvětlí základy a poradí, jak předcházet zraněním. Pro vstup platí stejné podmínky jako pro celý Pod-O-Gym, včetně seznámení s provozním řádem.
 
-O boulder se u nás starají instruktoři lezení, kontakty najdeš v [Kontaktech]({{< ref "/contacts#boulder" >}}). V případě problémů či nejasností piš na <sportoviste@pod.cvut.cz>.
+Boulder je rozdělen do několika sektorů. Jejich hranice označuje stříbrná páska s nápisem „předěl sektorů“ a šipkami na obě strany. Při lezení boulderu nesmíš používat chyty stejné barvy z jiného sektoru.
 
-Boulder je rozdělen na dvě části: [klasické bouldery](#klasické-bouldery) a [Spray Wall](#spray-wall).
+Ve většině sektorů je jedna barva chytů vyhrazena pro [Spray Wall](#spray-wall), aby byl sektor co nejvíce zaplněn chyty. Některé sektory mohou být tvořeny pouze spraywallem bez [klasických boulderů](#klasické-bouldery).
 
 {{<figure src="images/services/pod-o-gym/boulder_1.jpg" alt="Boulder photo 1" width="90%" align="center">}}
 
@@ -93,41 +93,27 @@ Boulder je rozdělen na dvě části: [klasické bouldery](#klasické-bouldery) 
 
 #### Spray Wall
 
-- Ideální část boulderu, kde můžeš ukázat svou kreativitu, vymyslet vlastní boudlery a předat je ostatním lezcům v mobilní aplikaci
-- Pravidla boulderingu jsou v této části stejná
-- Pro zobrazení boulderů stahuj aplikaci **Boulder Creator** (černo-červená) a v ní vyhledej místnost PodoGym
-
-##### Co vše můžeš s aplikací Boulder Creator dělat?
-
-- Prohlížej, přelézej, odškrtávej a hodnoť klasifikaci již vylezených boulderů, co přidali jiní lezci
-- Vytvářej vlastní bouldery, zveřejni je a umožni ostatním vyzkoušet tvé nápady
-
-##### Tvorba boulderů
-
-- Vyfoť stěnu a v aplikaci zakroužkuj (každý druh kroužku značí jinou věc – start, top, nohy, ruce atd.) chyty, které jsou součástí tvého boulderu
-- Přidej název, obtížnost a volitelné charakteristiky boulderu
-- Zveřejni a sleduj, kdo tvůj boulder vyleze
-
-##### Přelez
-
-- V aplikaci si můžeš označit, které bouldery jsi už vylezl a na kolikátý pokus
+Spraywall tvoří velké množství chytů rozmístěných na stěně tak, aby nabízely co nejvíce možností k tréninku a tvorbě vlastních boulderů. Můžeš si tu vymýšlet vlastní bouldery, lézt nekonečná vytrvalostní kolečka a trénovat podle svých představ.
 
 #### Obtížnost
 
-- Budeme používat francouzskou stupnici
-- Obtížnost 1 – 9, a – c (pravděpodobně se budeme pohybovat mezi 3 – 7)
-- Ve zkratce:
+- Používáme francouzskou stupnici.
+- Obtížnost se značí čísly 1–9 a písmeny a–c. U nás počítej především s obtížnostmi 3–7.
+- Obtížnost roste v pořadí:
     - `3 < 4 < 5 < 6…`
     - `a < b < c`
     - Tedy: `5a < 5b < 5c < 6a < 6b…`
-    - Občas se může vyskytnout znaménko +
-    - `5a < 5a+ < 5b`
-- V aplikaci Boulder Creator
-    - Obtížnost je 4, 5 a 5+ a dále pokračuje stejně jako francouzská stupnice (5+ tedy odpovídá přibližně 5b až 5c+)
+- Občas se může vyskytnout znaménko `+`: `5a < 5a+ < 5b`.
 
 #### Problémy
 
-V případě problémů nebo nejasností napiš [jednomu z instruktorů]({{< ref "/contacts#boulder" >}}).
+- Pokud se některý chyt protáčí, protože není dostatečně dotažený, můžeš ho dotáhnout imbusem, který najdeš u vchodu na boulder.
+- V případě jiných problémů nebo nejasností kontaktuj [boulder tým v kontaktech]({{< ref "/contacts#boulder" >}}).
+
+#### Půjčovna
+
+- Na stojanu jsou k zapůjčení klubové lezecké boty. Po použití je musíš vydezinfikovat. Dezinfekci najdeš v nádobě pod botami.
+- Magnesium, tejp a kartáček jsou k dispozici všem lezcům u vchodu na boulder.
 
 ### Sauna
 
