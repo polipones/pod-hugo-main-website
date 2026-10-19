@@ -6,11 +6,14 @@ This repository is a multilingual Hugo site. Page content lives in `content/`; C
 
 ## Build, Test, and Development Commands
 
-- `git submodule update --init --recursive` initializes the POD theme after cloning.
-- `docker compose up --build` starts Hugo at `http://localhost:1313` and imgproxy at port 8080; it also refreshes contact data from Hydra.
-- `hugo server --disableFastRender --navigateToChanged` runs the site directly when Hugo is installed locally.
-- `hugo --environment production` performs a production-style static build into `public/`.
-- `hugo new --kind post posts/<category>/<slug>/index.md` creates a post from the repository archetype.
+See `README.md` for the complete local setup, prerequisites, troubleshooting, and content workflow.
+
+- `git submodule update --init --recursive` initializes the pinned POD theme after cloning; do not add it as a new submodule.
+- `docker compose up --build` starts Hugo at `http://localhost:1313` and imgproxy at `http://localhost:8080`; it also attempts to refresh contact data from Hydra. Images come from `registry01.in.podolee.cz`, which may require authentication.
+- Native development uses standard Hugo 0.164.0 (matching the Dockerfiles). Run `bash scripts/fetch_contacts.sh` first; it requires Bash, wget, jq, and readlink with `-f` support and writes the ignored `data/contacts.json`. Existing valid data can be reused offline. Never run this script with the host's POSIX `sh`.
+- `HUGO_PARAMS_IMGPROXYURL=https://img.podolee.cz hugo server --disableFastRender --navigateToChanged` runs natively using the public image proxy. Alternatively, start `docker compose up -d imgproxy` and omit the override. Add `--buildDrafts` to preview drafts.
+- `hugo server` defaults to the `development` environment, not the staging environment named `develop`. Static builds default to `production`.
+- `hugo new services/<slug>/index.md`, `hugo new --kind post_category posts/<category>/_index.md`, and `hugo new --kind post posts/<category>/<slug>/index.md` use the repository archetypes. For Docker-only workflows, replace `hugo` with `docker compose run --rm --no-deps web hugo`.
 
 ## Coding Style & Naming Conventions
 
@@ -18,7 +21,14 @@ Use two-space indentation in YAML and follow the surrounding style in HTML templ
 
 ## Testing Guidelines
 
-There is no automated test suite. Before submitting, run a clean Hugo production build and inspect changed pages, navigation, images, and all affected language variants in the local server. Treat Hugo warnings, broken internal links, missing resources, and malformed front matter as failures. Do not commit generated `public/` output unless the change explicitly requires it.
+Run the automated build and internal-reference checks for both deployed environments after preparing contact data:
+
+```sh
+sh scripts/validate_site.sh
+HUGO_ENV=develop sh scripts/validate_site.sh
+```
+
+These commands require Hugo and Python 3.10+ and do not fetch contacts. The Docker equivalents are `docker compose run --rm --no-deps web sh scripts/validate_site.sh` and `docker compose run --rm --no-deps -e HUGO_ENV=develop web sh scripts/validate_site.sh` after building the `web` image and preparing contacts. The validator fails on Hugo warnings and checks generated internal links, assets, and fragments; it does not check remote URL availability. Without an output argument it cleans up its temporary output; an explicit output directory is cleaned before building, so never point it at source files. Also inspect changed pages, navigation, images, and affected languages in the browser. Do not commit generated output.
 
 ## Commit & Pull Request Guidelines
 
