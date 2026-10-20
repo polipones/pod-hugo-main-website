@@ -35,4 +35,4 @@ KDY? Pravidelně v pondělí od 20:00
 
 ## Provozní řád
 
-Přečti si [provozní řád deskoherny](https://s3.pod.cvut.cz/common/provozni_rady/board_games_club/board_games_club_cz.pdf).
+Přečti si [provozní řád deskoherny](https://s3.podolee.cz/common/provozni_rady/board_games_club/board_games_club_cz.pdf).

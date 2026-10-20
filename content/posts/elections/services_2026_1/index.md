@@ -29,8 +29,8 @@ Ahoj Podolačky a Podoláci,
 
 V řádných volbách se na post Správce Pod-O-Gym přihlásili 2 kandidáti:
 
-- [Jan Hajný](https://s3.pod.cvut.cz/common/volby/2026/sg_2/Jan_Hajny_kandidatka_Spravce_Gym.pdf)
-- [Vít Novotný](https://s3.pod.cvut.cz/common/volby/2026/sg_2/Vit_Novotny_kandidatka_Spravce_Gym.pdf)
+- [Jan Hajný](https://s3.podolee.cz/common/volby/2026/sg_2/Jan_Hajny_kandidatka_Spravce_Gym.pdf)
+- [Vít Novotný](https://s3.podolee.cz/common/volby/2026/sg_2/Vit_Novotny_kandidatka_Spravce_Gym.pdf)
 
 Kandidátky jednotlivých kandidátů naleznete na odkazech výše.
 
@@ -48,11 +48,11 @@ Ahoj Podolačky a Podoláci,
 
 30\. 4. ve 20:00 uplynula lhůta pro dodání podepsaných originálů kandidátek v řádných volbách na Správce sítě, Správce systémů, Správce projektů. Vzhledem k tomu, že se na každou pozici přihlásil pouze jeden kandidát a již dodal volební komisi podepsaný originál kandidátky, tak se volby na tyto pozice neuskuteční.
 
-Správcem sítě se svým vlastním hlasem stává [Karel Čtvrtečka (ID 7599)](https://s3.pod.cvut.cz/common/volby/2026/sluzby/Karel_Ctvrtecka_kandidatka_Spravce_site.pdf).
+Správcem sítě se svým vlastním hlasem stává [Karel Čtvrtečka (ID 7599)](https://s3.podolee.cz/common/volby/2026/sluzby/Karel_Ctvrtecka_kandidatka_Spravce_site.pdf).
 
-Správcem systémů se svým vlastním hlasem stává [Jan Picka (ID 7108)](https://s3.pod.cvut.cz/common/volby/2026/sluzby/Jan_Picka_kandidatka_Spravce_systemu.pdf).
+Správcem systémů se svým vlastním hlasem stává [Jan Picka (ID 7108)](https://s3.podolee.cz/common/volby/2026/sluzby/Jan_Picka_kandidatka_Spravce_systemu.pdf).
 
-Správcem projektů se svým vlastním hlasem stává [Pavel Pavlů (ID 9621)](https://s3.pod.cvut.cz/common/volby/2026/sluzby/Pavel_Pavlu_kandidatka_Spravce_projektu.pdf).
+Správcem projektů se svým vlastním hlasem stává [Pavel Pavlů (ID 9621)](https://s3.podolee.cz/common/volby/2026/sluzby/Pavel_Pavlu_kandidatka_Spravce_projektu.pdf).
 
 V případě, že máte podezření, že volby neproběhly v pořádku, můžete do 3 dnů (tj. do 3. 5. 2026 do 23:59) podat žádost o přezkoumání výsledků voleb na adresu <predstavenstvo@pod.cvut.cz>. V žádosti musí být uveden důvod a Představenstvo ji musí vyřídit do 30 dní.
 
@@ -62,9 +62,9 @@ Ahoj Podolačky a Podoláci,
 
 na nedělní schůzi Představenstva klubu Pod-O-Lee (12. 4. 2026) vyhlásil Předseda řádné volby na Správce sítě, Správce systémů, Správce projektů a Správce Pod-O-Gym s mandátem od 1. 6. 2026 do 31. 5. 2028.
 
-Práva a povinnosti jednotlivých členů Představenstva jsou upraveny v [IP3/2026](https://s3.pod.cvut.cz/common/legislativa/ip/IP-3-2026.pdf) a ve [Stanovách klubu](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf).
+Práva a povinnosti jednotlivých členů Představenstva jsou upraveny v [IP3/2026](https://s3.podolee.cz/common/legislativa/ip/IP-3-2026.pdf) a ve [Stanovách klubu](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf).
 
-Volby se řídí [IP2/2026](https://s3.pod.cvut.cz/common/legislativa/ip/IP-2-2026.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidovat lze pouze na jeden post Správce.
+Volby se řídí [IP2/2026](https://s3.podolee.cz/common/legislativa/ip/IP-2-2026.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidovat lze pouze na jeden post Správce.
 
 Kandidátka musí obsahovat:
 

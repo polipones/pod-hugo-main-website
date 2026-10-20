@@ -87,4 +87,4 @@ Parametry papíru: gramáž 80 g/m², bělost 146 CIE, neprůsvitnost 92 %.
 
 ## Provozní řád
 
-Dostupný zde: **[Provozní řád](https://s3.pod.cvut.cz/common/provozni_rady/pc_room_and_club_printer/pc_room_and_club_printer_cz.pdf)**!
+Dostupný zde: **[Provozní řád](https://s3.podolee.cz/common/provozni_rady/pc_room_and_club_printer/pc_room_and_club_printer_cz.pdf)**!

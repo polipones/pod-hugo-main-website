@@ -38,4 +38,4 @@ V elektronické dílně se nachází také 3D tiskařský koutek se třemi tisk�
 
 ## Provozní řád Pod-O-Lab
 
-Přečti si [provozní řád Pod-O-Lab](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_lab/provozni_rad_pod_o_lab_cz.pdf).
+Přečti si [provozní řád Pod-O-Lab](https://s3.podolee.cz/common/provozni_rady/pod_o_lab/provozni_rad_pod_o_lab_cz.pdf).

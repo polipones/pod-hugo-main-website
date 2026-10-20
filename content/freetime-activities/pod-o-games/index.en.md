@@ -47,4 +47,4 @@ When collecting the keys, the borrower confirms by signing that they and all oth
 
 ## Operating rules
 
-Read the [Pod-O-Games operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_en.pdf).
+Read the [Pod-O-Games operating rules](https://s3.podolee.cz/common/provozni_rady/pod_o_games/pod_o_games_en.pdf).

@@ -23,7 +23,7 @@ params:
   keywords: [ČVUT, SU ČVUT, Pod-O-Lee, dormitory]
 
   imgproxyUrl: http://localhost:8080
-  imgHostUrl: https://s3.pod.cvut.cz/assets/web
+  imgHostUrl: https://s3.podolee.cz/assets/web
 
   DateFormat: "02. 01. 2006 15:04"
   defaultTheme: auto # dark, light

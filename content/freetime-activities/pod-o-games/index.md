@@ -47,4 +47,4 @@ Při převzetí klíčů vypůjčitel podpisem potvrzuje, že seznámil sebe i o
 
 ## Provozní řád
 
-Přečti si [provozní řád Pod-O-Games](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_games/pod_o_games_cz.pdf).
+Přečti si [provozní řád Pod-O-Games](https://s3.podolee.cz/common/provozni_rady/pod_o_games/pod_o_games_cz.pdf).

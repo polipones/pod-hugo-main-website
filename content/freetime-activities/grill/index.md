@@ -44,4 +44,4 @@ Součástí vybavení **není uhlí ani podpalovač**. Obojí si musíš přiné
 
 ## Provozní řád
 
-Přečti si [provozní řád grilu](https://s3.pod.cvut.cz/common/provozni_rady/grill/grill_cz.pdf).
+Přečti si [provozní řád grilu](https://s3.podolee.cz/common/provozni_rady/grill/grill_cz.pdf).

@@ -21,4 +21,4 @@ Před uložením věcí si přečti provozní řád.
 
 ## Provozní řád
 
-Přečti si [provozní řád kufrárny](https://s3.pod.cvut.cz/common/provozni_rady/storage_room/storage_room_cz.pdf).
+Přečti si [provozní řád kufrárny](https://s3.podolee.cz/common/provozni_rady/storage_room/storage_room_cz.pdf).

@@ -38,4 +38,4 @@ The electronics workshop also contains a 3D-printing corner with three printers.
 
 ## Operating rules
 
-Read the [Pod-O-Lab operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_lab/operating_rules_pod_o_lab_en.pdf). If the translations differ, the Czech version prevails.
+Read the [Pod-O-Lab operating rules](https://s3.podolee.cz/common/provozni_rady/pod_o_lab/operating_rules_pod_o_lab_en.pdf). If the translations differ, the Czech version prevails.

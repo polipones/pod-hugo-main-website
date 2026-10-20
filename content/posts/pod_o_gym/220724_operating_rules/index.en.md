@@ -23,4 +23,4 @@ date: 2022-08-18T20:30:00+02:00
 layout: post
 ---
 
-The Pod-O-Gym operating rules were updated on 18 August 2022. Read the [current operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf) before your next visit. The Pod-O-Gym manager and team also cleaned the tatami with a pressure washer during the previous weekend.
+The Pod-O-Gym operating rules were updated on 18 August 2022. Read the [current operating rules](https://s3.podolee.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf) before your next visit. The Pod-O-Gym manager and team also cleaned the tatami with a pressure washer during the previous weekend.

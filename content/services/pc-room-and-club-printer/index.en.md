@@ -86,4 +86,4 @@ Paper details: weight 80 g/m², whiteness 146 CIE, opacity 92%.
 
 ## Operation rules
 
-Available here: **[Operation rules](https://s3.pod.cvut.cz/common/provozni_rady/pc_room_and_club_printer/pc_room_and_club_printer_en.pdf)**!
+Available here: **[Operation rules](https://s3.podolee.cz/common/provozni_rady/pc_room_and_club_printer/pc_room_and_club_printer_en.pdf)**!

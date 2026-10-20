@@ -25,7 +25,7 @@ HidePublishDate: true
 
 Если у вас возникнут проблемы с платежами, пожалуйста, обращайтесь по адресу <platby@pod.cvut.cz>.
 
-Также вам может пригодиться [путеводитель первокурсника на чешском языке](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-en.pdf).
+Также вам может пригодиться [путеводитель первокурсника на чешском языке](https://s3.podolee.cz/assets/web/images/freshmans-guide/guide-en.pdf).
 
 Если вам нужен совет, вы хотите следить за мероприятиями в общежитии или познакомиться с новыми людьми, присоединяйтесь к нашей группе в Facebook: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 

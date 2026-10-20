@@ -51,4 +51,4 @@ Unfortunately, the music room is not available to non-residents because it does 
 
 ## Operating rules
 
-Read the [music-room operating rules](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_en.pdf).
+Read the [music-room operating rules](https://s3.podolee.cz/common/provozni_rady/music_room/music_room_en.pdf).

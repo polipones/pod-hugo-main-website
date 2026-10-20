@@ -27,7 +27,7 @@ Ahoj Podolačky a Podoláci,
 
 dne 10. 12. 2024 ve 23:59 uplynula lhůta pro podávání kandidátek na Předsedu klubu Pod-O-Lee.
 
-Do voleb se přihlásil pouze jeden kandidát, Kateřina Pilná, přičemž včas dodala podepsaný originál kandidátky předsedovi volební komise. Kandidátka je k dispozici ke stažení zde: [katerina_pilna.pdf](https://s3.pod.cvut.cz/common/volby/2024/predseda/katerina_pilna_predseda.pdf).
+Do voleb se přihlásil pouze jeden kandidát, Kateřina Pilná, přičemž včas dodala podepsaný originál kandidátky předsedovi volební komise. Kandidátka je k dispozici ke stažení zde: [katerina_pilna.pdf](https://s3.podolee.cz/common/volby/2024/predseda/katerina_pilna_predseda.pdf).
 
 Na žádost volební komise byla vyhlášena volební schůze představenstva na **24. 1. 2025 od 19:00** v zasedací místnosti klubu Pod-O-Lee. Schůze je veřejná, předsedu však mohou volit pouze členové představenstva. S dotazy k volbám se obracejte na <volby@lists.pod.cvut.cz>.
 
