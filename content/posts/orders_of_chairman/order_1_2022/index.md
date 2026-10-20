@@ -25,4 +25,4 @@ layout: post
 
 Bylo zveřejněno nové nařízení předsedy (NP 1/2022), které platí od 6. 1. 2022. Upravuje omezení přístupu do místností klubu.
 
-Odkaz na NP: [NP1/2022 Nařízení předsedy o opatření ke snížení rizika nákazy koronavirem](https://wiki.pod.cvut.cz/_media/legislativa/narizeni-predsedy-np-1-2022..pdf)
+Odkaz na NP: [NP1/2022 Nařízení předsedy o opatření ke snížení rizika nákazy koronavirem](https://s3.podolee.cz/common/legislativa/narizeni_predsedy/narizeni-predsedy-np-1-2022..pdf)

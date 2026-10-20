@@ -27,9 +27,9 @@ Ahoj Podolačky a Podoláci,
 
 na včerejší schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda volby na Správce projektů.
 
-Pravomoci a povinnosti Správce projektů jsou upraveny v [IP1/2018](https://wiki.pod.cvut.cz/_media/legislativa/ip_pozice.pdf).
+Pravomoci a povinnosti Správce projektů jsou upraveny v [IP1/2018](https://s3.podolee.cz/common/legislativa/ip/ip_1_2018_pozice.pdf).
 
-Volby se řídí [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidátka musí obsahovat:
+Volby se řídí [IP2/2020](https://s3.podolee.cz/common/legislativa/ip/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
 - kontaktní e-mail,

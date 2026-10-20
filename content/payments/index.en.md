@@ -61,7 +61,7 @@ The forms are available from the “televizors”, volunteers who handle benefit
 
 ## Internal and external membership
 
-According to [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf), the Pod-O-Lee club has internal and external memberships.
+According to [IP13/2024](https://s3.podolee.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf), the Pod-O-Lee club has internal and external memberships.
 
 ### Internal membership
 
@@ -73,7 +73,7 @@ An internal member is a person who is a member of the Pod-O-Lee club according t
 
 An external member is a person who is a member of the Pod-O-Lee club according to the valid statutes of the club, **does not** have a valid accommodation contract with the CTU Dormitory Administration (SÚZ ČVUT) for the Podolí dormitory, but has approved external membership from the president of the Pod-O-Lee club and from the manager of the given benefit.
 
-For more information about both types of membership, read [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf) (Czech only).
+For more information about both types of membership, read [IP13/2024](https://s3.podolee.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf) (Czech only).
 
 ## Membership-fee waivers
 

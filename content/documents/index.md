@@ -160,7 +160,7 @@ Interní předpisy jsou upřesňující dokumenty, které od okamžiku schválen
 
 ### Rozpočty po roce 2019
 
-Na schůzi představenstva dne 19. 11. 2019 předseda oznámil, že klub bude sestavovat rozpočet na celý rok, ne pouze na pololetí. První celoroční rozpočet, určený na rok 2020, představenstvo schválilo 9. 12. 2019. Viz [zápis z 19. 11. 2019](https://wiki.pod.cvut.cz/_media/legislativa/19.11.2019.pdf).
+Na schůzi představenstva dne 19. 11. 2019 předseda oznámil, že klub bude sestavovat rozpočet na celý rok, ne pouze na pololetí. První celoroční rozpočet, určený na rok 2020, představenstvo schválilo 9. 12. 2019. Viz [zápis z 19. 11. 2019](https://s3.podolee.cz/common/legislativa/zapisy/zapis_20191119.pdf).
 
 - Rozpočet 2026
   - Schválená verze z 26. 1. 2026: [Rozpočet 2026](https://s3.podolee.cz/common/legislativa/rozpocty/rozpocet_2026_26_1_2026.pdf)
