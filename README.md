@@ -28,15 +28,7 @@ Nepoužívej `git submodule add`: téma je už zapsané v `.gitmodules`. Inicial
 
 Potřebuješ běžící Docker Engine nebo Docker Desktop a příkaz `docker compose`.
 Hugo, Python a nástroje pro stažení kontaktů jsou součástí obrazu, na hostiteli je instalovat nemusíš.
-Konfigurace používá Hugo **0.164.0** a imgproxy **v3.27**.
-
-Obrazy se stahují z `registry01.in.podolee.cz`. Pokud registry vrací `401 Unauthorized` nebo `denied`, ověř přístup a přihlas se účtem s oprávněním číst obrazy:
-
-```bash
-docker login registry01.in.podolee.cz
-```
-
-Bez přístupu k registry použij variantu B níže.
+Konfigurace používá Hugo **0.164.0** a imgproxy **v3.27**. Obrazy se stahují z `registry01.in.podolee.cz`.
 
 ```bash
 docker compose up --build
