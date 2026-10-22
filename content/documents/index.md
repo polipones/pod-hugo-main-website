@@ -465,9 +465,7 @@ Hlasuje se o schválení Ekonomické činnosti Podolský ples 2026.
 
 #### Podklady pro informované rozhodnutí
 
-<!-- DOPLNIT odkaz na dokument Ekonomická činnost Podolský ples 2026 na s3.podolee.cz -->
-
-- Ekonomická činnost Podolský ples 2026 (PDF) – odkaz doplnit
+- [Ekonomická činnost Podolský ples 2026 (PDF)](https://s3.podolee.cz/common/legislativa/ekonomicke_cinnosti/202610_ec_podolsky_ples.pdf)
 
 #### Lhůta pro hlasování
 
