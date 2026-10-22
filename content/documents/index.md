@@ -477,38 +477,40 @@ Sobota 24. 10. 2026 ve 22:00 (SELČ)
 
 K vytvoření hashů je použit algoritmus SHA-512. Vstupem je unikátní hlasovací kód přesně tak, jak byl členovi Představenstva zaslán (bez mezer a bez odřádkování na konci), výstupem je 128 hexadecimálních znaků malými písmeny. Svůj hash si ověříte například příkazem `printf %s 'KÓD' | sha512sum`.
 
+```text
 Kateřina Pilná:
-- DOPLNIT-HASH
+- abfe01c160134dca072d628b87a25d290e329e951870a65de04caf834d63f89dcd3bbdbf848794c859f757fc9c8f0eed544e3601b85c1ecd6ecdd3ca3c2ee6ae
 
 Jan Picka:
-- DOPLNIT-HASH
+- 5a69691f0d4a13a84d95d1bc56c66df6ac2dc4317c22c405d62dd8fb005edf6985b65e7cac8711264573e2148c353c1d7176dbea2a8dad9e0557e5172ae2cd94
 
 Karel Čtvrtečka:
-- DOPLNIT-HASH
+- 98c2a88dc4a5200aba4fe6f6e918d5aa07ac545cf6d23a168bb9dc0f9fdb8475f13ee77323213e8a2cfc6f22fde7f1d33189cc4454410503816ea899ce2edc37
 
 Pavel Pavlů:
-- DOPLNIT-HASH
+- 4acbadce1e2eb9e932fea54b7bdce64799836cbec507eb82193cde5004b53ada4cc638ee5a49206a21199e6e4c4ec6c42fedc540fcaa1ad17a10dccee8aafc77
 
 Pavel Sillinger:
-- DOPLNIT-HASH
+- 3a8b2d77a7a49c5d8eb5d638175eaf69fae5562523142d4209e9882b37e618a8ce57d5372ab861b25a4053f0b497af5ee847d849ae6f86c9f545dff69060e3fd
 
 Luboš Jánský:
-- DOPLNIT-HASH
+- 09b7fd4f53bdceb801c24a15f8f0ecb6d6e664583bbc3093300b328f5bbcd1a66287df6c74250b6bf08a266813ed81e22dec46b5e8b42e5cfb6da3b6ab9037ce
 
 Jakub Smetana:
-- DOPLNIT-HASH
+- 83975daaffd5912fea017cb3ac0f45ccac6762162c1cf8a7d4a056176161acd76901b6fe0daa65607515762f761bb93115d220d69bf8765135194f702640b449
 
 Jakub Pohl:
-- DOPLNIT-HASH
+- b59209e6e3b5e2009619866b8febd847941762703a010e73bf99081b33e5150728509dce58ca8cb3e0a09fb1d6ae5cddbc8973bdddec11ab6649518693aee864
 
 Petr Šohaj:
-- DOPLNIT-HASH
+- b6ac377f406b548e31058e9c38adc9139d798fce0233942268c592f6d25b093dc62e44a75ad269401cd797c0d7fbf3c66c3e05849fe77e9d3c733c8d5d5b8071
 
 Martin Kuncl:
-- DOPLNIT-HASH
+- 7701c37ac7a833af74e7c57b16f2de0cc6e470b031c89aabd781ba5ffd5053354b93d72c18953b88045117d9519d8d9c1d60bb83a2669bd42e0c3a8ea5efc151
 
 Vít Novotný:
-- DOPLNIT-HASH
+- 40dc7eee27a96d46aa3f0241a84d91c452bf72b5a802bc8c78770db32b5d1975aaf5487676526cf046af909d1a6ba699332c368268440feca4ee77067ff8f074
+```
 
 <!-- Po uzavření hlasování doplnit blok s výsledkem: Osob s hlasovacím právem: 11, Pro/Proti/Zdrželo se, Usnesení bylo přijato.
 -->
