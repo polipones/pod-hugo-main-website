@@ -443,9 +443,7 @@ Hlasování je ukončeno vyjádřením všech členů Představenstva nebo uplyn
 
 Usnesení přijaté per rollam musí být na další řádné schůzi Představenstva potvrzeno hlasováním. Pokud potvrzující usnesení není přijato, není možné podnikat další nevynucené kroky vycházející z hlasování per rollam. Představenstvo dále v takovém případě přijme usnesení řešící situaci vzniklou na základě nepotvrzeného usnesení.
 
-<!-- Section bellow is the template for the running per rollam voting; comment it out again once the vote closes. -->
-
-### Aktuálně probíhající per rollam hlasování
+### Ukončené per rollam hlasování
 
 Usnesení č. 8 (říjen 2026): Pozastavení členství Pod-O-Gym do vyřešení podnětu
 
@@ -521,5 +519,12 @@ Vít Novotný:
 - ee1729d3c65f4d830351b553225b4968f0da508562f88160069ed683523b5ce5642393ef174736c677c3bf4d9b310550528663b24e5cb55a3642617094c61b7d
 ```
 
-<!-- Po uzavření hlasování doplnit blok s výsledkem: Osob s hlasovacím právem: 11, Pro/Proti/Zdrželo se, Usnesení bylo přijato.
--->
+#### Výsledek hlasování
+
+Osob s hlasovacím právem: 11
+
+- Pro: 8
+- Proti: 0
+- Zdržel se: 3
+
+**Usnesení bylo přijato.**
