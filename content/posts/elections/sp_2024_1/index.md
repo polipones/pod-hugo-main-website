@@ -34,9 +34,9 @@ Ahoj Podolačky a Podoláci,
 
 na úterní (15. 10. 2024) mimořádné schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda doplňující volby na Správce projektů.
 
-Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách klubu](https://wiki.pod.cvut.cz/_media/legislativa/stanovy_klubu_pod-o-lee_2024.pdf).
+Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://s3.podolee.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách klubu](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf).
 
-Volby se řídí [IP8/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_8-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
+Volby se řídí [IP8/2024](https://s3.podolee.cz/common/legislativa/ip/ip_8-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
 
 Kandidátka musí obsahovat:
 

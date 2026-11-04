@@ -63,7 +63,7 @@ Každý nový člen se při registraci seznámí s pravidly a stanovami klubu Po
 
 ## Interní a externí členství
 
-Podle [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf) má klub Pod-O-Lee interní a externí členství.
+Podle [IP13/2024](https://s3.podolee.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf) má klub Pod-O-Lee interní a externí členství.
 
 ### Interní členství
 
@@ -75,7 +75,7 @@ Interní člen je osoba, která je členem klubu Pod-O-Lee podle platných stano
 
 Externí člen je osoba, která je členem klubu Pod-O-Lee dle platných stanov klubu, **nemá** uzavřenou platnou ubytovací smlouvu se SÚZ ČVUT na koleji Podolí, ale má schválené externí členství od Předsedy klubu Pod-O-Lee a od správce daného rozšířeného členství.
 
-Pro více informací o obou členstvích si přečti [IP13/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf).
+Pro více informací o obou členstvích si přečti [IP13/2024](https://s3.podolee.cz/common/legislativa/ip/ip_13-2024_-_clenstvi_klubu_pod-o-lee.pdf).
 
 ## Odpuštění členských příspěvků
 

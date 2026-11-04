@@ -39,7 +39,7 @@ V případě, že máte podezření, že volby na Správce bloku D neproběhly v
 
 1\. 11. 2024, ve 20:00 uplynula lhůta pro podávání kandidátek na Správce bloku D.
 
-Do voleb se přihlásili tři kandidáti, v abecedním pořadí [Mário Alexy](https://wiki.pod.cvut.cz/_media/legislativa/kandidatky/alexy_mario.pdf), [Michal Pechník](https://wiki.pod.cvut.cz/_media/legislativa/kandidatky/pechnik_michal.pdf) a [Jakub Pohl](https://wiki.pod.cvut.cz/_media/legislativa/kandidatky/pohl_jakub.pdf).
+Do voleb se přihlásili tři kandidáti, v abecedním pořadí Mário Alexy, Michal Pechník a Jakub Pohl.
 Všichni kandidáti včas dodali podepsaný originál kandidátky předsedovi volební komise.
 
 Volby samotné proběhnou prezenční formou. Budou se konat v zasedací místnosti klubu (vejdete dovnitř do budovy lukostřelby (bývalé menzy), dáte se po schodech nahoru, a následně vlevo na konci chodby) **11. 11. 2024 od 19:00 do 22:00**. Volit mohou všichni ubytovaní na bloku D, a každý volič je povinen prokázat, že je oprávněn volit (například ukázat v ISKAMu přehled ubytování, a libovolný doklad se jménem a fotkou). Každý volič má právě jeden hlas, a hlasování je tajné.
@@ -52,9 +52,9 @@ Ahoj Podolačky a Podoláci,
 
 na úterní (15. 10. 2024) mimořádné schůzi Představenstva klubu Pod-O-Lee schválilo Představenstvo opakování zneplatněných doplňujících voleb na Správce bloku D.
 
-Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách klubu](https://wiki.pod.cvut.cz/_media/legislativa/stanovy_klubu_pod-o-lee_2024.pdf).
+Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://s3.podolee.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách klubu](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf).
 
-Volby se řídí [IP8/2024](https://wiki.pod.cvut.cz/_media/legislativa/ip_8-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. **Kandidát také musí být ubytován na bloku D**.
+Volby se řídí [IP8/2024](https://s3.podolee.cz/common/legislativa/ip/ip_8-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. **Kandidát také musí být ubytován na bloku D**.
 
 Kandidátka musí obsahovat:
 

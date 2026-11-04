@@ -40,7 +40,7 @@ imgproxy:
       enabled: false
     security:
       maxSrcResolution: 40
-      allowedSources: 'https://plik.pod.cvut.cz/,https://s3.pod.cvut.cz/'
+      allowedSources: 'https://plik.pod.cvut.cz/,https://s3.podolee.cz/'
     formatsSupportDetection:
       webp:
         enabled: true

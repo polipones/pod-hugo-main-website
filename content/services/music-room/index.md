@@ -49,4 +49,4 @@ Zájemce, kteří nebydlí na koleji, bohužel nemůžeme přijímat, protože h
 
 ## Provozní řád
 
-Přečti si [provozní řád hudebny](https://s3.pod.cvut.cz/common/provozni_rady/music_room/music_room_cz.pdf).
+Přečti si [provozní řád hudebny](https://s3.podolee.cz/common/provozni_rady/music_room/music_room_cz.pdf).

@@ -22,7 +22,7 @@ Pro získání přístupu je nutné splnit následující podmínky:
 - být členem klubu;
 - mít aktivní základní členství;
 - mít kartu přiřazenou v Hydře;
-- vyplnit [prohlášení člena kolárny](https://s3.pod.cvut.cz/common/legislativa/prohlaseni_kolarna.pdf);
+- vyplnit [prohlášení člena kolárny](https://s3.podolee.cz/common/legislativa/prohlaseni_kolarna.pdf);
 - kontaktovat správce na adrese <kolarna@pod.cvut.cz>.
 
 ## Půjčování nářadí
@@ -33,4 +33,4 @@ Pro získání přístupu je nutné splnit následující podmínky:
 
 ## Provozní řád
 
-Přečti si [provozní řád kolárny](https://s3.pod.cvut.cz/common/provozni_rady/kolarna/provozni_rad_kolarna_cz.pdf).
+Přečti si [provozní řád kolárny](https://s3.podolee.cz/common/provozni_rady/kolarna/provozni_rad_kolarna_cz.pdf).

@@ -23,4 +23,4 @@ date: 2022-08-18T20:30:00+02:00
 layout: post
 ---
 
-Dne 18. 8. 2022 byl aktualizován provozní řád Pod-O-Gym. [Aktuální provozní řád Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf) si prostudujte před další návštěvou. Správce a jeho tým také během předchozího víkendu vyčistili tatami tlakovou myčkou.
+Dne 18. 8. 2022 byl aktualizován provozní řád Pod-O-Gym. [Aktuální provozní řád Pod-O-Gym](https://s3.podolee.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf) si prostudujte před další návštěvou. Správce a jeho tým také během předchozího víkendu vyčistili tatami tlakovou myčkou.

@@ -30,4 +30,4 @@ Rezervaci je nutné **vytvořit s předstihem, ideálně týden předem**, abych
 
 ## Provozní řád
 
-Přečti si [provozní řád pípy](https://s3.pod.cvut.cz/common/provozni_rady/beer_tap/beer_tap_cz.pdf).
+Přečti si [provozní řád pípy](https://s3.podolee.cz/common/provozni_rady/beer_tap/beer_tap_cz.pdf).

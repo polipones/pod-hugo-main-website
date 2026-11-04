@@ -27,7 +27,7 @@ V našem informačním systému [Hydra](https://hydra.pod.cvut.cz/) zjistíš na
 
 Pokud máš problém s platbou, napiš na <platby@pod.cvut.cz>.
 
-Hodit se ti může také [průvodce prváka](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-cz.pdf).
+Hodit se ti může také [průvodce prváka](https://s3.podolee.cz/assets/web/images/freshmans-guide/guide-cz.pdf).
 
 Ať už potřebuješ s něčím poradit, chceš mít přehled o akcích na kolejích, nebo se jen seznámit s dalšími lidmi, přidej se do naší facebookové skupiny [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 

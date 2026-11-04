@@ -15,7 +15,7 @@ tocopen: true
 
 ## Operating rules
 
-Read the [Pod-O-Gym operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf).
+Read the [Pod-O-Gym operating rules](https://s3.podolee.cz/common/provozni_rady/pod_o_gym/pod_o_gym_operating_rules.pdf).
 
 ## How to register for Pod-O-Gym
 
@@ -121,8 +121,8 @@ Reserve the sauna through the [reservation system](https://hydra.pod.cvut.cz/res
 
 Read:
 
-- [sauna operating rules](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf)
-- [sauna price (Czech only)](https://s3.pod.cvut.cz/common/legislativa/ekonomicke_cinnosti/ec_sauna.pdf)
+- [sauna operating rules](https://s3.podolee.cz/common/provozni_rady/pod_o_gym/sauna_operating_rules.pdf)
+- [sauna price (Czech only)](https://s3.podolee.cz/common/legislativa/ekonomicke_cinnosti/ec_sauna.pdf)
 
 #### Starting and using the sauna
 

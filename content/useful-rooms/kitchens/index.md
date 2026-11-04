@@ -14,4 +14,4 @@ Pokud si potřebuješ na bloku C, D, E nebo F uvařit, na každém patře najde�
 
 ## Provozní řád kuchyněk na koleji Podolí
 
-Přečti si [provozní řád kuchyněk](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek.pdf).
+Přečti si [provozní řád kuchyněk](https://s3.podolee.cz/common/provozni_rady/suz/provozni_rad_kuchynek.pdf).

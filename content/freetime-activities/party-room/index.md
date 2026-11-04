@@ -24,4 +24,4 @@ Rezervaci je nutno **provést s předstihem (ideálně týden předem)**, abych
 
 ## Provozní řád
 
-Přečti si [provozní řád sudovny](https://s3.pod.cvut.cz/common/provozni_rady/party_room/party_room_cz.pdf).
+Přečti si [provozní řád sudovny](https://s3.podolee.cz/common/provozni_rady/party_room/party_room_cz.pdf).

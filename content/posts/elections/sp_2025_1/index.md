@@ -29,7 +29,7 @@ vzhledem k tomu, že se na pozici Správce projektů v doplňujících volbách 
 
 Správcem projektů se svým vlastním hlasem stává **Pavel Pavlů**.
 
-Kandidátka je k dispozici zde: [Kandidátka Pavel Pavlů](https://s3.pod.cvut.cz/common/volby/2025/projekty/Kandidatka_Pavel_Pavlu.pdf).
+Kandidátka je k dispozici zde: [Kandidátka Pavel Pavlů](https://s3.podolee.cz/common/volby/2025/projekty/Kandidatka_Pavel_Pavlu.pdf).
 
 V případě, že máte podezření, že volby neproběhly v pořádku, můžete do 3 dnů (tj. do 8. 8. 2025 do 23:59) podat žádost o přezkoumání výsledků voleb na adresu <predstavenstvo@lists.pod.cvut.cz>. V žádosti musí být důvod a představenstvo ji musí vyřídit do 30 dní.
 
@@ -39,7 +39,7 @@ Jménem volební komise (Luboš Jánský, Petr Šohaj, Jakub Pohl, Stanislav Šk
 
 Ahoj Podolačky a Podoláci,
 
-na základě toho, že volební komise neobdržela ve stanoveném termínu (16. 7. 2025 20:00) žádnou kandidátku do doplňujících voleb na Správce projektů, prodlužuji tímto lhůtu na její podání (viz [IP15/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)).
+na základě toho, že volební komise neobdržela ve stanoveném termínu (16. 7. 2025 20:00) žádnou kandidátku do doplňujících voleb na Správce projektů, prodlužuji tímto lhůtu na její podání (viz [IP15/2024](https://s3.podolee.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf)).
 
 Upravený časový harmonogram voleb:
 
@@ -57,9 +57,9 @@ Ahoj Podolačky a Podoláci,
 
 na nedělní schůzi Představenstva klubu Pod-O-Lee (29. 6. 2025) vyhlásil Předseda doplňující volby na Správce projektů.
 
-Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách klubu](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf).
+Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://s3.podolee.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách klubu](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf).
 
-Volby se řídí [IP15/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
+Volby se řídí [IP15/2024](https://s3.podolee.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
 
 Kandidátka musí obsahovat:
 

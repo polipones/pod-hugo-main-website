@@ -25,4 +25,4 @@ layout: post
 
 Bylo zveřejněno nové nařízení předsedy (NP 2/2021), které platí od 19. 10. 2021. Rozvolňuje omezení přístupu do místností klubu.
 
-Odkaz na NP: [NP2/2021 Nařízení předsedy o opatření ke snížení rizika nákazy koronavirem](https://wiki.pod.cvut.cz/_media/legislativa/narizeni_predsedy_np_2-2021.pdf)
+Odkaz na NP: [NP2/2021 Nařízení předsedy o opatření ke snížení rizika nákazy koronavirem](https://s3.podolee.cz/common/legislativa/narizeni_predsedy/narizeni_predsedy_np_2-2021.pdf)

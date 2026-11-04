@@ -17,7 +17,7 @@ services:
   imgproxy:
     image: registry01.in.podolee.cz/cache/darthsim/imgproxy:v3.27
     environment:
-      IMGPROXY_ALLOWED_SOURCES: 'https://plik.pod.cvut.cz/,https://s3.pod.cvut.cz/'
+      IMGPROXY_ALLOWED_SOURCES: 'https://plik.pod.cvut.cz/,https://s3.podolee.cz/'
       IMGPROXY_DEVELOPMENT_ERRORS_MODE: true
       IMGPROXY_PREFERRED_FORMATS: 'avif, jxl, webp, jpeg, png'
       IMGPROXY_ENABLE_CLIENT_HINTS: true

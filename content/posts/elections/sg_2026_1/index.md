@@ -32,9 +32,9 @@ ve čtvrtek ve 20:00 uplynula dodatečná lhůta pro dodání opravených kandid
 
 V doplňujících volbách se na post Správce Pod-O-Gym přihlásili 3 kandidáti:
 
-- [Jan Hajný](https://s3.pod.cvut.cz/common/volby/2026/sg/Kandidatka_Jan_Hajny_GYM_v2.pdf)
-- [Lucie Kubíková](https://s3.pod.cvut.cz/common/volby/2026/sg/Kandidatka_Lucie_Kubikova_GYM.pdf)
-- [Vít Novotný](https://s3.pod.cvut.cz/common/volby/2026/sg/Kandidatka_Vit_Novotny_GYM.pdf)
+- [Jan Hajný](https://s3.podolee.cz/common/volby/2026/sg/Kandidatka_Jan_Hajny_GYM_v2.pdf)
+- [Lucie Kubíková](https://s3.podolee.cz/common/volby/2026/sg/Kandidatka_Lucie_Kubikova_GYM.pdf)
+- [Vít Novotný](https://s3.podolee.cz/common/volby/2026/sg/Kandidatka_Vit_Novotny_GYM.pdf)
 
 Kandidátky jednotlivých kandidátů naleznete v příloze nebo na odkazech výše.
 
@@ -73,9 +73,9 @@ Ahoj Podolačky a Podoláci,
 
 v doplňujících volbách se na post Správce Pod-O-Gym přihlásili 3 kandidáti:
 
-- [Jan Hajný](https://s3.pod.cvut.cz/common/volby/2026/sg/Kandidatka_Jan_Hajny_GYM.pdf)
-- [Lucie Kubíková](https://s3.pod.cvut.cz/common/volby/2026/sg/Kandidatka_Lucie_Kubikova_GYM.pdf)
-- [Vít Novotný](https://s3.pod.cvut.cz/common/volby/2026/sg/Kandidatka_Vit_Novotny_GYM.pdf)
+- [Jan Hajný](https://s3.podolee.cz/common/volby/2026/sg/Kandidatka_Jan_Hajny_GYM.pdf)
+- [Lucie Kubíková](https://s3.podolee.cz/common/volby/2026/sg/Kandidatka_Lucie_Kubikova_GYM.pdf)
+- [Vít Novotný](https://s3.podolee.cz/common/volby/2026/sg/Kandidatka_Vit_Novotny_GYM.pdf)
 
 Kandidátky jednotlivých kandidátů naleznete na odkazech výše.
 
@@ -95,9 +95,9 @@ Ahoj Podolačky a Podoláci,
 
 na pondělní schůzi Představenstva klubu Pod-O-Lee (26. 1. 2026) vyhlásil Předseda doplňující volby na Správce Pod-O-Gym.
 
-Práva a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf) a ve [Stanovách klubu](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf).
+Práva a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2025](https://s3.podolee.cz/common/legislativa/ip/IP-5-2025.pdf) a ve [Stanovách klubu](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf).
 
-Volby se řídí [IP7/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
+Volby se řídí [IP7/2025](https://s3.podolee.cz/common/legislativa/ip/IP-7-2025.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
 
 Kandidátka musí obsahovat:
 

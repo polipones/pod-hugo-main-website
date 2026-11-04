@@ -38,7 +38,7 @@ TL;DR nic nerozbij a chovej se tam jako člověk.
 
 ### Provozní řád
 
-Přečti si [provozní řád herní místnosti](https://s3.pod.cvut.cz/common/provozni_rady/ping_pong_table_football/ping_pong_table_football_cz.pdf).
+Přečti si [provozní řád herní místnosti](https://s3.podolee.cz/common/provozni_rady/ping_pong_table_football/ping_pong_table_football_cz.pdf).
 
 ## Kulečník
 
@@ -54,4 +54,4 @@ TL;DR nic nerozbij a chovej se tam jako člověk.
 
 ### Provozní řád
 
-Přečti si [provozní řád kulečníkové místnosti](https://s3.pod.cvut.cz/common/provozni_rady/billiard/billiard_cz.pdf).
+Přečti si [provozní řád kulečníkové místnosti](https://s3.podolee.cz/common/provozni_rady/billiard/billiard_cz.pdf).

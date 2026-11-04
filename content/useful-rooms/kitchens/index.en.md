@@ -13,4 +13,4 @@ If you live in block C, D, E, or F, you can use the kitchen on each floor. Each 
 
 ## Operating rules for the kitchens at Podolí Dormitory
 
-Read the [kitchen operating rules](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_kuchynek_en.pdf).
+Read the [kitchen operating rules](https://s3.podolee.cz/common/provozni_rady/suz/provozni_rad_kuchynek_en.pdf).

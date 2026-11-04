@@ -27,7 +27,7 @@ layout: post
 
 V sobotu 11. 2. 2023 ve 20:00 uplynula lhůta pro podávání kandidátek na Správce bloku F. Bohužel však volební komise neobdržela žádnou platnou kandidátku splňující všechny požadavky.
 
-Proto komise dle [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf), čl. IV bod 3), prodlužuje lhůtu na podávání kandidátek do **čtvrtka 16. 2. 2023 do 20:00**. To má za následek posunutí zbylých termínů o stejný počet dní - nový časový harmonogram je tedy následující:​​​
+Proto komise dle [IP2/2020](https://s3.podolee.cz/common/legislativa/ip/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf), čl. IV bod 3), prodlužuje lhůtu na podávání kandidátek do **čtvrtka 16. 2. 2023 do 20:00**. To má za následek posunutí zbylých termínů o stejný počet dní - nový časový harmonogram je tedy následující:​​​
 
 - termín pro podávání kandidátek: do **16. 2. 2023 20:00**
 - termín pro předání podepsaných kandidátek předsedovi volební komise: do **19. 2. 2023 20:00**
@@ -43,9 +43,9 @@ na středeční schůzi představenstva klubu Pod-O-Lee dne 25. 1. 2023 vyhlási
 
 ## Volby na předsedu klubu Pod-O-Lee
 
-Pravomoci a povinnosti Předsedy jsou upraveny v [IP1/2018](https://wiki.pod.cvut.cz/_media/legislativa/ip_pozice.pdf) a ve [Stanovách klubu](https://pod.cvut.cz/dokumenty/stanovy/stanovy_2017.pdf).
+Pravomoci a povinnosti Předsedy jsou upraveny v [IP1/2018](https://s3.podolee.cz/common/legislativa/ip/ip_1_2018_pozice.pdf) a ve [Stanovách klubu](https://pod.cvut.cz/dokumenty/stanovy/stanovy_2017.pdf).
 
-Volby se řídí [IP2/2023](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2023.pdf). Předsedu bude volit představenstvo klubu Pod-O-Lee. Kandidovat může **každý, kdo je členem Studentské unie ČVUT a nebyl v posledních 365 dnech před konáním voleb potrestán** za porušení předpisů. Kandidátka musí obsahovat:
+Volby se řídí [IP2/2023](https://s3.podolee.cz/common/legislativa/ip/ip_2-2023.pdf). Předsedu bude volit představenstvo klubu Pod-O-Lee. Kandidovat může **každý, kdo je členem Studentské unie ČVUT a nebyl v posledních 365 dnech před konáním voleb potrestán** za porušení předpisů. Kandidátka musí obsahovat:
 
 - jméno a příjmení kandidáta
 - kontaktní e-mail
@@ -65,11 +65,11 @@ Těšíme se na vaše kandidátky.
 
 ## Volby na správce bloku F
 
-Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP1/2018](https://wiki.pod.cvut.cz/_media/legislativa/ip_pozice.pdf) a ve [Stanovách klubu](https://pod.cvut.cz/dokumenty/stanovy/stanovy_2017.pdf).
+Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP1/2018](https://s3.podolee.cz/common/legislativa/ip/ip_1_2018_pozice.pdf) a ve [Stanovách klubu](https://pod.cvut.cz/dokumenty/stanovy/stanovy_2017.pdf).
 
 Ve volbách na správce bloku F **volí pouze ubytovaní na bloku F**.
 
-Volby se řídí [IP2/2020](https://wiki.pod.cvut.cz/_media/legislativa/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může pouze **člen klubu Pod-O-Lee ubytovaný na bloku F, který nebyl v posledních 365 dnech potrestán** za porušení předpisů. Kandidátka musí obsahovat:
+Volby se řídí [IP2/2020](https://s3.podolee.cz/common/legislativa/ip/ip_2-2020_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může pouze **člen klubu Pod-O-Lee ubytovaný na bloku F, který nebyl v posledních 365 dnech potrestán** za porušení předpisů. Kandidátka musí obsahovat:
 
 - příjmení a jméno kandidáta,
 - kontaktní e-mail,

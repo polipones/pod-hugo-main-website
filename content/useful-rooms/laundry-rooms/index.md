@@ -27,4 +27,4 @@ Prádelny najdeš v suterénu bloků A, B, C a F, v prvním patře bloku E a ve 
 
 ## Provozní řád
 
-Přečti si [provozní řád prádelen a sušáren](https://s3.pod.cvut.cz/common/provozni_rady/suz/provozni_rad_pradelny_a_susarny_na_koleji_podoli.pdf).
+Přečti si [provozní řád prádelen a sušáren](https://s3.podolee.cz/common/provozni_rady/suz/provozni_rad_pradelny_a_susarny_na_koleji_podoli.pdf).

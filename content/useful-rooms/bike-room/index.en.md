@@ -22,7 +22,7 @@ To be able to access the Bike room you must:
 - be a member of the Pod-O-Lee club;
 - have active basic membership;
 - have a card assigned in Hydra;
-- complete the [bike-room member declaration](https://s3.pod.cvut.cz/common/legislativa/prohlaseni_kolarna.pdf);
+- complete the [bike-room member declaration](https://s3.podolee.cz/common/legislativa/prohlaseni_kolarna.pdf);
 - email the bike-room manager at <kolarna@pod.cvut.cz>.
 
 ## Tool rental
@@ -33,4 +33,4 @@ Bike-room members can borrow club tools for basic maintenance and more extensive
 
 ## Operating rules
 
-Read the [bike-room operating rules](https://s3.pod.cvut.cz/common/provozni_rady/kolarna/operating_rules_bike_room_en.pdf). If the translations differ, the Czech version prevails.
+Read the [bike-room operating rules](https://s3.podolee.cz/common/provozni_rady/kolarna/operating_rules_bike_room_en.pdf). If the translations differ, the Czech version prevails.

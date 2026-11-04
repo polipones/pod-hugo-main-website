@@ -17,7 +17,7 @@ tocopen: true
 
 ## Provozní řád
 
-Přečti si [provozní řád Pod-O-Gym](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf).
+Přečti si [provozní řád Pod-O-Gym](https://s3.podolee.cz/common/provozni_rady/pod_o_gym/pod_o_gym_provozni_rad.pdf).
 
 ## Jak se registrovat do Pod-O-Gym
 
@@ -125,8 +125,8 @@ Rezervace sauny se provádí přes rezervační systém na adrese: <https://hydr
 
 Přečti si:
 
-- [provozní řád sauny](https://s3.pod.cvut.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf)
-- [ceník sauny](https://s3.pod.cvut.cz/common/legislativa/ekonomicke_cinnosti/ec_sauna.pdf)
+- [provozní řád sauny](https://s3.podolee.cz/common/provozni_rady/pod_o_gym/sauna_provozni_rad.pdf)
+- [ceník sauny](https://s3.podolee.cz/common/legislativa/ekonomicke_cinnosti/ec_sauna.pdf)
 
 #### Zapnutí a používání sauny
 

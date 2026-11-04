@@ -29,7 +29,7 @@ dne 13. 2. 2026 ve 20:00 uplynula lhůta pro podávání kandidátek v doplňuj�
 
 Správcem bloku A se svým vlastním hlasem stává **Pavel Sillinger** (ID 7092).
 
-Kandidátku naleznete [zde](https://s3.pod.cvut.cz/common/volby/2026/blok_a/Pavel_Sillinger_Kandidatka_SpravceA.pdf).
+Kandidátku naleznete [zde](https://s3.podolee.cz/common/volby/2026/blok_a/Pavel_Sillinger_Kandidatka_SpravceA.pdf).
 
 V případě, že máte podezření, že volby neproběhly v pořádku, můžete do 3 dnů (tj. do 17. 2. 2026 do 23:59) podat žádost o přezkoumání výsledků voleb na adresu <predstavenstvo@pod.cvut.cz>. V žádosti musí být uveden důvod a Představenstvo ji musí vyřídit do 30 dní.
 
@@ -39,9 +39,9 @@ Ahoj Podolačky a Podoláci,
 
 na pondělní schůzi Představenstva klubu Pod-O-Lee (26. 1. 2026) vyhlásil Předseda doplňující volby na Správce bloku A.
 
-Práva a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-5-2025.pdf) a ve [Stanovách klubu](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf).
+Práva a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2025](https://s3.podolee.cz/common/legislativa/ip/IP-5-2025.pdf) a ve [Stanovách klubu](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2025.pdf).
 
-Volby se řídí [IP7/2025](https://s3.pod.cvut.cz/common/legislativa/ip/IP-7-2025.pdf). Kandidovat může každý člen klubu Pod-O-Lee ubytovaný na bloku A, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
+Volby se řídí [IP7/2025](https://s3.podolee.cz/common/legislativa/ip/IP-7-2025.pdf). Kandidovat může každý člen klubu Pod-O-Lee ubytovaný na bloku A, který nebyl v posledních 365 dnech potrestán za porušení předpisů.
 
 Kandidátka musí obsahovat:
 

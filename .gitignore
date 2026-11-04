@@ -2,5 +2,6 @@ public
 resources/_gen
 data/contacts.json
 .vscode
+.idea
 .hugo_build.lock
 .DS_Store

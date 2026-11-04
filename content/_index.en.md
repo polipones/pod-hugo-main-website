@@ -31,7 +31,7 @@ In [Hydra](https://hydra.pod.cvut.cz/), you can check your paid memberships and 
 
 If you have a problem paying for club membership, email <platby@pod.cvut.cz>.
 
-You may also find the [freshman’s guide](https://s3.pod.cvut.cz/assets/web/images/freshmans-guide/guide-en.pdf) useful.
+You may also find the [freshman’s guide](https://s3.podolee.cz/assets/web/images/freshmans-guide/guide-en.pdf) useful.
 
 Whether you need advice, want to keep up with dormitory events, or would simply like to meet new people, join our Facebook group: [Pod-O-Lee Official](https://www.facebook.com/groups/klub.Podolee/).
 

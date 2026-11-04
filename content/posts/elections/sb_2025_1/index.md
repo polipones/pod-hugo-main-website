@@ -45,9 +45,9 @@ Ahoj Podolačky a Podoláci,
 
 na pondělní (14. 4. 2025) schůzi Představenstva klubu Pod-O-Lee vyhlásil Předseda volby na pozice Správce bloku A, B, C, D, E a F. Jedná se o řádné volby z důvodu blízkého konce (31. 5. 2025) mandátu současných správců. Mandát nově zvolených správců bude začínat od 1. 6. 2025.
 
-Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách](https://s3.pod.cvut.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf) klubu.
+Pravomoci a povinnosti jednotlivých členů představenstva jsou upraveny v [IP5/2024](https://s3.podolee.cz/common/legislativa/ip/ip_5-2024_-_specifikace_postu_v_predstavenstvu.pdf) a ve [Stanovách](https://s3.podolee.cz/common/legislativa/stanovy/stanovy_klubu_pod-o-lee_2024.pdf) klubu.
 
-Volby se řídí [IP15/2024](https://s3.pod.cvut.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidát také musí být ubytován na příslušném bloku.
+Volby se řídí [IP15/2024](https://s3.podolee.cz/common/legislativa/ip/ip_15-2024_-_volby_spravcu_bloku_a_spravcu_sluzeb.pdf). Kandidovat může každý člen klubu Pod-O-Lee, který nebyl v posledních 365 dnech potrestán za porušení předpisů. Kandidát také musí být ubytován na příslušném bloku.
 
 Kandidátka musí obsahovat:
 
