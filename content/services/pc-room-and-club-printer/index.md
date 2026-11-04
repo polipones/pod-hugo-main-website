@@ -10,21 +10,19 @@ weight: 5
 
 tocopen: true
 ---
+Počítačová učebna se nachází v suterénu bloku C. Od hlavního vchodu se vydej doleva, sejdi po schodech a projdi prvními dveřmi vlevo.
+
 E-mail pro registraci k tiskárně: <ucebna@pod.cvut.cz>
 
 Správci: [Kontakty]({{< ref "/contacts/index.md#pc-učebna" >}})
 
 ## Základní informace
 
-Počítačová učebna se nachází v suterénu bloku C. Od hlavního vchodu se vydej doleva, sejdi po schodech a projdi prvními dveřmi vlevo.
-
-Přístup do učebny má každý člen klubu Pod-O-Lee se zaplaceným základním členstvím a kartou přiřazenou v Hydře.
+Přístup do učebny je možný celý den a má ho každý člen klubu Pod-O-Lee se zaplaceným základním členstvím a kartou přiřazenou v Hydře (jakákoliv čipová karta – např. ISIC).
 
 Pokud se ti nedaří dostat do PC učebny, obrať se na televizora nebo přímo na správce učebny.
 
-V počítačové učebně najdeš také klubovou tiskárnu, knihobudku a tři bílé magnetické tabule.
-
-K zapůjčení jsou také dva dataprojektory. Stačí napsat správci e-mail.
+V počítačové učebně najdeš také klubovou tiskárnu, knihobudku a tři bílé magnetické tabule s fixami, řezací/lepící podložky, pákové a kotoučové řezačky papíru, sponkovačka, děrovačka a vazač na plastovou kroužkovou vazbu.
 
 Zadní místnost PC učebny si můžeš rezervovat ke skupinovému nebo samostatnému studiu. Postup najdeš níže.
 
@@ -39,27 +37,38 @@ Knihy si můžeš bez předchozí domluvy vypůjčit nebo ponechat. Stejně tak 
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
+## Řezací/Lepící položky
+**Jsou určeny jen na řezání a lepení!!**
+
+- **Černé podložky (2xA1)** jsou určené k řezání na nich! 
+
+- **Zelené podložky (4xA2)** jsou určené k lepení na nic!
+
+Pokud vám chybí nářadí nebo potřebujete v laboratoři vykonávat jinou činnost než řezání a lepení, napište na <lab@pod.cvut.cz>. Rádi s vámi domluví individuální rezervaci vybavení a prostoru v Pod-O-Labu.
+
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_05_technical_equipment.jpg" alt="PC room: Equipment" imgop="rt_fit">}}
+
 ## Tiskárna
 
-Abys mohl tiskárnu používat, musíš si nechat založit účet a v hotovosti nabít kredit. Registraci a dobití kreditu vyřizuje správce nebo jeho zástupce po předchozí domluvě na adrese <ucebna@pod.cvut.cz>.
-
-**Nabití kreditu je možné pouze pomocí platby v hotovosti v Kč.**
-
-Správce ti vytvoří účet ve webovém rozhraní tiskárny a po registraci sdělí přihlašovací údaje.
-
+### Základní informace
+Parametry papíru: gramáž 80 g/m², bělost 146 CIE, neprůsvitnost 92 %.
 Účet k tiskárně: <https://myq.pod.cvut.cz/cs/>.
 
 Pokud si s tiskárnou nevíš rady, přečti si [návod k jejímu použití](https://drive.google.com/file/d/1BYZU8NaCnvMhwZ52e_iN3Ea8fdjCfjN-/view?usp=sharing).
 
-### Důležitá upozornění
-
-Naskenovaný dokument se ti pošle na email.
-
-Tiskárna je ve výchozím nastavení barevná. Pokud chceš tisknout černobíle, změň nastavení před odesláním úlohy.
+Naskenovaný dokument se ti pošle na email. (viz návod)
 
 Platí **zákaz tisku fotografií.**
 
-**Ceny tisku:**
+**Tiskárna je ve výchozím nastavení barevná. Pokud chceš tisknout černobíle, změň nastavení před odesláním úlohy.**
+
+### Registrace k tiskárně
+
+1. Napiš správcům na email: <ucebna@pod.cvut.cz> s žádostí ohledně tisku na klubové tiskárně.
+
+2. Poté co ti správce vytvoří účet, tak za ním zajdi nabít si kredit v hotovosti v Kč.
+
+### Ceny tisku
 
 |        | **Černobílý** | **Barevný** |
 |--------|---------------|-------------|
@@ -68,7 +77,6 @@ Platí **zákaz tisku fotografií.**
 
 (Papír je zahrnut v ceně tisku.)
 
-Parametry papíru: gramáž 80 g/m², bělost 146 CIE, neprůsvitnost 92 %.
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
@@ -83,7 +91,7 @@ Parametry papíru: gramáž 80 g/m², bělost 146 CIE, neprůsvitnost 92 %.
     - zda si chceš půjčit klíč k zamknutí zadní místnosti.
 3. Jeden ze správců PC učebny tě následně kontaktuje a rezervaci potvrdí nebo zamítne.
 
-**Rezervaci je nutno provést s předstihem (ideálně týden předem), abychom měli čas na reakci a mohli vše připravit k předání.**
+**Rezervaci je nutno provést s předstihem (minimálně 48 hodin předem), abychom měli čas na reakci a mohli vše připravit k předání.**
 
 ## Provozní řád
 

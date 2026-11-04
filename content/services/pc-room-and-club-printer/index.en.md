@@ -8,21 +8,19 @@ weight: 5
 
 tocopen: true
 ---
+The computer room is located in the basement of Block C. From the main entrance, turn left, go down the stairs, and enter through the first door on your left.
+
 Email for printer registration: <ucebna@pod.cvut.cz>
 
 Managers: [Contacts]({{< ref "/contacts/index.en.md#pc-room" >}})
 
 ## Basic information
 
-The computer room is in the basement of block C. From the main entrance, turn left, go downstairs, and use the first door on the left.
-
-The computer room is available to every Pod-O-Lee member with paid basic membership and a card linked in Hydra.
+The computer room is accessible throughout the day to all Pod-O-Lee club members with an active basic membership and a card registered in Hydra (any contactless card, e.g. an ISIC card).
 
 If you cannot enter the room, ask a televizor or contact one of the computer-room administrators.
 
-The room also contains the club printer, a book exchange, and three magnetic whiteboards.
-
-Two projectors are available to borrow. Email the administrator to arrange a loan.
+The computer room also features a club printer, a book-sharing corner, three white magnetic boards with markers, cutting and gluing mats, lever and rotary paper cutters, a stapler, a hole punch, and a plastic comb binding machine.
 
 The back room can be reserved for group or individual study. Instructions are provided below.
 
@@ -38,27 +36,41 @@ You may borrow or keep a book without asking first. You can also leave your own 
 
 {{<figure src="images/services/pc-room-and-club-printer/pc_room_04_books.jpg" alt="PC room: Library" imgop="rt_fit">}}
 
+## Cutting and Gluing Equipment
+
+**These items are intended exclusively for cutting and gluing!**
+
+- **Black mats (2 × A1)** are intended for cutting.
+
+- **Green mats (4 × A2)** are intended for gluing.
+
+If you are missing any tools or need to use the lab for an activity other than cutting and gluing, please email us at <lab@pod.cvut.cz>. We will be happy to arrange an individual reservation of equipment and workspace at Pod-O-Lab.
+
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_05_technical_equipment.jpg" alt="PC room: Equipment" imgop="rt_fit">}}
+
 ## Printer
 
-To use the printer, you need an account and printing credit. Registration and cash credit top-ups are handled by the administrator or deputy after prior arrangement at <ucebna@pod.cvut.cz>.
+### General Information
+Paper details: weight 80 g/m², whiteness 146 CIE, opacity 92%.
 
-**Credit can only be charged by cash payment in CZK.**
+Printer account: <https://myq.pod.cvut.cz/cs/>.
 
-The administrator will create an account for you in the printer’s web interface.
+If you are unsure how to use the printer, please read the [printer instructions](https://drive.google.com/file/d/1DRo-V2dP76kt0kxeBo8ibf6Cenql4_xi/view?usp=sharing).
 
-Printer account management: <https://myq.pod.cvut.cz/en>.
+Scanned documents will be sent to your email address (see the user guide).
 
-If you need help, read the [printer instructions](https://drive.google.com/file/d/1DRo-V2dP76kt0kxeBo8ibf6Cenql4_xi/view?usp=sharing).
+**Printing photographs is strictly prohibited.**
 
-### Important reminder
+**The printer is set to colour printing by default. If you want to print in black and white, make sure to change the settings before submitting your print job.**
 
-Scanned document will sent to you by email.
+### Printer Registration
 
-The printer uses colour by default. Select black-and-white printing before submitting your job if needed.
+1. Email the administrators at <ucebna@pod.cvut.cz> to request access to the club printer.
 
-**Printing photographs is prohibited.**
+2. Once the administrator has created your account, visit them in person to top up your printing credit in cash (CZK).
 
-**Printing prices in crowns:**
+
+### Printing prices in crowns:
 
 |        | **Black and white** | **Colour**  |
 |--------|---------------------|-------------|
@@ -82,7 +94,7 @@ Paper details: weight 80 g/m², whiteness 146 CIE, opacity 92%.
     - whether you would like to borrow the key to lock the back room.
 3. An administrator will contact you to approve or decline the reservation.
 
-**Make reservations in advance, ideally one week beforehand, so that we have time to respond and prepare everything for handover.**
+**Make reservations in advance, at least 48 hours beforehand, so that we have time to respond and prepare everything for handover.**
 
 ## Operation rules
 
