@@ -78,7 +78,7 @@ Platí **zákaz tisku fotografií.**
 (Papír je zahrnut v ceně tisku.)
 
 
-{{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer">}}
+{{<figure src="images/services/pc-room-and-club-printer/pc_room_03_printer.jpg" alt="PC room: Printer" imgop="rt_fit">}}
 
 ## Rezervace zadní místnosti
 
