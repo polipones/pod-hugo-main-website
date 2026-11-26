@@ -7,6 +7,8 @@ aliases:
   - /sluzby/sit
 slug: sit
 weight: 2
+
+tocopen: true
 ---
 
 ## Jak se připojit k internetu
