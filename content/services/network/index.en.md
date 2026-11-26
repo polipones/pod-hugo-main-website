@@ -5,6 +5,8 @@ title: Network
 url: benefits/network
 slug: network
 weight: 2
+
+tocopen: true
 ---
 
 ## How to connect to the internet

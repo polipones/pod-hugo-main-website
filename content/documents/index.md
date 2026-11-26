@@ -163,6 +163,7 @@ Interní předpisy jsou upřesňující dokumenty, které od okamžiku schválen
 Na schůzi představenstva dne 19. 11. 2019 předseda oznámil, že klub bude sestavovat rozpočet na celý rok, ne pouze na pololetí. První celoroční rozpočet, určený na rok 2020, představenstvo schválilo 9. 12. 2019. Viz [zápis z 19. 11. 2019](https://s3.podolee.cz/common/legislativa/zapisy/zapis_20191119.pdf).
 
 - Rozpočet 2026
+  - Schválená verze z 24. 11. 2026 [Rozpočet 2026](https://s3.podolee.cz/common/legislativa/rozpocty/rozpocet_2026_24_11_2026.pdf)
   - Schválená verze z 26. 1. 2026: [Rozpočet 2026](https://s3.podolee.cz/common/legislativa/rozpocty/rozpocet_2026_26_1_2026.pdf)
   - Schválená verze ze 14. 12. 2025: [Rozpočet 2026](https://s3.podolee.cz/common/legislativa/rozpocty/rozpocet_2026.pdf)
   - Online verze: [Google Sheets](https://docs.google.com/spreadsheets/d/1CqKZAx7aF7j_PjbNswJMXzE3EzuzVHgyYT4USDGKfGw/edit?usp=sharing)
@@ -274,6 +275,8 @@ Z každé konané schůze Představenstva klubu Pod-O-Lee je v duchu Stanov klub
 
 ### 2026
 
+- [Zápis 3.11.2026](https://s3.podolee.cz/common/legislativa/zapisy/20261103_zapis.pdf)
+- [Zápis 4.10.2026](https://s3.podolee.cz/common/legislativa/zapisy/20261004_zapis.pdf)
 - [Zápis 6.9.2026](https://s3.podolee.cz/common/legislativa/zapisy/20260906_zapis.pdf)
 - [Zápis 7.6.2026](https://s3.podolee.cz/common/legislativa/zapisy/20260607_zapis.pdf)
 - [Zápis 25.5.2026](https://s3.podolee.cz/common/legislativa/zapisy/20260525_zapis.pdf)

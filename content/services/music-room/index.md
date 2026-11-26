@@ -7,6 +7,8 @@ aliases:
     - /sluzby/hudebna
 slug: hudebna
 weight: 4
+
+tocopen: true
 ---
 
 Pro muzikanty a hudební skupiny máme vybavenou a odhlučněnou místnost ke zkoušení i hudební produkci. Přijď si zahrát, zazpívat nebo odpočinout od školy či práce.

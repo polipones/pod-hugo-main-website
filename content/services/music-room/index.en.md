@@ -5,6 +5,8 @@ title: Music Room
 url: benefits/music-room
 slug: music-room
 weight: 4
+
+tocopen: true
 ---
 
 A fully equipped, soundproofed music room is available to musicians and bands for rehearsals and music production. Come and play, sing, or simply take a break from school or work.
